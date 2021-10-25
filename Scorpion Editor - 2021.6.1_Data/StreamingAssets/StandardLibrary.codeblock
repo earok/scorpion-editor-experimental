@@ -1170,12 +1170,26 @@
       "PrivateSet": false
     },
     {
+      "Name": "IsNTSC",
+      "IsConstant": false,
+      "Value": "0",
+      "Notes": "Is this game running on an NTSC machine?",
+      "PrivateSet": false
+    },	
+    {
       "Name": "PlatformSnap",
       "IsConstant": false,
       "Value": "8",
       "Notes": "High values might mean there's a noticable 'jump' when landing on a platform, low values might mean the player falls through it.",
       "PrivateSet": false
-    }
+    },
+    {
+      "Name": "EventsToCheck",
+      "IsConstant": false,
+      "Value": "1",
+      "Notes": "How many events to check per frame. High = slower game but instant event response. Low = faster game but slower event response.",
+      "PrivateSet": false
+    }	
   ],
   "Commands": [
     {
