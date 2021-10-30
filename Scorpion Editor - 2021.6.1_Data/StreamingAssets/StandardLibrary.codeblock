@@ -1008,6 +1008,20 @@
       "Notes": "GET or SET the number of frames to skip each frame. Higher values = lower frame rate.",
       "PrivateSet": false
     },
+	 {
+      "Name": "Scroll_X",
+      "IsConstant": false,
+      "Value": "0",
+      "Notes": "For setting camera scrolling speed. Do not set or use in conditionals",
+      "PrivateSet": true
+    },
+    {
+      "Name": "Scroll_Y",
+      "IsConstant": false,
+      "Value": "0",
+      "Notes": "For setting camera scrolling speed. Do not set or use in conditionals",
+      "PrivateSet": true
+    },	
     {
       "Name": "Camera_BoxLeft",
       "IsConstant": false,
@@ -1189,7 +1203,7 @@
       "Value": "1",
       "Notes": "How many events to check per frame. High = slower game but instant event response. Low = faster game but slower event response.",
       "PrivateSet": false
-    }	
+    },
   ],
   "Commands": [
     {
