@@ -1,6 +1,7 @@
 {
   "DivertPlayerProjectileCollision": null,
   "IsPlayerProjectile": false,
+  "ShootDirType": "player_in_front",
   "ClassType": "DefaultClass",
   "DefaultLookDir": "left",
   "Recycle": "Default",
@@ -118,7 +119,7 @@
   "CollType_Up": "none",
   "CollType_Down": "none",
   "Flags": 0,
-  "AttackProjectile": null,
+  "AttackProjectile": "shot1",
   "AutoFire": false,
   "AttackProjectileAmmoVariable": null,
   "AttackSound": null,
@@ -135,5 +136,13 @@
   "DivertOutOfScreenDown": null,
   "DivertTimer": "spinner_handler",
   "DivertTimerFrames": 10,
+  "Vars": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
   "TileID": 2
 }
