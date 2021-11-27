@@ -860,11 +860,11 @@
       "PrivateSet": false,
 	  "VariableSetMap": 4
     },
-	{
-      "Name": "YRes",
+    {
+      "Name": "Wait",
       "IsConstant": false,
-      "Value": "224",
-      "Notes": "GET or SET the Y Resolution of the main game area. 224 is max",
+      "Value": "0",
+      "Notes": "SET to make Scorpion pause for VALUE number of frames",
       "PrivateSet": false
     },
     {
@@ -926,13 +926,6 @@
       "Notes": "GET or SET the maximum Y position of the camera. Defaults to level height",
       "PrivateSet": false,
 	  "VariableSetMap": 7
-    },
-    {
-      "Name": "Wait",
-      "IsConstant": false,
-      "Value": "0",
-      "Notes": "SET to make Scorpion pause for VALUE number of frames",
-      "PrivateSet": false
     },
     {
       "Name": "Dice",
@@ -1334,6 +1327,27 @@
       "Notes": "This value is subtracted 50 times a second regardless of processor speed etc",
       "PrivateSet": false
     },
+	{
+      "Name": "YRes",
+      "IsConstant": false,
+      "Value": "224",
+      "Notes": "GET or SET the Y Resolution of the main game area. 224 is max",
+      "PrivateSet": false
+    },
+	{
+      "Name": "XWidthAdjust",
+      "IsConstant": false,
+      "Value": "-8",
+      "Notes": "Adjust the width of the screen. Use at your own risk.",
+      "PrivateSet": false
+    },
+	{
+      "Name": "XCenterAdjust",
+      "IsConstant": false,
+      "Value": "4",
+      "Notes": "Adjust the center of the screen. Use at your own risk.",
+      "PrivateSet": false
+    },	
   ],
   "Commands": [
     {
