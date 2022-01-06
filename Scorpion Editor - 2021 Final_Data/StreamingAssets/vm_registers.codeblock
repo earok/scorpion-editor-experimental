@@ -718,13 +718,6 @@
       "PrivateSet": false
     },
     {
-      "Name": "Spare",
-      "IsConstant": false,
-      "Value": "0",
-      "Notes": "Spare variable slot used for standard library functions",
-      "PrivateSet": false
-    },
-    {
       "Name": "Talkpad_TextDelay",
       "IsConstant": false,
       "Value": "1",
@@ -871,6 +864,20 @@
       "Value": "0",
       "Notes": "For swapping palettes on an animation. Do not get or set directly.",
       "PrivateSet": true
+    },	
+    {
+      "Name": "Stack_Pointer",
+      "IsConstant": false,
+      "Value": "1023",
+      "Notes": "Pointer to the stack position. Use with extreme care.",
+      "PrivateSet": false
+    },
+    {
+      "Name": "Stack_Value",
+      "IsConstant": false,
+      "Value": "0",
+      "Notes": "Value on the stack position. Use with extreme care.",
+      "PrivateSet": false
     },	
     {
       "Name": "SoundVol",
