@@ -624,20 +624,6 @@
       "PrivateSet": false
     },
     {
-      "Name": "Sound",
-      "IsConstant": false,
-      "Value": "0",
-      "Notes": "SET to trigger a sound to play",
-      "PrivateSet": false
-    },
-    {
-      "Name": "Anim",
-      "IsConstant": false,
-      "Value": "0",
-      "Notes": "GET or SET the currently loaded ANIM5 animation",
-      "PrivateSet": false
-    },
-    {
       "Name": "Talkpad_TextDelay",
       "IsConstant": false,
       "Value": "1",
@@ -647,7 +633,7 @@
     {
       "Name": "Panel",
       "IsConstant": false,
-      "Value": "0",
+      "Value": "-1",
       "Notes": "GET or SET the currently loaded full screen panel",
       "PrivateSet": false
     },
@@ -680,13 +666,6 @@
       "PrivateSet": false
     },
     {
-      "Name": "Block_Spawn",
-      "IsConstant": false,
-      "Value": "0",
-      "Notes": "SPAWN the VALUE actor underneath Block_X and Block_Y",
-      "PrivateSet": false
-    },
-    {
       "Name": "Block_X",
       "IsConstant": false,
       "Value": "0",
@@ -698,20 +677,6 @@
       "IsConstant": false,
       "Value": "0",
       "Notes": "GET or SET the block pointer on the Y tile coordinate",
-      "PrivateSet": false
-    },
-    {
-      "Name": "Yield",
-      "IsConstant": false,
-      "Value": "0",
-      "Notes": "SET to force codeblock execution to pause and continue after VALUE frames",
-      "PrivateSet": false
-    },
-    {
-      "Name": "Yield_On_Level",
-      "IsConstant": false,
-      "Value": "0",
-      "Notes": "SET to force codeblock execution to pause and continue after VALUE frames",
       "PrivateSet": false
     },
     {
@@ -743,38 +708,10 @@
       "PrivateSet": false
     },
     {
-      "Name": "Scroll_X",
-      "IsConstant": false,
-      "Value": "0",
-      "Notes": "For setting camera scrolling speed. Do not set or use in conditionals",
-      "PrivateSet": true
-    },
-    {
-      "Name": "Scroll_Y",
-      "IsConstant": false,
-      "Value": "0",
-      "Notes": "For setting camera scrolling speed. Do not set or use in conditionals",
-      "PrivateSet": true
-    },
-    {
       "Name": "MusicVol",
       "IsConstant": false,
       "Value": "64",
       "Notes": "For setting music volume (0-64)",
-      "PrivateSet": false
-    },
-    {
-      "Name": "Stack_Pointer",
-      "IsConstant": false,
-      "Value": "1023",
-      "Notes": "Pointer to the stack position. Use with extreme care.",
-      "PrivateSet": false
-    },
-    {
-      "Name": "Stack_Value",
-      "IsConstant": false,
-      "Value": "0",
-      "Notes": "Value on the stack position. Use with extreme care.",
       "PrivateSet": false
     },
     {
