@@ -571,29 +571,29 @@
       "Name": "Camera_XMin",
       "IsConstant": false,
       "Value": "0",
-      "Notes": "GET or SET the minimum X position of the camera. Defaults to 0",
-      "PrivateSet": false
+      "Notes": "GET the minimum X position of the camera. Defaults to 0",
+      "PrivateSet": true
     },
     {
       "Name": "Camera_YMin",
       "IsConstant": false,
       "Value": "0",
-      "Notes": "GET or SET the minimum Y position of the camera. Defaults to 0",
-      "PrivateSet": false
+      "Notes": "GET the minimum Y position of the camera. Defaults to 0",
+      "PrivateSet": true
     },
     {
       "Name": "Camera_XMax",
       "IsConstant": false,
       "Value": "0",
-      "Notes": "GET or SET the maximum X position of the camera. Defaults to level width",
-      "PrivateSet": false
+      "Notes": "GET the maximum X position of the camera. Defaults to level width",
+      "PrivateSet": true
     },
     {
       "Name": "Camera_YMax",
       "IsConstant": false,
       "Value": "0",
-      "Notes": "GET or SET the maximum Y position of the camera. Defaults to level height",
-      "PrivateSet": false
+      "Notes": "GET the maximum Y position of the camera. Defaults to level height",
+      "PrivateSet": true
     },
     {
       "Name": "Dice",
@@ -973,6 +973,13 @@
       "Notes": "The pixel distance between the main display and the panels",
       "PrivateSet": false
     },
+    {
+      "Name": "Actor_Count",
+      "IsConstant": false,
+      "Value": "0",
+      "Notes": "The number of active actors",
+      "PrivateSet": false
+    },	
     {
       "Name": "MapWidth",
       "IsConstant": false,
