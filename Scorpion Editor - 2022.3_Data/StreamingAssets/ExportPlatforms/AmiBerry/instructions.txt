@@ -1,6 +1,8 @@
 1. Copy scorpion_dev.lha to your Amiberry device.
 2. Copy the following lines into whdboot\game-data\whdload_db.xml after the whdbooter element is opened (should be line 2). Adjust if necessary.
 
+(Use FAST_COPPER=FALSE if glitchy, but this may introduce extreme slowdown on parallax heavy levels)
+
 
 	<game filename="scorpion_dev">
 		<name>Scorpion Dev</name>
@@ -17,17 +19,8 @@
 		PORT0=CD32
 		PORT1=CD32
 		FAST_COPPER=TRUE
-		BLITTER=IMMEDIATE	
 		CHIPSET=AGA	
-		JIT=FALSE	
 		CPU=68020
-		CPU_COMPATIBLE=TRUE	
-		CLOCK=MAX
-		SCREEN_AUTOHEIGHT=TRUE
-		SCREEN_CENTERH=SMART
-		SCREEN_CENTERV=SMART	
-		NTSC=FALSE
-		SPRITES=FULL
 		FAST_RAM=8		
 		</hardware>
 	</game>
