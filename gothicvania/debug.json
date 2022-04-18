@@ -4321,78 +4321,108 @@
       "CodeBlock": "bg_handler",
       "CodeBlockLine": 2,
       "MemoryOffset": 4630,
-      "Description": "Set 'camera_offset' to 'camera_x / actor_var1 & 0xff'"
+      "Description": "Set 'camera_x' to '0 - xres / 2 + player_x'"
     },
     {
       "CodeBlock": "bg_handler",
-      "CodeBlockLine": 3,
-      "MemoryOffset": 4660,
-      "Description": "Set 'actor_x' to 'camera_x + 255 - camera_offset'"
+      "CodeBlockLine": 2,
+      "MemoryOffset": 4664,
+      "Description": "Set 'camera_follow' to 'camera_follow & 32752'"
     },
     {
       "CodeBlock": "bg_handler",
       "CodeBlockLine": 3,
       "MemoryOffset": 4678,
+      "Description": "If 'camera_x' LessThan '0' ELSE GOTO 00004730"
+    },
+    {
+      "CodeBlock": "bg_handler",
+      "CodeBlockLine": 4,
+      "MemoryOffset": 4706,
+      "Description": "Set 'camera_x' to '0'"
+    },
+    {
+      "CodeBlock": "bg_handler",
+      "CodeBlockLine": 4,
+      "MemoryOffset": 4716,
+      "Description": "Set 'camera_follow' to 'camera_follow & 32752'"
+    },
+    {
+      "CodeBlock": "bg_handler",
+      "CodeBlockLine": 7,
+      "MemoryOffset": 4730,
+      "Description": "Set 'camera_offset' to 'camera_x / actor_var1 & 0xff'"
+    },
+    {
+      "CodeBlock": "bg_handler",
+      "CodeBlockLine": 8,
+      "MemoryOffset": 4760,
+      "Description": "Set 'actor_x' to 'camera_x + 255 - camera_offset'"
+    },
+    {
+      "CodeBlock": "bg_handler",
+      "CodeBlockLine": 8,
+      "MemoryOffset": 4778,
       "Description": "Raw data of type 'BlitzTool.WordOnly'"
     },
     {
       "CodeBlock": "bg_handler",
-      "CodeBlockLine": 3,
-      "MemoryOffset": 4680,
+      "CodeBlockLine": 8,
+      "MemoryOffset": 4780,
       "Description": "Raw data of type 'BlitzTool.WordOnly'"
     },
     {
       "CodeBlock": "bg_handler",
-      "CodeBlockLine": 3,
-      "MemoryOffset": 4682,
+      "CodeBlockLine": 8,
+      "MemoryOffset": 4782,
       "Description": "Raw data of type 'BlitzTool.Scorpion_RefreshActorOperation'"
     },
     {
       "CodeBlock": "bg_handler",
-      "CodeBlockLine": 3,
-      "MemoryOffset": 4686,
+      "CodeBlockLine": 8,
+      "MemoryOffset": 4786,
       "Description": "RETURN TO GAME OR GOSUB"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 0,
-      "MemoryOffset": 4688,
+      "MemoryOffset": 4788,
       "Description": "STARTUP"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 4688,
+      "MemoryOffset": 4788,
       "Description": "Set 'backgroundspritepairs' to '4'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 4698,
+      "MemoryOffset": 4798,
       "Description": "Raw data of type 'BlitzTool.WordOnly'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 4700,
+      "MemoryOffset": 4800,
       "Description": "Raw data of type 'BlitzTool.WordOnly'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 4702,
+      "MemoryOffset": 4802,
       "Description": "Set 'newvalue' to 'map_new'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 4712,
+      "MemoryOffset": 4812,
       "Description": "GOSUB TO 'LOAD_LEVEL'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 4718,
+      "MemoryOffset": 4818,
       "Description": "RETURN TO GAME OR GOSUB"
     }
   ],
