@@ -3,36 +3,36 @@
   "ClassType": "Player",
   "DefaultLookDir": "left",
   "Recycle": "Default",
-  "MoveType": "control",
+  "MoveType": "control_platform",
   "MaxEntities": 0,
   "NudgeX": 8,
-  "NudgeY": 15,
+  "NudgeY": 16,
   "Idles": {
     "UpLeft": null,
     "Up": null,
     "UpRight": null,
-    "Left": "hero_run_r",
-    "Right": null,
+    "Left": "hero_idle_l",
+    "Right": "hero_idle_r",
     "DownLeft": null,
     "Down": null,
     "DownRight": null
   },
   "Moves": {
-    "UpLeft": null,
+    "UpLeft": "hero_jump_l",
     "Up": null,
-    "UpRight": null,
-    "Left": null,
-    "Right": null,
-    "DownLeft": null,
+    "UpRight": "hero_jump_r",
+    "Left": "hero_run_l",
+    "Right": "hero_run_r",
+    "DownLeft": "hero_fall_l",
     "Down": null,
-    "DownRight": null
+    "DownRight": "hero_fall_r"
   },
   "Attacks": {
     "UpLeft": null,
     "Up": null,
     "UpRight": null,
-    "Left": null,
-    "Right": null,
+    "Left": "hero_attack_l",
+    "Right": "hero_attack_r",
     "DownLeft": null,
     "Down": null,
     "DownRight": null
@@ -103,12 +103,12 @@
   "ZOrder": 0,
   "SpeedLeft": 2.0,
   "SpeedRight": 2.0,
-  "SpeedUp": 0.0,
-  "SpeedDown": 0.0,
+  "SpeedUp": 3.0,
+  "SpeedDown": 3.0,
   "AccelLeft": null,
   "AccelRight": null,
   "AccelUp": null,
-  "AccelDown": null,
+  "AccelDown": 0.07,
   "AccelLeftAir": null,
   "AccelRightAir": null,
   "RotationSpeed": 0.0,
@@ -144,5 +144,5 @@
     "0"
   ],
   "TileID": 2,
-  "JumpHeight": null
+  "JumpHeight": 64.28571
 }

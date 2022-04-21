@@ -16,4 +16,19 @@
       <property name="Name" value="hero" type="string" />
     </properties>
   </tile>
+  <tile id="3">
+    <properties>
+      <property name="Name" value="skeleton" type="string" />
+    </properties>
+  </tile>
+  <tile id="4">
+    <properties>
+      <property name="Name" value="skeleton_riser" type="string" />
+    </properties>
+  </tile>
+  <tile id="5">
+    <properties>
+      <property name="Name" value="enemy_death" type="string" />
+    </properties>
+  </tile>
 </tileset>
