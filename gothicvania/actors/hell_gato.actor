@@ -21,8 +21,8 @@
     "UpLeft": null,
     "Up": null,
     "UpRight": null,
-    "Left": "skeleton_move_l",
-    "Right": "skeleton_move_r",
+    "Left": "hell_gato_l",
+    "Right": "hell_gato_r",
     "DownLeft": null,
     "Down": null,
     "DownRight": null
@@ -94,15 +94,15 @@
     }
   ],
   "CollBox": {
-    "X": -16,
+    "X": -29,
     "Y": -40,
-    "Width": 32,
+    "Width": 58,
     "Height": 40
   },
   "AttackDelay": 0,
   "ZOrder": 0,
-  "SpeedLeft": 1.0,
-  "SpeedRight": 1.0,
+  "SpeedLeft": 2.5,
+  "SpeedRight": 2.5,
   "SpeedUp": 3.0,
   "SpeedDown": 3.0,
   "AccelLeft": null,
@@ -123,13 +123,13 @@
   "AttackSound": null,
   "JumpSound": null,
   "DivertAttack": null,
-  "DivertSpawn": "on_spawn_skeleton",
+  "DivertSpawn": "",
   "DivertPlayerCollision": "on_hurt_player",
   "DivertPlayerHit": "on_kill_enemy",
   "DivertHitAgainstPlayer": null,
   "DivertProjectileCollision": null,
-  "DivertOutOfScreenLeft": "",
-  "DivertOutOfScreenRight": "",
+  "DivertOutOfScreenLeft": "on_leave_left",
+  "DivertOutOfScreenRight": "on_leave_right",
   "DivertOutOfScreenUp": null,
   "DivertOutOfScreenDown": null,
   "DivertPlatformEdge": null,
@@ -143,6 +143,6 @@
     "0",
     "has_bones"
   ],
-  "TileID": 3,
+  "TileID": 8,
   "JumpHeight": 6.4285717
 }

@@ -1,11 +1,11 @@
 {
   "Frames": [
     {
-      "Path": "enemy-death-1.png",
+      "Path": "hell-gato-1.png",
       "Duration": 5,
-      "HandleX": -22,
-      "HandleY": -52,
-      "XFlipped": false,
+      "HandleX": -48,
+      "HandleY": -53,
+      "XFlipped": true,
       "HitBox": {
         "X": 0,
         "Y": 0,
@@ -16,11 +16,11 @@
       "OnFrame": null
     },
     {
-      "Path": "enemy-death-2.png",
+      "Path": "hell-gato-2.png",
       "Duration": 5,
-      "HandleX": -22,
-      "HandleY": -52,
-      "XFlipped": false,
+      "HandleX": -47,
+      "HandleY": -53,
+      "XFlipped": true,
       "HitBox": {
         "X": 0,
         "Y": 0,
@@ -31,11 +31,11 @@
       "OnFrame": null
     },
     {
-      "Path": "enemy-death-3.png",
+      "Path": "hell-gato-3.png",
       "Duration": 5,
-      "HandleX": -22,
-      "HandleY": -52,
-      "XFlipped": false,
+      "HandleX": -48,
+      "HandleY": -53,
+      "XFlipped": true,
       "HitBox": {
         "X": 0,
         "Y": 0,
@@ -46,26 +46,11 @@
       "OnFrame": null
     },
     {
-      "Path": "enemy-death-4.png",
+      "Path": "hell-gato-4.png",
       "Duration": 5,
-      "HandleX": -22,
-      "HandleY": -52,
-      "XFlipped": false,
-      "HitBox": {
-        "X": 0,
-        "Y": 0,
-        "Width": 0,
-        "Height": 0
-      },
-      "HasHitBox": false,
-      "OnFrame": null
-    },
-    {
-      "Path": "enemy-death-5.png",
-      "Duration": 5,
-      "HandleX": -22,
-      "HandleY": -52,
-      "XFlipped": false,
+      "HandleX": -48,
+      "HandleY": -53,
+      "XFlipped": true,
       "HitBox": {
         "X": 0,
         "Y": 0,
@@ -77,7 +62,7 @@
     }
   ],
   "PreventMovement": false,
-  "PreventCollision": true,
+  "PreventCollision": false,
   "HideChildren": false,
   "AutoSprite": false,
   "OnlySprite": false,
@@ -85,6 +70,6 @@
   "Multiplexes": 0,
   "LoopFrame": 0,
   "LinkedMap": null,
-  "OnFinish": "destroy_actor",
-  "AutoFlip": false
+  "OnFinish": null,
+  "AutoFlip": true
 }

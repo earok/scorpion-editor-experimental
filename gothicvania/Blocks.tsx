@@ -31,11 +31,7 @@
       <property name="Name" value="block_platform" type="string" />
     </properties>
   </tile>
-  <tile id="6">
-    <properties>
-      <property name="Name" value="kill_block" type="string" />
-    </properties>
-  </tile>
+  <tile id="6" />
   <tile id="7">
     <properties>
       <property name="Name" value="skeleton_spawner_left" type="string" />
