@@ -1,4 +1,5 @@
 {
+  "DataVersion": 1,
   "Variables": [],
   "Commands": [
     {
@@ -12,6 +13,8 @@
       "ActorOperationType": "SetType",
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
+      "ControlOperationType": "JumpControls",
+      "CoreType": "RefreshActorVariable",
       "Goto": null,
       "Comment": null,
       "Variable": "none",
@@ -53,6 +56,10 @@
       "CameraFollowDown": false,
       "CameraFollowInterpolateCamera": false,
       "CameraFollowInterpolateSprites": false,
+      "Fire1Jump": false,
+      "Fire2Jump": true,
+      "UpJump": true,
+      "JumpOnHold": false,
       "ColorIndex": 0,
       "Color": {
         "r": 0,
