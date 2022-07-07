@@ -427,7 +427,35 @@
       "Notes": "Rendering doesn't clear the background",
       "PrivateSet": false,
       "VariableType": "Constant"
-    }
+    },
+    {
+      "Name": "IsOnPlatform_False",
+      "Value": "0",
+      "Notes": "Not on any kind of platform",
+      "PrivateSet": false,
+      "VariableType": "Constant"
+    },
+    {
+      "Name": "IsOnPlatform_Solid",
+      "Value": "-1",
+      "Notes": "On a flat tile or block (not a slope)",
+      "PrivateSet": false,
+      "VariableType": "Constant"
+    },	
+    {
+      "Name": "IsOnPlatform_Slope",
+      "Value": "1",
+      "Notes": "On a slope",
+      "PrivateSet": false,
+      "VariableType": "Constant"
+    },
+    {
+      "Name": "IsOnPlatform_PlatformActor",
+      "Value": "2",
+      "Notes": "On a platform actor",
+      "PrivateSet": false,
+      "VariableType": "Constant"
+    }	
   ],
   "Commands": []
 }
