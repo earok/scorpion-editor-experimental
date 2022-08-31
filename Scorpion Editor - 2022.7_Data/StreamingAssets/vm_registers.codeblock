@@ -1,4 +1,5 @@
 {
+  "CompileOrder": -1000,
   "DataVersion": 1,
   "Variables": [
     {
@@ -133,7 +134,7 @@
       "Notes": "The controller used by this player",
       "PrivateSet": false,
       "VariableType": "Variable"
-    },	
+    },
     {
       "Name": "Player_IsOnPlatform",
       "Value": "0",
@@ -301,7 +302,7 @@
       "Notes": "The controller used by this actor",
       "PrivateSet": false,
       "VariableType": "Variable"
-    },		
+    },
     {
       "Name": "Actor_IsOnPlatform",
       "Value": "0",
@@ -469,7 +470,7 @@
       "Notes": "The controller used by this projectile",
       "PrivateSet": false,
       "VariableType": "Variable"
-    },		
+    },
     {
       "Name": "Projectile_IsOnPlatform",
       "Value": "0",
@@ -637,7 +638,7 @@
       "Notes": "The controller used by this new actor",
       "PrivateSet": false,
       "VariableType": "Variable"
-    },		
+    },
     {
       "Name": "New_IsOnPlatform",
       "Value": "0",
@@ -885,7 +886,7 @@
     },
     {
       "Name": "AutoFadeMusic",
-      "Value": "false",
+      "Value": "0",
       "Notes": "Set automatic fading of music on screen fade in / fade out",
       "PrivateSet": false,
       "VariableType": "Variable"
@@ -1045,34 +1046,6 @@
       "VariableType": "Variable"
     },
     {
-      "Name": "Param",
-      "Value": "0",
-      "Notes": "Value passed to Scorpion as a parameter. e.g. game.exe 50 would set param to 50",
-      "PrivateSet": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "IsAGA",
-      "Value": "0",
-      "Notes": "Is this game running on an AGA machine? May be useful for conditionals allowing access to AGA exclusive content",
-      "PrivateSet": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "IsNTSC",
-      "Value": "0",
-      "Notes": "Is this game running on an NTSC machine?",
-      "PrivateSet": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "IsFloppy",
-      "Value": "0",
-      "Notes": "Is this game running from a floppy? (ie, a file called FLOPPY exists in the data folder)",
-      "PrivateSet": false,
-      "VariableType": "Variable"
-    },
-    {
       "Name": "PlatformSnap",
       "Value": "8",
       "Notes": "High values might mean there's a noticable 'jump' when landing on a platform, low values might mean the player falls through it.",
@@ -1171,44 +1144,9 @@
       "VariableType": "Variable"
     },
     {
-      "Name": "BackgroundSpritePairs",
-      "Value": "0",
-      "Notes": "Used for setting the number of sprite pairs behind the bitplanes (0-4)",
-      "PrivateSet": false,
-      "VariableType": "Variable"
-    },
-    {
       "Name": "ScreenTop",
       "Value": "0",
       "Notes": "Top of the main game screen or panel. Increase this to reserve empty space above the game area.",
-      "PrivateSet": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "JumpControls",
-      "Value": "0",
-      "Notes": "Current jump controls setting (bitmasked)",
-      "PrivateSet": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Uses24BitColor",
-      "Value": "0",
-      "Notes": "Whether the game is currently using 24 bit color mode",
-      "PrivateSet": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "AGAFMode",
-      "Value": "0",
-      "Notes": "The current AGA Fetchmode of the game",
-      "PrivateSet": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "AGASScan2",
-      "Value": "0",
-      "Notes": "AGA Sprite Doubling",
       "PrivateSet": false,
       "VariableType": "Variable"
     },
@@ -1244,13 +1182,6 @@
       "Name": "Blue",
       "Value": "0",
       "Notes": "The palette blue value",
-      "PrivateSet": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "ECSBorderBlank",
-      "Value": "0",
-      "Notes": "ADVANCED if ECS border blank mode is on",
       "PrivateSet": false,
       "VariableType": "Variable"
     },
