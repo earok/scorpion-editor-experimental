@@ -2031,13 +2031,6 @@
       "DefaultValue": "0",
       "Index": 185,
       "MemoryOffset": 185
-    },
-    {
-      "CodeBlock": "handle_right_click",
-      "Name": "grenade_delay",
-      "DefaultValue": "0",
-      "Index": 186,
-      "MemoryOffset": 186
     }
   ],
   "Lines": [
@@ -2063,7 +2056,7 @@
       "CodeBlock": "project",
       "CodeBlockLine": 0,
       "MemoryOffset": 12,
-      "Description": "Raw expression '5'"
+      "Description": "Raw expression '6'"
     },
     {
       "CodeBlock": "project",
@@ -5819,186 +5812,240 @@
       "CodeBlock": "handle_right_click",
       "CodeBlockLine": 2,
       "MemoryOffset": 4908,
-      "Description": "If 'grenade_delay' GreaterThan '0' ELSE GOTO 00004950"
+      "Description": "If 'player_var1' GreaterThan '0' ELSE GOTO 00004976"
     },
     {
       "CodeBlock": "handle_right_click",
       "CodeBlockLine": 3,
-      "MemoryOffset": 4934,
+      "MemoryOffset": 4944,
       "Description": "Raw data of type 'BlitzTool.WordOnly'"
     },
     {
       "CodeBlock": "handle_right_click",
       "CodeBlockLine": 3,
-      "MemoryOffset": 4936,
-      "Description": "Set 'grenade_delay' to 'grenade_delay - 1'"
+      "MemoryOffset": 4946,
+      "Description": "Set 'player_var1' to 'player_var1 - 1'"
     },
     {
       "CodeBlock": "handle_right_click",
-      "CodeBlockLine": 4,
-      "MemoryOffset": 4948,
+      "CodeBlockLine": 3,
+      "MemoryOffset": 4968,
       "Description": "Raw data of type 'BlitzTool.WordOnly'"
     },
     {
       "CodeBlock": "handle_right_click",
-      "CodeBlockLine": 8,
-      "MemoryOffset": 4950,
-      "Description": "If 'control2jump' NotEquals 'button_hit' ELSE GOTO 00004978"
-    },
-    {
-      "CodeBlock": "handle_right_click",
-      "CodeBlockLine": 9,
-      "MemoryOffset": 4976,
-      "Description": "Raw data of type 'BlitzTool.WordOnly'"
-    },
-    {
-      "CodeBlock": "handle_right_click",
-      "CodeBlockLine": 12,
-      "MemoryOffset": 4978,
-      "Description": "Raw data of type 'BlitzTool.WordOnly'"
-    },
-    {
-      "CodeBlock": "handle_right_click",
-      "CodeBlockLine": 12,
-      "MemoryOffset": 4980,
-      "Description": "Set 'grenade_delay' to '25'"
-    },
-    {
-      "CodeBlock": "handle_right_click",
-      "CodeBlockLine": 13,
-      "MemoryOffset": 4988,
-      "Description": "Raw data of type 'BlitzTool.WordOnly'"
-    },
-    {
-      "CodeBlock": "handle_right_click",
-      "CodeBlockLine": 13,
-      "MemoryOffset": 4990,
-      "Description": "Set 'player_spawn' to 'explosion_actor'"
-    },
-    {
-      "CodeBlock": "handle_right_click",
-      "CodeBlockLine": 13,
-      "MemoryOffset": 4998,
-      "Description": "Raw data of type 'BlitzTool.WordOnly'"
-    },
-    {
-      "CodeBlock": "handle_right_click",
-      "CodeBlockLine": 13,
-      "MemoryOffset": 5000,
+      "CodeBlockLine": 3,
+      "MemoryOffset": 4970,
       "Description": "Raw data of type 'BlitzTool.Scorpion_RefreshActorOperation'"
     },
     {
       "CodeBlock": "handle_right_click",
-      "CodeBlockLine": 13,
-      "MemoryOffset": 5004,
+      "CodeBlockLine": 4,
+      "MemoryOffset": 4974,
+      "Description": "Raw data of type 'BlitzTool.WordOnly'"
+    },
+    {
+      "CodeBlock": "handle_right_click",
+      "CodeBlockLine": 7,
+      "MemoryOffset": 4976,
+      "Description": "If 'player_controller' Equals '2'"
+    },
+    {
+      "CodeBlock": "handle_right_click",
+      "CodeBlockLine": 9,
+      "MemoryOffset": 5012,
+      "Description": "If 'control2jump' NotEquals 'button_hit' ELSE GOTO 00005040"
+    },
+    {
+      "CodeBlock": "handle_right_click",
+      "CodeBlockLine": 10,
+      "MemoryOffset": 5038,
+      "Description": "Raw data of type 'BlitzTool.WordOnly'"
+    },
+    {
+      "CodeBlock": "handle_right_click",
+      "CodeBlockLine": 12,
+      "MemoryOffset": 5040,
+      "Description": "GOTO '00005074'"
+    },
+    {
+      "CodeBlock": "handle_right_click",
+      "CodeBlockLine": 12,
+      "MemoryOffset": 5040,
+      "Description": "Raw data of type 'BlitzTool.WordOnly'"
+    },
+    {
+      "CodeBlock": "handle_right_click",
+      "CodeBlockLine": 14,
+      "MemoryOffset": 5046,
+      "Description": "If 'control1jump' NotEquals 'button_hit' ELSE GOTO 00005074"
+    },
+    {
+      "CodeBlock": "handle_right_click",
+      "CodeBlockLine": 15,
+      "MemoryOffset": 5072,
+      "Description": "Raw data of type 'BlitzTool.WordOnly'"
+    },
+    {
+      "CodeBlock": "handle_right_click",
+      "CodeBlockLine": 19,
+      "MemoryOffset": 5074,
+      "Description": "Raw data of type 'BlitzTool.WordOnly'"
+    },
+    {
+      "CodeBlock": "handle_right_click",
+      "CodeBlockLine": 19,
+      "MemoryOffset": 5076,
+      "Description": "Set 'player_var1' to '25'"
+    },
+    {
+      "CodeBlock": "handle_right_click",
+      "CodeBlockLine": 19,
+      "MemoryOffset": 5084,
+      "Description": "Raw data of type 'BlitzTool.WordOnly'"
+    },
+    {
+      "CodeBlock": "handle_right_click",
+      "CodeBlockLine": 19,
+      "MemoryOffset": 5086,
+      "Description": "Raw data of type 'BlitzTool.Scorpion_RefreshActorOperation'"
+    },
+    {
+      "CodeBlock": "handle_right_click",
+      "CodeBlockLine": 20,
+      "MemoryOffset": 5090,
+      "Description": "Raw data of type 'BlitzTool.WordOnly'"
+    },
+    {
+      "CodeBlock": "handle_right_click",
+      "CodeBlockLine": 20,
+      "MemoryOffset": 5092,
+      "Description": "Set 'player_spawn' to 'explosion_actor'"
+    },
+    {
+      "CodeBlock": "handle_right_click",
+      "CodeBlockLine": 20,
+      "MemoryOffset": 5100,
+      "Description": "Raw data of type 'BlitzTool.WordOnly'"
+    },
+    {
+      "CodeBlock": "handle_right_click",
+      "CodeBlockLine": 20,
+      "MemoryOffset": 5102,
+      "Description": "Raw data of type 'BlitzTool.Scorpion_RefreshActorOperation'"
+    },
+    {
+      "CodeBlock": "handle_right_click",
+      "CodeBlockLine": 20,
+      "MemoryOffset": 5106,
       "Description": "Raw data of type 'BlitzTool.WordOnly'"
     },
     {
       "CodeBlock": "shoot",
       "CodeBlockLine": 0,
-      "MemoryOffset": 5006,
+      "MemoryOffset": 5108,
       "Description": "SHOOT"
     },
     {
       "CodeBlock": "shoot",
       "CodeBlockLine": 1,
-      "MemoryOffset": 5006,
+      "MemoryOffset": 5108,
       "Description": "Raw data of type 'BlitzTool.WordOnly'"
     },
     {
       "CodeBlock": "shoot",
       "CodeBlockLine": 1,
-      "MemoryOffset": 5008,
+      "MemoryOffset": 5110,
       "Description": "Set 'player_spawn' to 'bullet_impact_actor'"
     },
     {
       "CodeBlock": "shoot",
       "CodeBlockLine": 1,
-      "MemoryOffset": 5016,
+      "MemoryOffset": 5118,
       "Description": "Raw data of type 'BlitzTool.WordOnly'"
     },
     {
       "CodeBlock": "shoot",
       "CodeBlockLine": 1,
-      "MemoryOffset": 5018,
+      "MemoryOffset": 5120,
       "Description": "Raw data of type 'BlitzTool.Scorpion_RefreshActorOperation'"
     },
     {
       "CodeBlock": "shoot",
       "CodeBlockLine": 1,
-      "MemoryOffset": 5022,
+      "MemoryOffset": 5124,
       "Description": "Raw data of type 'BlitzTool.WordOnly'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 0,
-      "MemoryOffset": 5024,
+      "MemoryOffset": 5126,
       "Description": "STARTUP"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 5024,
+      "MemoryOffset": 5126,
       "Description": "Raw data of type 'BlitzTool.WordOnly'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 5026,
+      "MemoryOffset": 5128,
       "Description": "Set 'newvalue' to '160'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 5036,
+      "MemoryOffset": 5138,
       "Description": "GOSUB TO 'SET_YRESOLUTION'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 5036,
+      "MemoryOffset": 5138,
       "Description": "Raw data of type 'BlitzTool.WordOnly'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 5042,
+      "MemoryOffset": 5144,
       "Description": "Raw data of type 'BlitzTool.WordOnly'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 5044,
+      "MemoryOffset": 5146,
       "Description": "Set 'screentop' to '24'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 3,
-      "MemoryOffset": 5052,
+      "MemoryOffset": 5154,
       "Description": "Raw data of type 'BlitzTool.WordOnly'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 3,
-      "MemoryOffset": 5054,
+      "MemoryOffset": 5156,
       "Description": "Set 'newvalue' to 'map'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 3,
-      "MemoryOffset": 5062,
+      "MemoryOffset": 5164,
       "Description": "GOSUB TO 'LOAD_LEVEL'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 3,
-      "MemoryOffset": 5062,
+      "MemoryOffset": 5164,
       "Description": "Raw data of type 'BlitzTool.WordOnly'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 3,
-      "MemoryOffset": 5068,
+      "MemoryOffset": 5170,
       "Description": "Raw data of type 'BlitzTool.WordOnly'"
     }
   ],
@@ -6016,7 +6063,8 @@
     "0": "Destroyed actor",
     "1": "bullet_impact_actor",
     "2": "explosion_actor",
-    "3": "mouse_actor"
+    "3": "mouse_actor",
+    "4": "mouse_actor_2"
   },
   "Sounds": {
     "0": "No sound played"

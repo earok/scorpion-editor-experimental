@@ -16,4 +16,9 @@
       <property name="Name" value="explosion_actor" type="string" />
     </properties>
   </tile>
+  <tile id="3">
+    <properties>
+      <property name="Name" value="mouse_actor_2" type="string" />
+    </properties>
+  </tile>
 </tileset>
