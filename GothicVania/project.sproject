@@ -1,0 +1,203 @@
+{
+  "TargetPlatform": "amiga_aga",
+  "Talkpad": null,
+  "Talkpad_OnBottom": false,
+  "StartupCodeBlock": "startup",
+  "Recompile": true,
+  "StartupSequenceDirty": false,
+  "Fire1Jump": false,
+  "Fire2Jump": true,
+  "UpJump": true,
+  "JumpOnHold": false,
+  "DataVersion": 4,
+  "Commands": [
+    {
+      "Compiler": "amiga",
+      "Key": "Alpha8",
+      "JoystickPort": -1,
+      "JoystickX": 0,
+      "JoystickY": 0,
+      "JoystickFire1": false,
+      "JoystickFire2": false,
+      "CD32Play": false,
+      "CD32Reverse": false,
+      "CD32Forward": false,
+      "CD32Green": false,
+      "CD32Yellow": false,
+      "OnPress": "color_on",
+      "OnRelease": null
+    },
+    {
+      "Compiler": "amiga",
+      "Key": "Alpha9",
+      "JoystickPort": -1,
+      "JoystickX": 0,
+      "JoystickY": 0,
+      "JoystickFire1": false,
+      "JoystickFire2": false,
+      "CD32Play": false,
+      "CD32Reverse": false,
+      "CD32Forward": false,
+      "CD32Green": false,
+      "CD32Yellow": false,
+      "OnPress": "color_off",
+      "OnRelease": null
+    },
+    {
+      "Compiler": "amiga",
+      "Key": "A",
+      "JoystickPort": -1,
+      "JoystickX": 0,
+      "JoystickY": 0,
+      "JoystickFire1": false,
+      "JoystickFire2": false,
+      "CD32Play": false,
+      "CD32Reverse": false,
+      "CD32Forward": false,
+      "CD32Green": false,
+      "CD32Yellow": false,
+      "OnPress": "key_left_pressed",
+      "OnRelease": "key_left_released"
+    },
+    {
+      "Compiler": "amiga",
+      "Key": "D",
+      "JoystickPort": -1,
+      "JoystickX": 0,
+      "JoystickY": 0,
+      "JoystickFire1": false,
+      "JoystickFire2": false,
+      "CD32Play": false,
+      "CD32Reverse": false,
+      "CD32Forward": false,
+      "CD32Green": false,
+      "CD32Yellow": false,
+      "OnPress": "key_right_pressed",
+      "OnRelease": "key_right_released"
+    },
+    {
+      "Compiler": "amiga",
+      "Key": "W",
+      "JoystickPort": -1,
+      "JoystickX": 0,
+      "JoystickY": 0,
+      "JoystickFire1": false,
+      "JoystickFire2": false,
+      "CD32Play": false,
+      "CD32Reverse": false,
+      "CD32Forward": false,
+      "CD32Green": false,
+      "CD32Yellow": false,
+      "OnPress": "key_up_pressed",
+      "OnRelease": "key_up_released"
+    },
+    {
+      "Compiler": "amiga",
+      "Key": "S",
+      "JoystickPort": -1,
+      "JoystickX": 0,
+      "JoystickY": 0,
+      "JoystickFire1": false,
+      "JoystickFire2": false,
+      "CD32Play": false,
+      "CD32Reverse": false,
+      "CD32Forward": false,
+      "CD32Green": false,
+      "CD32Yellow": false,
+      "OnPress": "key_down_pressed",
+      "OnRelease": "key_down_released"
+    },
+    {
+      "Compiler": "amiga",
+      "Key": "Space",
+      "JoystickPort": -1,
+      "JoystickX": 0,
+      "JoystickY": 0,
+      "JoystickFire1": false,
+      "JoystickFire2": false,
+      "CD32Play": false,
+      "CD32Reverse": false,
+      "CD32Forward": false,
+      "CD32Green": false,
+      "CD32Yellow": false,
+      "OnPress": "key_attack_pressed",
+      "OnRelease": ""
+    }
+  ],
+  "AnimationMetaData": {},
+  "Anim5MetaData": {},
+  "SoundMetaData": {
+    "attack": {
+      "LinkedMap": ""
+    },
+    "hurt": {
+      "LinkedMap": ""
+    },
+    "jump": {
+      "LinkedMap": ""
+    },
+    "kill": {
+      "LinkedMap": ""
+    },
+    "rise": {
+      "LinkedMap": ""
+    }
+  },
+  "NumberFontMetaData": {},
+  "FontMetaData": {
+    "defaultfont": {
+      "IsMonoSpaced": false,
+      "LineHeight": 8,
+      "SpaceWidth": 8
+    }
+  },
+  "SplashScreen": null,
+  "LogicSpeed": "PAL_50HZ",
+  "PlatformData": {
+    "ID": "amiga_aga",
+    "Data": {
+      "OutputSpeed": "PAL_50HZ",
+      "GFXMode": "BP6",
+      "Add21K": false,
+      "EmulatedAmiga": "A1200",
+      "EmulatedFastRam": 0,
+      "WinUAEConfiguration": null,
+      "SpriteMode": "Mode_2_64_Wide",
+      "Uses24BitColor": true,
+      "SpriteColorBank": 4,
+      "SScan2": true,
+      "FMode": 1,
+      "Width": 256,
+      "XOffset": 32,
+      "XFillSize": 24,
+      "YFillSize": 17,
+      "Implode": true,
+      "MapCache": false,
+      "DoubleCopper": true,
+      "AllocateMemoryUpfront": true
+    },
+    "Extension": "platformdata",
+    "GetGFXMode": "BP6",
+    "OutputSpeed": "PAL_50HZ",
+    "Uses24BitColor": true,
+    "SpriteColorBank": 4,
+    "SpriteMode": "Mode_2_64_Wide",
+    "GFXMode": "BP6",
+    "EmulatedAmiga": "A1200",
+    "EmulatedFastRam": 0,
+    "WinUAEConfiguration": null,
+    "XFillSize": 24,
+    "YFillSize": 17,
+    "XOffset": 32,
+    "FMode": 1,
+    "Width": 256,
+    "SScan2": true,
+    "MapCache": false,
+    "DoubleCopper": true,
+    "AllocateMemoryUpfront": true,
+    "Implode": true,
+    "FolderPath": "C:\\Users\\earok\\OneDrive\\Desktop\\Scorpion\\Projects\\_editor\\GothicVania\\",
+    "IsDirty": false,
+    "DirtyDelay": 0.0
+  }
+}
