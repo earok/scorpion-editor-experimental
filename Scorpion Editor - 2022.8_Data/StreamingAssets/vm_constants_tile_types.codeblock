@@ -1,4 +1,5 @@
 {
+  "CompileOrder": 0,
   "DataVersion": 1,
   "Variables": [
     {
@@ -6,6 +7,7 @@
       "Value": "0",
       "Notes": "",
       "PrivateSet": false,
+      "Watch": false,
       "VariableType": "Constant"
     },
     {
@@ -13,6 +15,7 @@
       "Value": "-1",
       "Notes": null,
       "PrivateSet": false,
+      "Watch": false,
       "VariableType": "Constant"
     },
     {
@@ -20,6 +23,7 @@
       "Value": "-2",
       "Notes": null,
       "PrivateSet": false,
+      "Watch": false,
       "VariableType": "Constant"
     },
     {
@@ -27,6 +31,7 @@
       "Value": "-3",
       "Notes": null,
       "PrivateSet": false,
+      "Watch": false,
       "VariableType": "Constant"
     }
   ],
@@ -43,7 +48,8 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
-      "CoreType": "Set",
+      "CoreType": "RefreshActorVariable",
+      "ControlMode": "Joys_1",
       "Goto": "",
       "Comment": "If the tile contains no block, block_get will return one of these values",
       "Variable": "none",
@@ -52,6 +58,7 @@
       "Label": "",
       "DiceSides": 2,
       "Disabled": false,
+      "Breakpoint": false,
       "Comparison": "NotZero",
       "Level": "none",
       "NewBlock": "none",
