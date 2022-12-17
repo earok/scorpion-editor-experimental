@@ -3,40 +3,73 @@
   "DataVersion": 1,
   "Variables": [
     {
-      "Name": "Tile_None",
-      "Value": "0",
-      "Notes": "",
+      "Name": "TileBit_HasBlock",
+      "Value": "15",
+      "Notes": "Does this tile have a block?",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Constant"
     },
     {
-      "Name": "Tile_Solid",
-      "Value": "-1",
-      "Notes": null,
+      "Name": "TileBit_IsSlope",
+      "Value": "14",
+      "Notes": "Does this tile have a block with a slope?",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Constant"
     },
     {
-      "Name": "Tile_Platform",
-      "Value": "-2",
-      "Notes": null,
+      "Name": "TileBit_HasForeground",
+      "Value": "13",
+      "Notes": "Does this tile have a foreground?",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Constant"
     },
     {
-      "Name": "Tile_SolidPlatform",
-      "Value": "-3",
-      "Notes": null,
+      "Name": "TileBit_HasAnimation",
+      "Value": "12",
+      "Notes": "Does this tile have an animation?",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Constant"
+    },
+    {
+      "Name": "TileBit_Spare",
+      "Value": "11",
+      "Notes": "Does this tile have the spare bit set?",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Constant"
+    },	
+    {
+      "Name": "TileBit_AIBlock",
+      "Value": "10",
+      "Notes": "Does this tile have the \"AI Block\" flag set?",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Constant"
+    },
+    {
+      "Name": "TileBit_IsPlatform",
+      "Value": "9",
+      "Notes": "Is this tile a platform?",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Constant"
+    },
+    {
+      "Name": "TileBit_IsSolid",
+      "Value": "8",
+      "Notes": "Is this tile solid?",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
     }
   ],
   "Commands": [
     {
+      "Values": {},
       "DataVersion": 2,
       "Category": "Base",
       "BasicOperationType": "CommentOnly",
@@ -51,7 +84,7 @@
       "CoreType": "RefreshActorVariable",
       "ControlMode": "Joys_1",
       "Goto": "",
-      "Comment": "If the tile contains no block, block_get will return one of these values",
+      "Comment": "Use conditions like \"tileproperty bittest tilebit_solid\" to check the property under block_x and block_y",
       "Variable": "none",
       "Expression": "0",
       "Index": "0",
