@@ -4,6 +4,7 @@
   "Talkpad_OnBottom": false,
   "StartupCodeBlock": "startup",
   "Recompile": true,
+  "DebugMode": false,
   "StartupSequenceDirty": false,
   "Fire1Jump": false,
   "Fire2Jump": true,
@@ -13,7 +14,11 @@
   "Commands": [],
   "AnimationMetaData": {},
   "Anim5MetaData": {},
-  "SoundMetaData": {},
+  "SoundMetaData": {
+    "jet": {
+      "LinkedMap": ""
+    }
+  },
   "NumberFontMetaData": {},
   "FontMetaData": {},
   "SplashScreen": null,
@@ -22,7 +27,7 @@
     "ID": "amiga_ocs",
     "Data": {
       "OutputSpeed": "PAL_50HZ",
-      "GFXMode": "Default",
+      "GFXMode": "BP5",
       "Add21K": false,
       "EmulatedAmiga": "A1200",
       "EmulatedFastRam": 0,
@@ -39,10 +44,12 @@
       "Implode": true,
       "MapCache": false,
       "DoubleCopper": true,
-      "AllocateMemoryUpfront": true
+      "AllocateMemoryUpfront": true,
+      "NTSC": false
     },
     "Extension": "platformdata",
     "GetGFXMode": "BP5",
+    "NTSC": false,
     "OutputSpeed": "PAL_50HZ",
     "Uses24BitColor": false,
     "SpriteColorBank": 1,
@@ -61,8 +68,8 @@
     "DoubleCopper": true,
     "AllocateMemoryUpfront": true,
     "Implode": true,
-    "FolderPath": "C:\\Users\\earok\\OneDrive\\Desktop\\Scorpion\\Projects\\scorpion-editor-demos\\Simple Examples\\RenderModes_And_Palettes\\",
+    "FolderPath": "C:\\Users\\earok\\OneDrive\\Desktop\\Scorpion\\Projects\\_editor\\PlatformerModes\\",
     "IsDirty": true,
-    "DirtyDelay": 0.149994791
+    "DirtyDelay": 0.0126237329
   }
 }
