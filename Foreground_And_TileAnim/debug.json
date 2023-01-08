@@ -4688,90 +4688,40 @@
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
       "MemoryOffset": 5894,
-      "Description": "GOSUB TO 'PRE_ANIM5'"
+      "Description": "Set 'newvalue' to 'map1'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 5914,
-      "Description": "Core operation'MusicStop'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 5918,
-      "Description": "Set 'music' to 'pixelglassintro'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 5924,
-      "Description": "Set 'musicpos' to '0'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 5930,
-      "Description": "Raw expression 'pixelglass32'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 5936,
-      "Description": "Raw expression 'True'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 5942,
-      "Description": "Core operation'Anim5'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 5946,
-      "Description": "Core operation'MusicStop'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 5950,
-      "Description": "GOSUB TO 'FADEIN'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 2,
-      "MemoryOffset": 5970,
-      "Description": "GOSUB TO 'PRE_QUIT'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 2,
-      "MemoryOffset": 5990,
-      "Description": "Core operation'Print'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 2,
-      "MemoryOffset": 5994,
-      "Description": "Print '0' on quit"
+      "MemoryOffset": 5900,
+      "Description": "GOSUB TO 'LOAD_LEVEL'"
     }
   ],
   "Levels": {
-    "0": "No level loaded"
+    "0": "No level loaded",
+    "1": "map1"
   },
   "Music": {
-    "0": "No music loaded",
-    "1": "pixelglassintro"
+    "0": "No music loaded"
   },
   "Panels": {
     "0": "scorpion_eng_splashscreen"
   },
   "Actors": {
-    "0": "Destroyed actor"
+    "0": "Destroyed actor",
+    "1": "player_fox"
   },
   "Sounds": {
     "0": "No sound played"
   },
-  "Animations": {}
+  "Animations": {
+    "1": "mariobig_fall_r",
+    "2": "mariobig_fall_l",
+    "3": "mariobig_idle_r",
+    "4": "mariobig_idle_l",
+    "5": "mariobig_jump_r",
+    "6": "mariobig_jump_l",
+    "7": "mariobig_walk_r",
+    "8": "mariobig_walk_l"
+  }
 }
