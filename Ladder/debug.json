@@ -5078,115 +5078,109 @@
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 2,
       "MemoryOffset": 6692,
-      "Description": "If 'currentblock' NotEquals 'ladder' ELSE GOTO 00006756"
+      "Description": "If 'currentblock' NotEquals 'ladder' ELSE GOTO 00006750"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 3,
       "MemoryOffset": 6706,
-      "Description": "If 'currentblock' NotEquals 'ladder_platform' ELSE GOTO 00006756"
+      "Description": "If 'currentblock' NotEquals 'ladder_platform' ELSE GOTO 00006750"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 4,
       "MemoryOffset": 6720,
-      "Description": "Set 'player_yspeed' to '16384'"
+      "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 4,
-      "MemoryOffset": 6728,
-      "Description": "Core operation'RefreshActorVariable'"
+      "MemoryOffset": 6726,
+      "Description": "Raw expression '16384'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 4,
-      "MemoryOffset": 6732,
-      "Description": "Raw data of type 'BlitzTool.Scorpion_RefreshActorOperation'"
+      "MemoryOffset": 6734,
+      "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 4,
-      "MemoryOffset": 6736,
-      "Description": "Set 'player_isonplatform' to 'false'"
-    },
-    {
-      "CodeBlock": "king_ladder_handler",
-      "CodeBlockLine": 4,
-      "MemoryOffset": 6742,
-      "Description": "Core operation'RefreshActorVariable'"
-    },
-    {
-      "CodeBlock": "king_ladder_handler",
-      "CodeBlockLine": 4,
-      "MemoryOffset": 6746,
-      "Description": "Raw data of type 'BlitzTool.Scorpion_RefreshActorOperation'"
+      "MemoryOffset": 6740,
+      "Description": "Core operation'RefreshActorYSpeed'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 5,
-      "MemoryOffset": 6750,
+      "MemoryOffset": 6744,
       "Description": "GOTO 'GETOFFLADDER'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 8,
-      "MemoryOffset": 6756,
-      "Description": "If 'can_getoff_ladder' Equals 'false' ELSE GOTO 00006822"
+      "MemoryOffset": 6750,
+      "Description": "If 'can_getoff_ladder' Equals 'false' ELSE GOTO 00006816"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 9,
-      "MemoryOffset": 6770,
-      "Description": "If 'control1_x' NotEquals '0' ELSE GOTO 00006816"
+      "MemoryOffset": 6764,
+      "Description": "If 'control1_x' NotEquals '0' ELSE GOTO 00006810"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 12,
-      "MemoryOffset": 6816,
+      "MemoryOffset": 6810,
       "Description": "Set 'can_getoff_ladder' to 'true'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 14,
-      "MemoryOffset": 6822,
-      "Description": "If 'control1_x' NotEquals '0' ELSE GOTO 00006842"
+      "MemoryOffset": 6816,
+      "Description": "If 'control1_x' NotEquals '0' ELSE GOTO 00006836"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 15,
-      "MemoryOffset": 6836,
+      "MemoryOffset": 6830,
       "Description": "GOTO 'GETOFFLADDER'"
     },
     {
       "CodeBlock": "platform_orbit",
       "CodeBlockLine": 0,
-      "MemoryOffset": 6874,
+      "MemoryOffset": 6868,
       "Description": "PLATFORM_ORBIT"
     },
     {
       "CodeBlock": "platform_orbit",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6874,
+      "MemoryOffset": 6868,
       "Description": "Set 'actor_var2' to 'actor_var2 + 1'"
     },
     {
       "CodeBlock": "platform_orbit",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6896,
+      "MemoryOffset": 6890,
       "Description": "Core operation'RefreshActorVariable'"
     },
     {
       "CodeBlock": "platform_orbit",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6900,
+      "MemoryOffset": 6894,
       "Description": "Raw data of type 'BlitzTool.Scorpion_RefreshActorOperation'"
     },
     {
       "CodeBlock": "platform_orbit",
       "CodeBlockLine": 2,
+      "MemoryOffset": 6898,
+      "Description": "Raw expression '0'"
+    },
+    {
+      "CodeBlock": "platform_orbit",
+      "CodeBlockLine": 2,
       "MemoryOffset": 6904,
-      "Description": "Raw expression '32'"
+      "Description": "Raw expression '-32'"
     },
     {
       "CodeBlock": "platform_orbit",
