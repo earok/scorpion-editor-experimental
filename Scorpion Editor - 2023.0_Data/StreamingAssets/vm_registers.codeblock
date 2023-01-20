@@ -13,7 +13,7 @@
     {
       "Name": "Actor_X_Fractional",
       "Value": "0",
-      "Notes": "The fractional X position of the Actor. Do not get or set!",
+      "Notes": "The fractional X position of the Actor",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
@@ -29,7 +29,7 @@
     {
       "Name": "Actor_Y_Fractional",
       "Value": "0",
-      "Notes": "The fractional Y position of the Actor. Do not get or set!",
+      "Notes": "The fractional Y position of the Actor",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
@@ -45,7 +45,7 @@
     {
       "Name": "Actor_XSpeed_Fractional",
       "Value": "0",
-      "Notes": "X Speed fractional value - do not GET or SET this",
+      "Notes": "X Speed fractional value",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
@@ -61,7 +61,7 @@
     {
       "Name": "Actor_YSpeed_Fractional",
       "Value": "0",
-      "Notes": "Y Speed fractional value - do not GET or SET this",
+      "Notes": "Y Speed fractional value",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
@@ -77,24 +77,24 @@
     {
       "Name": "Actor_Animation",
       "Value": "0",
-      "Notes": "SET to trigger a one off animation on the Actor",
-      "PrivateSet": false,
+      "Notes": "The current actor animation",
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
     {
       "Name": "Actor_LookDir",
       "Value": "0",
-      "Notes": "GET or SET the Actor's looking direction",
-      "PrivateSet": false,
+      "Notes": "The Actor's looking direction",
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
     {
       "Name": "Actor_Type",
       "Value": "0",
-      "Notes": "GET or SET the Actor's type",
-      "PrivateSet": false,
+      "Notes": "The Actor's type",
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
@@ -150,7 +150,7 @@
       "Name": "Actor_Controller",
       "Value": "1",
       "Notes": "The controller used by this actor",
-      "PrivateSet": false,
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
@@ -174,7 +174,7 @@
       "Name": "Actor_RenderMode",
       "Value": "0",
       "Notes": "The actor's render mode",
-      "PrivateSet": false,
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
@@ -221,7 +221,7 @@
     {
       "Name": "Player_X_Fractional",
       "Value": "0",
-      "Notes": "The fractional X position of the player. Do not get or set!",
+      "Notes": "The fractional X position of the player",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
@@ -237,7 +237,7 @@
     {
       "Name": "Player_Y_Fractional",
       "Value": "0",
-      "Notes": "The fractional Y position of the player. Do not get or set!",
+      "Notes": "The fractional Y position of the player",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
@@ -253,7 +253,7 @@
     {
       "Name": "Player_XSpeed_Fractional",
       "Value": "0",
-      "Notes": "X Speed fractional value - do not GET or SET this",
+      "Notes": "X Speed fractional value",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
@@ -269,7 +269,7 @@
     {
       "Name": "Player_YSpeed_Fractional",
       "Value": "0",
-      "Notes": "Y Speed fractional value - do not GET or SET this",
+      "Notes": "Y Speed fractional value",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
@@ -285,24 +285,24 @@
     {
       "Name": "Player_Animation",
       "Value": "0",
-      "Notes": "SET to trigger a one off animation on the Player",
-      "PrivateSet": false,
+      "Notes": "The current Player animation",
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
     {
       "Name": "Player_LookDir",
       "Value": "0",
-      "Notes": "GET or SET the Player's looking direction",
-      "PrivateSet": false,
+      "Notes": "The current Player's looking direction",
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
     {
       "Name": "Player_Type",
       "Value": "0",
-      "Notes": "GET or SET the Player's type",
-      "PrivateSet": false,
+      "Notes": "The current Player's type",
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
@@ -358,7 +358,7 @@
       "Name": "Player_Controller",
       "Value": "1",
       "Notes": "The controller used by this player",
-      "PrivateSet": false,
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
@@ -382,7 +382,7 @@
       "Name": "Player_RenderMode",
       "Value": "0",
       "Notes": "The player's render mode",
-      "PrivateSet": false,
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
@@ -429,7 +429,7 @@
     {
       "Name": "Projectile_X_Fractional",
       "Value": "0",
-      "Notes": "The fractional X position of the projectile. Do not get or set!",
+      "Notes": "The fractional X position of the projectile",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
@@ -445,7 +445,7 @@
     {
       "Name": "Projectile_Y_Fractional",
       "Value": "0",
-      "Notes": "The fractional Y position of the projectile. Do not get or set!",
+      "Notes": "The fractional Y position of the projectile",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
@@ -461,7 +461,7 @@
     {
       "Name": "Projectile_XSpeed_Fractional",
       "Value": "0",
-      "Notes": "X Speed fractional value - do not GET or SET this",
+      "Notes": "X Speed fractional value",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
@@ -477,7 +477,7 @@
     {
       "Name": "Projectile_YSpeed_Fractional",
       "Value": "0",
-      "Notes": "Y Speed fractional value - do not GET or SET this",
+      "Notes": "Y Speed fractional value",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
@@ -493,24 +493,24 @@
     {
       "Name": "Projectile_Animation",
       "Value": "0",
-      "Notes": "SET to trigger a one off animation on the Projectile",
-      "PrivateSet": false,
+      "Notes": "The current Projectile animation",
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
     {
       "Name": "Projectile_LookDir",
       "Value": "0",
-      "Notes": "GET or SET the Projectile's looking direction",
-      "PrivateSet": false,
+      "Notes": "The current Projectile's looking direction",
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
     {
       "Name": "Projectile_Type",
       "Value": "0",
-      "Notes": "GET or SET the Projectile's type",
-      "PrivateSet": false,
+      "Notes": "The current Projectile's type",
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
@@ -566,7 +566,7 @@
       "Name": "Projectile_Controller",
       "Value": "1",
       "Notes": "The controller used by this projectile",
-      "PrivateSet": false,
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
@@ -590,7 +590,7 @@
       "Name": "Projectile_RenderMode",
       "Value": "0",
       "Notes": "The projectile's render mode",
-      "PrivateSet": false,
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
@@ -637,7 +637,7 @@
     {
       "Name": "New_X_Fractional",
       "Value": "0",
-      "Notes": "The fractional X position of the newest actor. Do not get or set!",
+      "Notes": "The fractional X position of the newest actor",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
@@ -653,7 +653,7 @@
     {
       "Name": "New_Y_Fractional",
       "Value": "0",
-      "Notes": "The fractional Y position of the actor. Do not get or set!",
+      "Notes": "The fractional Y position of the actor",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
@@ -669,7 +669,7 @@
     {
       "Name": "New_XSpeed_Fractional",
       "Value": "0",
-      "Notes": "X Speed fractional value - do not GET or SET this",
+      "Notes": "X Speed fractional value",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
@@ -685,7 +685,7 @@
     {
       "Name": "New_YSpeed_Fractional",
       "Value": "0",
-      "Notes": "Y Speed fractional value - do not GET or SET this",
+      "Notes": "Y Speed fractional value",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
@@ -701,24 +701,24 @@
     {
       "Name": "New_Animation",
       "Value": "0",
-      "Notes": "SET to trigger a one off animation on the New Actor",
-      "PrivateSet": false,
+      "Notes": "The Newest Actor's animation",
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
     {
       "Name": "New_LookDir",
       "Value": "0",
-      "Notes": "GET or SET the New Actor's looking direction",
-      "PrivateSet": false,
+      "Notes": "The Newest Actor's looking direction",
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
     {
       "Name": "New_Type",
       "Value": "0",
-      "Notes": "GET or SET the New Actor's type",
-      "PrivateSet": false,
+      "Notes": "The Newest Actor's type",
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
@@ -773,8 +773,8 @@
     {
       "Name": "New_Controller",
       "Value": "1",
-      "Notes": "The controller used by this new actor",
-      "PrivateSet": false,
+      "Notes": "The controller used by the Newest Actor",
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
@@ -797,8 +797,8 @@
     {
       "Name": "New_RenderMode",
       "Value": "0",
-      "Notes": "The render mode of the New Actor",
-      "PrivateSet": false,
+      "Notes": "The render mode of the newest Actor",
+      "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
     },
