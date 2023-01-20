@@ -3,214 +3,6 @@
   "DataVersion": 1,
   "Variables": [
     {
-      "Name": "Player_X",
-      "Value": "0",
-      "Notes": "The X position of the Player",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_X_Fractional",
-      "Value": "0",
-      "Notes": "The fractional X position of the player. Do not get or set!",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_Y",
-      "Value": "0",
-      "Notes": "The Y position of the Player",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_Y_Fractional",
-      "Value": "0",
-      "Notes": "The fractional Y position of the player. Do not get or set!",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_XSpeed",
-      "Value": "0",
-      "Notes": "The X speed of the Player, rounded down to whole numbers",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_XSpeed_Fractional",
-      "Value": "0",
-      "Notes": "X Speed fractional value - do not GET or SET this",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_YSpeed",
-      "Value": "0",
-      "Notes": "The Y speed of the Player, rounded down to whole numbers",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_YSpeed_Fractional",
-      "Value": "0",
-      "Notes": "Y Speed fractional value - do not GET or SET this",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_Z",
-      "Value": "0",
-      "Notes": "The Z-Order of the player",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_Animation",
-      "Value": "0",
-      "Notes": "SET to trigger a one off animation on the Player",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_LookDir",
-      "Value": "0",
-      "Notes": "GET or SET the Player's looking direction",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_Type",
-      "Value": "0",
-      "Notes": "GET or SET the Player's type",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_Var1",
-      "Value": "0",
-      "Notes": "A generic variable that can be used to store any data for the Player",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_Var2",
-      "Value": "0",
-      "Notes": "A generic variable that can be used to store any data for the Player",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_Var3",
-      "Value": "0",
-      "Notes": "A generic variable that can be used to store any data for the Player",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_Var4",
-      "Value": "0",
-      "Notes": "A generic variable that can be used to store any data for the Player",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_Var5",
-      "Value": "0",
-      "Notes": "A generic variable that can be used to store any data for the Player",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_Tag",
-      "Value": "0",
-      "Notes": "A generic variable that can be used to store any data for the Player",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_Controller",
-      "Value": "1",
-      "Notes": "The controller used by this player",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_IsOnPlatform",
-      "Value": "0",
-      "Notes": "Is the Player on the platform?",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_IsMoving",
-      "Value": "0",
-      "Notes": "Is the Player moving?",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_RenderMode",
-      "Value": "0",
-      "Notes": "The player's render mode",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_FrameDelay",
-      "Value": "0",
-      "Notes": "Delay until the next animation frame",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_AttackDelay",
-      "Value": "0",
-      "Notes": "Delay until can attack again",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_UniqueID",
-      "Value": "0",
-      "Notes": "The Unique ID of the player",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
-      "Name": "Player_SpawnerID",
-      "Value": "0",
-      "Notes": "The Player's Spawner ID",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },	
-    {
       "Name": "Actor_X",
       "Value": "0",
       "Notes": "The X position of the Actor",
@@ -414,6 +206,214 @@
       "Name": "Actor_SpawnerID",
       "Value": "0",
       "Notes": "The Actor's Spawner ID",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_X",
+      "Value": "0",
+      "Notes": "The X position of the Player",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_X_Fractional",
+      "Value": "0",
+      "Notes": "The fractional X position of the player. Do not get or set!",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_Y",
+      "Value": "0",
+      "Notes": "The Y position of the Player",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_Y_Fractional",
+      "Value": "0",
+      "Notes": "The fractional Y position of the player. Do not get or set!",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_XSpeed",
+      "Value": "0",
+      "Notes": "The X speed of the Player, rounded down to whole numbers",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_XSpeed_Fractional",
+      "Value": "0",
+      "Notes": "X Speed fractional value - do not GET or SET this",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_YSpeed",
+      "Value": "0",
+      "Notes": "The Y speed of the Player, rounded down to whole numbers",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_YSpeed_Fractional",
+      "Value": "0",
+      "Notes": "Y Speed fractional value - do not GET or SET this",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_Z",
+      "Value": "0",
+      "Notes": "The Z-Order of the player",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_Animation",
+      "Value": "0",
+      "Notes": "SET to trigger a one off animation on the Player",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_LookDir",
+      "Value": "0",
+      "Notes": "GET or SET the Player's looking direction",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_Type",
+      "Value": "0",
+      "Notes": "GET or SET the Player's type",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_Var1",
+      "Value": "0",
+      "Notes": "A generic variable that can be used to store any data for the Player",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_Var2",
+      "Value": "0",
+      "Notes": "A generic variable that can be used to store any data for the Player",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_Var3",
+      "Value": "0",
+      "Notes": "A generic variable that can be used to store any data for the Player",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_Var4",
+      "Value": "0",
+      "Notes": "A generic variable that can be used to store any data for the Player",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_Var5",
+      "Value": "0",
+      "Notes": "A generic variable that can be used to store any data for the Player",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_Tag",
+      "Value": "0",
+      "Notes": "A generic variable that can be used to store any data for the Player",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_Controller",
+      "Value": "1",
+      "Notes": "The controller used by this player",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_IsOnPlatform",
+      "Value": "0",
+      "Notes": "Is the Player on the platform?",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_IsMoving",
+      "Value": "0",
+      "Notes": "Is the Player moving?",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_RenderMode",
+      "Value": "0",
+      "Notes": "The player's render mode",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_FrameDelay",
+      "Value": "0",
+      "Notes": "Delay until the next animation frame",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_AttackDelay",
+      "Value": "0",
+      "Notes": "Delay until can attack again",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_UniqueID",
+      "Value": "0",
+      "Notes": "The Unique ID of the player",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Player_SpawnerID",
+      "Value": "0",
+      "Notes": "The Player's Spawner ID",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
