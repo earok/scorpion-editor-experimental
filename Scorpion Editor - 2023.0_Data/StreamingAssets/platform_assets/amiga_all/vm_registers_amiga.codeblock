@@ -1,5 +1,5 @@
 {
-	"CompileOrder":-100,
+  "CompileOrder": -100,
   "DataVersion": 1,
   "Variables": [
     {
@@ -7,34 +7,39 @@
       "Value": "0",
       "Notes": "The Amiga ControlMode Setting",
       "PrivateSet": false,
+      "Watch": false,
       "VariableType": "Variable"
     },
-	{
+    {
       "Name": "JumpControls",
       "Value": "0",
-      "Notes": "Tje Amiga JumpControls Setting",
+      "Notes": "Te Amiga JumpControls Setting",
       "PrivateSet": false,
+      "Watch": false,
       "VariableType": "Variable"
     },
     {
       "Name": "Uses24BitColor",
       "Value": "0",
       "Notes": "Whether the game is currently using 24 bit color mode",
-      "PrivateSet": false,
+      "PrivateSet": true,
+      "Watch": false,
       "VariableType": "Variable"
     },
     {
       "Name": "AGAFMode",
       "Value": "0",
       "Notes": "The current AGA Fetchmode of the game",
-      "PrivateSet": false,
+      "PrivateSet": true,
+      "Watch": false,
       "VariableType": "Variable"
     },
     {
       "Name": "AGASScan2",
       "Value": "0",
       "Notes": "AGA Sprite Doubling",
-      "PrivateSet": false,
+      "PrivateSet": true,
+      "Watch": false,
       "VariableType": "Variable"
     },
     {
@@ -42,6 +47,7 @@
       "Value": "0",
       "Notes": "ADVANCED if ECS border blank mode is on",
       "PrivateSet": false,
+      "Watch": false,
       "VariableType": "Variable"
     },
     {
@@ -49,13 +55,15 @@
       "Value": "0",
       "Notes": "Value passed to Scorpion as a parameter. e.g. game.exe 50 would set param to 50",
       "PrivateSet": false,
+      "Watch": false,
       "VariableType": "Variable"
     },
     {
       "Name": "IsAGA",
       "Value": "0",
       "Notes": "Is this game running on an AGA machine? May be useful for conditionals allowing access to AGA exclusive content",
-      "PrivateSet": false,
+      "PrivateSet": true,
+      "Watch": false,
       "VariableType": "Variable"
     },
     {
@@ -63,13 +71,15 @@
       "Value": "0",
       "Notes": "Is this game running on an NTSC machine?",
       "PrivateSet": false,
+      "Watch": false,
       "VariableType": "Variable"
     },
     {
       "Name": "IsFloppy",
       "Value": "0",
       "Notes": "Is this game running from a floppy? (ie, a file called FLOPPY exists in the data folder)",
-      "PrivateSet": false,
+      "PrivateSet": true,
+      "Watch": false,
       "VariableType": "Variable"
     },
     {
@@ -77,22 +87,113 @@
       "Value": "0",
       "Notes": "Used for setting the number of sprite pairs behind the bitplanes (0-4)",
       "PrivateSet": false,
+      "Watch": false,
       "VariableType": "Variable"
-    },	
+    },
     {
       "Name": "ChipRam",
       "Value": "0",
       "Notes": "ChipRam in Kilobytes",
-      "PrivateSet": false,
+      "PrivateSet": true,
+      "Watch": false,
       "VariableType": "Variable"
     },
     {
       "Name": "OtherRam",
       "Value": "0",
       "Notes": "OtherRam in Kilobytes",
-      "PrivateSet": false,
+      "PrivateSet": true,
+      "Watch": false,
       "VariableType": "Variable"
-    },		
+    },
+    {
+      "Name": "Processor",
+      "Value": "0",
+      "Notes": "Which Processor is attached?",
+      "PrivateSet": true,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Kickstart",
+      "Value": "0",
+      "Notes": "Which Kickstart version we have?",
+      "PrivateSet": true,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "M68000",
+      "Value": "0",
+      "Notes": null,
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Constant"
+    },
+    {
+      "Name": "M68010",
+      "Value": "1",
+      "Notes": null,
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Constant"
+    },
+    {
+      "Name": "M68020",
+      "Value": "2",
+      "Notes": null,
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Constant"
+    },
+    {
+      "Name": "M68030",
+      "Value": "3",
+      "Notes": null,
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Constant"
+    },
+    {
+      "Name": "M68040",
+      "Value": "4",
+      "Notes": null,
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Constant"
+    },
+    {
+      "Name": "KS_1_2",
+      "Value": "33",
+      "Notes": null,
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Constant"
+    },
+    {
+      "Name": "KS_1_3",
+      "Value": "34",
+      "Notes": null,
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Constant"
+    },
+    {
+      "Name": "KS_2_0",
+      "Value": "36",
+      "Notes": null,
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Constant"
+    },
+    {
+      "Name": "KS_3_0",
+      "Value": "39",
+      "Notes": null,
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Constant"
+    }
   ],
   "Commands": []
 }
