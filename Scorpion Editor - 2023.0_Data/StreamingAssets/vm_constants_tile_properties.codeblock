@@ -41,7 +41,7 @@
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Constant"
-    },	
+    },
     {
       "Name": "TileBit_AIBlock",
       "Value": "10",
@@ -70,7 +70,7 @@
   "Commands": [
     {
       "Values": {},
-      "DataVersion": 2,
+      "DataVersion": 3,
       "Category": "Base",
       "BasicOperationType": "CommentOnly",
       "DisplayOperationType": "SetPanel",
@@ -81,7 +81,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
-      "CoreType": "RefreshActorVariable",
+      "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
       "Comment": "Use conditions like \"tileproperty bittest tilebit_solid\" to check the property under block_x and block_y",
