@@ -4,34 +4,34 @@ Reduce width of sprites\shipmast.png by 9 pixels to 32 to reduce sprites by 2
 === Estimated memory usages ===
 
 For chip:
-Map gfx (Panel: scorpion_eng_splashscreen): 36186
+Map gfx (Panel: scorpion_eng_splashscreen): 35930
 Music memory: 0
-BP Buffer memory: 131520
-core sfx/gfx memory: 17744
-Parallax memory: 0
+BP Buffer memory: 155200
+core sfx/gfx memory: 17904
+Parallax memory: 27588
 
 For other:
 Map cache memory: 0
 Map header cache memory: 0
-Map data memory: 2340
-Map background memory: 2672
-EXE memory: 200120
-vm memory: 6040
-project memory: 3536
+Map data memory: 10176
+Map background memory: 2984
+EXE memory: 200728
+vm memory: 6612
+project memory: 2152
 
-Accounted memory chip: 185450
-Accounted memory other: 214708
-Accounted memory total: 400158
+Accounted memory chip: 236622
+Accounted memory other: 222652
+Accounted memory total: 459274
 
 === Misc ===
 Maps and Asset Bundles Count: 2
 Maps and Asset Bundles Data Size: 24
 Actor Count: 4
-Actor Data Size: 1168
-Block Count: 1
-Block Data Size: 52
-Anim5 Count: 1
-Anim5 Data Size: 1036
+Actor Data Size: 864
+Block Count: 2
+Block Data Size: 104
+Anim5 Count: 0
+Anim5 Data Size: 0
 Sound Count: 1
 Sound Data Size: 32
 Teleporter Count: 1
@@ -41,16 +41,22 @@ Animations Data Size: 176
 AnimationFrame Count: 14
 AnimationFrame Data Size: 224
 ImageFrames: 12
-ImageFrame Data Size: 816
-Asset bundle 0 (Core project asset bundle) Original size 17744 Crunched size 4856
-Asset bundle 1 (map) Original size 3520 Crunched size 684
-Background for map map Original size 2672 Crunched size 92
-Tile data for map map (mem restrictions:No_Blocks) Original size 2340 Crunched size 256
-Header data for map map Original size 8756 Crunched size 284
-Project Data Original size 3536 Crunched size 584
-Project Header Original size 4040 Crunched size 1188
-Panel scorpion_eng_splashscreen Original size 36186 Crunched size 3280
-Project virtual machine (codeblocks) Original size 6040 Crunched size 1846
+ImageFrame Data Size: 528
+Sprites: 2
+Sprites Data Size: 28
+Attack Data: 2
+Attack Data Size: 132
+Misc data size: 30
+Asset bundle 0 (Core project asset bundle) Original size 17904 Crunched size 4870
+Asset bundle 1 (map) Original size 8320 Crunched size 2288
+Background for map map Original size 2984 Crunched size 352
+Tile data for map map (mem restrictions:None) Original size 10176 Crunched size 552
+Header data for map map Original size 7988 Crunched size 258
+Parallax for map map Original size 27588 Crunched size 2692
+Project Data Original size 2152 Crunched size 550
+Project Header Original size 4040 Crunched size 1192
+Panel scorpion_eng_splashscreen Original size 35930 Crunched size 3266
+Project virtual machine (codeblocks) Original size 6612 Crunched size 2008
 Project virtual machine redirects Original size 4 Crunched size 4
 
 Codeblocks by compiled size: 
@@ -59,14 +65,16 @@ load_level: 988
 do_teleport: 362
 flipscreen_smooth: 346
 flipxymove: 306
+ship_landed: 274
+temp: 252
 snap_to_screen: 190
 pre_startup: 188
+startup: 184
 flipymove: 174
 flipxmove: 158
 set_yresolution: 158
 load_panel: 146
 pre_quit: 146
-startup: 138
 destroy_all_blocks: 124
 unload_level: 114
 load_panel_bottom: 96

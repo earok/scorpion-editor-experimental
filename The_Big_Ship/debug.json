@@ -4689,118 +4689,418 @@
       "Description": "Set 'actor_y' to 'actor_y + yres + 16'"
     },
     {
-      "CodeBlock": "ship_spawn",
+      "CodeBlock": "ship_landed",
       "CodeBlockLine": 0,
       "MemoryOffset": 5434,
+      "Description": "SHIP_LANDED"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 2,
+      "MemoryOffset": 5434,
+      "Description": "If 'projectile_type' Equals 'ship_base' ELSE GOTO 00005682"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 3,
+      "MemoryOffset": 5456,
+      "Description": "If 'projectile_x' GreaterThan '640' ELSE GOTO 00005570"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 4,
+      "MemoryOffset": 5480,
+      "Description": "If 'lookmask_right' BitTest 'projectile_lookdir' ELSE GOTO 00005570"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 5504,
+      "Description": "Raw expression '8'"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 5510,
+      "Description": "Raw expression 'projectile_lookdir - 2'"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 5532,
+      "Description": "Core operation'ActorSetLookdir'"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 6,
+      "MemoryOffset": 5536,
+      "Description": "Raw expression '8'"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 6,
+      "MemoryOffset": 5542,
+      "Description": "Raw expression '-16512'"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 6,
+      "MemoryOffset": 5548,
+      "Description": "Raw expression '16384'"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 6,
+      "MemoryOffset": 5554,
+      "Description": "Raw expression '0'"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 6,
+      "MemoryOffset": 5560,
+      "Description": "Raw expression '1'"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 6,
+      "MemoryOffset": 5566,
+      "Description": "Core operation'RefreshActorXSpeed'"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 9,
+      "MemoryOffset": 5570,
+      "Description": "If 'projectile_x' LessThan '384' ELSE GOTO 00005682"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 10,
+      "MemoryOffset": 5594,
+      "Description": "If 'lookmask_left' BitTest 'projectile_lookdir' ELSE GOTO 00005682"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 11,
+      "MemoryOffset": 5616,
+      "Description": "Raw expression '8'"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 11,
+      "MemoryOffset": 5622,
+      "Description": "Raw expression 'projectile_lookdir + 2'"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 11,
+      "MemoryOffset": 5644,
+      "Description": "Core operation'ActorSetLookdir'"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 12,
+      "MemoryOffset": 5648,
+      "Description": "Raw expression '8'"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 12,
+      "MemoryOffset": 5654,
+      "Description": "Raw expression '16512'"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 12,
+      "MemoryOffset": 5660,
+      "Description": "Raw expression '16384'"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 12,
+      "MemoryOffset": 5666,
+      "Description": "Raw expression '0'"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 12,
+      "MemoryOffset": 5672,
+      "Description": "Raw expression '1'"
+    },
+    {
+      "CodeBlock": "ship_landed",
+      "CodeBlockLine": 12,
+      "MemoryOffset": 5678,
+      "Description": "Core operation'RefreshActorXSpeed'"
+    },
+    {
+      "CodeBlock": "ship_spawn",
+      "CodeBlockLine": 0,
+      "MemoryOffset": 5708,
       "Description": "SHIP_SPAWN"
     },
     {
       "CodeBlock": "ship_spawn",
       "CodeBlockLine": 1,
-      "MemoryOffset": 5434,
+      "MemoryOffset": 5708,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "ship_spawn",
       "CodeBlockLine": 1,
-      "MemoryOffset": 5440,
+      "MemoryOffset": 5714,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "ship_spawn",
       "CodeBlockLine": 1,
-      "MemoryOffset": 5446,
+      "MemoryOffset": 5720,
       "Description": "Core operation'RefreshActorNoClear'"
     },
     {
       "CodeBlock": "ship_spawn",
       "CodeBlockLine": 2,
-      "MemoryOffset": 5450,
+      "MemoryOffset": 5724,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "ship_spawn",
       "CodeBlockLine": 2,
-      "MemoryOffset": 5456,
+      "MemoryOffset": 5730,
       "Description": "Raw expression 'ship_mast'"
     },
     {
       "CodeBlock": "ship_spawn",
       "CodeBlockLine": 2,
-      "MemoryOffset": 5462,
+      "MemoryOffset": 5736,
       "Description": "Core operation'ActorSpawn'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 0,
-      "MemoryOffset": 5492,
+      "MemoryOffset": 5766,
       "Description": "STARTUP"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 5492,
-      "Description": "If 'actor_type' NotZero '0' ELSE GOTO 00005532"
+      "MemoryOffset": 5766,
+      "Description": "GOSUB TO 'UNLOAD_LEVEL'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 5512,
+      "CodeBlockLine": 2,
+      "MemoryOffset": 5786,
+      "Description": "Set 'newvalue' to '208'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 2,
+      "MemoryOffset": 5792,
+      "Description": "GOSUB TO 'SET_YRESOLUTION'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 3,
+      "MemoryOffset": 5812,
+      "Description": "If 'actor_type' NotZero '0' ELSE GOTO 00005852"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 3,
+      "MemoryOffset": 5832,
       "Description": "Yield on  timer to  next line"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 5532,
+      "CodeBlockLine": 3,
+      "MemoryOffset": 5852,
       "Description": "Set 'newvalue' to 'map'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 5538,
+      "CodeBlockLine": 3,
+      "MemoryOffset": 5858,
       "Description": "GOSUB TO 'LOAD_LEVEL'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 2,
-      "MemoryOffset": 5558,
+      "CodeBlockLine": 4,
+      "MemoryOffset": 5878,
       "Description": "Raw expression 'ship_base'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 2,
-      "MemoryOffset": 5564,
-      "Description": "Raw expression '9 * 16'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 2,
-      "MemoryOffset": 5574,
-      "Description": "Raw expression '10 * 16'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 2,
-      "MemoryOffset": 5584,
-      "Description": "Core operation'PixelSpawn'"
+      "CodeBlockLine": 4,
+      "MemoryOffset": 5884,
+      "Description": "Raw expression '32 * 16'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 4,
-      "MemoryOffset": 5588,
+      "MemoryOffset": 5894,
+      "Description": "Raw expression '24 * 16'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 4,
+      "MemoryOffset": 5904,
+      "Description": "Core operation'PixelSpawn'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 6,
+      "MemoryOffset": 5908,
       "Description": "Set 'drawclipbottom' to '3'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 5,
-      "MemoryOffset": 5594,
-      "Description": "Set 'backgroundspritepairs' to '4'"
+      "CodeBlockLine": 7,
+      "MemoryOffset": 5914,
+      "Description": "Set 'backgroundspritepairs' to '3'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 5,
-      "MemoryOffset": 5600,
+      "CodeBlockLine": 7,
+      "MemoryOffset": 5920,
       "Description": "Core operation'RefreshCopper'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 0,
+      "MemoryOffset": 5950,
+      "Description": "TEMP"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 2,
+      "MemoryOffset": 5950,
+      "Description": "If 'actor_x' GreaterThan '640' ELSE GOTO 00006064"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 3,
+      "MemoryOffset": 5974,
+      "Description": "If 'lookmask_right' BitTest 'actor_lookdir' ELSE GOTO 00006064"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 4,
+      "MemoryOffset": 5998,
+      "Description": "Raw expression '0'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 4,
+      "MemoryOffset": 6004,
+      "Description": "Raw expression 'actor_lookdir - 2'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 4,
+      "MemoryOffset": 6026,
+      "Description": "Core operation'ActorSetLookdir'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 6030,
+      "Description": "Raw expression '0'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 6036,
+      "Description": "Raw expression '-16512'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 6042,
+      "Description": "Raw expression '16384'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 6048,
+      "Description": "Raw expression '0'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 6054,
+      "Description": "Raw expression '1'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 6060,
+      "Description": "Core operation'RefreshActorXSpeed'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 8,
+      "MemoryOffset": 6064,
+      "Description": "If 'actor_x' LessThan '384' ELSE GOTO 00006176"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 9,
+      "MemoryOffset": 6088,
+      "Description": "If 'lookmask_left' BitTest 'actor_lookdir' ELSE GOTO 00006176"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 10,
+      "MemoryOffset": 6110,
+      "Description": "Raw expression '0'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 10,
+      "MemoryOffset": 6116,
+      "Description": "Raw expression 'actor_lookdir + 2'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 10,
+      "MemoryOffset": 6138,
+      "Description": "Core operation'ActorSetLookdir'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 11,
+      "MemoryOffset": 6142,
+      "Description": "Raw expression '0'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 11,
+      "MemoryOffset": 6148,
+      "Description": "Raw expression '16512'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 11,
+      "MemoryOffset": 6154,
+      "Description": "Raw expression '16384'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 11,
+      "MemoryOffset": 6160,
+      "Description": "Raw expression '0'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 11,
+      "MemoryOffset": 6166,
+      "Description": "Raw expression '1'"
+    },
+    {
+      "CodeBlock": "temp",
+      "CodeBlockLine": 11,
+      "MemoryOffset": 6172,
+      "Description": "Core operation'RefreshActorXSpeed'"
     }
   ],
   "Levels": {

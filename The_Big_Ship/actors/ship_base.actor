@@ -1,12 +1,12 @@
 {
   "ShootDirType": "actor_direction",
   "ClassType": "Platform",
-  "DefaultLookDir": "up",
-  "Recycle": "Default",
+  "DefaultLookDir": "upright",
+  "Recycle": "Never",
   "MoveType": "cpu_wave",
   "MaxEntities": 0,
-  "NudgeX": -78,
-  "NudgeY": -15,
+  "NudgeX": 5,
+  "NudgeY": -14,
   "Idles": {
     "UpLeft": "a_ship_base",
     "Up": "a_ship_base",
@@ -96,17 +96,17 @@
   "CollBox": {
     "X": -128,
     "Y": 14,
-    "Width": 247,
-    "Height": 24
+    "Width": 256,
+    "Height": 17
   },
   "AttackDelay": 0,
   "ZOrder": -2000,
-  "SpeedLeft": 0.0,
-  "SpeedRight": 0.0,
+  "SpeedLeft": 0.5,
+  "SpeedRight": 0.5,
   "SpeedUp": 0.25,
   "SpeedDown": 0.25,
-  "AccelLeft": null,
-  "AccelRight": null,
+  "AccelLeft": 0.0,
+  "AccelRight": 0.0,
   "AccelUp": 0.0025,
   "AccelDown": 0.0025,
   "AccelLeftAir": null,
@@ -124,7 +124,7 @@
   "JumpSound": null,
   "DivertAttack": null,
   "DivertSpawn": "ship_spawn",
-  "DivertPlayerCollision": "destroy_actor",
+  "DivertPlayerCollision": "",
   "DivertPlayerHit": null,
   "DivertHitAgainstPlayer": null,
   "DivertProjectileCollision": null,
@@ -147,6 +147,6 @@
   "ControlPort": 0,
   "DataVersion": 1,
   "TileID": 0,
-  "SuggestedRecycle": "Always",
+  "SuggestedRecycle": "Never",
   "UpAccelerationName": "Accel Up"
 }
