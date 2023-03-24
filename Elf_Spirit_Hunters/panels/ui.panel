@@ -1,7 +1,6 @@
 {
   "DataVersion": 2,
   "FirstCopper": 0,
-  "PanelImagePath": "panels\\ui.png",
   "FadeInFrames": 0,
   "FadeOutFrames": 0,
   "FadeInMusic": false,
@@ -11,6 +10,7 @@
   "TalkpadY": 16,
   "TalkpadWidth": 272,
   "TalkpadHeight": 8,
+  "PanelImagePath": "panels\\ui.png",
   "FireIndicatorPath": null,
   "ChoiceIndicatorPath": null,
   "FireIndicatorX": 0,
@@ -27,6 +27,7 @@
       "BarImage": null,
       "CounterImage1": "panels\\elf_lives.png",
       "CounterDivisions": 1,
+      "PaletteLine": 3,
       "MaxValue": 5
     },
     {
@@ -39,6 +40,7 @@
       "BarImage": null,
       "CounterImage1": "panels\\chest_full.png",
       "CounterDivisions": 1,
+      "PaletteLine": 3,
       "MaxValue": 3
     },
     {
@@ -51,6 +53,7 @@
       "BarImage": null,
       "CounterImage1": "panels\\elf_dead.png",
       "CounterDivisions": 1,
+      "PaletteLine": 3,
       "MaxValue": 5
     },
     {
@@ -63,6 +66,7 @@
       "BarImage": null,
       "CounterImage1": "panels\\chest_lives.png",
       "CounterDivisions": 1,
+      "PaletteLine": 3,
       "MaxValue": 3
     },
     {
@@ -75,6 +79,7 @@
       "BarImage": "panels\\battery_bar.png",
       "CounterImage1": "panels\\battery_lives.png",
       "CounterDivisions": 1,
+      "PaletteLine": 3,
       "MaxValue": 80
     },
     {
@@ -87,11 +92,13 @@
       "BarImage": null,
       "CounterImage1": null,
       "CounterDivisions": 1,
+      "PaletteLine": 3,
       "MaxValue": 32767
     }
   ],
   "GFXMode": "BP5",
-  "PanelOptionSound": null,
+  "PanelOptionSound": "none",
+  "PanelOptionSoundMD": "none",
   "OverlapsGameView": false,
   "CenterAdjustments": {
     "0": 16,
@@ -102,5 +109,6 @@
   "CenterAdjust_MegaDrive": 16,
   "PaletteLines_MegaDrive": 1,
   "StartingPaletteLine_MegaDrive": 3,
-  "TalkpadPalLine": 0
+  "TalkpadPalLine": 0,
+  "NumberFontPaletteLine": 0
 }
