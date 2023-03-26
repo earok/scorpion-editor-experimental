@@ -23,7 +23,7 @@ Reduce width of sprites\enemy\witch_caught.png by 14 pixels to 32 to improve bli
 === Estimated memory usages ===
 
 For chip:
-Map gfx (Panel: store): 57798
+Map gfx (Panel: store): 57800
 Music memory: 0
 BP Buffer memory: 96096
 core sfx/gfx memory: 130032
@@ -34,13 +34,13 @@ Map cache memory: 1378
 Map header cache memory: 1378
 Map data memory: 7128
 Map background memory: 2672
-EXE memory: 200336
-vm memory: 16004
+EXE memory: 200652
+vm memory: 16030
 project memory: 8986
 
-Accounted memory chip: 283926
-Accounted memory other: 237882
-Accounted memory total: 521808
+Accounted memory chip: 283928
+Accounted memory other: 238224
+Accounted memory total: 522152
 
 === Misc ===
 Maps and Asset Bundles Count: 2
@@ -72,14 +72,14 @@ Background for map map Original size 2672 Crunched size 92
 Tile data for map map (mem restrictions:None) Original size 7128 Crunched size 1378
 Header data for map map Original size 7992 Crunched size 254
 Project Data Original size 8986 Crunched size 1878
-Project Header Original size 4036 Crunched size 1192
-Panel scorpion_eng_splashscreen Original size 35944 Crunched size 3280
-Panel emptypanel Original size 56336 Crunched size 2946
-Panel main_panel Original size 47460 Crunched size 4570
-Panel store Original size 57798 Crunched size 5844
-Panel title_panel Original size 47460 Crunched size 14634
-Panel ui Original size 21364 Crunched size 3272
-Project virtual machine (codeblocks) Original size 16004 Crunched size 5360
+Project Header Original size 4034 Crunched size 1190
+Panel scorpion_eng_splashscreen Original size 35946 Crunched size 3280
+Panel emptypanel Original size 56338 Crunched size 2944
+Panel main_panel Original size 47462 Crunched size 4570
+Panel store Original size 57800 Crunched size 5846
+Panel title_panel Original size 47462 Crunched size 14632
+Panel ui Original size 21366 Crunched size 3272
+Project virtual machine (codeblocks) Original size 16030 Crunched size 5364
 Project virtual machine redirects Original size 4 Crunched size 4
 
 Codeblocks by compiled size: 
@@ -155,6 +155,7 @@ debug_dump: 30
 vm_registers: 26
 vm_constants: 26
 vm_registers_amiga: 26
+control_bits: 26
 debug_breakpoint: 26
 vm_constants_notes: 26
 vm_constants_tile_properties: 26
