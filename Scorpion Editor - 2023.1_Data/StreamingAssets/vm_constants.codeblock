@@ -396,7 +396,7 @@
     },
     {
       "Name": "Trigger_AttackSound",
-      "Value": "-1",
+      "Value": "-10",
       "Notes": "Set sound to this to trigger the actor's attack sound",
       "PrivateSet": false,
       "Watch": false,
@@ -404,7 +404,7 @@
     },
     {
       "Name": "Trigger_JumpSound",
-      "Value": "-2",
+      "Value": "-20",
       "Notes": "Set sound to this to trigger the actor's jump sound",
       "PrivateSet": false,
       "Watch": false,
@@ -483,9 +483,9 @@
       "VariableType": "Constant"
     },
     {
-      "Name": "RenderMode_NoClear",
+      "Name": "RenderMode_Shadow",
       "Value": "5",
-      "Notes": "Rendering doesn't clear the background",
+      "Notes": "Rendering is shadowed",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Constant"
@@ -539,9 +539,25 @@
       "VariableType": "Constant"
     },
     {
-      "Name": "Trigger_CancelSound",
+      "Name": "Trigger_CancelSound0",
       "Value": "0",
-      "Notes": "Cancel a sound (Mega Drive only)",
+      "Notes": "Cancel priority 0 sfx (Mega Drive only)",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Constant"
+    },
+    {
+      "Name": "Trigger_CancelSound1",
+      "Value": "-1",
+      "Notes": "Cancel priority 1 sfx (Mega Drive only)",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Constant"
+    },
+    {
+      "Name": "Trigger_CancelSound2",
+      "Value": "-2",
+      "Notes": "Cancel priority 2 sfx (Mega Drive only)",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Constant"
