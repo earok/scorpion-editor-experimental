@@ -1,8 +1,8 @@
 {
-  "TargetPlatform": "megadrive",
+  "TargetPlatform": "amiga_ocs",
   "Talkpad": null,
   "Talkpad_OnBottom": false,
-  "StartupCodeBlock": "startup",
+  "StartupCodeBlock": "startup2",
   "Recompile": true,
   "DebugMode": false,
   "StartupSequenceDirty": false,
@@ -25,6 +25,10 @@
       "CD32Forward": false,
       "CD32Green": false,
       "CD32Yellow": false,
+      "MegaDrive_B": false,
+      "MegaDrive_C": false,
+      "MegaDrive_A": false,
+      "MegaDrive_Start": false,
       "OnPress": "pause",
       "OnRelease": null
     },
@@ -41,6 +45,10 @@
       "CD32Forward": false,
       "CD32Green": false,
       "CD32Yellow": false,
+      "MegaDrive_B": false,
+      "MegaDrive_C": false,
+      "MegaDrive_A": false,
+      "MegaDrive_Start": false,
       "OnPress": "destroy_all_blocks",
       "OnRelease": null
     }
@@ -144,17 +152,25 @@
       "LinkedMap": "",
       "RepeatDelay": 1,
       "IsMusic": false,
-      "Priority": 0
+      "Priority": 1
     }
   },
   "NumberFontMetaData": {
     "defaultnumberfont": {
+      "Radix": 10
+    },
+    "uinumberfont": {
       "Radix": 10
     }
   },
   "FontMetaData": {
     "defaultfont": {
       "IsMonoSpaced": true,
+      "LineHeight": 8,
+      "SpaceWidth": 8
+    },
+    "defaultfont_black": {
+      "IsMonoSpaced": false,
       "LineHeight": 8,
       "SpaceWidth": 8
     }
