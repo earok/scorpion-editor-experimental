@@ -1,8 +1,8 @@
 {
-  "TargetPlatform": "amiga_ocs",
+  "TargetPlatform": "megadrive",
   "Talkpad": null,
   "Talkpad_OnBottom": false,
-  "StartupCodeBlock": "startup2",
+  "StartupCodeBlock": "startup",
   "Recompile": true,
   "DebugMode": false,
   "StartupSequenceDirty": false,
@@ -50,6 +50,26 @@
       "MegaDrive_A": false,
       "MegaDrive_Start": false,
       "OnPress": "destroy_all_blocks",
+      "OnRelease": null
+    },
+    {
+      "Compiler": "megadrive",
+      "Key": "Tilde",
+      "JoystickPort": 0,
+      "JoystickX": 0,
+      "JoystickY": 0,
+      "JoystickFire1": false,
+      "JoystickFire2": false,
+      "CD32Play": false,
+      "CD32Reverse": false,
+      "CD32Forward": false,
+      "CD32Green": false,
+      "CD32Yellow": false,
+      "MegaDrive_B": false,
+      "MegaDrive_C": false,
+      "MegaDrive_A": false,
+      "MegaDrive_Start": true,
+      "OnPress": "pause",
       "OnRelease": null
     }
   ],
