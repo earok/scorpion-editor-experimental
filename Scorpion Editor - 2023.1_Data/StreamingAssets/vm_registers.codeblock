@@ -1641,6 +1641,126 @@
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
+    },
+    {
+      "Name": "ControlMode",
+      "Value": "0",
+      "Notes": "The ControlMode Setting",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "JumpControls",
+      "Value": "0",
+      "Notes": "The JumpControls Setting",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "HighColor",
+      "Value": "0",
+      "Notes": "24 Bit on AGA Amiga. Highlight/Shadow on Mega Drive.",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "AGAFMode",
+      "Value": "0",
+      "Notes": "The current AGA Fetchmode of the game",
+      "PrivateSet": true,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "AGASScan2",
+      "Value": "0",
+      "Notes": "AGA Sprite Doubling",
+      "PrivateSet": true,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "BPLCon3",
+      "Value": "0xC00",
+      "Notes": "ADVANCED set BPLCon3 settings",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Param",
+      "Value": "0",
+      "Notes": "Value passed to Scorpion as a parameter. e.g. game.exe 50 would set param to 50",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "IsAGA",
+      "Value": "0",
+      "Notes": "Is this game running on an AGA machine? May be useful for conditionals allowing access to AGA exclusive content",
+      "PrivateSet": true,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "IsNTSC",
+      "Value": "0",
+      "Notes": "Is this game running on an NTSC machine?",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "IsFloppy",
+      "Value": "0",
+      "Notes": "Is this game running from a floppy? (ie, a file called FLOPPY exists in the data folder)",
+      "PrivateSet": true,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "BackgroundSpritePairs",
+      "Value": "0",
+      "Notes": "Used for setting the number of sprite pairs behind the bitplanes (0-4)",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "ChipRam",
+      "Value": "0",
+      "Notes": "ChipRam in Kilobytes",
+      "PrivateSet": true,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "OtherRam",
+      "Value": "0",
+      "Notes": "OtherRam in Kilobytes",
+      "PrivateSet": true,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Processor",
+      "Value": "0",
+      "Notes": "Which Processor is attached?",
+      "PrivateSet": true,
+      "Watch": false,
+      "VariableType": "Variable"
+    },
+    {
+      "Name": "Kickstart",
+      "Value": "0",
+      "Notes": "Which Kickstart version we have?",
+      "PrivateSet": true,
+      "Watch": false,
+      "VariableType": "Variable"
     }
   ],
   "Commands": []
