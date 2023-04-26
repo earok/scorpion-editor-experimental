@@ -269,7 +269,7 @@
     {
       "CodeBlock": "vm_constants",
       "Name": "stop_moving",
-      "DefaultValue": "20",
+      "DefaultValue": "-3",
       "Index": 0,
       "MemoryOffset": 0
     },
@@ -969,14 +969,14 @@
     {
       "CodeBlock": "vm_constants_platform",
       "Name": "ismegadrive",
-      "DefaultValue": "-1",
+      "DefaultValue": "0",
       "Index": 0,
       "MemoryOffset": 0
     },
     {
       "CodeBlock": "vm_constants_platform",
       "Name": "isamiga",
-      "DefaultValue": "0",
+      "DefaultValue": "-1",
       "Index": 0,
       "MemoryOffset": 0
     },
@@ -2658,7 +2658,7 @@
     {
       "CodeBlock": "game_loop",
       "Name": "camera_offset",
-      "DefaultValue": "8",
+      "DefaultValue": "0",
       "Index": 229,
       "MemoryOffset": 229
     },
@@ -2800,7 +2800,7 @@
       "CodeBlock": "project",
       "CodeBlockLine": 0,
       "MemoryOffset": 6,
-      "Description": "Set 'controlmode' to '1'"
+      "Description": "Set 'controlmode' to '2'"
     },
     {
       "CodeBlock": "project",
@@ -9610,155 +9610,167 @@
       "CodeBlock": "startup",
       "CodeBlockLine": 6,
       "MemoryOffset": 14374,
-      "Description": "Set 'newvalue' to '224'"
+      "Description": "If 'IsAmiga' NotZero 'true'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 6,
-      "MemoryOffset": 14380,
-      "Description": "GOSUB TO 'SET_YRESOLUTION'"
+      "CodeBlockLine": 8,
+      "MemoryOffset": 14382,
+      "Description": "Set 'camera_offset' to '0'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 7,
+      "CodeBlockLine": 9,
+      "MemoryOffset": 14388,
+      "Description": "GOTO '00014400'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 10,
+      "MemoryOffset": 14394,
+      "Description": "Set 'camera_offset' to '8'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 12,
       "MemoryOffset": 14400,
       "Description": "Set 'camera_follow' to '0'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 7,
+      "CodeBlockLine": 12,
       "MemoryOffset": 14406,
       "Description": "Core operation'RefreshCameraFollow'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 8,
+      "CodeBlockLine": 13,
       "MemoryOffset": 14410,
       "Description": "GOSUB TO 'UNLOAD_LEVEL'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 8,
+      "CodeBlockLine": 13,
       "MemoryOffset": 14430,
       "Description": "Set 'newvalue' to 'title_panel'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 8,
+      "CodeBlockLine": 13,
       "MemoryOffset": 14436,
       "Description": "GOSUB TO 'LOAD_PANEL'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 9,
+      "CodeBlockLine": 14,
       "MemoryOffset": 14456,
       "Description": "Raw expression 'gsfx_29_good_news'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 9,
+      "CodeBlockLine": 14,
       "MemoryOffset": 14462,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 9,
+      "CodeBlockLine": 14,
       "MemoryOffset": 14468,
       "Description": "Core operation'Sound'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 10,
+      "CodeBlockLine": 15,
       "MemoryOffset": 14472,
       "Description": "Set 'wait' to '0'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 10,
+      "CodeBlockLine": 15,
       "MemoryOffset": 14478,
       "Description": "GOSUB TO 'WAITFORFRAMES'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 11,
+      "CodeBlockLine": 16,
       "MemoryOffset": 14498,
       "Description": "Raw expression 'gsfx_38_coin'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 11,
+      "CodeBlockLine": 16,
       "MemoryOffset": 14504,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 11,
+      "CodeBlockLine": 16,
       "MemoryOffset": 14510,
       "Description": "Core operation'Sound'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 17,
       "MemoryOffset": 14514,
       "Description": "GOSUB TO 'UNLOAD_LEVEL'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 17,
       "MemoryOffset": 14534,
       "Description": "Set 'newvalue' to 'main_panel'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 17,
       "MemoryOffset": 14540,
       "Description": "GOSUB TO 'LOAD_PANEL'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 17,
       "MemoryOffset": 14560,
       "Description": "If 'panel' NotEquals '0' ELSE GOTO 00014618"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 17,
       "MemoryOffset": 14572,
       "Description": "Set 'wait' to '0'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 17,
       "MemoryOffset": 14578,
       "Description": "GOSUB TO 'WAITFORFRAMES'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 17,
       "MemoryOffset": 14598,
       "Description": "GOSUB TO 'UNLOAD_PANEL'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 13,
+      "CodeBlockLine": 18,
       "MemoryOffset": 14618,
       "Description": "Raw expression 'gsfx_38_coin'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 13,
+      "CodeBlockLine": 18,
       "MemoryOffset": 14624,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 13,
+      "CodeBlockLine": 18,
       "MemoryOffset": 14630,
       "Description": "Core operation'Sound'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 14,
+      "CodeBlockLine": 19,
       "MemoryOffset": 14634,
       "Description": "GOTO 'STORE_MANAGER'"
     },
@@ -9772,804 +9784,768 @@
       "CodeBlock": "startup2",
       "CodeBlockLine": 1,
       "MemoryOffset": 14666,
-      "Description": "If 'actor_type' NotZero '0' ELSE GOTO 00014706"
+      "Description": "GOSUB TO 'UNLOAD_LEVEL'"
     },
     {
       "CodeBlock": "startup2",
       "CodeBlockLine": 1,
       "MemoryOffset": 14686,
-      "Description": "Yield on  timer to  next line"
+      "Description": "Set 'newvalue' to 'copyof_store'"
     },
     {
       "CodeBlock": "startup2",
       "CodeBlockLine": 1,
-      "MemoryOffset": 14706,
-      "Description": "Set 'panel_bottom' to 'ui'"
-    },
-    {
-      "CodeBlock": "startup2",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 14712,
-      "Description": "Set 'newvalue' to 'map'"
-    },
-    {
-      "CodeBlock": "startup2",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 14718,
-      "Description": "GOSUB TO 'LOAD_LEVEL'"
+      "MemoryOffset": 14692,
+      "Description": "GOSUB TO 'LOAD_PANEL'"
     },
     {
       "CodeBlock": "startup2",
       "CodeBlockLine": 2,
-      "MemoryOffset": 14738,
-      "Description": "If 'true' NotZero '0' ELSE GOTO 00014802"
+      "MemoryOffset": 14712,
+      "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup2",
-      "CodeBlockLine": 3,
-      "MemoryOffset": 14746,
-      "Description": "If 'battery_bar' NotEquals '1 - battery_bar' ELSE GOTO 00014776"
-    },
-    {
-      "CodeBlock": "startup2",
-      "CodeBlockLine": 3,
-      "MemoryOffset": 14762,
-      "Description": "Set 'battery_bar' to '1 - battery_bar'"
-    },
-    {
-      "CodeBlock": "startup2",
-      "CodeBlockLine": 3,
-      "MemoryOffset": 14772,
-      "Description": "Core operation'RefreshUI'"
-    },
-    {
-      "CodeBlock": "startup2",
-      "CodeBlockLine": 4,
-      "MemoryOffset": 14776,
-      "Description": "Yield on  timer to  next line"
-    },
-    {
-      "CodeBlock": "startup2",
-      "CodeBlockLine": 5,
-      "MemoryOffset": 14796,
-      "Description": "GOTO '00014738'"
+      "CodeBlockLine": 2,
+      "MemoryOffset": 14716,
+      "Description": "Print 'Hello world' to middle panel"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 0,
-      "MemoryOffset": 14828,
+      "MemoryOffset": 14758,
       "Description": "STORE_MANAGER"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 1,
-      "MemoryOffset": 14828,
-      "Description": "If 'max_elves' NotEquals '0' ELSE GOTO 00014850"
+      "MemoryOffset": 14758,
+      "Description": "If 'max_elves' NotEquals '0' ELSE GOTO 00014780"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 1,
-      "MemoryOffset": 14840,
+      "MemoryOffset": 14770,
       "Description": "Set 'max_elves' to '0'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 1,
-      "MemoryOffset": 14846,
+      "MemoryOffset": 14776,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 2,
-      "MemoryOffset": 14850,
-      "Description": "If 'max_chests' NotEquals '0' ELSE GOTO 00014872"
+      "MemoryOffset": 14780,
+      "Description": "If 'max_chests' NotEquals '0' ELSE GOTO 00014802"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 2,
-      "MemoryOffset": 14862,
+      "MemoryOffset": 14792,
       "Description": "Set 'max_chests' to '0'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 2,
-      "MemoryOffset": 14868,
+      "MemoryOffset": 14798,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 3,
-      "MemoryOffset": 14872,
-      "Description": "If 'max_battery' NotEquals '0' ELSE GOTO 00014894"
+      "MemoryOffset": 14802,
+      "Description": "If 'max_battery' NotEquals '0' ELSE GOTO 00014824"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 3,
-      "MemoryOffset": 14884,
+      "MemoryOffset": 14814,
       "Description": "Set 'max_battery' to '0'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 3,
-      "MemoryOffset": 14890,
+      "MemoryOffset": 14820,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 4,
-      "MemoryOffset": 14894,
+      "MemoryOffset": 14824,
       "Description": "Set 'day' to '0'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 5,
-      "MemoryOffset": 14900,
+      "MemoryOffset": 14830,
       "Description": "Set 'enemies_left' to '12'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 6,
-      "MemoryOffset": 14906,
-      "Description": "If 'hurt_elves' NotEquals '0' ELSE GOTO 00014928"
+      "MemoryOffset": 14836,
+      "Description": "If 'hurt_elves' NotEquals '0' ELSE GOTO 00014858"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 6,
-      "MemoryOffset": 14918,
+      "MemoryOffset": 14848,
       "Description": "Set 'hurt_elves' to '0'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 6,
-      "MemoryOffset": 14924,
+      "MemoryOffset": 14854,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 7,
-      "MemoryOffset": 14928,
-      "Description": "If 'full_chests' NotEquals '0' ELSE GOTO 00014950"
+      "MemoryOffset": 14858,
+      "Description": "If 'full_chests' NotEquals '0' ELSE GOTO 00014880"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 7,
-      "MemoryOffset": 14940,
+      "MemoryOffset": 14870,
       "Description": "Set 'full_chests' to '0'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 7,
-      "MemoryOffset": 14946,
+      "MemoryOffset": 14876,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 8,
-      "MemoryOffset": 14950,
-      "Description": "If 'cash' NotEquals '5000' ELSE GOTO 00014974"
+      "MemoryOffset": 14880,
+      "Description": "If 'cash' NotEquals '5000' ELSE GOTO 00014904"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 8,
-      "MemoryOffset": 14964,
+      "MemoryOffset": 14894,
       "Description": "Set 'cash' to '5000'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 8,
-      "MemoryOffset": 14970,
+      "MemoryOffset": 14900,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 9,
-      "MemoryOffset": 14974,
+      "MemoryOffset": 14904,
       "Description": "Set 'current_level' to '1'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 10,
-      "MemoryOffset": 14980,
+      "MemoryOffset": 14910,
       "Description": "Set 'current_enemy' to '0'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 11,
-      "MemoryOffset": 14986,
+      "MemoryOffset": 14916,
       "Description": "GOSUB TO 'UNLOAD_LEVEL'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 11,
-      "MemoryOffset": 15006,
+      "MemoryOffset": 14936,
       "Description": "Set 'newvalue' to 'store'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 11,
-      "MemoryOffset": 15012,
+      "MemoryOffset": 14942,
       "Description": "GOSUB TO 'LOAD_PANEL'"
     },
     {
       "CodeBlock": "store_manager",
       "CodeBlockLine": 12,
-      "MemoryOffset": 15032,
+      "MemoryOffset": 14962,
       "Description": "GOTO 'STORE_SELECTION'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 0,
-      "MemoryOffset": 15064,
+      "MemoryOffset": 14994,
       "Description": "STORE_SELECTION"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 1,
-      "MemoryOffset": 15064,
+      "MemoryOffset": 14994,
       "Description": "Set 'wait' to '0'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 1,
-      "MemoryOffset": 15070,
+      "MemoryOffset": 15000,
       "Description": "GOSUB TO 'WAITFORFRAMES'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 2,
-      "MemoryOffset": 15090,
+      "MemoryOffset": 15020,
       "Description": "Raw expression 'gsfx_38_coin'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 2,
-      "MemoryOffset": 15096,
+      "MemoryOffset": 15026,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 2,
-      "MemoryOffset": 15102,
+      "MemoryOffset": 15032,
       "Description": "Core operation'Sound'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 3,
-      "MemoryOffset": 15106,
+      "MemoryOffset": 15036,
       "Description": "If 'option' Equals '0'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 4,
-      "MemoryOffset": 15118,
-      "Description": "If 'cash' GreaterThanOrEqual 'elf_cost' ELSE GOTO 00015216"
+      "MemoryOffset": 15048,
+      "Description": "If 'cash' GreaterThanOrEqual 'elf_cost' ELSE GOTO 00015146"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 5,
-      "MemoryOffset": 15132,
-      "Description": "If 'max_elves' LessThan '5' ELSE GOTO 00015216"
+      "MemoryOffset": 15062,
+      "Description": "If 'max_elves' LessThan '5' ELSE GOTO 00015146"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 6,
-      "MemoryOffset": 15144,
-      "Description": "If 'max_elves' NotEquals 'max_elves + 1' ELSE GOTO 00015178"
+      "MemoryOffset": 15074,
+      "Description": "If 'max_elves' NotEquals 'max_elves + 1' ELSE GOTO 00015108"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 6,
-      "MemoryOffset": 15162,
+      "MemoryOffset": 15092,
       "Description": "Set 'max_elves' to 'max_elves + 1'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 6,
-      "MemoryOffset": 15174,
+      "MemoryOffset": 15104,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 7,
-      "MemoryOffset": 15178,
-      "Description": "If 'cash' NotEquals 'cash - elf_cost' ELSE GOTO 00015216"
+      "MemoryOffset": 15108,
+      "Description": "If 'cash' NotEquals 'cash - elf_cost' ELSE GOTO 00015146"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 7,
-      "MemoryOffset": 15198,
+      "MemoryOffset": 15128,
       "Description": "Set 'cash' to 'cash - elf_cost'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 7,
-      "MemoryOffset": 15212,
+      "MemoryOffset": 15142,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 10,
-      "MemoryOffset": 15216,
-      "Description": "GOTO '00016088'"
+      "MemoryOffset": 15146,
+      "Description": "GOTO '00016018'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 10,
-      "MemoryOffset": 15222,
+      "MemoryOffset": 15152,
       "Description": "If 'option' Equals '1'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 11,
-      "MemoryOffset": 15234,
-      "Description": "If 'max_elves' GreaterThan '0' ELSE GOTO 00015318"
+      "MemoryOffset": 15164,
+      "Description": "If 'max_elves' GreaterThan '0' ELSE GOTO 00015248"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 12,
-      "MemoryOffset": 15246,
-      "Description": "If 'max_elves' NotEquals 'max_elves - 1' ELSE GOTO 00015280"
+      "MemoryOffset": 15176,
+      "Description": "If 'max_elves' NotEquals 'max_elves - 1' ELSE GOTO 00015210"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 12,
-      "MemoryOffset": 15264,
+      "MemoryOffset": 15194,
       "Description": "Set 'max_elves' to 'max_elves - 1'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 12,
-      "MemoryOffset": 15276,
+      "MemoryOffset": 15206,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 13,
-      "MemoryOffset": 15280,
-      "Description": "If 'cash' NotEquals 'cash + elf_cost' ELSE GOTO 00015318"
+      "MemoryOffset": 15210,
+      "Description": "If 'cash' NotEquals 'cash + elf_cost' ELSE GOTO 00015248"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 13,
-      "MemoryOffset": 15300,
+      "MemoryOffset": 15230,
       "Description": "Set 'cash' to 'cash + elf_cost'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 13,
-      "MemoryOffset": 15314,
+      "MemoryOffset": 15244,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 15,
-      "MemoryOffset": 15318,
-      "Description": "GOTO '00016088'"
+      "MemoryOffset": 15248,
+      "Description": "GOTO '00016018'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 15,
-      "MemoryOffset": 15324,
+      "MemoryOffset": 15254,
       "Description": "If 'option' Equals '2'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 16,
-      "MemoryOffset": 15336,
-      "Description": "If 'cash' GreaterThanOrEqual 'chest_cost' ELSE GOTO 00015434"
+      "MemoryOffset": 15266,
+      "Description": "If 'cash' GreaterThanOrEqual 'chest_cost' ELSE GOTO 00015364"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 17,
-      "MemoryOffset": 15350,
-      "Description": "If 'max_chests' LessThan '3' ELSE GOTO 00015434"
+      "MemoryOffset": 15280,
+      "Description": "If 'max_chests' LessThan '3' ELSE GOTO 00015364"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 18,
-      "MemoryOffset": 15362,
-      "Description": "If 'max_chests' NotEquals 'max_chests + 1' ELSE GOTO 00015396"
+      "MemoryOffset": 15292,
+      "Description": "If 'max_chests' NotEquals 'max_chests + 1' ELSE GOTO 00015326"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 18,
-      "MemoryOffset": 15380,
+      "MemoryOffset": 15310,
       "Description": "Set 'max_chests' to 'max_chests + 1'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 18,
-      "MemoryOffset": 15392,
+      "MemoryOffset": 15322,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 19,
-      "MemoryOffset": 15396,
-      "Description": "If 'cash' NotEquals 'cash - chest_cost' ELSE GOTO 00015434"
+      "MemoryOffset": 15326,
+      "Description": "If 'cash' NotEquals 'cash - chest_cost' ELSE GOTO 00015364"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 19,
-      "MemoryOffset": 15416,
+      "MemoryOffset": 15346,
       "Description": "Set 'cash' to 'cash - chest_cost'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 19,
-      "MemoryOffset": 15430,
+      "MemoryOffset": 15360,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 22,
-      "MemoryOffset": 15434,
-      "Description": "GOTO '00016088'"
+      "MemoryOffset": 15364,
+      "Description": "GOTO '00016018'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 22,
-      "MemoryOffset": 15440,
+      "MemoryOffset": 15370,
       "Description": "If 'option' Equals '3'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 23,
-      "MemoryOffset": 15452,
-      "Description": "If 'max_chests' GreaterThan '0' ELSE GOTO 00015536"
+      "MemoryOffset": 15382,
+      "Description": "If 'max_chests' GreaterThan '0' ELSE GOTO 00015466"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 24,
-      "MemoryOffset": 15464,
-      "Description": "If 'max_chests' NotEquals 'max_chests - 1' ELSE GOTO 00015498"
+      "MemoryOffset": 15394,
+      "Description": "If 'max_chests' NotEquals 'max_chests - 1' ELSE GOTO 00015428"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 24,
-      "MemoryOffset": 15482,
+      "MemoryOffset": 15412,
       "Description": "Set 'max_chests' to 'max_chests - 1'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 24,
-      "MemoryOffset": 15494,
+      "MemoryOffset": 15424,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 25,
-      "MemoryOffset": 15498,
-      "Description": "If 'cash' NotEquals 'cash + chest_cost' ELSE GOTO 00015536"
+      "MemoryOffset": 15428,
+      "Description": "If 'cash' NotEquals 'cash + chest_cost' ELSE GOTO 00015466"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 25,
-      "MemoryOffset": 15518,
+      "MemoryOffset": 15448,
       "Description": "Set 'cash' to 'cash + chest_cost'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 25,
-      "MemoryOffset": 15532,
+      "MemoryOffset": 15462,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 27,
-      "MemoryOffset": 15536,
-      "Description": "GOTO '00016088'"
+      "MemoryOffset": 15466,
+      "Description": "GOTO '00016018'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 27,
-      "MemoryOffset": 15542,
+      "MemoryOffset": 15472,
       "Description": "If 'option' Equals '4'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 28,
-      "MemoryOffset": 15554,
-      "Description": "If 'cash' GreaterThanOrEqual 'battery_cost' ELSE GOTO 00015652"
+      "MemoryOffset": 15484,
+      "Description": "If 'cash' GreaterThanOrEqual 'battery_cost' ELSE GOTO 00015582"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 29,
-      "MemoryOffset": 15568,
-      "Description": "If 'max_battery' LessThan '10' ELSE GOTO 00015652"
+      "MemoryOffset": 15498,
+      "Description": "If 'max_battery' LessThan '10' ELSE GOTO 00015582"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 30,
-      "MemoryOffset": 15580,
-      "Description": "If 'max_battery' NotEquals 'max_battery + 1' ELSE GOTO 00015614"
+      "MemoryOffset": 15510,
+      "Description": "If 'max_battery' NotEquals 'max_battery + 1' ELSE GOTO 00015544"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 30,
-      "MemoryOffset": 15598,
+      "MemoryOffset": 15528,
       "Description": "Set 'max_battery' to 'max_battery + 1'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 30,
-      "MemoryOffset": 15610,
+      "MemoryOffset": 15540,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 31,
-      "MemoryOffset": 15614,
-      "Description": "If 'cash' NotEquals 'cash - battery_cost' ELSE GOTO 00015652"
+      "MemoryOffset": 15544,
+      "Description": "If 'cash' NotEquals 'cash - battery_cost' ELSE GOTO 00015582"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 31,
-      "MemoryOffset": 15634,
+      "MemoryOffset": 15564,
       "Description": "Set 'cash' to 'cash - battery_cost'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 31,
-      "MemoryOffset": 15648,
+      "MemoryOffset": 15578,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 34,
-      "MemoryOffset": 15652,
-      "Description": "GOTO '00016088'"
+      "MemoryOffset": 15582,
+      "Description": "GOTO '00016018'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 34,
-      "MemoryOffset": 15658,
+      "MemoryOffset": 15588,
       "Description": "If 'option' Equals '5'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 35,
-      "MemoryOffset": 15670,
-      "Description": "If 'max_battery' GreaterThan '0' ELSE GOTO 00015754"
+      "MemoryOffset": 15600,
+      "Description": "If 'max_battery' GreaterThan '0' ELSE GOTO 00015684"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 36,
-      "MemoryOffset": 15682,
-      "Description": "If 'max_battery' NotEquals 'max_battery - 1' ELSE GOTO 00015716"
+      "MemoryOffset": 15612,
+      "Description": "If 'max_battery' NotEquals 'max_battery - 1' ELSE GOTO 00015646"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 36,
-      "MemoryOffset": 15700,
+      "MemoryOffset": 15630,
       "Description": "Set 'max_battery' to 'max_battery - 1'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 36,
-      "MemoryOffset": 15712,
+      "MemoryOffset": 15642,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 37,
-      "MemoryOffset": 15716,
-      "Description": "If 'cash' NotEquals 'cash + battery_cost' ELSE GOTO 00015754"
+      "MemoryOffset": 15646,
+      "Description": "If 'cash' NotEquals 'cash + battery_cost' ELSE GOTO 00015684"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 37,
-      "MemoryOffset": 15736,
+      "MemoryOffset": 15666,
       "Description": "Set 'cash' to 'cash + battery_cost'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 37,
-      "MemoryOffset": 15750,
+      "MemoryOffset": 15680,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 39,
-      "MemoryOffset": 15754,
-      "Description": "GOTO '00016088'"
+      "MemoryOffset": 15684,
+      "Description": "GOTO '00016018'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 39,
-      "MemoryOffset": 15760,
-      "Description": "If 'option' Equals '6' ELSE GOTO 00016088"
+      "MemoryOffset": 15690,
+      "Description": "If 'option' Equals '6' ELSE GOTO 00016018"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 40,
-      "MemoryOffset": 15772,
-      "Description": "If 'max_elves' LessThan '2' ELSE GOTO 00015838"
+      "MemoryOffset": 15702,
+      "Description": "If 'max_elves' LessThan '2' ELSE GOTO 00015768"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 41,
-      "MemoryOffset": 15784,
+      "MemoryOffset": 15714,
       "Description": "Set 'option' to '0'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 41,
-      "MemoryOffset": 15790,
+      "MemoryOffset": 15720,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 42,
-      "MemoryOffset": 15794,
+      "MemoryOffset": 15724,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 42,
-      "MemoryOffset": 15798,
+      "MemoryOffset": 15728,
       "Description": "Print 'You need at least two elves!' to middle panel"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 43,
-      "MemoryOffset": 15832,
+      "MemoryOffset": 15762,
       "Description": "GOTO 'STORE_SELECTION'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 45,
-      "MemoryOffset": 15838,
-      "Description": "If 'max_chests' LessThan '1' ELSE GOTO 00015904"
+      "MemoryOffset": 15768,
+      "Description": "If 'max_chests' LessThan '1' ELSE GOTO 00015834"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 46,
-      "MemoryOffset": 15850,
+      "MemoryOffset": 15780,
       "Description": "Set 'option' to '2'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 46,
-      "MemoryOffset": 15856,
+      "MemoryOffset": 15786,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 47,
-      "MemoryOffset": 15860,
+      "MemoryOffset": 15790,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 47,
-      "MemoryOffset": 15864,
+      "MemoryOffset": 15794,
       "Description": "Print 'You need at least one chest!' to middle panel"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 48,
-      "MemoryOffset": 15898,
+      "MemoryOffset": 15828,
       "Description": "GOTO 'STORE_SELECTION'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 50,
-      "MemoryOffset": 15904,
-      "Description": "If 'max_battery' LessThan '1' ELSE GOTO 00015972"
+      "MemoryOffset": 15834,
+      "Description": "If 'max_battery' LessThan '1' ELSE GOTO 00015902"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 51,
-      "MemoryOffset": 15916,
+      "MemoryOffset": 15846,
       "Description": "Set 'option' to '4'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 51,
-      "MemoryOffset": 15922,
+      "MemoryOffset": 15852,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 52,
-      "MemoryOffset": 15926,
+      "MemoryOffset": 15856,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 52,
-      "MemoryOffset": 15930,
+      "MemoryOffset": 15860,
       "Description": "Print 'You need at least one battery!' to middle panel"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 53,
-      "MemoryOffset": 15966,
+      "MemoryOffset": 15896,
       "Description": "GOTO 'STORE_SELECTION'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 55,
-      "MemoryOffset": 15972,
-      "Description": "If 'battery_bar' NotEquals 'max_battery * 8' ELSE GOTO 00016010"
+      "MemoryOffset": 15902,
+      "Description": "If 'battery_bar' NotEquals 'max_battery * 8' ELSE GOTO 00015940"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 55,
-      "MemoryOffset": 15992,
+      "MemoryOffset": 15922,
       "Description": "Set 'battery_bar' to 'max_battery * 8'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 55,
-      "MemoryOffset": 16006,
+      "MemoryOffset": 15936,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 56,
-      "MemoryOffset": 16010,
-      "Description": "If 'actor_type' NotZero '0' ELSE GOTO 00016050"
+      "MemoryOffset": 15940,
+      "Description": "If 'actor_type' NotZero '0' ELSE GOTO 00015980"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 56,
-      "MemoryOffset": 16030,
+      "MemoryOffset": 15960,
       "Description": "Yield on  timer to  next line"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 56,
-      "MemoryOffset": 16050,
+      "MemoryOffset": 15980,
       "Description": "Set 'panel_bottom' to 'ui'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 56,
-      "MemoryOffset": 16056,
+      "MemoryOffset": 15986,
       "Description": "Set 'newvalue' to 'map'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 56,
-      "MemoryOffset": 16062,
+      "MemoryOffset": 15992,
       "Description": "GOSUB TO 'LOAD_LEVEL'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 57,
-      "MemoryOffset": 16082,
+      "MemoryOffset": 16012,
       "Description": "GOTO 'GAME_LOOP'"
     },
     {
       "CodeBlock": "store_selection",
       "CodeBlockLine": 59,
-      "MemoryOffset": 16088,
+      "MemoryOffset": 16018,
       "Description": "GOTO 'STORE_SELECTION'"
     },
     {
       "CodeBlock": "turn_right",
       "CodeBlockLine": 0,
-      "MemoryOffset": 16120,
+      "MemoryOffset": 16050,
       "Description": "TURN_RIGHT"
     },
     {
       "CodeBlock": "turn_right",
       "CodeBlockLine": 1,
-      "MemoryOffset": 16120,
+      "MemoryOffset": 16050,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "turn_right",
       "CodeBlockLine": 1,
-      "MemoryOffset": 16126,
+      "MemoryOffset": 16056,
       "Description": "Raw expression 'move_right'"
     },
     {
       "CodeBlock": "turn_right",
       "CodeBlockLine": 1,
-      "MemoryOffset": 16132,
+      "MemoryOffset": 16062,
       "Description": "Core operation'ActorSetLookdir'"
     }
   ],
@@ -10582,11 +10558,13 @@
   },
   "Panels": {
     "0": "scorpion_eng_splashscreen",
-    "1": "emptypanel",
-    "2": "main_panel",
-    "3": "store",
-    "4": "title_panel",
-    "5": "ui"
+    "1": "copyof_store",
+    "2": "copyof_ui",
+    "3": "emptypanel",
+    "4": "main_panel",
+    "5": "store",
+    "6": "title_panel",
+    "7": "ui"
   },
   "Actors": {
     "0": "Destroyed actor",

@@ -1,5 +1,5 @@
 {
-  "TargetPlatform": "megadrive",
+  "TargetPlatform": "amiga_ocs",
   "Talkpad": null,
   "Talkpad_OnBottom": false,
   "StartupCodeBlock": "startup",
@@ -114,7 +114,7 @@
     },
     "gsfx_59_lazer_beat": {
       "LinkedMap": "",
-      "RepeatDelay": 1,
+      "RepeatDelay": 10,
       "IsMusic": false,
       "Priority": 0
     },
@@ -185,17 +185,19 @@
   },
   "FontMetaData": {
     "defaultfont": {
-      "IsMonoSpaced": true,
+      "IsMonoSpaced": false,
       "LineHeight": 8,
       "SpaceWidth": 8
     },
     "defaultfont_black": {
-      "IsMonoSpaced": false,
+      "IsMonoSpaced": true,
       "LineHeight": 8,
       "SpaceWidth": 8
     }
   },
   "SplashScreen": null,
   "LogicSpeed": "PAL_50HZ",
-  "PaletteLines": 2
+  "PaletteLines": 2,
+  "ReadCD32Buttons": false,
+  "MDRegion": "E"
 }
