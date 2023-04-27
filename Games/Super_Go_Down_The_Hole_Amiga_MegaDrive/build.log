@@ -1,45 +1,95 @@
-Attack Data Original size 66 Crunched size 66
-Default MD font Original size 2048 Crunched size 2048
-Map animation data formap2 Original size 1596 Crunched size 1596
-Map event data for map Original size 20 Crunched size 20
-Map event data for map2 Original size 20 Crunched size 20
-Map event data for map3 Original size 20 Crunched size 20
-Map header map Original size 16956 Crunched size 16956
-Map header map2 Original size 66876 Crunched size 66876
-Map header map3 Original size 9788 Crunched size 9788
-Map block data for map Original size 1312 Crunched size 102
-Map block data for map2 Original size 7812 Crunched size 456
-Map block data for map3 Original size 288 Crunched size 288
-Map path node data for map Original size 12 Crunched size 12
-Map path node data for map2 Original size 12 Crunched size 12
-Map path node data for map3 Original size 12 Crunched size 12
-MDS Sequence file Original size 422 Crunched size 422
-MDS PCM file Original size 48187 Crunched size 48187
-Map tile data  map Original size 1312 Crunched size 180
-Map tile data  map2 Original size 7812 Crunched size 872
-Map tile data  map3 Original size 288 Crunched size 94
-Get Y lookup table map Original size 64 Crunched size 64
-Get Y lookup table map2 Original size 168 Crunched size 168
-Get Y lookup table map3 Original size 64 Crunched size 64
-Default MD number font Original size 320 Crunched size 320
-Project actors Original size 5800 Crunched size 5800
-Project blocks Original size 988 Crunched size 988
-Animation Frames Original size 2672 Crunched size 2672
-Mega Drive header Original size 3660 Crunched size 3660
-Images Original size 3990 Crunched size 3990
-Panel  Original size 10292 Crunched size 10292
-Panel healthbar Original size 1058 Crunched size 1058
-Panel theend Original size 4148 Crunched size 4148
-Panel title Original size 12844 Crunched size 12844
-Animations Original size 816 Crunched size 816
-Project patterns Original size 1952 Crunched size 1952
-Streamed project patterns Original size 34816 Crunched size 34816
-Pattern data for 1 Original size 2656 Crunched size 2656
-Pattern data for 2 Original size 3936 Crunched size 3936
-Pattern data for 3 Original size 2432 Crunched size 2432
-Project sound Original size 312 Crunched size 312
-Var Data Original size 16 Crunched size 16
-Project virtual machine (codeblocks) Original size 12342 Crunched size 12342
+=== Image optimisations ===
+Reduce width of animations\duck\explosion_1.png by 8 pixels to 16 to improve blit performance by 200.00%
+Reduce width of animations\duck\explosion_2.png by 14 pixels to 16 to improve blit performance by 200.00%
+Reduce width of animations\duck\explosion_3.png by 14 pixels to 16 to improve blit performance by 200.00%
+Reduce width of animations\duck\explosion_4.png by 8 pixels to 16 to improve blit performance by 200.00%
+Reduce width of animations\duck\explosion_5.png by 14 pixels to 16 to improve blit performance by 200.00%
+Reduce width of animations\duck\explosion_6.png by 14 pixels to 16 to improve blit performance by 200.00%
+Reduce width of animations\item\blackspawn_7.png by 12 pixels to 16 to improve blit performance by 200.00%
+Reduce width of animations\item\blackspawn_7.png by 12 pixels to 16 to reduce sprites by 2
+Reduce width of animations\item\blackspawn_6.png by 9 pixels to 16 to improve blit performance by 200.00%
+Reduce width of animations\item\blackspawn_6.png by 9 pixels to 16 to reduce sprites by 2
+Reduce width of animations\item\blackspawn_5.png by 5 pixels to 16 to improve blit performance by 200.00%
+Reduce width of animations\item\blackspawn_5.png by 5 pixels to 16 to reduce sprites by 2
+Reduce width of animations\item\blackspawn_4.png by 2 pixels to 16 to improve blit performance by 200.00%
+Reduce width of animations\item\blackspawn_4.png by 2 pixels to 16 to reduce sprites by 2
+Reduce width of animations\item\blackspawn_4.png by 2 pixels to 16 to improve blit performance by 200.00%
+Reduce width of animations\item\blackspawn_4.png by 2 pixels to 16 to reduce sprites by 2
+Reduce width of animations\item\blackspawn_5.png by 5 pixels to 16 to improve blit performance by 200.00%
+Reduce width of animations\item\blackspawn_5.png by 5 pixels to 16 to reduce sprites by 2
+Reduce width of animations\item\blackspawn_6.png by 9 pixels to 16 to improve blit performance by 200.00%
+Reduce width of animations\item\blackspawn_6.png by 9 pixels to 16 to reduce sprites by 2
+Reduce width of animations\item\blackspawn_7.png by 12 pixels to 16 to improve blit performance by 200.00%
+Reduce width of animations\item\blackspawn_7.png by 12 pixels to 16 to reduce sprites by 2
+
+=== Estimated memory usages ===
+
+For chip:
+Map gfx (Panel: title): 52210
+Music memory (vampire_ninjas_in_1_001124): 20900
+BP Buffer memory: 112800
+core sfx/gfx memory: 137408
+Parallax memory: 0
+
+For other:
+Map cache memory: 0
+Map header cache memory: 0
+Map data memory: 39588
+Map background memory: 2672
+EXE memory: 202076
+vm memory: 12358
+project memory: 18772
+
+Accounted memory chip: 323318
+Accounted memory other: 275466
+Accounted memory total: 598784
+
+=== Misc ===
+Maps and Asset Bundles Count: 4
+Maps and Asset Bundles Data Size: 48
+Actor Count: 29
+Actor Data Size: 5800
+Block Count: 19
+Block Data Size: 988
+Anim5 Count: 0
+Anim5 Data Size: 0
+Sound Count: 13
+Sound Data Size: 312
+Teleporter Count: 1
+Teleporter Data Size: 8
+Animations Count: 51
+Animations Data Size: 816
+AnimationFrame Count: 167
+AnimationFrame Data Size: 2672
+ImageFrames: 158
+ImageFrame Data Size: 6952
+Sprites: 78
+Sprites Data Size: 1092
+Attack Data: 1
+Attack Data Size: 66
+Misc data size: 16
+Asset bundle 0 (Core project asset bundle) Original size 137408 Crunched size 50930
+Asset bundle 1 (map) Original size 5440 Crunched size 1950
+Asset bundle 2 (map2) Original size 18104 Crunched size 2938
+Asset bundle 3 (map3) Original size 4960 Crunched size 1744
+Background for map map Original size 2672 Crunched size 92
+Background for map map2 Original size 2672 Crunched size 92
+Background for map map3 Original size 2672 Crunched size 92
+Music file vampire_ninjas_in_1_001124 Original size 20900 Crunched size 8204
+Tile data for map map (mem restrictions:None) Original size 6736 Crunched size 656
+Tile data for map map2 (mem restrictions:None) Original size 39588 Crunched size 3490
+Tile data for map map3 (mem restrictions:None) Original size 1616 Crunched size 360
+Header data for map map Original size 7996 Crunched size 296
+Header data for map map2 Original size 7996 Crunched size 344
+Header data for map map3 Original size 7996 Crunched size 274
+Project Data Original size 18772 Crunched size 5458
+Project Header Original size 4032 Crunched size 1192
+Panel scorpion_eng_splashscreen Original size 35944 Crunched size 3280
+Panel healthbar Original size 4466 Crunched size 244
+Panel theend Original size 12900 Crunched size 300
+Panel title Original size 52210 Crunched size 8972
+Project virtual machine (codeblocks) Original size 12358 Crunched size 3556
+Project virtual machine redirects Original size 4 Crunched size 4
 
 === Possibly unused sound effects ===
 jumpa
@@ -97,10 +147,11 @@ fadeout: 84
 waitforframes: 78
 on_glovecollect: 76
 endcutscene_finaljump: 70
+endcutscene_landed: 70
 on_bomb: 70
 on_buglazer_hitground: 70
 on_player_spawn: 70
-quit: 66 (Unused?)
+quit: 66
 on_duck_spawn: 66
 duck_die_finish: 64
 on_blackness_spawn: 64
@@ -118,7 +169,6 @@ try_walljump: 56
 destroy_actor: 54
 duck_cooldown: 54
 endcutscene_inbed: 54
-endcutscene_landed: 54
 on_end_walkcycle: 54
 regenerate_screen: 52
 return: 52 (Unused?)

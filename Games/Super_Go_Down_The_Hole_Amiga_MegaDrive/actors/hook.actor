@@ -18,14 +18,14 @@
     "DownRight": null
   },
   "Moves": {
-    "UpLeft": null,
+    "UpLeft": "hook_up",
     "Up": null,
-    "UpRight": null,
+    "UpRight": "hook_up",
     "Left": null,
-    "Right": null,
+    "Right": "hook_up",
     "DownLeft": null,
     "Down": null,
-    "DownRight": null
+    "DownRight": "hook_down"
   },
   "Attacks": {
     "UpLeft": null,
@@ -93,6 +93,17 @@
       "sqrMagnitude": 0
     }
   ],
+  "InvalidDirections": [
+    true,
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    false,
+    true
+  ],
   "CollBox": {
     "X": -4,
     "Y": -3,
@@ -151,7 +162,5 @@
   "ControlPort": 1,
   "DataVersion": 3,
   "AutoSpawn": null,
-  "TileID": 18,
-  "SuggestedRecycle": "Never",
-  "UpAccelerationName": "Accel Up"
+  "TileID": 18
 }

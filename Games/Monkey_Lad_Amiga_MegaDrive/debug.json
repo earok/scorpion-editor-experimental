@@ -269,7 +269,7 @@
     {
       "CodeBlock": "vm_constants",
       "Name": "stop_moving",
-      "DefaultValue": "20",
+      "DefaultValue": "-3",
       "Index": 0,
       "MemoryOffset": 0
     },
@@ -969,14 +969,14 @@
     {
       "CodeBlock": "vm_constants_platform",
       "Name": "ismegadrive",
-      "DefaultValue": "-1",
+      "DefaultValue": "0",
       "Index": 0,
       "MemoryOffset": 0
     },
     {
       "CodeBlock": "vm_constants_platform",
       "Name": "isamiga",
-      "DefaultValue": "0",
+      "DefaultValue": "-1",
       "Index": 0,
       "MemoryOffset": 0
     },
@@ -6284,7 +6284,7 @@
       "CodeBlock": "restart_level",
       "CodeBlockLine": 4,
       "MemoryOffset": 8422,
-      "Description": "Set 'music' to 'none'"
+      "Description": "Set 'music' to 'song'"
     },
     {
       "CodeBlock": "restart_level",
@@ -6797,11 +6797,14 @@
     "2": "level2"
   },
   "Music": {
-    "0": "No music loaded"
+    "0": "No music loaded",
+    "1": "song"
   },
   "Panels": {
     "0": "scorpion_eng_splashscreen",
-    "1": "pnl_title"
+    "1": "md_sky1",
+    "2": "md_sky2",
+    "3": "pnl_title"
   },
   "Actors": {
     "0": "Destroyed actor",

@@ -20,12 +20,12 @@
   "Moves": {
     "UpLeft": null,
     "Up": null,
-    "UpRight": null,
+    "UpRight": "anim_gooma_r",
     "Left": null,
     "Right": null,
     "DownLeft": null,
     "Down": null,
-    "DownRight": null
+    "DownRight": "anim_gooma_r"
   },
   "Attacks": {
     "UpLeft": null,
@@ -93,6 +93,17 @@
       "sqrMagnitude": 0
     }
   ],
+  "InvalidDirections": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
   "CollBox": {
     "X": -8,
     "Y": -15,
@@ -151,7 +162,5 @@
   "ControlPort": 1,
   "DataVersion": 3,
   "AutoSpawn": null,
-  "TileID": 0,
-  "SuggestedRecycle": "Never",
-  "UpAccelerationName": "Accel Up"
+  "TileID": 0
 }
