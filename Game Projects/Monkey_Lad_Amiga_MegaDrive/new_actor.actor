@@ -1,41 +1,41 @@
 {
   "ShootDirType": "actor_direction",
   "ClassType": "DefaultClass",
-  "DefaultLookDir": "up",
+  "DefaultLookDir": "left",
   "Recycle": "Default",
-  "MoveType": "cpu",
+  "MoveType": "control_platform",
   "MaxEntities": 0,
   "NudgeX": 8,
-  "NudgeY": 16,
+  "NudgeY": 8,
   "Idles": {
     "UpLeft": null,
-    "Up": "ghost_anim",
-    "UpRight": null,
-    "Left": null,
-    "Right": null,
+    "Up": null,
+    "UpRight": "",
+    "Left": "alexkidd_idle_l",
+    "Right": "",
     "DownLeft": null,
     "Down": null,
     "DownRight": null
   },
   "Moves": {
     "UpLeft": null,
-    "Up": "ghost_anim",
-    "UpRight": null,
+    "Up": null,
+    "UpRight": "alexkidd_jump_r",
     "Left": null,
-    "Right": null,
+    "Right": "alexkidd_walk_r",
     "DownLeft": null,
     "Down": null,
-    "DownRight": null
+    "DownRight": "alexkidd_jump_r"
   },
   "Attacks": {
     "UpLeft": null,
     "Up": null,
-    "UpRight": null,
+    "UpRight": "alexkidd_punch_jump_r",
     "Left": null,
-    "Right": null,
+    "Right": "alexkidd_punch_r",
     "DownLeft": null,
     "Down": null,
-    "DownRight": null
+    "DownRight": "alexkidd_punch_jump_r"
   },
   "ProjectileOffsets": [
     {
@@ -106,15 +106,15 @@
   ],
   "CollBox": {
     "X": -4,
-    "Y": -11,
+    "Y": -4,
     "Width": 8,
     "Height": 8
   },
   "AttackDelay": 0,
-  "ZOrder": 9999,
+  "ZOrder": 0,
   "SpeedLeft": 0.0,
   "SpeedRight": 0.0,
-  "SpeedUp": 0.51,
+  "SpeedUp": 0.0,
   "SpeedDown": 0.0,
   "AccelLeft": null,
   "AccelRight": null,
@@ -123,11 +123,11 @@
   "AccelLeftAir": null,
   "AccelRightAir": null,
   "RotationSpeed": 0.0,
-  "CollType_Left": "none",
-  "CollType_Right": "none",
-  "CollType_Up": "none",
-  "CollType_Down": "none",
-  "Player": false,
+  "CollType_Left": "block",
+  "CollType_Right": "block",
+  "CollType_Up": "block",
+  "CollType_Down": "block",
+  "Player": null,
   "CanRidePlatform": null,
   "Camera": null,
   "AutoScroll": null,
@@ -159,8 +159,8 @@
     "0",
     "0"
   ],
-  "ControlPort": 1,
+  "ControlPort": 0,
   "DataVersion": 3,
   "AutoSpawn": null,
-  "TileID": 1
+  "TileID": 14
 }
