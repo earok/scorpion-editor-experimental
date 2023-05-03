@@ -13196,6 +13196,10 @@
    <property name="MD_Palette_TR" type="int" value="0"/>
    <property name="OnAnimFrame" value=""/>
   </properties>
+  <animation>
+   <frame tileid="1098" duration="1000"/>
+   <frame tileid="1086" duration="1000"/>
+  </animation>
  </tile>
  <tile id="1099">
   <properties>
