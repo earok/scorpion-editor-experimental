@@ -1,50 +1,86 @@
-Attack Data Original size 132 Crunched size 132
-Commands for Joystick 1 Original size 12 Crunched size 12
-Default MD font Original size 2048 Crunched size 2048
-Font for panel 1 Original size 2048 Crunched size 2048
-Font for panel 3 Original size 2048 Crunched size 2048
-Font for panel 5 Original size 2048 Crunched size 2048
-Map event data for map Original size 20 Crunched size 20
-Map header map Original size 17276 Crunched size 17276
-Map block data for map Original size 1320 Crunched size 170
-Map path node data for map Original size 12 Crunched size 12
-MDS Sequence file Original size 290 Crunched size 290
-MDS PCM file Original size 70445 Crunched size 70445
-Map tile data  map Original size 1320 Crunched size 136
-Get Y lookup table map Original size 240 Crunched size 240
-Default MD number font Original size 320 Crunched size 320
-Number font for panel 3 Original size 320 Crunched size 320
-Number font for panel 5 Original size 320 Crunched size 320
-Project actors Original size 5000 Crunched size 5000
-Project blocks Original size 312 Crunched size 312
-Animation Frames Original size 736 Crunched size 736
-Mega Drive header Original size 3660 Crunched size 3660
-Images Original size 1930 Crunched size 1930
-Panel  Original size 10300 Crunched size 10300
-Panel emptypanel Original size 3132 Crunched size 3132
-Panel main_panel Original size 4124 Crunched size 4124
-Panel store Original size 5554 Crunched size 5554
-Panel title_panel Original size 29372 Crunched size 29372
-Panel ui Original size 2864 Crunched size 2864
-Animations Original size 368 Crunched size 368
-Project patterns Original size 31040 Crunched size 31040
-Streamed project patterns Original size 32 Crunched size 32
-Pattern data for 1 Original size 9888 Crunched size 9888
-Project sound Original size 216 Crunched size 216
-Var Data Original size 114 Crunched size 114
-Project virtual machine (codeblocks) Original size 16498 Crunched size 16498
+=== Image optimisations ===
+Reduce width of sprites\beam\b2.png by 14 pixels to 48 to reduce sprites by 1
+Reduce width of sprites\beam\b3.png by 12 pixels to 48 to reduce sprites by 1
+Reduce width of sprites\beam\b4.png by 4 pixels to 48 to reduce sprites by 1
+Reduce width of sprites\beam\b2.png by 14 pixels to 48 to reduce sprites by 1
+Reduce width of sprites\beam\b3.png by 12 pixels to 48 to reduce sprites by 1
+Reduce width of sprites\beam\b4.png by 4 pixels to 48 to reduce sprites by 1
+Reduce width of sprites\elves\elves_carry_00x01.png by 12 pixels to 48 to reduce sprites by 2
+Reduce width of sprites\elves\elves_carry_00x02.png by 12 pixels to 48 to reduce sprites by 2
+Reduce width of sprites\elves\elves_carry_00x03.png by 12 pixels to 48 to reduce sprites by 2
+Reduce width of sprites\elves\elves_carry_00x00.png by 12 pixels to 48 to reduce sprites by 2
+Reduce width of sprites\elves\elves_carry_00x00.png by 12 pixels to 48 to reduce sprites by 2
+Reduce width of sprites\enemy\pumpkin.png by 14 pixels to 16 to improve blit performance by 200.00%
+Reduce width of sprites\enemy\pumpkin.png by 14 pixels to 16 to improve blit performance by 200.00%
+Reduce width of sprites\enemy\rabbit.png by 4 pixels to 32 to improve blit performance by 100.00%
+Reduce width of sprites\enemy\rabbit.png by 4 pixels to 32 to improve blit performance by 100.00%
+Reduce width of sprites\enemy\rabbit_caught.png by 14 pixels to 32 to improve blit performance by 100.00%
+Reduce width of sprites\enemy\snowman_caught.png by 14 pixels to 32 to improve blit performance by 100.00%
+Reduce width of sprites\enemy\witch.png by 10 pixels to 32 to improve blit performance by 100.00%
+Reduce width of sprites\enemy\witch.png by 10 pixels to 32 to improve blit performance by 100.00%
+Reduce width of sprites\enemy\witch_caught.png by 14 pixels to 32 to improve blit performance by 100.00%
 
-=== Possibly unused animations ===
-a_pumpkin_caught
-a_rabbit_caught
-a_snowman_caught
-a_witch_caught
+=== Estimated memory usages ===
 
-=== Possibly unused Actors ===
-enemy_pumpkin_hunter
-enemy_rabbit_hunter
-enemy_snowman_hunter
-enemy_witch_hunter
+For chip:
+Map gfx (Panel: store): 53728
+Music memory (): 0
+BP Buffer memory: 96096
+core sfx/gfx memory: 130032
+Parallax memory: 0
+
+For other:
+Map cache memory: 1378
+Map header cache memory: 1378
+Map data memory: 7128
+Map background memory: 2672
+EXE memory: 202612
+vm memory: 16498
+project memory: 8986
+
+Accounted memory chip: 279856
+Accounted memory other: 240652
+Accounted memory total: 520508
+
+=== Misc ===
+Maps and Asset Bundles Count: 2
+Maps and Asset Bundles Data Size: 24
+Actor Count: 25
+Actor Data Size: 5000
+Block Count: 6
+Block Data Size: 312
+Anim5 Count: 0
+Anim5 Data Size: 0
+Sound Count: 9
+Sound Data Size: 216
+Teleporter Count: 1
+Teleporter Data Size: 8
+Animations Count: 23
+Animations Data Size: 368
+AnimationFrame Count: 46
+AnimationFrame Data Size: 736
+ImageFrames: 43
+ImageFrame Data Size: 1892
+Sprites: 13
+Sprites Data Size: 182
+Attack Data: 2
+Attack Data Size: 132
+Misc data size: 114
+Asset bundle 0 (Core project asset bundle) Original size 130032 Crunched size 39210
+Asset bundle 1 (map) Original size 17024 Crunched size 3484
+Background for map map Original size 2672 Crunched size 92
+Tile data for map map (mem restrictions:None) Original size 7128 Crunched size 1378
+Header data for map map Original size 7996 Crunched size 254
+Project Data Original size 8986 Crunched size 1904
+Project Header Original size 4032 Crunched size 1196
+Panel scorpion_eng_splashscreen Original size 35930 Crunched size 3268
+Panel emptypanel Original size 53074 Crunched size 2324
+Panel main_panel Original size 47450 Crunched size 4556
+Panel store Original size 53728 Crunched size 5026
+Panel title_panel Original size 47450 Crunched size 14618
+Panel ui Original size 18014 Crunched size 2436
+Project virtual machine (codeblocks) Original size 16498 Crunched size 5484
+Project virtual machine redirects Original size 4 Crunched size 4
 
 === Codeblocks by compiled size ===
 game_loop: 2490
@@ -76,7 +112,7 @@ flipxmove: 158 (Unused?)
 load_panel: 146
 pre_quit: 146
 celebrate: 132
-destroy_all_blocks: 124 (Unused?)
+destroy_all_blocks: 124
 restart: 124 (Unused?)
 unload_level: 114
 hunt_kill: 110

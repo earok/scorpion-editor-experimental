@@ -5211,693 +5211,711 @@
       "Description": "SAVEDATA"
     },
     {
+      "CodeBlock": "savedata",
+      "CodeBlockLine": 1,
+      "MemoryOffset": 6206,
+      "Description": "GOSUB TO 'UNLOAD_LEVEL'"
+    },
+    {
+      "CodeBlock": "savedata",
+      "CodeBlockLine": 1,
+      "MemoryOffset": 6226,
+      "Description": "Set 'newvalue' to 'none'"
+    },
+    {
+      "CodeBlock": "savedata",
+      "CodeBlockLine": 1,
+      "MemoryOffset": 6232,
+      "Description": "GOSUB TO 'LOAD_PANEL'"
+    },
+    {
       "CodeBlock": "startup",
       "CodeBlockLine": 0,
-      "MemoryOffset": 6232,
+      "MemoryOffset": 6278,
       "Description": "STARTUP"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6232,
+      "MemoryOffset": 6278,
       "Description": "Set 'newvalue' to '0'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6238,
-      "Description": "If 'newvalue' LessThan '26' ELSE GOTO 00006290"
+      "MemoryOffset": 6284,
+      "Description": "If 'newvalue' LessThan '26' ELSE GOTO 00006336"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6250,
+      "MemoryOffset": 6296,
       "Description": "Raw expression '00'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6256,
+      "MemoryOffset": 6302,
       "Description": "Raw expression '448 + newvalue'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6268,
+      "MemoryOffset": 6314,
       "Description": "Core operation'PokeByte'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6272,
+      "MemoryOffset": 6318,
       "Description": "Set 'newvalue' to 'newvalue + 1'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6284,
-      "Description": "GOTO '00006238'"
+      "MemoryOffset": 6330,
+      "Description": "GOTO '00006284'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 6290,
+      "MemoryOffset": 6336,
       "Description": "Raw expression '65'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 6296,
+      "MemoryOffset": 6342,
       "Description": "Raw expression '448 + 0'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 6304,
+      "MemoryOffset": 6350,
       "Description": "Core operation'PokeByte'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 3,
-      "MemoryOffset": 6308,
+      "MemoryOffset": 6354,
       "Description": "Raw expression '108'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 3,
-      "MemoryOffset": 6314,
+      "MemoryOffset": 6360,
       "Description": "Raw expression '448 + 1'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 3,
-      "MemoryOffset": 6324,
+      "MemoryOffset": 6370,
       "Description": "Core operation'PokeByte'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 4,
-      "MemoryOffset": 6328,
+      "MemoryOffset": 6374,
       "Description": "Raw expression '105'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 4,
-      "MemoryOffset": 6334,
+      "MemoryOffset": 6380,
       "Description": "Raw expression '448 + 2'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 4,
-      "MemoryOffset": 6344,
+      "MemoryOffset": 6390,
       "Description": "Core operation'PokeByte'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 5,
-      "MemoryOffset": 6348,
+      "MemoryOffset": 6394,
       "Description": "Raw expression '99'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 5,
-      "MemoryOffset": 6354,
+      "MemoryOffset": 6400,
       "Description": "Raw expression '448 + 3'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 5,
-      "MemoryOffset": 6364,
+      "MemoryOffset": 6410,
       "Description": "Core operation'PokeByte'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 6,
-      "MemoryOffset": 6368,
+      "MemoryOffset": 6414,
       "Description": "Raw expression '101'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 6,
-      "MemoryOffset": 6374,
+      "MemoryOffset": 6420,
       "Description": "Raw expression '448 + 4'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 6,
-      "MemoryOffset": 6384,
+      "MemoryOffset": 6430,
       "Description": "Core operation'PokeByte'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 7,
-      "MemoryOffset": 6388,
+      "MemoryOffset": 6434,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 7,
-      "MemoryOffset": 6392,
+      "MemoryOffset": 6438,
       "Description": "Say 'Hi! My name is {myname}.'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 7,
-      "MemoryOffset": 6420,
+      "MemoryOffset": 6466,
       "Description": "GOSUB TO 'WAITFORFIREHIT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 8,
-      "MemoryOffset": 6440,
+      "MemoryOffset": 6486,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 8,
-      "MemoryOffset": 6444,
+      "MemoryOffset": 6490,
       "Description": "Say 'This is a simple sample to demonstrate printing strings'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 8,
-      "MemoryOffset": 6504,
+      "MemoryOffset": 6550,
       "Description": "GOSUB TO 'WAITFORFIREHIT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 9,
-      "MemoryOffset": 6524,
+      "MemoryOffset": 6570,
       "Description": "If 'isamiga' Equals 'true'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 10,
-      "MemoryOffset": 6534,
+      "MemoryOffset": 6580,
       "Description": "If 'isaga' Equals 'true'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 11,
-      "MemoryOffset": 6546,
+      "MemoryOffset": 6592,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 11,
-      "MemoryOffset": 6550,
+      "MemoryOffset": 6596,
       "Description": "Say 'This is an AGA Amiga'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 11,
-      "MemoryOffset": 6576,
+      "MemoryOffset": 6622,
       "Description": "GOSUB TO 'WAITFORFIREHIT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 12,
-      "MemoryOffset": 6596,
-      "Description": "GOTO '00006660'"
+      "MemoryOffset": 6642,
+      "Description": "GOTO '00006706'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 13,
-      "MemoryOffset": 6602,
+      "MemoryOffset": 6648,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 13,
-      "MemoryOffset": 6606,
+      "MemoryOffset": 6652,
       "Description": "Say 'I can't find the AGA chipset'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 13,
-      "MemoryOffset": 6640,
+      "MemoryOffset": 6686,
       "Description": "GOSUB TO 'WAITFORFIREHIT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 15,
-      "MemoryOffset": 6660,
-      "Description": "GOTO '00006832'"
+      "MemoryOffset": 6706,
+      "Description": "GOTO '00006878'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 16,
-      "MemoryOffset": 6666,
+      "MemoryOffset": 6712,
       "Description": "If 'IsNTSC' NotZero '0'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 17,
-      "MemoryOffset": 6676,
+      "MemoryOffset": 6722,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 17,
-      "MemoryOffset": 6680,
+      "MemoryOffset": 6726,
       "Description": "Say 'This appears to be a Sega Genesis or Japan Mega Drive'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 17,
-      "MemoryOffset": 6738,
+      "MemoryOffset": 6784,
       "Description": "GOSUB TO 'WAITFORFIREHIT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 18,
-      "MemoryOffset": 6758,
-      "Description": "GOTO '00006832'"
+      "MemoryOffset": 6804,
+      "Description": "GOTO '00006878'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 19,
-      "MemoryOffset": 6764,
+      "MemoryOffset": 6810,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 19,
-      "MemoryOffset": 6768,
+      "MemoryOffset": 6814,
       "Description": "Say 'This appears to be European Mega Drive'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 19,
-      "MemoryOffset": 6812,
+      "MemoryOffset": 6858,
       "Description": "GOSUB TO 'WAITFORFIREHIT'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 22,
-      "MemoryOffset": 6832,
-      "Description": "Core operation'Print'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 22,
-      "MemoryOffset": 6836,
-      "Description": "Say 'I'm going to try loading a save file'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 22,
       "MemoryOffset": 6878,
+      "Description": "Core operation'Print'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 22,
+      "MemoryOffset": 6882,
+      "Description": "Say 'I'm going to try loading a save file'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 22,
+      "MemoryOffset": 6924,
       "Description": "GOSUB TO 'WAITFORFIREHIT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 23,
-      "MemoryOffset": 6898,
+      "MemoryOffset": 6944,
       "Description": "Raw expression 'False'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 23,
-      "MemoryOffset": 6904,
+      "MemoryOffset": 6950,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 23,
-      "MemoryOffset": 6910,
+      "MemoryOffset": 6956,
       "Description": "Raw expression '444'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 23,
-      "MemoryOffset": 6916,
+      "MemoryOffset": 6962,
       "Description": "Raw expression '2'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 23,
-      "MemoryOffset": 6922,
+      "MemoryOffset": 6968,
       "Description": "Core operation'LoadOrSave'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 23,
-      "MemoryOffset": 6926,
+      "MemoryOffset": 6972,
       "Description": "Raw string 'savedata'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 24,
-      "MemoryOffset": 6936,
+      "MemoryOffset": 6982,
       "Description": "If 'loaded' Equals 'true'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 25,
-      "MemoryOffset": 6948,
+      "MemoryOffset": 6994,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 25,
-      "MemoryOffset": 6952,
+      "MemoryOffset": 6998,
       "Description": "Say 'Loaded file. Last random number was {lastdice}'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 25,
-      "MemoryOffset": 7000,
+      "MemoryOffset": 7046,
       "Description": "GOSUB TO 'WAITFORFIREHIT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 26,
-      "MemoryOffset": 7020,
-      "Description": "GOTO '00007110'"
+      "MemoryOffset": 7066,
+      "Description": "GOTO '00007156'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 27,
-      "MemoryOffset": 7026,
+      "MemoryOffset": 7072,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 27,
-      "MemoryOffset": 7030,
+      "MemoryOffset": 7076,
       "Description": "Say 'Could not load file (first time running this program?)'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 27,
-      "MemoryOffset": 7090,
+      "MemoryOffset": 7136,
       "Description": "GOSUB TO 'WAITFORFIREHIT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 29,
-      "MemoryOffset": 7110,
+      "MemoryOffset": 7156,
       "Description": "Set 'dice' to '99'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 29,
-      "MemoryOffset": 7116,
+      "MemoryOffset": 7162,
       "Description": "Core operation'RollDice'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 30,
-      "MemoryOffset": 7120,
+      "MemoryOffset": 7166,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 30,
-      "MemoryOffset": 7124,
+      "MemoryOffset": 7170,
       "Description": "Say 'I'm going to pick a number between 1 and 99...<5><br>{Dice}'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 30,
-      "MemoryOffset": 7184,
+      "MemoryOffset": 7230,
       "Description": "GOSUB TO 'WAITFORFIREHIT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 31,
-      "MemoryOffset": 7204,
+      "MemoryOffset": 7250,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 31,
-      "MemoryOffset": 7208,
+      "MemoryOffset": 7254,
       "Description": "Say 'Use < br > for<br>line<br>breaks!'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 31,
-      "MemoryOffset": 7240,
+      "MemoryOffset": 7286,
       "Description": "GOSUB TO 'WAITFORFIREHIT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 32,
-      "MemoryOffset": 7260,
+      "MemoryOffset": 7306,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 32,
-      "MemoryOffset": 7264,
+      "MemoryOffset": 7310,
       "Description": "Say 'use < 1 ><1> to < 5 ><2> to insert <3> delays <4> in <5> text!'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 32,
-      "MemoryOffset": 7322,
+      "MemoryOffset": 7368,
       "Description": "GOSUB TO 'WAITFORFIREHIT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 33,
-      "MemoryOffset": 7342,
-      "Description": "If 'ismegadrive' NotZero '0' ELSE GOTO 00007450"
+      "MemoryOffset": 7388,
+      "Description": "If 'ismegadrive' NotZero '0' ELSE GOTO 00007496"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 34,
-      "MemoryOffset": 7350,
+      "MemoryOffset": 7396,
       "Description": "GOSUB TO 'PRE_QUIT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 34,
-      "MemoryOffset": 7370,
+      "MemoryOffset": 7416,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 34,
-      "MemoryOffset": 7374,
+      "MemoryOffset": 7420,
       "Description": "Print 'Choices are not currently supported in Mega Drive, so we'll finish here' on quit"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 36,
-      "MemoryOffset": 7450,
+      "MemoryOffset": 7496,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 36,
-      "MemoryOffset": 7454,
+      "MemoryOffset": 7500,
       "Description": "Say 'Next is a demo of choices.<br>Yes to repeat<br>No to quit.<br>'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 36,
-      "MemoryOffset": 7512,
+      "MemoryOffset": 7558,
       "Description": "GOSUB TO 'WAITFORFIREHIT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 37,
-      "MemoryOffset": 7532,
+      "MemoryOffset": 7578,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 37,
-      "MemoryOffset": 7546,
+      "MemoryOffset": 7592,
       "Description": "GOTO 'REPEAT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 38,
-      "MemoryOffset": 7552,
-      "Description": "If 'repeated' NotZero 'true' ELSE GOTO 00007588"
+      "MemoryOffset": 7598,
+      "Description": "If 'repeated' NotZero 'true' ELSE GOTO 00007634"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 38,
-      "MemoryOffset": 7562,
+      "MemoryOffset": 7608,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 38,
-      "MemoryOffset": 7582,
+      "MemoryOffset": 7628,
       "Description": "GOTO 'REPEAT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 39,
-      "MemoryOffset": 7588,
+      "MemoryOffset": 7634,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 39,
-      "MemoryOffset": 7600,
+      "MemoryOffset": 7646,
       "Description": "GOTO 'QUITGAME'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 40,
-      "MemoryOffset": 7606,
+      "MemoryOffset": 7652,
       "Description": "Core operation'PresentChoice'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 40,
-      "MemoryOffset": 7610,
+      "MemoryOffset": 7656,
       "Description": "REPEAT"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 41,
-      "MemoryOffset": 7610,
+      "MemoryOffset": 7656,
       "Description": "Set 'repeated' to 'true'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 42,
-      "MemoryOffset": 7616,
+      "MemoryOffset": 7662,
       "Description": "GOTO 'STARTUP'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 43,
-      "MemoryOffset": 7622,
+      "MemoryOffset": 7668,
       "Description": "QUITGAME"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 44,
-      "MemoryOffset": 7622,
+      "MemoryOffset": 7668,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 44,
-      "MemoryOffset": 7626,
+      "MemoryOffset": 7672,
       "Description": "Say 'I'm going to try saving that number - {dice} - to disk for next time'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 44,
-      "MemoryOffset": 7700,
+      "MemoryOffset": 7746,
       "Description": "GOSUB TO 'WAITFORFIREHIT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 45,
-      "MemoryOffset": 7720,
+      "MemoryOffset": 7766,
       "Description": "Set 'lastdice' to 'dice'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 46,
-      "MemoryOffset": 7726,
+      "MemoryOffset": 7772,
       "Description": "Raw expression 'True'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 46,
-      "MemoryOffset": 7732,
+      "MemoryOffset": 7778,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 46,
-      "MemoryOffset": 7738,
+      "MemoryOffset": 7784,
       "Description": "Raw expression '444'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 46,
-      "MemoryOffset": 7744,
+      "MemoryOffset": 7790,
       "Description": "Raw expression '2'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 46,
-      "MemoryOffset": 7750,
+      "MemoryOffset": 7796,
       "Description": "Core operation'LoadOrSave'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 46,
-      "MemoryOffset": 7754,
+      "MemoryOffset": 7800,
       "Description": "Raw string 'savedata'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 47,
-      "MemoryOffset": 7764,
+      "MemoryOffset": 7810,
       "Description": "If 'saved' Equals 'true'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 48,
-      "MemoryOffset": 7776,
+      "MemoryOffset": 7822,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 48,
-      "MemoryOffset": 7780,
+      "MemoryOffset": 7826,
       "Description": "Say 'Save successful!'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 48,
-      "MemoryOffset": 7802,
+      "MemoryOffset": 7848,
       "Description": "GOSUB TO 'WAITFORFIREHIT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 49,
-      "MemoryOffset": 7822,
-      "Description": "GOTO '00007872'"
+      "MemoryOffset": 7868,
+      "Description": "GOTO '00007918'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 50,
-      "MemoryOffset": 7828,
+      "MemoryOffset": 7874,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 50,
-      "MemoryOffset": 7832,
+      "MemoryOffset": 7878,
       "Description": "Say 'Could not save!'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 50,
-      "MemoryOffset": 7852,
+      "MemoryOffset": 7898,
       "Description": "GOSUB TO 'WAITFORFIREHIT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 52,
-      "MemoryOffset": 7872,
+      "MemoryOffset": 7918,
       "Description": "GOSUB TO 'PRE_QUIT'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 52,
-      "MemoryOffset": 7892,
+      "MemoryOffset": 7938,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 52,
-      "MemoryOffset": 7896,
+      "MemoryOffset": 7942,
       "Description": "Print 'We can also print a quit message. Last dice roll was {dice}.' on quit"
     }
   ],
