@@ -4,15 +4,15 @@
   "Variables": [
     {
       "Name": "TileBit_HasBlock",
-      "Value": "15",
+      "Value": "7",
       "Notes": "Does this tile have a block?",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Constant"
     },
     {
-      "Name": "TileBit_IsSlope",
-      "Value": "14",
+      "Name": "TileBit_Spare2",
+      "Value": "6",
       "Notes": "Does this tile have a block with a slope?",
       "PrivateSet": false,
       "Watch": false,
@@ -20,7 +20,7 @@
     },
     {
       "Name": "TileBit_HasForeground",
-      "Value": "13",
+      "Value": "5",
       "Notes": "Does this tile have a foreground?",
       "PrivateSet": false,
       "Watch": false,
@@ -28,7 +28,7 @@
     },
     {
       "Name": "TileBit_HasAnimation",
-      "Value": "12",
+      "Value": "4",
       "Notes": "Does this tile have an animation?",
       "PrivateSet": false,
       "Watch": false,
@@ -36,7 +36,7 @@
     },
     {
       "Name": "TileBit_Spare",
-      "Value": "11",
+      "Value": "3",
       "Notes": "Does this tile have the spare bit set?",
       "PrivateSet": false,
       "Watch": false,
@@ -44,7 +44,7 @@
     },
     {
       "Name": "TileBit_AIBlock",
-      "Value": "10",
+      "Value": "2",
       "Notes": "Does this tile have the \"AI Block\" flag set?",
       "PrivateSet": false,
       "Watch": false,
@@ -52,7 +52,7 @@
     },
     {
       "Name": "TileBit_IsPlatform",
-      "Value": "9",
+      "Value": "1",
       "Notes": "Is this tile a platform?",
       "PrivateSet": false,
       "Watch": false,
@@ -60,11 +60,19 @@
     },
     {
       "Name": "TileBit_IsSolid",
-      "Value": "8",
+      "Value": "0",
       "Notes": "Is this tile solid?",
       "PrivateSet": false,
       "Watch": false,
-      "VariableType": "Variable"
+      "VariableType": "Constant"
+    },
+    {
+      "Name": "TileMask_Occupied",
+      "Value": "0x83",
+      "Notes": "Mask for the tile having a block/solid/platform",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Constant"
     }
   ],
   "Commands": [
@@ -99,7 +107,8 @@
           "IsOR": false,
           "LeftSide": "",
           "Comparison": "NotZero",
-          "RightSide": ""
+          "RightSide": "",
+          "IsValid": false
         }
       ],
       "Level": "none",
