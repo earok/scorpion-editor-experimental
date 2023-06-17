@@ -1,11 +1,11 @@
 {
-  "TargetPlatform": "amiga_ocs",
+  "TargetPlatform": "megadrive",
   "Talkpad": null,
   "Talkpad_OnBottom": false,
   "StartupCodeBlock": "startup",
   "Recompile": true,
   "DebugMode": false,
-  "StartupSequenceDirty": true,
+  "StartupSequenceDirty": false,
   "Fire1Jump": false,
   "Fire2Jump": true,
   "UpJump": true,
@@ -213,11 +213,7 @@
       "OnRelease": "nextlevel"
     }
   ],
-  "AnimationMetaData": {
-    "anim_glitter": {
-      "Divert_OnFinish": "destroy_actor"
-    }
-  },
+  "AnimationMetaData": {},
   "Anim5MetaData": {
     "test": {
       "FrameSkip": 0
