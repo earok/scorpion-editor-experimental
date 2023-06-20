@@ -32,7 +32,8 @@
           "IsOR": false,
           "LeftSide": "player_y",
           "Comparison": "GreaterThan",
-          "RightSide": "yres + 128"
+          "RightSide": "yres + 128",
+          "IsValid": true
         }
       ],
       "Level": "none",
@@ -109,7 +110,15 @@
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
-      "Conditions": [],
+      "Conditions": [
+        {
+          "IsOR": false,
+          "LeftSide": "",
+          "Comparison": "NotZero",
+          "RightSide": "",
+          "IsValid": false
+        }
+      ],
       "Level": "none",
       "NewBlock": "none",
       "XPosition": "",
@@ -184,7 +193,15 @@
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
-      "Conditions": [],
+      "Conditions": [
+        {
+          "IsOR": false,
+          "LeftSide": "",
+          "Comparison": "NotZero",
+          "RightSide": "",
+          "IsValid": false
+        }
+      ],
       "Level": "none",
       "NewBlock": "none",
       "XPosition": "",

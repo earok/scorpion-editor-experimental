@@ -1,30 +1,35 @@
 Attack Data Original size 132 Crunched size 132
 Default MD font Original size 2048 Crunched size 2048
-Map event data for level1 Original size 20 Crunched size 20
+Map event data for level1 Original size 28 Crunched size 28
 Map header level1 Original size 14652 Crunched size 14652
 Map block data for level1 Original size 972 Crunched size 64
 Map path node data for level1 Original size 12 Crunched size 12
+MDS Sequence file Original size 116 Crunched size 116
+MDS PCM file Original size 4863 Crunched size 4863
 Map tile data  level1 Original size 972 Crunched size 64
 Get Y lookup table level1 Original size 72 Crunched size 72
 Default MD number font Original size 320 Crunched size 320
 Number font for panel 2 Original size 320 Crunched size 320
 Number font for panel 3 Original size 320 Crunched size 320
-Project actors Original size 2200 Crunched size 2200
+Project actors Original size 2000 Crunched size 2000
 Project blocks Original size 52 Crunched size 52
 Animation Frames Original size 192 Crunched size 192
 Mega Drive header Original size 3660 Crunched size 3660
 Images Original size 494 Crunched size 494
-Panel  Original size 10304 Crunched size 10304
-Panel md_parallax Original size 5824 Crunched size 5824
-Panel ui Original size 1276 Crunched size 1276
-Panel ui_megadrive Original size 1852 Crunched size 1852
+Panel  Original size 10322 Crunched size 10322
+Panel md_parallax Original size 8114 Crunched size 8114
+Panel ui Original size 1294 Crunched size 1294
+Panel ui_megadrive Original size 1870 Crunched size 1870
 Animations Original size 160 Crunched size 160
 Project patterns Original size 2720 Crunched size 2720
 Pattern data for 1 Original size 420 Crunched size 420
 Streamed project patterns Original size 4608 Crunched size 4608
-Project sound Original size 24 Crunched size 24
-Var Data Original size 30 Crunched size 30
-Project virtual machine (codeblocks) Original size 8198 Crunched size 8198
+Project sound Original size 96 Crunched size 96
+Var Data Original size 16 Crunched size 16
+Project virtual machine (codeblocks) Original size 8334 Crunched size 8334
+
+=== Possibly unused animations ===
+anim_sun
 
 === Possibly unused Actors ===
 pole1
@@ -37,22 +42,23 @@ pole6
 === Codeblocks by compiled size ===
 load_level: 1012
 set_yresolution: 448
-levelstartloop: 432
-startup: 382
+levelstartloop: 448
+startup: 370
 do_teleport: 362
 flipscreen_smooth: 346 (Unused?)
 flipxymove: 306 (Unused?)
 pause: 252 (Unused?)
-poleoffscreen: 218
+poleoffscreen: 234
+pre_startup: 194
 snap_to_screen: 190 (Unused?)
-pre_startup: 188
 flipymove: 174 (Unused?)
 flipxmove: 158 (Unused?)
+playerdead: 156
 load_panel: 146
 pre_quit: 146
-playerdead: 140
+autoscroll: 134
+planehandler: 132
 destroy_all_blocks: 124 (Unused?)
-planehandler: 116
 unload_level: 114
 load_panel_bottom: 96
 load_panel_top: 96 (Unused?)
@@ -82,7 +88,6 @@ destroy_actor: 54
 regenerate_screen: 52
 return: 52 (Unused?)
 destroy_block: 48 (Unused?)
-autoscroll: 48
 regenerate_screen_wait: 42
 debug_dump: 30 (Unused?)
 vm_registers: 26 (Unused?)
