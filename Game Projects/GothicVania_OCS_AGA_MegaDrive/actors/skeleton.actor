@@ -93,6 +93,17 @@
       "sqrMagnitude": 0
     }
   ],
+  "InvalidDirections": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
   "CollBox": {
     "X": -16,
     "Y": -40,
@@ -132,8 +143,8 @@
   "DivertPlayerHit": "on_kill_enemy",
   "DivertHitAgainstPlayer": null,
   "DivertProjectileCollision": null,
-  "DivertOutOfScreenLeft": "",
-  "DivertOutOfScreenRight": "",
+  "DivertOutOfScreenLeft": "on_leave_left",
+  "DivertOutOfScreenRight": "on_leave_right",
   "DivertOutOfScreenUp": null,
   "DivertOutOfScreenDown": null,
   "DivertPlatformEdge": "flipxmove",
@@ -151,7 +162,5 @@
   "ControlPort": 1,
   "DataVersion": 3,
   "AutoSpawn": null,
-  "TileID": 3,
-  "SuggestedRecycle": "Always",
-  "UpAccelerationName": "Accel Up"
+  "TileID": 3
 }
