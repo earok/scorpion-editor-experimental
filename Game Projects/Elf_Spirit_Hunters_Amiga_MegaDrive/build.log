@@ -30,17 +30,17 @@ core sfx/gfx memory: 130016
 Parallax memory: 0
 
 For other:
-Map cache memory: 1568
-Map header cache memory: 1568
+Map cache memory: 1564
+Map header cache memory: 1564
 Map data memory: 12092
 Map background memory: 2672
-EXE memory: 203028
-vm memory: 16496
+EXE memory: 204240
+vm memory: 16612
 project memory: 8986
 
 Accounted memory chip: 279844
-Accounted memory other: 246410
-Accounted memory total: 526254
+Accounted memory other: 247730
+Accounted memory total: 527574
 
 === Misc ===
 Maps and Asset Bundles Count: 2
@@ -69,23 +69,23 @@ Misc data size: 114
 Asset bundle 0 (Core project asset bundle) Original size 130016 Crunched size 39232
 Asset bundle 1 (map) Original size 17024 Crunched size 3484
 Background for map map Original size 2672 Crunched size 92
-Tile data for map map (mem restrictions:None) Original size 12092 Crunched size 1568
+Tile data for map map (mem restrictions:None) Original size 12092 Crunched size 1564
 Header data for map map Original size 7996 Crunched size 254
-Project Data Original size 8986 Crunched size 1928
-Project Header Original size 4032 Crunched size 1194
+Project Data Original size 8986 Crunched size 1926
+Project Header Original size 4032 Crunched size 1196
 Panel scorpion_eng_splashscreen Original size 35934 Crunched size 3268
 Panel emptypanel Original size 53078 Crunched size 2314
 Panel main_panel Original size 47454 Crunched size 4558
 Panel store Original size 53732 Crunched size 5012
 Panel title_panel Original size 47454 Crunched size 14618
 Panel ui Original size 18018 Crunched size 2484
-Project virtual machine (codeblocks) Original size 16496 Crunched size 5474
+Project virtual machine (codeblocks) Original size 16612 Crunched size 5496
 Project virtual machine redirects Original size 4 Crunched size 4
 
 === Codeblocks by compiled size ===
 game_loop: 2490
-store_selection: 1056
-load_level: 1012
+store_selection: 1086
+load_level: 920
 activate: 500
 random_dir: 498
 beam_cross: 482
@@ -94,8 +94,8 @@ set_yresolution: 448 (Unused?)
 game_over_bank: 448
 manager_heart: 444
 manager: 414
+do_teleport: 392
 startup: 390
-do_teleport: 362
 beam_test_side: 354
 flipscreen_smooth: 346 (Unused?)
 flipxymove: 306 (Unused?)
@@ -109,11 +109,12 @@ snap_to_screen: 190 (Unused?)
 flipxlook: 176
 flipymove: 174 (Unused?)
 flipxmove: 158 (Unused?)
+restart: 154 (Unused?)
 load_panel: 146
 pre_quit: 146
 celebrate: 132
 destroy_all_blocks: 124
-restart: 124 (Unused?)
+pre_load_level: 118
 unload_level: 114
 hunt_kill: 110
 destroyed_block: 108
