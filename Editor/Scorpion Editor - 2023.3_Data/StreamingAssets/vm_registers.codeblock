@@ -1203,6 +1203,14 @@
       "VariableType": "Variable"
     },
     {
+      "Name": "Control1JumpControls",
+      "Value": "0",
+      "Notes": "Jump configuration for player 1",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },	
+    {
       "Name": "Control1_MouseX",
       "Value": "85",
       "Notes": "Mouse Position X (for mouse in joystick port)",
@@ -1258,6 +1266,14 @@
       "Watch": false,
       "VariableType": "Variable"
     },
+    {
+      "Name": "Control2JumpControls",
+      "Value": "0",
+      "Notes": "Jump configuration for player 2",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },		
     {
       "Name": "Control2_MouseX",
       "Value": "170",
@@ -1315,6 +1331,14 @@
       "VariableType": "Variable"
     },
     {
+      "Name": "Control3JumpControls",
+      "Value": "0",
+      "Notes": "Jump configuration for player 3",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },		
+    {
       "Name": "Control4_X",
       "Value": "0",
       "Notes": "Player 4's X-Axis control",
@@ -1346,6 +1370,14 @@
       "Watch": false,
       "VariableType": "Variable"
     },
+    {
+      "Name": "Control4JumpControls",
+      "Value": "0",
+      "Notes": "Jump configuration for player 4",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },		
     {
       "Name": "PlatformSnap",
       "Value": "8",
@@ -1643,14 +1675,6 @@
       "VariableType": "Variable"
     },
     {
-      "Name": "JumpControls",
-      "Value": "0",
-      "Notes": "The JumpControls Setting",
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    },
-    {
       "Name": "HighColor",
       "Value": "0",
       "Notes": "24 Bit on AGA Amiga. Highlight/Shadow on Mega Drive.",
@@ -1667,9 +1691,9 @@
       "VariableType": "Variable"
     },
     {
-      "Name": "AGASScan2",
+      "Name": "SpecialScroll",
       "Value": "0",
-      "Notes": "AGA Sprite Doubling",
+      "Notes": "AGA Sprite Doubling on Amiga. Vertical column scroll on Mega Drive.",
       "PrivateSet": true,
       "Watch": false,
       "VariableType": "Variable"
