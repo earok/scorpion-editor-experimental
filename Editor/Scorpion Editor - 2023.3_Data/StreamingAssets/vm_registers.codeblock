@@ -923,6 +923,46 @@
       "VariableType": "Variable"
     },
     {
+      "Name": "Lookahead_Left",
+      "Value": "0",
+      "Notes": "Lookahead speed left",
+      "PrivateSet": true,
+      "Watch": false,
+      "VariableType": "Variable"
+    },	
+    {
+      "Name": "Lookahead_Right",
+      "Value": "0",
+      "Notes": "Lookahead speed right",
+      "PrivateSet": true,
+      "Watch": false,
+      "VariableType": "Variable"
+    },		
+    {
+      "Name": "Lookahead_Up",
+      "Value": "0",
+      "Notes": "Lookahead speed up",
+      "PrivateSet": true,
+      "Watch": false,
+      "VariableType": "Variable"
+    },		
+    {
+      "Name": "Lookahead_Down",
+      "Value": "0",
+      "Notes": "Lookahead speed down",
+      "PrivateSet": true,
+      "Watch": false,
+      "VariableType": "Variable"
+    },			
+    {
+      "Name": "MaxCameraFollow",
+      "Value": "0",
+      "Notes": "The maximum amount of pixels that the camera can travel per frame",
+      "PrivateSet": true,
+      "Watch": false,
+      "VariableType": "Variable"
+    },	
+    {
       "Name": "Dice",
       "Value": "0",
       "Notes": "SET to make a random number between 1 and VALUE. GET to get the value of the last roll.",
@@ -1211,6 +1251,14 @@
       "VariableType": "Variable"
     },	
     {
+      "Name": "Control1AttackControls",
+      "Value": "0",
+      "Notes": "Attack configuration for player 1",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },	
+    {
       "Name": "Control1_MouseX",
       "Value": "85",
       "Notes": "Mouse Position X (for mouse in joystick port)",
@@ -1270,6 +1318,14 @@
       "Name": "Control2JumpControls",
       "Value": "0",
       "Notes": "Jump configuration for player 2",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },	
+    {
+      "Name": "Control2AttackControls",
+      "Value": "0",
+      "Notes": "Attack configuration for player 2",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
@@ -1339,6 +1395,14 @@
       "VariableType": "Variable"
     },		
     {
+      "Name": "Control3AttackControls",
+      "Value": "0",
+      "Notes": "Attack configuration for player 3",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },		
+    {
       "Name": "Control4_X",
       "Value": "0",
       "Notes": "Player 4's X-Axis control",
@@ -1374,6 +1438,14 @@
       "Name": "Control4JumpControls",
       "Value": "0",
       "Notes": "Jump configuration for player 4",
+      "PrivateSet": false,
+      "Watch": false,
+      "VariableType": "Variable"
+    },		
+    {
+      "Name": "Control4AttackControls",
+      "Value": "0",
+      "Notes": "Attack configuration for player 4",
       "PrivateSet": false,
       "Watch": false,
       "VariableType": "Variable"
