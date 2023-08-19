@@ -16,4 +16,14 @@
       <property name="Name" value="stairs_2" type="string" />
     </properties>
   </tile>
+  <tile id="3">
+    <properties>
+      <property name="Name" value="ramp" type="string" />
+    </properties>
+  </tile>
+  <tile id="4">
+    <properties>
+      <property name="Name" value="full" type="string" />
+    </properties>
+  </tile>
 </tileset>
