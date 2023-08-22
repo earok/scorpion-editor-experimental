@@ -5391,120 +5391,120 @@
       "CodeBlock": "autogen_outofscreen_destroy_actor_destroy_actor_destroy_actor_destroy_actor",
       "CodeBlockLine": 7,
       "MemoryOffset": 6340,
-      "Description": "If actor_y < 0 ELSE GOTO 00006368"
+      "Description": "If actor_y < camera_y ELSE GOTO 00006370"
     },
     {
       "CodeBlock": "autogen_outofscreen_destroy_actor_destroy_actor_destroy_actor_destroy_actor",
       "CodeBlockLine": 8,
-      "MemoryOffset": 6362,
+      "MemoryOffset": 6364,
       "Description": "GOTO 'DESTROY_ACTOR'"
     },
     {
       "CodeBlock": "autogen_outofscreen_destroy_actor_destroy_actor_destroy_actor_destroy_actor",
       "CodeBlockLine": 10,
-      "MemoryOffset": 6368,
-      "Description": "If actor_y > yres + camera_y ELSE GOTO 00006404"
+      "MemoryOffset": 6370,
+      "Description": "If actor_y > yres + camera_y ELSE GOTO 00006406"
     },
     {
       "CodeBlock": "autogen_outofscreen_destroy_actor_destroy_actor_destroy_actor_destroy_actor",
       "CodeBlockLine": 11,
-      "MemoryOffset": 6398,
+      "MemoryOffset": 6400,
       "Description": "GOTO 'DESTROY_ACTOR'"
     },
     {
       "CodeBlock": "shadow_offset",
       "CodeBlockLine": 0,
-      "MemoryOffset": 6430,
+      "MemoryOffset": 6432,
       "Description": "SHADOW_OFFSET"
     },
     {
       "CodeBlock": "shadow_offset",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6430,
+      "MemoryOffset": 6432,
       "Description": "Set 'actor_var5' to '11 * 16 - player_y * 2'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 0,
-      "MemoryOffset": 6488,
+      "MemoryOffset": 6490,
       "Description": "STARTUP"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6488,
+      "MemoryOffset": 6490,
       "Description": "Set 'highcolor' to 'true'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 6494,
-      "Description": "If actor_type is not zero ELSE GOTO 00006534"
+      "MemoryOffset": 6496,
+      "Description": "If actor_type is not zero ELSE GOTO 00006536"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 6514,
+      "MemoryOffset": 6516,
       "Description": "Yield on  timer to  next line"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 6534,
+      "MemoryOffset": 6536,
       "Description": "Set 'newvalue' to 'new_map'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 6540,
+      "MemoryOffset": 6542,
       "Description": "Core operation'WaitForNoActors'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 6544,
+      "MemoryOffset": 6546,
       "Description": "GOSUB TO 'PRE_LOAD_LEVEL'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 6564,
+      "MemoryOffset": 6566,
       "Description": "Set 'newvalue' to 'new_map'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 6570,
+      "MemoryOffset": 6572,
       "Description": "GOSUB TO 'LOAD_LEVEL'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 3,
-      "MemoryOffset": 6590,
+      "MemoryOffset": 6592,
       "Description": "Set 'camera_follow' to '15'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 3,
-      "MemoryOffset": 6596,
+      "MemoryOffset": 6598,
       "Description": "Set 'maxcamerafollow' to '8 | 0'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 4,
-      "MemoryOffset": 6606,
+      "MemoryOffset": 6608,
       "Description": "Raw expression '4'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 4,
-      "MemoryOffset": 6612,
+      "MemoryOffset": 6614,
       "Description": "Raw expression 'shadow'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 4,
-      "MemoryOffset": 6618,
+      "MemoryOffset": 6620,
       "Description": "Core operation'ActorSpawn'"
     }
   ],

@@ -5452,366 +5452,366 @@
       "CodeBlock": "autogen_outofscreen_wrap_screen_left_wrap_screen_right_wrap_screen_top_wrap_screen_bottom",
       "CodeBlockLine": 7,
       "MemoryOffset": 6390,
-      "Description": "If actor_y < 0 ELSE GOTO 00006418"
+      "Description": "If actor_y < camera_y ELSE GOTO 00006420"
     },
     {
       "CodeBlock": "autogen_outofscreen_wrap_screen_left_wrap_screen_right_wrap_screen_top_wrap_screen_bottom",
       "CodeBlockLine": 8,
-      "MemoryOffset": 6412,
+      "MemoryOffset": 6414,
       "Description": "GOTO 'WRAP_SCREEN_TOP'"
     },
     {
       "CodeBlock": "autogen_outofscreen_wrap_screen_left_wrap_screen_right_wrap_screen_top_wrap_screen_bottom",
       "CodeBlockLine": 10,
-      "MemoryOffset": 6418,
-      "Description": "If actor_y > yres + camera_y ELSE GOTO 00006454"
+      "MemoryOffset": 6420,
+      "Description": "If actor_y > yres + camera_y ELSE GOTO 00006456"
     },
     {
       "CodeBlock": "autogen_outofscreen_wrap_screen_left_wrap_screen_right_wrap_screen_top_wrap_screen_bottom",
       "CodeBlockLine": 11,
-      "MemoryOffset": 6448,
+      "MemoryOffset": 6450,
       "Description": "GOTO 'WRAP_SCREEN_BOTTOM'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 0,
-      "MemoryOffset": 6480,
+      "MemoryOffset": 6482,
       "Description": "CHASE_IF_CAN_SEE"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6480,
+      "MemoryOffset": 6482,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6486,
+      "MemoryOffset": 6488,
       "Description": "Raw expression 'stop_moving'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6492,
+      "MemoryOffset": 6494,
       "Description": "Core operation'ActorSetLookdir'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 3,
-      "MemoryOffset": 6496,
+      "MemoryOffset": 6498,
       "Description": "Set 'block_x' to 'actor_x >> 4'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 4,
-      "MemoryOffset": 6518,
+      "MemoryOffset": 6520,
       "Description": "Set 'block_y' to 'actor_y >> 4'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 5,
-      "MemoryOffset": 6540,
+      "MemoryOffset": 6542,
       "Description": "Set 'dest_x' to 'player_x >> 4'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 6,
-      "MemoryOffset": 6562,
+      "MemoryOffset": 6564,
       "Description": "Set 'dest_y' to 'player_y >> 4'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 7,
-      "MemoryOffset": 6584,
+      "MemoryOffset": 6586,
       "Description": "Set 'abs_x_delta' to 'dest_x - block_x'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 8,
-      "MemoryOffset": 6598,
+      "MemoryOffset": 6600,
       "Description": "Set 'abs_y_delta' to 'dest_y - block_y'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 9,
-      "MemoryOffset": 6612,
-      "Description": "If abs_x_delta < 0 ELSE GOTO 00006634"
+      "MemoryOffset": 6614,
+      "Description": "If abs_x_delta < 0 ELSE GOTO 00006636"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 10,
-      "MemoryOffset": 6624,
+      "MemoryOffset": 6626,
       "Description": "Set 'abs_x_delta' to '- abs_x_delta'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 12,
-      "MemoryOffset": 6634,
-      "Description": "If abs_y_delta < 0 ELSE GOTO 00006656"
+      "MemoryOffset": 6636,
+      "Description": "If abs_y_delta < 0 ELSE GOTO 00006658"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 13,
-      "MemoryOffset": 6646,
+      "MemoryOffset": 6648,
       "Description": "Set 'abs_y_delta' to '- abs_y_delta'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 15,
-      "MemoryOffset": 6656,
+      "MemoryOffset": 6658,
       "Description": "If abs_x_delta > abs_y_delta"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 16,
-      "MemoryOffset": 6670,
-      "Description": "If abs_x_delta > 0 ELSE GOTO 00006912"
+      "MemoryOffset": 6672,
+      "Description": "If abs_x_delta > 0 ELSE GOTO 00006914"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 18,
-      "MemoryOffset": 6682,
+      "MemoryOffset": 6684,
       "Description": "Set 'shift' to 'player_y - actor_y / abs_x_delta'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 19,
-      "MemoryOffset": 6722,
+      "MemoryOffset": 6724,
       "Description": "Set 'offset' to 'actor_y'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 20,
-      "MemoryOffset": 6738,
-      "Description": "If block_x != dest_x ELSE GOTO 00006912"
+      "MemoryOffset": 6740,
+      "Description": "If block_x != dest_x ELSE GOTO 00006914"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 21,
-      "MemoryOffset": 6752,
+      "MemoryOffset": 6754,
       "Description": "Core operation'BlockGet'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 21,
-      "MemoryOffset": 6756,
-      "Description": "If Test bit tilebit_issolid on tile_properties ELSE GOTO 00006794"
+      "MemoryOffset": 6758,
+      "Description": "If Test bit tilebit_issolid on tile_properties ELSE GOTO 00006796"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 24,
-      "MemoryOffset": 6794,
+      "MemoryOffset": 6796,
       "Description": "Set 'offset' to 'offset + shift'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 25,
-      "MemoryOffset": 6808,
+      "MemoryOffset": 6810,
       "Description": "Set 'block_y' to 'offset >> 4'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 26,
-      "MemoryOffset": 6820,
+      "MemoryOffset": 6822,
       "Description": "Core operation'BlockGet'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 26,
-      "MemoryOffset": 6824,
-      "Description": "If Test bit tilebit_issolid on tile_properties ELSE GOTO 00006862"
+      "MemoryOffset": 6826,
+      "Description": "If Test bit tilebit_issolid on tile_properties ELSE GOTO 00006864"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 29,
-      "MemoryOffset": 6862,
+      "MemoryOffset": 6864,
       "Description": "If block_x < dest_x"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 30,
-      "MemoryOffset": 6876,
+      "MemoryOffset": 6878,
       "Description": "Set 'block_x' to 'block_x + 1'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 31,
-      "MemoryOffset": 6888,
-      "Description": "GOTO '00006906'"
+      "MemoryOffset": 6890,
+      "Description": "GOTO '00006908'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 32,
-      "MemoryOffset": 6894,
+      "MemoryOffset": 6896,
       "Description": "Set 'block_x' to 'block_x - 1'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 34,
-      "MemoryOffset": 6906,
-      "Description": "GOTO '00006738'"
+      "MemoryOffset": 6908,
+      "Description": "GOTO '00006740'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 36,
-      "MemoryOffset": 6912,
-      "Description": "GOTO '00007160'"
+      "MemoryOffset": 6914,
+      "Description": "GOTO '00007162'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 37,
-      "MemoryOffset": 6918,
-      "Description": "If abs_y_delta > 0 ELSE GOTO 00007160"
+      "MemoryOffset": 6920,
+      "Description": "If abs_y_delta > 0 ELSE GOTO 00007162"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 39,
-      "MemoryOffset": 6930,
+      "MemoryOffset": 6932,
       "Description": "Set 'shift' to 'player_x - actor_x / abs_y_delta'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 40,
-      "MemoryOffset": 6970,
+      "MemoryOffset": 6972,
       "Description": "Set 'offset' to 'actor_x'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 41,
-      "MemoryOffset": 6986,
-      "Description": "If block_y != dest_y ELSE GOTO 00007160"
+      "MemoryOffset": 6988,
+      "Description": "If block_y != dest_y ELSE GOTO 00007162"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 42,
-      "MemoryOffset": 7000,
+      "MemoryOffset": 7002,
       "Description": "Core operation'BlockGet'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 42,
-      "MemoryOffset": 7004,
-      "Description": "If Test bit tilebit_issolid on tile_properties ELSE GOTO 00007042"
+      "MemoryOffset": 7006,
+      "Description": "If Test bit tilebit_issolid on tile_properties ELSE GOTO 00007044"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 45,
-      "MemoryOffset": 7042,
+      "MemoryOffset": 7044,
       "Description": "Set 'offset' to 'offset + shift'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 46,
-      "MemoryOffset": 7056,
+      "MemoryOffset": 7058,
       "Description": "Set 'block_x' to 'offset >> 4'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 47,
-      "MemoryOffset": 7068,
+      "MemoryOffset": 7070,
       "Description": "Core operation'BlockGet'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 47,
-      "MemoryOffset": 7072,
-      "Description": "If Test bit tilebit_issolid on tile_properties ELSE GOTO 00007110"
+      "MemoryOffset": 7074,
+      "Description": "If Test bit tilebit_issolid on tile_properties ELSE GOTO 00007112"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 50,
-      "MemoryOffset": 7110,
+      "MemoryOffset": 7112,
       "Description": "If block_y < dest_y"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 51,
-      "MemoryOffset": 7124,
+      "MemoryOffset": 7126,
       "Description": "Set 'block_y' to 'block_y + 1'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 52,
-      "MemoryOffset": 7136,
-      "Description": "GOTO '00007154'"
+      "MemoryOffset": 7138,
+      "Description": "GOTO '00007156'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 53,
-      "MemoryOffset": 7142,
+      "MemoryOffset": 7144,
       "Description": "Set 'block_y' to 'block_y - 1'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 55,
-      "MemoryOffset": 7154,
-      "Description": "GOTO '00006986'"
+      "MemoryOffset": 7156,
+      "Description": "GOTO '00006988'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 59,
-      "MemoryOffset": 7160,
+      "MemoryOffset": 7162,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 59,
-      "MemoryOffset": 7166,
+      "MemoryOffset": 7168,
       "Description": "Raw expression 'move_atplayer'"
     },
     {
       "CodeBlock": "chase_if_can_see",
       "CodeBlockLine": 59,
-      "MemoryOffset": 7172,
+      "MemoryOffset": 7174,
       "Description": "Core operation'ActorSetLookdir'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 0,
-      "MemoryOffset": 7202,
+      "MemoryOffset": 7204,
       "Description": "STARTUP"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7202,
-      "Description": "If actor_type is not zero ELSE GOTO 00007242"
+      "MemoryOffset": 7204,
+      "Description": "If actor_type is not zero ELSE GOTO 00007244"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7222,
+      "MemoryOffset": 7224,
       "Description": "Yield on  timer to  next line"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7242,
+      "MemoryOffset": 7244,
       "Description": "Set 'newvalue' to 'map'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7248,
+      "MemoryOffset": 7250,
       "Description": "Core operation'WaitForNoActors'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7252,
+      "MemoryOffset": 7254,
       "Description": "GOSUB TO 'PRE_LOAD_LEVEL'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7272,
+      "MemoryOffset": 7274,
       "Description": "Set 'newvalue' to 'map'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7278,
+      "MemoryOffset": 7280,
       "Description": "GOSUB TO 'LOAD_LEVEL'"
     }
   ],

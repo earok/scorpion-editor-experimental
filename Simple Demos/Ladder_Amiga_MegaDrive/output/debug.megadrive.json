@@ -5389,546 +5389,546 @@
       "CodeBlock": "autogen_outofscreen_snap_to_screen_snap_to_screen_snap_to_screen_startup",
       "CodeBlockLine": 7,
       "MemoryOffset": 6250,
-      "Description": "If actor_y < 0 ELSE GOTO 00006278"
+      "Description": "If actor_y < camera_y ELSE GOTO 00006280"
     },
     {
       "CodeBlock": "autogen_outofscreen_snap_to_screen_snap_to_screen_snap_to_screen_startup",
       "CodeBlockLine": 8,
-      "MemoryOffset": 6272,
+      "MemoryOffset": 6274,
       "Description": "GOTO 'SNAP_TO_SCREEN'"
     },
     {
       "CodeBlock": "autogen_outofscreen_snap_to_screen_snap_to_screen_snap_to_screen_startup",
       "CodeBlockLine": 10,
-      "MemoryOffset": 6278,
-      "Description": "If actor_y > yres + camera_y ELSE GOTO 00006314"
+      "MemoryOffset": 6280,
+      "Description": "If actor_y > yres + camera_y ELSE GOTO 00006316"
     },
     {
       "CodeBlock": "autogen_outofscreen_snap_to_screen_snap_to_screen_snap_to_screen_startup",
       "CodeBlockLine": 11,
-      "MemoryOffset": 6308,
+      "MemoryOffset": 6310,
       "Description": "GOTO 'STARTUP'"
     },
     {
       "CodeBlock": "getoffladder",
       "CodeBlockLine": 0,
-      "MemoryOffset": 6340,
+      "MemoryOffset": 6342,
       "Description": "GETOFFLADDER"
     },
     {
       "CodeBlock": "getoffladder",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6340,
+      "MemoryOffset": 6342,
       "Description": "Raw expression '4'"
     },
     {
       "CodeBlock": "getoffladder",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6346,
+      "MemoryOffset": 6348,
       "Description": "Raw expression 'king'"
     },
     {
       "CodeBlock": "getoffladder",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6352,
+      "MemoryOffset": 6354,
       "Description": "Raw expression 'True'"
     },
     {
       "CodeBlock": "getoffladder",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6358,
+      "MemoryOffset": 6360,
       "Description": "Raw expression 'True'"
     },
     {
       "CodeBlock": "getoffladder",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6364,
+      "MemoryOffset": 6366,
       "Description": "Core operation'ActorSetType'"
     },
     {
       "CodeBlock": "getonladder",
       "CodeBlockLine": 0,
-      "MemoryOffset": 6394,
+      "MemoryOffset": 6396,
       "Description": "GETONLADDER"
     },
     {
       "CodeBlock": "getonladder",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6394,
+      "MemoryOffset": 6396,
       "Description": "Raw expression '4'"
     },
     {
       "CodeBlock": "getonladder",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6400,
+      "MemoryOffset": 6402,
       "Description": "Raw expression 'king_ladder'"
     },
     {
       "CodeBlock": "getonladder",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6406,
+      "MemoryOffset": 6408,
       "Description": "Raw expression 'True'"
     },
     {
       "CodeBlock": "getonladder",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6412,
+      "MemoryOffset": 6414,
       "Description": "Raw expression 'True'"
     },
     {
       "CodeBlock": "getonladder",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6418,
+      "MemoryOffset": 6420,
       "Description": "Core operation'ActorSetType'"
     },
     {
       "CodeBlock": "getonladder",
       "CodeBlockLine": 2,
-      "MemoryOffset": 6422,
+      "MemoryOffset": 6424,
       "Description": "Set 'can_getoff_ladder' to 'false'"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 0,
-      "MemoryOffset": 6454,
+      "MemoryOffset": 6456,
       "Description": "KING_HANDLER"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6454,
+      "MemoryOffset": 6456,
       "Description": "Set 'ladder_x' to 'actor_x & tilemask + 8'"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 2,
-      "MemoryOffset": 6480,
+      "MemoryOffset": 6482,
       "Description": "If control1_y < 0"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 3,
-      "MemoryOffset": 6492,
+      "MemoryOffset": 6494,
       "Description": "If player_x < ladder_x - ladder_width"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 5,
-      "MemoryOffset": 6548,
-      "Description": "GOTO '00006610'"
+      "MemoryOffset": 6550,
+      "Description": "GOTO '00006612'"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 5,
-      "MemoryOffset": 6554,
-      "Description": "If player_x > ladder_x + ladder_width ELSE GOTO 00006610"
+      "MemoryOffset": 6556,
+      "Description": "If player_x > ladder_x + ladder_width ELSE GOTO 00006612"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 9,
-      "MemoryOffset": 6610,
+      "MemoryOffset": 6612,
       "Description": "Set 'block_x' to 'actor_x>> 4'"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 9,
-      "MemoryOffset": 6632,
+      "MemoryOffset": 6634,
       "Description": "Set 'block_y' to 'actor_y>> 4'"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 9,
-      "MemoryOffset": 6654,
+      "MemoryOffset": 6656,
       "Description": "Core operation'BlockGet'"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 9,
-      "MemoryOffset": 6658,
+      "MemoryOffset": 6660,
       "Description": "Set 'currentblock' to 'block_type'"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 10,
-      "MemoryOffset": 6664,
-      "Description": "If currentblock == ladder ELSE GOTO 00006798"
+      "MemoryOffset": 6666,
+      "Description": "If currentblock == ladder ELSE GOTO 00006800"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 11,
-      "MemoryOffset": 6676,
+      "MemoryOffset": 6678,
       "Description": "If actor_x > ladder_x"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 12,
-      "MemoryOffset": 6700,
-      "Description": "If control1_x > 0 ELSE GOTO 00006738"
+      "MemoryOffset": 6702,
+      "Description": "If control1_x > 0 ELSE GOTO 00006740"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 15,
-      "MemoryOffset": 6738,
-      "Description": "GOTO '00006782'"
+      "MemoryOffset": 6740,
+      "Description": "GOTO '00006784'"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 16,
-      "MemoryOffset": 6744,
-      "Description": "If control1_x < 0 ELSE GOTO 00006782"
+      "MemoryOffset": 6746,
+      "Description": "If control1_x < 0 ELSE GOTO 00006784"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 20,
-      "MemoryOffset": 6782,
+      "MemoryOffset": 6784,
       "Description": "Set 'player_x' to 'ladder_x'"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 21,
-      "MemoryOffset": 6792,
+      "MemoryOffset": 6794,
       "Description": "GOTO 'GETONLADDER'"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 23,
-      "MemoryOffset": 6798,
-      "Description": "GOTO '00006928'"
+      "MemoryOffset": 6800,
+      "Description": "GOTO '00006930'"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 23,
-      "MemoryOffset": 6804,
-      "Description": "If control1_y > 0 ELSE GOTO 00006928"
+      "MemoryOffset": 6806,
+      "Description": "If control1_y > 0 ELSE GOTO 00006930"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 24,
-      "MemoryOffset": 6816,
+      "MemoryOffset": 6818,
       "Description": "Set 'block_x' to 'actor_x>> 4'"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 24,
-      "MemoryOffset": 6838,
+      "MemoryOffset": 6840,
       "Description": "Set 'block_y' to 'actor_y + 16>> 4'"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 24,
-      "MemoryOffset": 6864,
+      "MemoryOffset": 6866,
       "Description": "Core operation'BlockGet'"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 24,
-      "MemoryOffset": 6868,
+      "MemoryOffset": 6870,
       "Description": "Set 'currentblock' to 'block_type'"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 25,
-      "MemoryOffset": 6874,
-      "Description": "If currentblock == ladder_platform ELSE GOTO 00006928"
+      "MemoryOffset": 6876,
+      "Description": "If currentblock == ladder_platform ELSE GOTO 00006930"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 26,
-      "MemoryOffset": 6886,
+      "MemoryOffset": 6888,
       "Description": "Set 'player_x' to 'ladder_x'"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 26,
-      "MemoryOffset": 6896,
+      "MemoryOffset": 6898,
       "Description": "Set 'player_y' to 'player_y + 1'"
     },
     {
       "CodeBlock": "king_handler",
       "CodeBlockLine": 27,
-      "MemoryOffset": 6922,
+      "MemoryOffset": 6924,
       "Description": "GOTO 'GETONLADDER'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 0,
-      "MemoryOffset": 6954,
+      "MemoryOffset": 6956,
       "Description": "KING_LADDER_HANDLER"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6954,
+      "MemoryOffset": 6956,
       "Description": "Set 'block_x' to 'player_x / 16'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6980,
+      "MemoryOffset": 6982,
       "Description": "Set 'block_y' to 'player_y / 16'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7006,
+      "MemoryOffset": 7008,
       "Description": "Core operation'BlockGet'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7010,
+      "MemoryOffset": 7012,
       "Description": "Set 'currentblock' to 'block_type'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7016,
-      "Description": "If currentblock != ladder ELSE GOTO 00007080"
+      "MemoryOffset": 7018,
+      "Description": "If currentblock != ladder ELSE GOTO 00007082"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 3,
-      "MemoryOffset": 7028,
-      "Description": "If currentblock != ladder_platform ELSE GOTO 00007080"
+      "MemoryOffset": 7030,
+      "Description": "If currentblock != ladder_platform ELSE GOTO 00007082"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 4,
-      "MemoryOffset": 7040,
+      "MemoryOffset": 7042,
       "Description": "Raw expression '4'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 4,
-      "MemoryOffset": 7046,
+      "MemoryOffset": 7048,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 4,
-      "MemoryOffset": 7052,
+      "MemoryOffset": 7054,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 4,
-      "MemoryOffset": 7058,
+      "MemoryOffset": 7060,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 4,
-      "MemoryOffset": 7064,
+      "MemoryOffset": 7066,
       "Description": "Raw expression '1'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 4,
-      "MemoryOffset": 7070,
+      "MemoryOffset": 7072,
       "Description": "Core operation'RefreshActorYSpeed'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 5,
-      "MemoryOffset": 7074,
+      "MemoryOffset": 7076,
       "Description": "GOTO 'GETOFFLADDER'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 8,
-      "MemoryOffset": 7080,
-      "Description": "If can_getoff_ladder == false ELSE GOTO 00007136"
+      "MemoryOffset": 7082,
+      "Description": "If can_getoff_ladder == false ELSE GOTO 00007138"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 9,
-      "MemoryOffset": 7092,
-      "Description": "If control1_x != 0 ELSE GOTO 00007130"
+      "MemoryOffset": 7094,
+      "Description": "If control1_x != 0 ELSE GOTO 00007132"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 12,
-      "MemoryOffset": 7130,
+      "MemoryOffset": 7132,
       "Description": "Set 'can_getoff_ladder' to 'true'"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 14,
-      "MemoryOffset": 7136,
-      "Description": "If control1_x != 0 ELSE GOTO 00007154"
+      "MemoryOffset": 7138,
+      "Description": "If control1_x != 0 ELSE GOTO 00007156"
     },
     {
       "CodeBlock": "king_ladder_handler",
       "CodeBlockLine": 15,
-      "MemoryOffset": 7148,
+      "MemoryOffset": 7150,
       "Description": "GOTO 'GETOFFLADDER'"
     },
     {
       "CodeBlock": "platform_orbit",
       "CodeBlockLine": 0,
-      "MemoryOffset": 7180,
+      "MemoryOffset": 7182,
       "Description": "PLATFORM_ORBIT"
     },
     {
       "CodeBlock": "platform_orbit",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7180,
+      "MemoryOffset": 7182,
       "Description": "Set 'actor_var2' to 'actor_var2 + 1'"
     },
     {
       "CodeBlock": "platform_orbit",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7206,
+      "MemoryOffset": 7208,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "platform_orbit",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7212,
+      "MemoryOffset": 7214,
       "Description": "Raw expression '-32'"
     },
     {
       "CodeBlock": "platform_orbit",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7218,
+      "MemoryOffset": 7220,
       "Description": "Raw expression 'actor_var2'"
     },
     {
       "CodeBlock": "platform_orbit",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7234,
+      "MemoryOffset": 7236,
       "Description": "Core operation'Maths_Angle'"
     },
     {
       "CodeBlock": "platform_orbit",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7238,
+      "MemoryOffset": 7240,
       "Description": "Set 'actor_var4' to 'math_x'"
     },
     {
       "CodeBlock": "platform_orbit",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7248,
+      "MemoryOffset": 7250,
       "Description": "Set 'actor_var5' to 'math_y'"
     },
     {
       "CodeBlock": "platform_parent_spawner",
       "CodeBlockLine": 0,
-      "MemoryOffset": 7284,
+      "MemoryOffset": 7286,
       "Description": "PLATFORM_PARENT_SPAWNER"
     },
     {
       "CodeBlock": "platform_parent_spawner",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7284,
+      "MemoryOffset": 7286,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "platform_parent_spawner",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7290,
+      "MemoryOffset": 7292,
       "Description": "Raw expression 'platform_actor_specialorbit'"
     },
     {
       "CodeBlock": "platform_parent_spawner",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7296,
+      "MemoryOffset": 7298,
       "Description": "Core operation'ActorSpawn'"
     },
     {
       "CodeBlock": "platform_parent_spawner",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7300,
+      "MemoryOffset": 7302,
       "Description": "Set 'new_var3' to '24'"
     },
     {
       "CodeBlock": "platform_parent_spawner",
       "CodeBlockLine": 3,
-      "MemoryOffset": 7310,
+      "MemoryOffset": 7312,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "platform_parent_spawner",
       "CodeBlockLine": 3,
-      "MemoryOffset": 7316,
+      "MemoryOffset": 7318,
       "Description": "Raw expression 'platform_actor_specialorbit'"
     },
     {
       "CodeBlock": "platform_parent_spawner",
       "CodeBlockLine": 3,
-      "MemoryOffset": 7322,
+      "MemoryOffset": 7324,
       "Description": "Core operation'ActorSpawn'"
     },
     {
       "CodeBlock": "platform_parent_spawner",
       "CodeBlockLine": 4,
-      "MemoryOffset": 7326,
+      "MemoryOffset": 7328,
       "Description": "Set 'new_var3' to '48'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 0,
-      "MemoryOffset": 7362,
+      "MemoryOffset": 7364,
       "Description": "STARTUP"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7362,
+      "MemoryOffset": 7364,
       "Description": "Set 'camera_follow' to '15'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7368,
+      "MemoryOffset": 7370,
       "Description": "Core operation'RefreshCameraFollow'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7372,
+      "MemoryOffset": 7374,
       "Description": "Set 'maxcamerafollow' to '8 | 0'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7382,
-      "Description": "If actor_type is not zero ELSE GOTO 00007422"
+      "MemoryOffset": 7384,
+      "Description": "If actor_type is not zero ELSE GOTO 00007424"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7402,
+      "MemoryOffset": 7404,
       "Description": "Yield on  timer to  next line"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7422,
+      "MemoryOffset": 7424,
       "Description": "Set 'newvalue' to 'new_map'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7428,
+      "MemoryOffset": 7430,
       "Description": "Core operation'WaitForNoActors'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7432,
+      "MemoryOffset": 7434,
       "Description": "GOSUB TO 'PRE_LOAD_LEVEL'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7452,
+      "MemoryOffset": 7454,
       "Description": "Set 'newvalue' to 'new_map'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7458,
+      "MemoryOffset": 7460,
       "Description": "GOSUB TO 'LOAD_LEVEL'"
     }
   ],

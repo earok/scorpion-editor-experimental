@@ -5433,96 +5433,96 @@
       "CodeBlock": "autogen_outofscreen_destroy_actor_destroy_actor_destroy_actor_destroy_actor",
       "CodeBlockLine": 7,
       "MemoryOffset": 6480,
-      "Description": "If actor_y < 0 ELSE GOTO 00006508"
+      "Description": "If actor_y < camera_y ELSE GOTO 00006510"
     },
     {
       "CodeBlock": "autogen_outofscreen_destroy_actor_destroy_actor_destroy_actor_destroy_actor",
       "CodeBlockLine": 8,
-      "MemoryOffset": 6502,
+      "MemoryOffset": 6504,
       "Description": "GOTO 'DESTROY_ACTOR'"
     },
     {
       "CodeBlock": "autogen_outofscreen_destroy_actor_destroy_actor_destroy_actor_destroy_actor",
       "CodeBlockLine": 10,
-      "MemoryOffset": 6508,
-      "Description": "If actor_y > yres + camera_y ELSE GOTO 00006544"
+      "MemoryOffset": 6510,
+      "Description": "If actor_y > yres + camera_y ELSE GOTO 00006546"
     },
     {
       "CodeBlock": "autogen_outofscreen_destroy_actor_destroy_actor_destroy_actor_destroy_actor",
       "CodeBlockLine": 11,
-      "MemoryOffset": 6538,
+      "MemoryOffset": 6540,
       "Description": "GOTO 'DESTROY_ACTOR'"
     },
     {
       "CodeBlock": "spawn_lightcircle",
       "CodeBlockLine": 0,
-      "MemoryOffset": 6570,
+      "MemoryOffset": 6572,
       "Description": "SPAWN_LIGHTCIRCLE"
     },
     {
       "CodeBlock": "spawn_lightcircle",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6570,
+      "MemoryOffset": 6572,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "spawn_lightcircle",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6576,
+      "MemoryOffset": 6578,
       "Description": "Raw expression 'lightcircleactor'"
     },
     {
       "CodeBlock": "spawn_lightcircle",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6582,
+      "MemoryOffset": 6584,
       "Description": "Core operation'ActorSpawn'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 0,
-      "MemoryOffset": 6612,
+      "MemoryOffset": 6614,
       "Description": "STARTUP"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6612,
-      "Description": "If actor_type is not zero ELSE GOTO 00006652"
+      "MemoryOffset": 6614,
+      "Description": "If actor_type is not zero ELSE GOTO 00006654"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6632,
+      "MemoryOffset": 6634,
       "Description": "Yield on  timer to  next line"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6652,
+      "MemoryOffset": 6654,
       "Description": "Set 'newvalue' to 'new_map'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6658,
+      "MemoryOffset": 6660,
       "Description": "Core operation'WaitForNoActors'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6662,
+      "MemoryOffset": 6664,
       "Description": "GOSUB TO 'PRE_LOAD_LEVEL'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6682,
+      "MemoryOffset": 6684,
       "Description": "Set 'newvalue' to 'new_map'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6688,
+      "MemoryOffset": 6690,
       "Description": "GOSUB TO 'LOAD_LEVEL'"
     }
   ],
