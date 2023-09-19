@@ -18,6 +18,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -105,6 +106,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -192,6 +194,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -279,6 +282,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -366,6 +370,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -453,6 +458,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -540,6 +546,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -627,6 +634,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -714,6 +722,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -790,7 +799,8 @@
       "Values": {
         "PlayerId": "Player1",
         "JumpMask": "16384",
-        "AttackMask": "1"
+        "AttackMask": "1",
+        "SoundMD": null
       },
       "DataVersion": 6,
       "Category": "Controls",
@@ -803,6 +813,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "AttackControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -870,7 +881,8 @@
     {
       "Values": {
         "PlayerId": "Player2",
-        "JumpMask": "16384"
+        "JumpMask": "16384",
+        "SoundMD": null
       },
       "DataVersion": 6,
       "Category": "Controls",
@@ -883,6 +895,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "AttackControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -948,7 +961,9 @@
       "SpeakDelay": 1
     },
     {
-      "Values": {},
+      "Values": {
+        "SoundMD": null
+      },
       "DataVersion": 6,
       "Category": "Conditional",
       "BasicOperationType": "CommentOnly",
@@ -960,6 +975,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -1035,7 +1051,8 @@
     {
       "Values": {
         "JumpMask": "2",
-        "PlayerId": "Player1"
+        "PlayerId": "Player1",
+        "SoundMD": null
       },
       "DataVersion": 6,
       "Category": "Controls",
@@ -1048,6 +1065,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -1123,7 +1141,8 @@
     {
       "Values": {
         "JumpMask": "2",
-        "PlayerId": "Player2"
+        "PlayerId": "Player2",
+        "SoundMD": null
       },
       "DataVersion": 6,
       "Category": "Controls",
@@ -1136,6 +1155,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -1209,7 +1229,9 @@
       "SpeakDelay": 1
     },
     {
-      "Values": {},
+      "Values": {
+        "SoundMD": null
+      },
       "DataVersion": 6,
       "Category": "Conditional",
       "BasicOperationType": "CommentOnly",
@@ -1221,6 +1243,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -1294,7 +1317,9 @@
       "SpeakDelay": 1
     },
     {
-      "Values": {},
+      "Values": {
+        "SoundMD": null
+      },
       "DataVersion": 6,
       "Category": "Controls",
       "BasicOperationType": "CommentOnly",
@@ -1306,6 +1331,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -1372,7 +1398,8 @@
     },
     {
       "Values": {
-        "PlayerId": "Player2"
+        "PlayerId": "Player2",
+        "SoundMD": null
       },
       "DataVersion": 6,
       "Category": "Controls",
@@ -1385,6 +1412,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -1452,7 +1480,8 @@
     {
       "Values": {
         "PlayerId": "Player3",
-        "JumpMask": "16384"
+        "JumpMask": "16384",
+        "SoundMD": null
       },
       "DataVersion": 6,
       "Category": "Controls",
@@ -1465,6 +1494,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -1532,7 +1562,8 @@
     {
       "Values": {
         "PlayerId": "Player4",
-        "JumpMask": "16384"
+        "JumpMask": "16384",
+        "SoundMD": null
       },
       "DataVersion": 6,
       "Category": "Controls",
@@ -1545,6 +1576,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -1612,7 +1644,8 @@
     {
       "Values": {
         "PlayerId": "Player3",
-        "JumpMask": "16384"
+        "JumpMask": "16384",
+        "SoundMD": null
       },
       "DataVersion": 6,
       "Category": "Controls",
@@ -1625,6 +1658,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "AttackControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -1692,7 +1726,8 @@
     {
       "Values": {
         "PlayerId": "Player4",
-        "JumpMask": "16384"
+        "JumpMask": "16384",
+        "SoundMD": null
       },
       "DataVersion": 6,
       "Category": "Controls",
@@ -1705,6 +1740,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "AttackControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -1770,7 +1806,9 @@
       "SpeakDelay": 1
     },
     {
-      "Values": {},
+      "Values": {
+        "SoundMD": null
+      },
       "DataVersion": 6,
       "Category": "Conditional",
       "BasicOperationType": "CommentOnly",
@@ -1782,6 +1820,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -1863,6 +1902,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -1950,6 +1990,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "regenerate_screen",
@@ -2037,6 +2078,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "regenerate_screen",
@@ -2124,6 +2166,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "regenerate_screen",
@@ -2211,6 +2254,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "regenerate_screen",
@@ -2284,7 +2328,9 @@
       "SpeakDelay": 1
     },
     {
-      "Values": {},
+      "Values": {
+        "SoundMD": null
+      },
       "DataVersion": 6,
       "Category": "Display",
       "BasicOperationType": "CommentOnly",
@@ -2296,6 +2342,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
