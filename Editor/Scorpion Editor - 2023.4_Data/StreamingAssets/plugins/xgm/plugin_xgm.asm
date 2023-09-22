@@ -1,4 +1,6 @@
 ;Mega Drive XGM sound driver (part of SGDK by Stef), based on the NextBasic implementation of XGM, thanks to Luiz Mendoza and Matheus Castellar.
+Z80_DRV_COMMAND equ $A00100 ;Driver command
+Z80_DRV_PARAMS equ $A00104 ;Driver parameters base
 
 FunctionTable
 ;XGM Init - Load Z80 driver and initialize system. 
@@ -30,6 +32,7 @@ FunctionTable
     bra.w XGM_ResumePlayMusic
 
 ;XGM StopPlayMusic
+;D0 = Memory address of stop_bin (empty music file)
 ;JSR 20(plugin_xgm)
     bra.w XGM_StopPlayMusic
 
@@ -197,7 +200,7 @@ XGM_StartPlayMusic
     add.l   d2,d0                   ; bypass samples data
     addq.l  #4,d0                   ; bypass music data size field
     
-    move.l  #$A00104,a2             ; XGM base parameters address
+    move.l  #Z80_DRV_PARAMS,a2             ; XGM base parameters address
 
     move.b  d0,0(a2)                ; low byte
     lsr.l   #8,d0
@@ -207,7 +210,7 @@ XGM_StartPlayMusic
     lsr.l   #8,d0
     move.b  d0,3(a2)                ; high byte
     
-    or.b    #$40,($A00100)          ; send play XGM command
+    or.b    #$40,(Z80_DRV_COMMAND)          ; send play XGM command
 
     move.w  #$000,($A11100)         ; release the Z80 bus    
     rts
@@ -222,7 +225,7 @@ XGM_ResumePlayMusic
     btst    #8,D0                   ; Z80 halted ?
     bne     @XGM_ResumePlayMusic_z80_wait1              ; not yet, wait..
     
-    or.b    #$20,($A00100)          ; send resume play command
+    or.b    #$20,(Z80_DRV_COMMAND)          ; send resume play command
 
     move.w  #$000,($A11100)         ; release the Z80 bus
     rts
@@ -234,11 +237,25 @@ XGM_StopPlayMusic
     move.w  #$100,($A11200)
 
 @XGM_StopPlayMusic_z80_wait1:
-    move.w  ($A11100),D0            ; read Z80 halted state
-    btst    #8,D0                   ; Z80 halted ?
+    move.w  ($A11100),d1            ; read Z80 halted state
+    btst    #8,d1                   ; Z80 halted ?
     bne     @XGM_StopPlayMusic_z80_wait1              ; not yet, wait..
-    
-    or.b    #$10,($A00100)          ; send stop play command
+
+; Redundant - instead of stopping, we now play a silent file instead   
+;    or.b    #$10,(Z80_DRV_COMMAND)          ; send stop play command
+
+    move.l  #Z80_DRV_PARAMS,a2             ; XGM base parameters address
+
+    move.b  d0,0(a2)                ; low byte
+    lsr.l   #8,d0
+    move.b  d0,1(a2)                ; med low byte
+    lsr.l   #8,d0
+    move.b  d0,2(a2)                ; med high byte
+    lsr.l   #8,d0
+    move.b  d0,3(a2)                ; high byte
+
+    and.b    #$f,(Z80_DRV_COMMAND)          ; we want to clear out any resume, stop etc commands
+    or.b    #$40,(Z80_DRV_COMMAND)          ; send play XGM command
 
     move.w  #$000,($A11100)         ; release the Z80 bus
     rts
@@ -289,7 +306,7 @@ XGM_PlayPCM
     move.l  d2,d0
     and.l   #3,d0                   ; d0 = channel number
     
-    lea     $A00100,a0
+    lea     Z80_DRV_COMMAND,a0
     moveq   #1,d1    
     lsl.l   d0,d1                   ; d1 = channel shift command
     or.b    d1,(a0)                 ; set PCM play command
