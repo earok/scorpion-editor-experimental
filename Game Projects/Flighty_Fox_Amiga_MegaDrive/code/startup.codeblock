@@ -37,7 +37,10 @@
   ],
   "Commands": [
     {
-      "Values": {},
+      "Values": {
+        "PanelTop": "none",
+        "PanelBottom": "none"
+      },
       "DataVersion": 6,
       "Category": "Data",
       "BasicOperationType": "CommentOnly",
@@ -49,6 +52,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "savedata",
@@ -56,7 +60,7 @@
       "Variable": "none",
       "Expression": "0",
       "Index": "0",
-      "Label": null,
+      "Label": "",
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
@@ -95,6 +99,12 @@
         "Up": "0",
         "Down": "0"
       },
+      "LookAhead": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
       "YRes": "160",
       "FrameWait": "",
       "CameraFollowLeft": false,
@@ -103,10 +113,6 @@
       "CameraFollowDown": false,
       "CameraFollowInterpolateCamera": false,
       "CameraFollowInterpolateSprites": false,
-      "Fire1Jump": false,
-      "Fire2Jump": true,
-      "UpJump": true,
-      "JumpOnHold": false,
       "ColorIndex": "0",
       "Color": {
         "r": 0,
@@ -120,7 +126,10 @@
       "SpeakDelay": 1
     },
     {
-      "Values": {},
+      "Values": {
+        "PanelTop": "none",
+        "PanelBottom": "none"
+      },
       "DataVersion": 6,
       "Category": "Conditional",
       "BasicOperationType": "CommentOnly",
@@ -132,6 +141,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "savedata",
@@ -139,7 +149,7 @@
       "Variable": "loaded",
       "Expression": "true",
       "Index": "0",
-      "Label": null,
+      "Label": "",
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
@@ -178,6 +188,12 @@
         "Up": "0",
         "Down": "0"
       },
+      "LookAhead": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
       "YRes": "160",
       "FrameWait": "",
       "CameraFollowLeft": false,
@@ -186,10 +202,6 @@
       "CameraFollowDown": false,
       "CameraFollowInterpolateCamera": false,
       "CameraFollowInterpolateSprites": false,
-      "Fire1Jump": false,
-      "Fire2Jump": true,
-      "UpJump": true,
-      "JumpOnHold": false,
       "ColorIndex": "0",
       "Color": {
         "r": 0,
@@ -203,7 +215,10 @@
       "SpeakDelay": 1
     },
     {
-      "Values": {},
+      "Values": {
+        "PanelTop": "none",
+        "PanelBottom": "none"
+      },
       "DataVersion": 6,
       "Category": "Base",
       "BasicOperationType": "SetVariable",
@@ -215,6 +230,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "savedata",
@@ -222,7 +238,7 @@
       "Variable": "best",
       "Expression": "savedbest",
       "Index": "0",
-      "Label": null,
+      "Label": "",
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
@@ -261,6 +277,12 @@
         "Up": "0",
         "Down": "0"
       },
+      "LookAhead": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
       "YRes": "160",
       "FrameWait": "",
       "CameraFollowLeft": false,
@@ -269,10 +291,6 @@
       "CameraFollowDown": false,
       "CameraFollowInterpolateCamera": false,
       "CameraFollowInterpolateSprites": false,
-      "Fire1Jump": false,
-      "Fire2Jump": true,
-      "UpJump": true,
-      "JumpOnHold": false,
       "ColorIndex": "0",
       "Color": {
         "r": 0,
@@ -286,7 +304,10 @@
       "SpeakDelay": 1
     },
     {
-      "Values": {},
+      "Values": {
+        "PanelTop": "none",
+        "PanelBottom": "none"
+      },
       "DataVersion": 6,
       "Category": "Conditional",
       "BasicOperationType": "CommentOnly",
@@ -298,6 +319,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "savedata",
@@ -305,7 +327,7 @@
       "Variable": "loaded",
       "Expression": "true",
       "Index": "0",
-      "Label": null,
+      "Label": "",
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
@@ -344,6 +366,12 @@
         "Up": "0",
         "Down": "0"
       },
+      "LookAhead": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
       "YRes": "160",
       "FrameWait": "",
       "CameraFollowLeft": false,
@@ -352,10 +380,6 @@
       "CameraFollowDown": false,
       "CameraFollowInterpolateCamera": false,
       "CameraFollowInterpolateSprites": false,
-      "Fire1Jump": false,
-      "Fire2Jump": true,
-      "UpJump": true,
-      "JumpOnHold": false,
       "ColorIndex": "0",
       "Color": {
         "r": 0,
@@ -369,7 +393,10 @@
       "SpeakDelay": 1
     },
     {
-      "Values": {},
+      "Values": {
+        "PanelTop": "none",
+        "PanelBottom": "none"
+      },
       "DataVersion": 6,
       "Category": "Audio",
       "BasicOperationType": "CommentOnly",
@@ -381,14 +408,15 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
-      "Goto": null,
+      "Goto": "",
       "Comment": "",
       "Variable": "none",
       "Expression": "0",
       "Index": "0",
-      "Label": null,
+      "Label": "",
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
@@ -427,6 +455,12 @@
         "Up": "0",
         "Down": "0"
       },
+      "LookAhead": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
       "YRes": "160",
       "FrameWait": "",
       "CameraFollowLeft": false,
@@ -435,10 +469,6 @@
       "CameraFollowDown": false,
       "CameraFollowInterpolateCamera": false,
       "CameraFollowInterpolateSprites": false,
-      "Fire1Jump": false,
-      "Fire2Jump": true,
-      "UpJump": true,
-      "JumpOnHold": false,
       "ColorIndex": "0",
       "Color": {
         "r": 0,
@@ -452,7 +482,10 @@
       "SpeakDelay": 1
     },
     {
-      "Values": {},
+      "Values": {
+        "PanelTop": "none",
+        "PanelBottom": "none"
+      },
       "DataVersion": 6,
       "Category": "Conditional",
       "BasicOperationType": "CommentOnly",
@@ -464,6 +497,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -510,6 +544,12 @@
         "Up": "0",
         "Down": "0"
       },
+      "LookAhead": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
       "YRes": "224",
       "FrameWait": "",
       "CameraFollowLeft": true,
@@ -518,10 +558,6 @@
       "CameraFollowDown": true,
       "CameraFollowInterpolateCamera": false,
       "CameraFollowInterpolateSprites": false,
-      "Fire1Jump": false,
-      "Fire2Jump": true,
-      "UpJump": true,
-      "JumpOnHold": false,
       "ColorIndex": "0",
       "Color": {
         "r": 0,
@@ -536,7 +572,9 @@
     },
     {
       "Values": {
-        "ScreenTop": "33"
+        "ScreenTop": "33",
+        "PanelTop": "none",
+        "PanelBottom": "none"
       },
       "DataVersion": 6,
       "Category": "Display",
@@ -549,6 +587,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -595,6 +634,12 @@
         "Up": "0",
         "Down": "0"
       },
+      "LookAhead": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
       "YRes": "224",
       "FrameWait": "",
       "CameraFollowLeft": true,
@@ -603,10 +648,6 @@
       "CameraFollowDown": true,
       "CameraFollowInterpolateCamera": false,
       "CameraFollowInterpolateSprites": false,
-      "Fire1Jump": false,
-      "Fire2Jump": true,
-      "UpJump": true,
-      "JumpOnHold": false,
       "ColorIndex": "0",
       "Color": {
         "r": 0,
@@ -620,7 +661,10 @@
       "SpeakDelay": 1
     },
     {
-      "Values": {},
+      "Values": {
+        "PanelTop": "none",
+        "PanelBottom": "none"
+      },
       "DataVersion": 6,
       "Category": "Display",
       "BasicOperationType": "CommentOnly",
@@ -632,14 +676,15 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
-      "Goto": null,
+      "Goto": "",
       "Comment": "",
       "Variable": "none",
       "Expression": "0",
       "Index": "0",
-      "Label": null,
+      "Label": "",
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
@@ -678,6 +723,12 @@
         "Up": "0",
         "Down": "0"
       },
+      "LookAhead": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
       "YRes": "160",
       "FrameWait": "",
       "CameraFollowLeft": false,
@@ -686,10 +737,6 @@
       "CameraFollowDown": false,
       "CameraFollowInterpolateCamera": false,
       "CameraFollowInterpolateSprites": false,
-      "Fire1Jump": false,
-      "Fire2Jump": true,
-      "UpJump": true,
-      "JumpOnHold": false,
       "ColorIndex": "0",
       "Color": {
         "r": 0,
@@ -703,7 +750,10 @@
       "SpeakDelay": 1
     },
     {
-      "Values": {},
+      "Values": {
+        "PanelTop": "none",
+        "PanelBottom": "none"
+      },
       "DataVersion": 6,
       "Category": "Conditional",
       "BasicOperationType": "CommentOnly",
@@ -715,6 +765,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
@@ -761,6 +812,12 @@
         "Up": "0",
         "Down": "0"
       },
+      "LookAhead": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
       "YRes": "224",
       "FrameWait": "",
       "CameraFollowLeft": true,
@@ -769,93 +826,6 @@
       "CameraFollowDown": true,
       "CameraFollowInterpolateCamera": false,
       "CameraFollowInterpolateSprites": false,
-      "Fire1Jump": false,
-      "Fire2Jump": true,
-      "UpJump": true,
-      "JumpOnHold": false,
-      "ColorIndex": "0",
-      "Color": {
-        "r": 0,
-        "g": 0,
-        "b": 0,
-        "a": 255
-      },
-      "Sound": "none",
-      "Music": "none",
-      "MusicPos": "0",
-      "SpeakDelay": 1
-    },
-    {
-      "Values": {},
-      "DataVersion": 6,
-      "Category": "Display",
-      "BasicOperationType": "CommentOnly",
-      "DisplayOperationType": "CameraFollow",
-      "AudioOperationType": "PlaySound",
-      "ConditionType": "Condition",
-      "LevelOperationType": "LoadLevel",
-      "ActorOperationType": "SetType",
-      "DialogueOperationType": "Speak",
-      "DataOperationType": "Load",
-      "ControlOperationType": "JumpControls",
-      "CoreType": "ActorSetType",
-      "ControlMode": "Joys_1",
-      "Goto": null,
-      "Comment": "",
-      "Variable": "none",
-      "Expression": "0",
-      "Index": "0",
-      "Label": null,
-      "DiceSides": 2,
-      "Disabled": false,
-      "Breakpoint": false,
-      "Conditions": [
-        {
-          "LeftSide": "",
-          "Comparison": "NotZero",
-          "RightSide": "",
-          "ComparisonNext": "End",
-          "IsValid": false
-        }
-      ],
-      "Level": "level1",
-      "NewBlock": "none",
-      "XPosition": null,
-      "YPosition": null,
-      "TeleportName": "none",
-      "XFloat": null,
-      "YFloat": null,
-      "ActorType": "none",
-      "Animation": "none",
-      "PushXPixels": "0",
-      "PushYPixels": "0",
-      "LookDirection": "look_upleft",
-      "ResetMovement": true,
-      "ResetAnimations": true,
-      "ShootDirType": "actor_direction",
-      "Panel": "none",
-      "WaitForFireHit": false,
-      "Frames": "0",
-      "CameraX": null,
-      "CameraY": null,
-      "CameraBox": {
-        "Left": "0",
-        "Right": "0",
-        "Up": "0",
-        "Down": "0"
-      },
-      "YRes": "160",
-      "FrameWait": "",
-      "CameraFollowLeft": false,
-      "CameraFollowRight": false,
-      "CameraFollowUp": false,
-      "CameraFollowDown": false,
-      "CameraFollowInterpolateCamera": false,
-      "CameraFollowInterpolateSprites": false,
-      "Fire1Jump": false,
-      "Fire2Jump": true,
-      "UpJump": true,
-      "JumpOnHold": false,
       "ColorIndex": "0",
       "Color": {
         "r": 0,
@@ -870,12 +840,13 @@
     },
     {
       "Values": {
-        "PanelBottom": "ui"
+        "PanelTop": "none",
+        "PanelBottom": "none"
       },
       "DataVersion": 6,
-      "Category": "Level",
+      "Category": "Display",
       "BasicOperationType": "CommentOnly",
-      "DisplayOperationType": "SetPanel",
+      "DisplayOperationType": "CameraFollow",
       "AudioOperationType": "PlaySound",
       "ConditionType": "Condition",
       "LevelOperationType": "LoadLevel",
@@ -883,14 +854,15 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
-      "Goto": null,
-      "Comment": null,
+      "Goto": "",
+      "Comment": "",
       "Variable": "none",
       "Expression": "0",
       "Index": "0",
-      "Label": null,
+      "Label": "",
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
@@ -929,7 +901,13 @@
         "Up": "0",
         "Down": "0"
       },
-      "YRes": "224",
+      "LookAhead": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
+      "YRes": "160",
       "FrameWait": "",
       "CameraFollowLeft": false,
       "CameraFollowRight": false,
@@ -937,10 +915,6 @@
       "CameraFollowDown": false,
       "CameraFollowInterpolateCamera": false,
       "CameraFollowInterpolateSprites": false,
-      "Fire1Jump": false,
-      "Fire2Jump": true,
-      "UpJump": true,
-      "JumpOnHold": false,
       "ColorIndex": "0",
       "Color": {
         "r": 0,
@@ -954,7 +928,99 @@
       "SpeakDelay": 1
     },
     {
-      "Values": {},
+      "Values": {
+        "PanelBottom": "ui",
+        "PanelTop": "none"
+      },
+      "DataVersion": 6,
+      "Category": "Level",
+      "BasicOperationType": "CommentOnly",
+      "DisplayOperationType": "SetPanel",
+      "AudioOperationType": "PlaySound",
+      "ConditionType": "Condition",
+      "LevelOperationType": "LoadLevel",
+      "ActorOperationType": "SetType",
+      "DialogueOperationType": "Speak",
+      "DataOperationType": "Load",
+      "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
+      "CoreType": "ActorSetType",
+      "ControlMode": "Joys_1",
+      "Goto": "",
+      "Comment": null,
+      "Variable": "none",
+      "Expression": "0",
+      "Index": "0",
+      "Label": "",
+      "DiceSides": 2,
+      "Disabled": false,
+      "Breakpoint": false,
+      "Conditions": [
+        {
+          "LeftSide": "",
+          "Comparison": "NotZero",
+          "RightSide": "",
+          "ComparisonNext": "End",
+          "IsValid": false
+        }
+      ],
+      "Level": "level1",
+      "NewBlock": "none",
+      "XPosition": null,
+      "YPosition": null,
+      "TeleportName": "none",
+      "XFloat": null,
+      "YFloat": null,
+      "ActorType": "none",
+      "Animation": "none",
+      "PushXPixels": "0",
+      "PushYPixels": "0",
+      "LookDirection": "look_upleft",
+      "ResetMovement": true,
+      "ResetAnimations": true,
+      "ShootDirType": "actor_direction",
+      "Panel": "none",
+      "WaitForFireHit": false,
+      "Frames": "0",
+      "CameraX": null,
+      "CameraY": null,
+      "CameraBox": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
+      "LookAhead": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
+      "YRes": "224",
+      "FrameWait": "",
+      "CameraFollowLeft": false,
+      "CameraFollowRight": false,
+      "CameraFollowUp": false,
+      "CameraFollowDown": false,
+      "CameraFollowInterpolateCamera": false,
+      "CameraFollowInterpolateSprites": false,
+      "ColorIndex": "0",
+      "Color": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 255
+      },
+      "Sound": "none",
+      "Music": "none",
+      "MusicPos": "0",
+      "SpeakDelay": 1
+    },
+    {
+      "Values": {
+        "PanelTop": "none",
+        "PanelBottom": "none"
+      },
       "DataVersion": 6,
       "Category": "Level",
       "BasicOperationType": "Goto",
@@ -966,6 +1032,7 @@
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "levelstartloop",
@@ -973,7 +1040,7 @@
       "Variable": "none",
       "Expression": "0",
       "Index": "0",
-      "Label": null,
+      "Label": "",
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
@@ -1012,6 +1079,12 @@
         "Up": "0",
         "Down": "0"
       },
+      "LookAhead": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
       "YRes": "224",
       "FrameWait": "",
       "CameraFollowLeft": false,
@@ -1020,10 +1093,6 @@
       "CameraFollowDown": false,
       "CameraFollowInterpolateCamera": false,
       "CameraFollowInterpolateSprites": false,
-      "Fire1Jump": false,
-      "Fire2Jump": true,
-      "UpJump": true,
-      "JumpOnHold": false,
       "ColorIndex": "0",
       "Color": {
         "r": 0,
