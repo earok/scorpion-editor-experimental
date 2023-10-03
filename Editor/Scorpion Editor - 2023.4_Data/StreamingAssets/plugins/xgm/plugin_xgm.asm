@@ -50,6 +50,10 @@ FunctionTable
 ;JSR 28(plugin_xgm)
     bra.w XGM_PlayPCM
 
+;XGM Enable DMA protection. This is automatically disabled by the XGM_VINT
+;JSR 32(plugin_XGM)
+    bra.w XGM_EnableProtection
+
 XGM_init
     move.w  #$100,($A11100)         ; Send the Z80 a bus request.
     move.w  #$100,($A11200)
@@ -107,6 +111,9 @@ XGM_vint
     move.w  ($A11100),d1            ; read Z80 halted state
     btst    #8,d1                   ; Z80 halted ?
     bne     @z80_wait1_XGM_vint              ; not yet, wait..
+
+    ;Disable DMA protection automatically
+    move.b  #0,(Z80_DRV_PARAMS+$B)
 
     tst.b ($A00112);Make sure Z80 is not accessing $A00104 + $0E 
     beq XGM_vint_ready
@@ -333,4 +340,11 @@ XGM_PlayPCM
     move.w  #$000,($A11100)         ; release the Z80 bus
     rts
 
-
+XGM_EnableProtection
+    move.w  #$100,($A11100)         ; Send the Z80 a bus request.
+    move.w  ($A11100),d1            ; read Z80 halted state
+    btst    #8,d1                   ; Z80 halted ?
+    bne     XGM_EnableProtection              ; not yet, wait..
+    move.b  #1,(Z80_DRV_PARAMS+$B) ;Write the DMA protection byte
+    move.w  #$000,($A11100)         ; release the Z80 bus
+    rts
