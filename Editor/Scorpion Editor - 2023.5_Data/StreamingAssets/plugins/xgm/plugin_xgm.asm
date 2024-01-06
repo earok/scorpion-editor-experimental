@@ -305,7 +305,7 @@ XGM_PlayPCM
     move.b  d0,(a0)+
     lsr.w   #8,d0                   ; get sample address (low byte)
     move.b  d0,(a0)+
-    lsr.l   #8,d1                   ; get sample length (high byte)
+;    lsr.l   #8,d1                   ; get sample length (high byte) <- Address already divided by 256 at compile time
     move.b  d1,(a0)+
     lsr.w   #8,d1                   ; get sample length (low byte)
     move.b  d1,(a0)+
