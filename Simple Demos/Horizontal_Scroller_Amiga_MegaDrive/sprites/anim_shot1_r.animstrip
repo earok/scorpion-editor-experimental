@@ -1,27 +1,22 @@
 {
   "Frames": [
     {
+      "EventContainer": {
+        "Events": []
+      },
       "Duration": 1,
       "Background": false,
       "Multiplexes": 0,
       "PaletteLine": 1,
-      "RenderType": "OnlySprite",
+      "RenderType": "AutoSprite",
       "SpriteType": "Attached_16colors",
-      "Path": "player_shot.png",
-      "OnFrame": null,
-      "HasHitBox": false,
-      "HitBox": {
-        "X": 0,
-        "Y": 0,
-        "Width": 0,
-        "Height": 0
-      },
-      "HandleX": -9,
-      "HandleY": -16,
+      "Path": "player_shot_1.png",
+      "HandleX": -8,
+      "HandleY": -4,
       "XFlipped": false,
       "HighPriority": false,
       "ZeroIsTransparent": false,
-      "Name": "player_shot",
+      "Name": "player_shot_1",
       "IsBlank": false
     }
   ],
@@ -31,7 +26,7 @@
   "LoopFrame": 0,
   "LinkedMap": "",
   "OnFinish": null,
-  "AutoFlip": false,
+  "AutoFlip": true,
   "Streamed": true,
   "PatternBuffer": 0
 }
