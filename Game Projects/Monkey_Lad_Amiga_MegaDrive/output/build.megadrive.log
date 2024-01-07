@@ -3,7 +3,7 @@ MDS Sequence file Original size 220 Crunched size 220
 Project sound Original size 196 Crunched size 196
 Default MD font Original size 2048 Crunched size 2048
 Default MD number font Original size 320 Crunched size 320
-Project virtual machine (codeblocks) Original size 11102 Crunched size 11102
+Project virtual machine (codeblocks) Original size 11112 Crunched size 11112
 Panel md_sky1 Original size 1804 Crunched size 1804
 Panel md_sky2 Original size 2092 Crunched size 2092
 Project blocks Original size 884 Crunched size 884
@@ -12,6 +12,7 @@ Dynamic pattern data for 1 Original size 32 Crunched size 32
 Map block data for level1 Original size 6100 Crunched size 273
 Map path node data for level1 Original size 12 Crunched size 12
 Dynamic pattern data for 2 Original size 32 Crunched size 32
+Map path node data for level2 Original size 12 Crunched size 12
 MDS PCM file Original size 46048 Crunched size 46048
 Panel  Original size 10332 Crunched size 10332
 Panel pnl_title Original size 10876 Crunched size 10876
@@ -26,7 +27,6 @@ Map header level2 Original size 16000 Crunched size 16000
 Get Y lookup table level2 Original size 72 Crunched size 72
 Map tile data  level2 Original size 5220 Crunched size 166
 Map block data for level2 Original size 5220 Crunched size 131
-Map path node data for level2 Original size 12 Crunched size 12
 Map event data for level2 Original size 32 Crunched size 32
 Project name table Original size 592 Crunched size 592
 Streamed project patterns Original size 12832 Crunched size 12832
@@ -63,8 +63,8 @@ startup: 236
 on_enterwater: 208
 waitforframes: 186
 pre_startup: 182
+check_talkpad: 168 (Unused?)
 on_playerkill: 160
-check_talkpad: 158 (Unused?)
 snap_to_screen: 158
 flipymove: 146 (Unused?)
 load_panel: 146

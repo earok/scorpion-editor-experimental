@@ -1,11 +1,12 @@
 Project patterns Original size 32 Crunched size 32
 Dynamic pattern data for 1 Original size 32 Crunched size 32
+Get Y lookup table map_new Original size 64 Crunched size 64
 Teleporters Original size 8 Crunched size 8
 XGM Null sound Original size 256 Crunched size 256
 XGM Null song Original size 172 Crunched size 172
-Get Y lookup table map_new Original size 64 Crunched size 64
+Map event data for map_new Original size 64 Crunched size 64
 XGM PCM sound Original size 3584 Crunched size 3584
-XGM 68K Plugin Driver Original size 806 Crunched size 806
+XGM 68K Plugin Driver Original size 804 Crunched size 804
 Project sound Original size 168 Crunched size 168
 XGM PCM sound Original size 2816 Crunched size 2816
 XGM Core Driver Original size 5888 Crunched size 5888
@@ -14,7 +15,7 @@ XGM PCM sound Original size 5120 Crunched size 5120
 XGM PCM sound Original size 5632 Crunched size 5632
 Default MD font Original size 2048 Crunched size 2048
 Default MD number font Original size 320 Crunched size 320
-Project virtual machine (codeblocks) Original size 11006 Crunched size 11006
+Project virtual machine (codeblocks) Original size 11016 Crunched size 11016
 Panel  Original size 10332 Crunched size 10332
 Panel md_32x_background Original size 144230 Crunched size 144230
 Panel md_32x_graveyard Original size 16700 Crunched size 16700
@@ -27,7 +28,6 @@ Map header map_new Original size 16392 Crunched size 16392
 Map tile data  map_new Original size 4832 Crunched size 95
 Map block data for map_new Original size 4832 Crunched size 87
 Map path node data for map_new Original size 132 Crunched size 132
-Map event data for map_new Original size 64 Crunched size 64
 Project name table Original size 1624 Crunched size 1624
 Streamed project patterns Original size 87008 Crunched size 87008
 Images Original size 6012 Crunched size 6012
@@ -64,8 +64,8 @@ startup: 184
 pre_startup: 182
 on_hurt_player: 178
 player_hurt_handler: 178
+check_talkpad: 168 (Unused?)
 reset_level: 160
-check_talkpad: 158 (Unused?)
 snap_to_screen: 158 (Unused?)
 player_control_handler: 158
 flipymove: 146 (Unused?)

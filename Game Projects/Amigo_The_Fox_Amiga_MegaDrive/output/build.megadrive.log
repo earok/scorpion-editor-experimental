@@ -17,8 +17,9 @@ Dynamic pattern data for 1 Original size 32 Crunched size 32
 Get Y lookup table level1 Original size 120 Crunched size 120
 Map tile data  level1 Original size 5940 Crunched size 263
 Map path node data for level1 Original size 12 Crunched size 12
+Map path node data for level2 Original size 12 Crunched size 12
 MDS PCM file Original size 29036 Crunched size 29036
-Project virtual machine (codeblocks) Original size 23500 Crunched size 23500
+Project virtual machine (codeblocks) Original size 23510 Crunched size 23510
 Panel md_parallax_1 Original size 6896 Crunched size 6896
 Panel md_parallax_2 Original size 5732 Crunched size 5732
 Panel md_parallax_3 Original size 6800 Crunched size 6800
@@ -38,7 +39,6 @@ Map header level2 Original size 16416 Crunched size 16416
 Get Y lookup table level2 Original size 120 Crunched size 120
 Map tile data  level2 Original size 7080 Crunched size 360
 Map block data for level2 Original size 7080 Crunched size 178
-Map path node data for level2 Original size 12 Crunched size 12
 Map event data for level2 Original size 32 Crunched size 32
 Pattern data for 3 Original size 492 Crunched size 492
 Dynamic pattern data for 3 Original size 32 Crunched size 32
@@ -134,11 +134,11 @@ spawnglitter_actor: 194
 waitforframes: 186
 plant_down: 184
 pre_startup: 182
+check_talkpad: 168 (Unused?)
 addcoin: 168
 nextlevel: 168
 player_collected_flower: 168
 candle_extinguish: 162
-check_talkpad: 158 (Unused?)
 snap_to_screen: 158 (Unused?)
 hurtplayer: 154
 playerhitsmusic: 152
