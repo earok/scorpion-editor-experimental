@@ -1,50 +1,58 @@
 Default MD font Original size 2048 Crunched size 2048
 Default MD number font Original size 320 Crunched size 320
-Project virtual machine (codeblocks) Original size 7868 Crunched size 7868
+Project virtual machine (codeblocks) Original size 7946 Crunched size 7946
 Panel  Original size 10332 Crunched size 10332
 Project blocks Original size 340 Crunched size 340
-Project actors Original size 752 Crunched size 752
-Project patterns Original size 128 Crunched size 128
-Pattern data for 1 Original size 10 Crunched size 10
+Project actors Original size 564 Crunched size 564
+Project patterns Original size 160 Crunched size 160
+Pattern data for 1 Original size 16 Crunched size 16
 Dynamic pattern data for 1 Original size 32 Crunched size 32
-Map header new_map Original size 8440 Crunched size 8440
-Get Y lookup table new_map Original size 64 Crunched size 64
-Map tile data  new_map Original size 288 Crunched size 29
-Map block data for new_map Original size 288 Crunched size 37
-Map path node data for new_map Original size 12 Crunched size 12
-Map event data for new_map Original size 32 Crunched size 32
+Map header map Original size 8440 Crunched size 8440
+Get Y lookup table map Original size 72 Crunched size 72
+Map tile data  map Original size 360 Crunched size 41
+Map block data for map Original size 360 Crunched size 6
+Map path node data for map Original size 12 Crunched size 12
+Map event data for map Original size 32 Crunched size 32
 Project name table Original size 16 Crunched size 16
-Streamed project patterns Original size 3712 Crunched size 3712
-Images Original size 702 Crunched size 702
-Animations Original size 224 Crunched size 224
-Animation Frames Original size 528 Crunched size 528
+Streamed project patterns Original size 1984 Crunched size 1984
+Images Original size 494 Crunched size 494
+Animations Original size 192 Crunched size 192
+Animation Frames Original size 352 Crunched size 352
 Mega Drive header Original size 2894 Crunched size 2894
 Teleporters Original size 8 Crunched size 8
 Var Data Original size 16 Crunched size 16
-Attack Data Original size 132 Crunched size 132
+Attack Data Original size 66 Crunched size 66
+
+=== Possibly unused animations ===
+anim_all
+
+=== Possibly unused blocks ===
+block_blue
+block_green
+block_red
+block_yellow
 
 === Possibly unused Actors ===
-knife
-ninja
+chaser
+player
 
 === Codeblocks by compiled size ===
 load_level: 686
+chase_if_can_see: 672
 set_yresolution: 386 (Unused?)
 do_teleport: 348
 flipscreen_smooth: 306 (Unused?)
 flipxymove: 250 (Unused?)
-handle_block_hit: 204
 waitforframes: 186
 pre_startup: 182
 check_talkpad: 168 (Unused?)
 snap_to_screen: 158 (Unused?)
-handle_barrel_hit_floor: 150
 flipymove: 146 (Unused?)
 load_panel: 146
 pre_quit: 144 (Unused?)
-startup: 136
-try_fall_barrel: 134
 flipxmove: 130 (Unused?)
+AUTOGEN_OUTOFSCREEN_wrap_screen_left_wrap_screen_right_wrap_screen_top_wrap_screen_bottom: 130
+startup: 130
 pause: 126 (Unused?)
 destroy_all_blocks: 120 (Unused?)
 load_music: 118 (Unused?)
@@ -60,13 +68,10 @@ destroy_child_actors: 90 (Unused?)
 pre_anim5: 86 (Unused?)
 waitforfirehit: 86
 fadeout: 84
-handle_block_top_hit: 84
-spawn_barrel: 82
-AUTOGEN_OUTOFSCREEN_destroy_actor_destroy_actor_None_None: 78
-wrap_screen_bottom: 76 (Unused?)
-wrap_screen_right: 76 (Unused?)
-wrap_screen_left: 72 (Unused?)
-wrap_screen_top: 72 (Unused?)
+wrap_screen_bottom: 76
+wrap_screen_right: 76
+wrap_screen_left: 72
+wrap_screen_top: 72
 flipscreen: 70 (Unused?)
 load_music_finish: 64
 jump_actor: 62 (Unused?)
