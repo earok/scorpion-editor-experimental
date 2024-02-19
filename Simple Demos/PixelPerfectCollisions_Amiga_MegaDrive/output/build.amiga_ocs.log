@@ -15,16 +15,16 @@ Map cache memory: 0
 Map header cache memory: 0
 Map data memory: 1340
 Map background memory: 1400
-EXE memory: 210040
-vm memory: 7710
+EXE memory: 210012
+vm memory: 7778
 project memory: 1194
 memory reserved for active actors on screen (32): 4744
 memory reserved for dormant actors in map (256): 9216
 OS/other estimated: 105472
 
 Accounted memory chip: 353270
-Accounted memory other: 235644
-Accounted memory total: 588914
+Accounted memory other: 235684
+Accounted memory total: 588954
 
 === Misc ===
 Maps and Asset Bundles Count: 2
@@ -58,7 +58,7 @@ Asset bundle 0 (Core project asset bundle) Original size 4112 Crunched size 2268
 Asset bundle 1 (new_map) Original size 1120 Crunched size 724
 Project Header Original size 4036 Crunched size 1190
 Project Data Original size 1194 Crunched size 290
-Project virtual machine (codeblocks) Original size 7710 Crunched size 2334
+Project virtual machine (codeblocks) Original size 7778 Crunched size 2352
 Project virtual machine redirects Original size 4 Crunched size 4
 
 === Possibly unused Actors ===
@@ -71,10 +71,10 @@ set_yresolution: 458 (Unused?)
 do_teleport: 424
 flipscreen_smooth: 310 (Unused?)
 flipxymove: 278 (Unused?)
+update: 202
 waitforframes: 194
 check_talkpad: 192 (Unused?)
 pre_startup: 192
-update: 184
 pause: 176
 flipymove: 162 (Unused?)
 snap_to_screen: 158 (Unused?)
@@ -121,6 +121,8 @@ clear_block_collision: 32
 vm_registers: 26 (Unused?)
 vm_constants: 26 (Unused?)
 debug_breakpoint: 26 (Unused?)
+hardware_amiga: 26 (Unused?)
+hardware_megadrive: 26 (Unused?)
 vm_constants_audiodriver: 26 (Unused?)
 vm_constants_controlbits: 26 (Unused?)
 vm_constants_notes: 26 (Unused?)
