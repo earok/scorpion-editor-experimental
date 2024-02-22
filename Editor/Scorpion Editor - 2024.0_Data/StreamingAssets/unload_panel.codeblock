@@ -1,7 +1,6 @@
 {
   "CompileOrder": 0,
   "DataVersion": 1,
-  "Variables": [],
   "Commands": [
     {
       "Values": {},
@@ -28,15 +27,6 @@
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
-      "Conditions": [
-        {
-          "LeftSide": "panel",
-          "Comparison": "NotZero",
-          "RightSide": "0",
-          "ComparisonNext": "End",
-          "IsValid": true
-        }
-      ],
       "Level": "none",
       "NewBlock": "none",
       "XPosition": "",
@@ -87,7 +77,19 @@
       "Sound": "none",
       "Music": "none",
       "MusicPos": "0",
-      "SpeakDelay": 1
+      "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
+      "Conditions": [
+        {
+          "LeftSide": "panel",
+          "Comparison": "NotZero",
+          "RightSide": "0",
+          "ComparisonNext": "End",
+          "IsValid": true
+        }
+      ]
     },
     {
       "Values": {},
@@ -114,15 +116,6 @@
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
-      "Conditions": [
-        {
-          "LeftSide": "",
-          "Comparison": "NotZero",
-          "RightSide": "",
-          "ComparisonNext": "End",
-          "IsValid": false
-        }
-      ],
       "Level": "none",
       "NewBlock": "none",
       "XPosition": "",
@@ -173,7 +166,19 @@
       "Sound": "none",
       "Music": "none",
       "MusicPos": "0",
-      "SpeakDelay": 1
+      "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
+      "Conditions": [
+        {
+          "LeftSide": "",
+          "Comparison": "NotZero",
+          "RightSide": "",
+          "ComparisonNext": "End",
+          "IsValid": false
+        }
+      ]
     },
     {
       "Values": {},
@@ -200,15 +205,6 @@
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
-      "Conditions": [
-        {
-          "LeftSide": "",
-          "Comparison": "NotZero",
-          "RightSide": "",
-          "ComparisonNext": "End",
-          "IsValid": false
-        }
-      ],
       "Level": "none",
       "NewBlock": "none",
       "XPosition": "",
@@ -259,7 +255,19 @@
       "Sound": "none",
       "Music": "none",
       "MusicPos": "0",
-      "SpeakDelay": 1
+      "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
+      "Conditions": [
+        {
+          "LeftSide": "",
+          "Comparison": "NotZero",
+          "RightSide": "",
+          "ComparisonNext": "End",
+          "IsValid": false
+        }
+      ]
     },
     {
       "Values": {},
@@ -279,22 +287,13 @@
       "ControlMode": "Joys_1",
       "Goto": "regenerate_screen",
       "Comment": "",
-      "Variable": "regeneratescreen",
-      "Expression": "true",
+      "Variable": "displaydirty",
+      "Expression": "displaydirty | displaydirty_regenerate",
       "Index": "0",
       "Label": "",
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
-      "Conditions": [
-        {
-          "LeftSide": "",
-          "Comparison": "NotZero",
-          "RightSide": "",
-          "ComparisonNext": "End",
-          "IsValid": false
-        }
-      ],
       "Level": "none",
       "NewBlock": "none",
       "XPosition": "",
@@ -345,7 +344,19 @@
       "Sound": "none",
       "Music": "none",
       "MusicPos": "0",
-      "SpeakDelay": 1
+      "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
+      "Conditions": [
+        {
+          "LeftSide": "",
+          "Comparison": "NotZero",
+          "RightSide": "",
+          "ComparisonNext": "End",
+          "IsValid": false
+        }
+      ]
     },
     {
       "Values": {},
@@ -372,15 +383,6 @@
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
-      "Conditions": [
-        {
-          "LeftSide": "level",
-          "Comparison": "NotZero",
-          "RightSide": "true",
-          "ComparisonNext": "End",
-          "IsValid": true
-        }
-      ],
       "Level": "none",
       "NewBlock": "none",
       "XPosition": "",
@@ -431,7 +433,19 @@
       "Sound": "none",
       "Music": "none",
       "MusicPos": "0",
-      "SpeakDelay": 1
+      "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
+      "Conditions": [
+        {
+          "LeftSide": "level",
+          "Comparison": "NotZero",
+          "RightSide": "true",
+          "ComparisonNext": "End",
+          "IsValid": true
+        }
+      ]
     },
     {
       "Values": {},
@@ -458,15 +472,6 @@
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
-      "Conditions": [
-        {
-          "LeftSide": "",
-          "Comparison": "NotZero",
-          "RightSide": "",
-          "ComparisonNext": "End",
-          "IsValid": false
-        }
-      ],
       "Level": "none",
       "NewBlock": "none",
       "XPosition": "",
@@ -517,7 +522,19 @@
       "Sound": "none",
       "Music": "none",
       "MusicPos": "0",
-      "SpeakDelay": 1
+      "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
+      "Conditions": [
+        {
+          "LeftSide": "",
+          "Comparison": "NotZero",
+          "RightSide": "",
+          "ComparisonNext": "End",
+          "IsValid": false
+        }
+      ]
     },
     {
       "Values": {},
@@ -544,15 +561,6 @@
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
-      "Conditions": [
-        {
-          "LeftSide": "",
-          "Comparison": "NotZero",
-          "RightSide": "",
-          "ComparisonNext": "End",
-          "IsValid": false
-        }
-      ],
       "Level": "none",
       "NewBlock": "none",
       "XPosition": "",
@@ -603,7 +611,19 @@
       "Sound": "none",
       "Music": "none",
       "MusicPos": "0",
-      "SpeakDelay": 1
+      "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
+      "Conditions": [
+        {
+          "LeftSide": "",
+          "Comparison": "NotZero",
+          "RightSide": "",
+          "ComparisonNext": "End",
+          "IsValid": false
+        }
+      ]
     },
     {
       "Values": {},
@@ -630,15 +650,6 @@
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
-      "Conditions": [
-        {
-          "LeftSide": "",
-          "Comparison": "NotZero",
-          "RightSide": "",
-          "ComparisonNext": "End",
-          "IsValid": false
-        }
-      ],
       "Level": "none",
       "NewBlock": "none",
       "XPosition": "",
@@ -689,7 +700,19 @@
       "Sound": "none",
       "Music": "none",
       "MusicPos": "0",
-      "SpeakDelay": 1
+      "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
+      "Conditions": [
+        {
+          "LeftSide": "",
+          "Comparison": "NotZero",
+          "RightSide": "",
+          "ComparisonNext": "End",
+          "IsValid": false
+        }
+      ]
     },
     {
       "Values": {},
@@ -716,15 +739,6 @@
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
-      "Conditions": [
-        {
-          "LeftSide": "",
-          "Comparison": "NotZero",
-          "RightSide": "",
-          "ComparisonNext": "End",
-          "IsValid": false
-        }
-      ],
       "Level": "none",
       "NewBlock": "none",
       "XPosition": "",
@@ -775,7 +789,19 @@
       "Sound": "none",
       "Music": "none",
       "MusicPos": "0",
-      "SpeakDelay": 1
+      "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
+      "Conditions": [
+        {
+          "LeftSide": "",
+          "Comparison": "NotZero",
+          "RightSide": "",
+          "ComparisonNext": "End",
+          "IsValid": false
+        }
+      ]
     },
     {
       "Values": {},
@@ -802,15 +828,6 @@
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
-      "Conditions": [
-        {
-          "LeftSide": "",
-          "Comparison": "NotZero",
-          "RightSide": "",
-          "ComparisonNext": "End",
-          "IsValid": false
-        }
-      ],
       "Level": "none",
       "NewBlock": "none",
       "XPosition": "",
@@ -861,7 +878,19 @@
       "Sound": "none",
       "Music": "none",
       "MusicPos": "0",
-      "SpeakDelay": 1
+      "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
+      "Conditions": [
+        {
+          "LeftSide": "",
+          "Comparison": "NotZero",
+          "RightSide": "",
+          "ComparisonNext": "End",
+          "IsValid": false
+        }
+      ]
     }
   ]
 }
