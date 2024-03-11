@@ -1,45 +1,36 @@
 {
   "CompileOrder": 0,
   "DataVersion": 1,
-  "Variables": [],
   "Commands": [
     {
       "Values": {},
       "DataVersion": 6,
-      "Category": "Base",
+      "Category": "Player",
       "BasicOperationType": "SetVariable",
       "DisplayOperationType": "SetPanel",
       "AudioOperationType": "PlaySound",
       "ConditionType": "Condition",
       "LevelOperationType": "LoadLevel",
-      "ActorOperationType": "SetType",
+      "ActorOperationType": "SetPosition",
       "DialogueOperationType": "Speak",
       "DataOperationType": "Load",
       "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
       "Goto": "",
       "Comment": "",
-      "Variable": "temp",
-      "Expression": "actor_x",
+      "Variable": "none",
+      "Expression": "0",
       "Index": "0",
       "Label": "",
       "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
-      "Conditions": [
-        {
-          "LeftSide": "",
-          "Comparison": "NotZero",
-          "RightSide": "",
-          "ComparisonNext": "End",
-          "IsValid": false
-        }
-      ],
       "Level": "none",
       "NewBlock": "none",
       "XPosition": "",
-      "YPosition": "",
+      "YPosition": "player_y - 1",
       "TeleportName": "none",
       "XFloat": null,
       "YFloat": null,
@@ -62,7 +53,13 @@
         "Up": "0",
         "Down": "0"
       },
-      "YRes": "224",
+      "LookAhead": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
+      "YRes": "",
       "FrameWait": "",
       "CameraFollowLeft": true,
       "CameraFollowRight": true,
@@ -70,10 +67,6 @@
       "CameraFollowDown": true,
       "CameraFollowInterpolateCamera": false,
       "CameraFollowInterpolateSprites": false,
-      "Fire1Jump": false,
-      "Fire2Jump": true,
-      "UpJump": true,
-      "JumpOnHold": false,
       "ColorIndex": "0",
       "Color": {
         "r": 0,
@@ -81,10 +74,14 @@
         "b": 0,
         "a": 255
       },
-      "Sound": "none",
-      "Music": "none",
+      "Sound": "",
+      "Music": "",
       "MusicPos": "0",
-      "SpeakDelay": 1
+      "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
+      "Conditions": []
     }
   ]
 }
