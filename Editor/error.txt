@@ -1,1 +1,16 @@
-Cannot set left as a default direction for foe_bats
+NullReferenceException: Object reference not set to an instance of an object
+MapManager.GetValue (System.String parameter) (at <2f2c9f96e6c24ce0b257ee7749620190>:0)
+Binder_Base.get_BoundValue () (at <2f2c9f96e6c24ce0b257ee7749620190>:0)
+Binder_Toggle.RefreshUI () (at <2f2c9f96e6c24ce0b257ee7749620190>:0)
+ManagerBase`1[T].RefreshUI () (at <2f2c9f96e6c24ce0b257ee7749620190>:0)
+MapManager.set_SelectedTilesetID (System.String value) (at <2f2c9f96e6c24ce0b257ee7749620190>:0)
+MapManager.SetValue (System.String parameter, System.String value) (at <2f2c9f96e6c24ce0b257ee7749620190>:0)
+Binder_Base.set_BoundValue (System.String value) (at <2f2c9f96e6c24ce0b257ee7749620190>:0)
+Binder_SingleSelector.Selected () (at <2f2c9f96e6c24ce0b257ee7749620190>:0)
+UnityEngine.Events.InvokableCall.Invoke () (at <72b60a3dd8cd4f12a155b761a1af9144>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <72b60a3dd8cd4f12a155b761a1af9144>:0)
+UnityEngine.UI.Button.Press () (at <638b30027e4547cfa345535c2820e93e>:0)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at <638b30027e4547cfa345535c2820e93e>:0)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <638b30027e4547cfa345535c2820e93e>:0)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <638b30027e4547cfa345535c2820e93e>:0)
+UnityEngine.EventSystems.EventSystem:Update()
