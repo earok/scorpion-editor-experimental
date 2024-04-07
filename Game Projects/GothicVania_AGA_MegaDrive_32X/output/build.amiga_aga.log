@@ -12,25 +12,28 @@ OS/other estimated: 99328
 
 For other:
 Map cache memory: 3742
-Map header cache memory: 498
+Map header cache memory: 500
 Map data memory: 24500
 Map background memory: 1504
-EXE memory: 210424
-vm memory: 11964
-project memory: 11052
+EXE memory: 212952
+vm memory: 11658
+project memory: 11020
 memory reserved for active actors on screen (32): 4744
 memory reserved for dormant actors in map (256): 9216
 OS/other estimated: 105472
 
 Accounted memory chip: 725975
-Accounted memory other: 277644
-Accounted memory total: 1003619
+Accounted memory other: 279836
+Accounted memory total: 1005811
 
 === Misc ===
+ImageFrames: 118
+ImageFrame Data Size: 5192
 Maps and Asset Bundles Count: 2
 Maps and Asset Bundles Data Size: 24
 Actor Count: 13
 Actor Data Size: 2444
+Movement Pattern Data: 2
 Block Count: 7
 Block Data Size: 476
 Anim5 Count: 0
@@ -42,24 +45,23 @@ Teleporter Data Size: 8
 Animations Count: 30
 Animations Data Size: 480
 AnimationFrame Count: 123
-AnimationFrame Data Size: 1968
-ImageFrames: 119
-ImageFrame Data Size: 5236
+AnimationFrame Data Size: System.Collections.Generic.List`1[System.Byte]
 Sprites: 3
 Sprites Data Size: 42
 Attack Data: 2
-Attack Data Size: 132
+Attack Data Size: 144
 Misc data size: 72
-Panel scorpion_eng_splashscreen Original size 35160 Crunched size 3262
-Panel title Original size 47460 Crunched size 10436
-Header data for map map_new Original size 7996 Crunched size 498
+Movement patterns Original size 2 Crunched size 2
+Panel scorpion_eng_splashscreen Original size 55172 Crunched size 3460
+Panel title Original size 47472 Crunched size 10436
+Project virtual machine (codeblocks) Original size 11658 Crunched size 2966
+Header data for map map_new Original size 8000 Crunched size 500
 Tile data for map map_new (mem restrictions:None) Original size 24500 Crunched size 3742
 Background for map map_new Original size 1504 Crunched size 152
 Asset bundle 0 (Core project asset bundle) Original size 218253 Crunched size 88242
 Asset bundle 1 (map_new) Original size 145050 Crunched size 59250
 Project Header Original size 4036 Crunched size 1236
-Project Data Original size 11052 Crunched size 3078
-Project virtual machine (codeblocks) Original size 11964 Crunched size 3106
+Project Data Original size 11020 Crunched size 3082
 Project virtual machine redirects Original size 4 Crunched size 4
 
 === Possibly unused animations ===
@@ -82,13 +84,13 @@ jump
 
 === Codeblocks by compiled size ===
 load_level: 764
-set_yresolution: 458 (Unused?)
 do_teleport: 424
 flipscreen_smooth: 310 (Unused?)
 pre_startup: 282
 flipxymove: 278 (Unused?)
 player_hurt_handler: 228
 startup: 214
+set_yresolution: 202 (Unused?)
 waitforframes: 194
 check_talkpad: 192 (Unused?)
 on_hurt_player: 190
@@ -103,7 +105,6 @@ flipxmove: 142
 unload_level: 142
 bg_handler: 140 (Unused?)
 on_spawn_skeleton: 134
-load_music: 130 (Unused?)
 on_skeleton_risen: 126
 destroy_all_blocks: 124 (Unused?)
 pre_load_level: 122
@@ -142,6 +143,7 @@ pre_anim5: 86 (Unused?)
 waitforfirehit: 86
 autogen_hero_attack_r_1: 86
 on_kill_enemy: 84
+load_music: 78 (Unused?)
 AUTOGEN_OUTOFSCREEN_on_leave_left_on_leave_right_None_None: 78
 load_music_finish: 76
 wrap_screen_bottom: 76 (Unused?)
