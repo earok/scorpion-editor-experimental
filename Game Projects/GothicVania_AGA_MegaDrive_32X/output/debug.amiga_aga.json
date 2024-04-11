@@ -7421,117 +7421,177 @@
       "Description": "GOSUB TO 'FADEIN'"
     },
     {
+      "CodeBlock": "reset_level",
+      "CodeBlockLine": 4,
+      "MemoryOffset": 10730,
+      "Description": "Raw expression 'bgactor'"
+    },
+    {
+      "CodeBlock": "reset_level",
+      "CodeBlockLine": 4,
+      "MemoryOffset": 10736,
+      "Description": "Raw expression '0'"
+    },
+    {
+      "CodeBlock": "reset_level",
+      "CodeBlockLine": 4,
+      "MemoryOffset": 10742,
+      "Description": "Raw expression '0'"
+    },
+    {
+      "CodeBlock": "reset_level",
+      "CodeBlockLine": 4,
+      "MemoryOffset": 10748,
+      "Description": "Core operation'PixelSpawn'"
+    },
+    {
+      "CodeBlock": "reset_level",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 10756,
+      "Description": "Raw expression 'bgactor2'"
+    },
+    {
+      "CodeBlock": "reset_level",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 10762,
+      "Description": "Raw expression '0'"
+    },
+    {
+      "CodeBlock": "reset_level",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 10768,
+      "Description": "Raw expression '0'"
+    },
+    {
+      "CodeBlock": "reset_level",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 10774,
+      "Description": "Core operation'PixelSpawn'"
+    },
+    {
       "CodeBlock": "set_actor_invisible",
       "CodeBlockLine": 0,
-      "MemoryOffset": 10756,
+      "MemoryOffset": 10808,
       "Description": "SET_ACTOR_INVISIBLE"
     },
     {
       "CodeBlock": "set_actor_invisible",
       "CodeBlockLine": 1,
-      "MemoryOffset": 10756,
+      "MemoryOffset": 10808,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "set_actor_invisible",
       "CodeBlockLine": 1,
-      "MemoryOffset": 10762,
+      "MemoryOffset": 10814,
       "Description": "Raw expression 'RenderMode_Off'"
     },
     {
       "CodeBlock": "set_actor_invisible",
       "CodeBlockLine": 1,
-      "MemoryOffset": 10768,
+      "MemoryOffset": 10820,
       "Description": "Core operation'RefreshActorRenderMode'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 0,
-      "MemoryOffset": 10802,
+      "MemoryOffset": 10854,
       "Description": "STARTUP"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 10802,
+      "MemoryOffset": 10854,
       "Description": "Core operation'WaitForNoActors'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 1,
-      "MemoryOffset": 10810,
+      "MemoryOffset": 10862,
       "Description": "GOSUB TO 'UNLOAD_LEVEL'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 2,
-      "MemoryOffset": 10830,
-      "Description": "Set 'spawnarea_width' to 'spawnarea_width + 64'"
+      "MemoryOffset": 10882,
+      "Description": "Set 'newvalue' to '208'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 2,
+      "MemoryOffset": 10888,
+      "Description": "GOSUB TO 'SET_YRESOLUTION'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 2,
+      "MemoryOffset": 10908,
+      "Description": "Set 'specialscroll' to 'True'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 2,
+      "MemoryOffset": 10914,
+      "Description": "GOSUB TO 'REGENERATE_SCREEN'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 3,
-      "MemoryOffset": 10842,
+      "MemoryOffset": 10934,
+      "Description": "Set 'spawnarea_width' to 'spawnarea_width + 64'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 4,
+      "MemoryOffset": 10946,
       "Description": "Set 'spawnarea_x' to 'spawnarea_x - 32'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 4,
-      "MemoryOffset": 10854,
-      "Description": "GOSUB TO 'UNLOAD_LEVEL'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 4,
-      "MemoryOffset": 10874,
-      "Description": "Set 'newvalue' to 'title'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 4,
-      "MemoryOffset": 10880,
-      "Description": "GOSUB TO 'LOAD_PANEL'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 4,
-      "MemoryOffset": 10900,
-      "Description": "If panel != 0 ELSE GOTO 00010958"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 4,
-      "MemoryOffset": 10912,
-      "Description": "Set 'wait' to '0'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 4,
-      "MemoryOffset": 10918,
-      "Description": "GOSUB TO 'WAITFORFRAMES'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 4,
-      "MemoryOffset": 10938,
-      "Description": "GOSUB TO 'UNLOAD_PANEL'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 5,
       "MemoryOffset": 10958,
-      "Description": "Set 'specialscroll' to 'True'"
+      "Description": "GOSUB TO 'UNLOAD_LEVEL'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 5,
-      "MemoryOffset": 10964,
-      "Description": "GOSUB TO 'REGENERATE_SCREEN'"
+      "MemoryOffset": 10978,
+      "Description": "Set 'newvalue' to 'title'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 10984,
+      "Description": "GOSUB TO 'LOAD_PANEL'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 11004,
+      "Description": "If panel != 0 ELSE GOTO 00011062"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 11016,
+      "Description": "Set 'wait' to '0'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 11022,
+      "Description": "GOSUB TO 'WAITFORFRAMES'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 5,
+      "MemoryOffset": 11042,
+      "Description": "GOSUB TO 'UNLOAD_PANEL'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 6,
-      "MemoryOffset": 10984,
+      "MemoryOffset": 11062,
       "Description": "GOTO 'RESET_LEVEL'"
     }
   ],

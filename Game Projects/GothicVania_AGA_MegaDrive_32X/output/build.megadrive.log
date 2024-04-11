@@ -1,12 +1,23 @@
+ImageFrames: 144
+ImageFrame Data Size: 6340
+Actor Count: 11
+Actor Data Size: 2068
+Movement Pattern Data: 2
 RAM reserved for level tiles: 12684 bytes (largest level: map_new)
 
+Animations Count: 28
+Animations Data Size: 448
+AnimationFrame Count: 121
+AnimationFrame Data Size: System.Collections.Generic.List`1[System.Byte]
 XGM Null song Original size 172 Crunched size 172
+Movement patterns Original size 2 Crunched size 2
+Project patterns Original size 32 Crunched size 32
 Teleporters Original size 8 Crunched size 8
+Commands for Joystick 1 Original size 12 Crunched size 12
 XGM Null sound Original size 256 Crunched size 256
 XGM 68K Plugin Driver Original size 804 Crunched size 804
 Project sound Original size 168 Crunched size 168
-Project patterns Original size 32 Crunched size 32
-Commands for Joystick 1 Original size 12 Crunched size 12
+Var Data Original size 44 Crunched size 44
 XGM PCM sound Original size 3584 Crunched size 3584
 XGM Core Driver Original size 5888 Crunched size 5888
 XGM PCM sound Original size 2816 Crunched size 2816
@@ -14,28 +25,27 @@ XGM PCM sound Original size 3072 Crunched size 3072
 XGM PCM sound Original size 5120 Crunched size 5120
 XGM PCM sound Original size 5632 Crunched size 5632
 Default MD font Original size 2048 Crunched size 2048
-Default MD number font Original size 320 Crunched size 320
-Project virtual machine (codeblocks) Original size 11570 Crunched size 11570
-Panel  Original size 10334 Crunched size 10334
-Panel md_background Original size 18122 Crunched size 18122
-Panel title Original size 21118 Crunched size 21118
+Project virtual machine (codeblocks) Original size 11504 Crunched size 11504
+Panel  Original size 10350 Crunched size 10350
+Panel md_background Original size 18138 Crunched size 18138
+Panel title Original size 21134 Crunched size 21134
 Project blocks Original size 476 Crunched size 476
+Images Original size 6340 Crunched size 6340
 Project actors Original size 2068 Crunched size 2068
-Pattern data for 1 Original size 1740 Crunched size 1740
-Map header map_new Original size 16396 Crunched size 16396
-Get Y lookup table map_new Original size 84 Crunched size 84
 Map tile data  map_new Original size 6342 Crunched size 95
-Map block data for map_new Original size 6342 Crunched size 87
-Map path node data for map_new Original size 132 Crunched size 132
+Tile data for map map_new (mem restrictions:None) Original size 8400 Crunched size 8400
+Pattern data for 1 Original size 1740 Crunched size 1740
 Map event data for map_new Original size 64 Crunched size 64
+Get Y lookup table map_new Original size 84 Crunched size 84
+Map path node data for map_new Original size 132 Crunched size 132
+Header data for map map_new Original size 8000 Crunched size 8000
+Map block data for map_new Original size 6342 Crunched size 87
 Project name table Original size 1624 Crunched size 1624
 Streamed project patterns Original size 87008 Crunched size 87008
-Images Original size 6340 Crunched size 6340
 Animations Original size 448 Crunched size 448
 Animation Frames Original size 1936 Crunched size 1936
-Mega Drive header Original size 2902 Crunched size 2902
-Var Data Original size 44 Crunched size 44
-Attack Data Original size 132 Crunched size 132
+Project Header Original size 2902 Crunched size 2902
+Attack Data Original size 144 Crunched size 144
 
 === Possibly unused animations ===
 ghost_r
@@ -56,7 +66,7 @@ jump
 === Codeblocks by compiled size ===
 load_level: 724
 do_teleport: 404
-set_yresolution: 398 (Unused?)
+set_yresolution: 390 (Unused?)
 flipscreen_smooth: 310 (Unused?)
 flipxymove: 278 (Unused?)
 player_hurt_handler: 228
@@ -76,7 +86,6 @@ unload_level: 142
 bg_handler: 140 (Unused?)
 pause: 138 (Unused?)
 on_spawn_skeleton: 134
-load_music: 130 (Unused?)
 on_skeleton_risen: 126
 destroy_all_blocks: 124 (Unused?)
 pre_load_level: 122
@@ -122,6 +131,7 @@ wrap_screen_right: 76 (Unused?)
 flipscreen: 72 (Unused?)
 wrap_screen_left: 72 (Unused?)
 wrap_screen_top: 72 (Unused?)
+load_music: 70 (Unused?)
 jump_actor: 66
 load_panel_finish: 66
 unload_panel_bottom: 62

@@ -1,68 +1,32 @@
-=== Image optimisations ===
-
-=== Estimated memory usages ===
-
-For chip:
-Map gfx (level gfx bundle 1): 145050
-Music memory (): 0
-BP Buffer memory: 157872
-core sfx/gfx memory: 218253
-Parallax memory: 0
-OS/other estimated: 99328
-
-For other:
-Map cache memory: 3742
-Map header cache memory: 488
-Map data memory: 24500
-Map background memory: 1504
-EXE memory: 212972
-vm memory: 11736
-project memory: 11020
-memory reserved for active actors on screen (32): 4744
-memory reserved for dormant actors in map (256): 9216
-OS/other estimated: 105472
-
-Accounted memory chip: 725975
-Accounted memory other: 279922
-Accounted memory total: 1005897
-
-=== Misc ===
-ImageFrames: 118
-ImageFrame Data Size: 5192
-Maps and Asset Bundles Count: 2
-Maps and Asset Bundles Data Size: 24
-Actor Count: 13
-Actor Data Size: 2444
+ImageFrames: 213
+ImageFrame Data Size: 9404
+Actor Count: 14
+Actor Data Size: 2632
 Movement Pattern Data: 2
-Block Count: 7
-Block Data Size: 476
-Anim5 Count: 0
-Anim5 Data Size: 0
-Sound Count: 6
-Sound Data Size: 168
-Teleporter Count: 1
-Teleporter Data Size: 8
-Animations Count: 30
-Animations Data Size: 480
-AnimationFrame Count: 123
+Animations Count: 31
+Animations Data Size: 496
+AnimationFrame Count: 124
 AnimationFrame Data Size: System.Collections.Generic.List`1[System.Byte]
-Sprites: 3
-Sprites Data Size: 42
-Attack Data: 2
-Attack Data Size: 144
-Misc data size: 72
+Project virtual machine (codeblocks) Original size 11352 Crunched size 11352
+Panel  Original size 3118 Crunched size 3118
+Panel title Original size 3118 Crunched size 3118
+Project blocks Original size 476 Crunched size 476
+Images Original size 9404 Crunched size 9404
 Movement patterns Original size 2 Crunched size 2
-Panel scorpion_eng_splashscreen Original size 55172 Crunched size 3460
-Panel title Original size 47472 Crunched size 10436
-Project virtual machine (codeblocks) Original size 11736 Crunched size 3000
-Header data for map map_new Original size 8000 Crunched size 488
-Tile data for map map_new (mem restrictions:None) Original size 24500 Crunched size 3742
-Background for map map_new Original size 1504 Crunched size 152
-Asset bundle 0 (Core project asset bundle) Original size 218253 Crunched size 88242
-Asset bundle 1 (map_new) Original size 145050 Crunched size 59250
-Project Header Original size 4036 Crunched size 1236
-Project Data Original size 11020 Crunched size 3082
-Project virtual machine redirects Original size 4 Crunched size 4
+Project actors Original size 2632 Crunched size 2632
+Map block data for map_new Original size 6342 Crunched size 6342
+Header data for map map_new Original size 8000 Crunched size 8000
+Map tile data  map_new Original size 6342 Crunched size 6342
+Tile data for map map_new (mem restrictions:None) Original size 16800 Crunched size 16800
+Map event data for map_new Original size 64 Crunched size 64
+Get Y lookup table map_new Original size 84 Crunched size 84
+Map path node data for map_new Original size 132 Crunched size 132
+Animations Original size 496 Crunched size 496
+Animation Frames Original size 1984 Crunched size 1984
+Project Header Original size 2902 Crunched size 2902
+Var Data Original size 86 Crunched size 86
+Attack Data Original size 144 Crunched size 144
+Teleporters Original size 8 Crunched size 8
 
 === Possibly unused animations ===
 ghost_r
@@ -81,23 +45,22 @@ hurt
 jump
 
 === Codeblocks by compiled size ===
-load_level: 764
-do_teleport: 424
+load_level: 724
+do_teleport: 404
 flipscreen_smooth: 310 (Unused?)
-pre_startup: 282
 flipxymove: 278 (Unused?)
-startup: 240
-reset_level: 230
+set_yresolution: 256
+reset_level: 256
+startup: 234
 player_hurt_handler: 228
-set_yresolution: 202
 waitforframes: 194
-check_talkpad: 192 (Unused?)
 on_hurt_player: 190
-pause: 176 (Unused?)
+check_talkpad: 172 (Unused?)
+pre_startup: 168
 flipymove: 162 (Unused?)
 snap_to_screen: 158 (Unused?)
 player_control_handler: 158
-pre_quit: 152
+pre_quit: 152 (Unused?)
 load_panel: 146
 flipxmove: 142
 unload_level: 142
@@ -141,18 +104,17 @@ pre_anim5: 86 (Unused?)
 waitforfirehit: 86
 autogen_hero_attack_r_1: 86
 on_kill_enemy: 84
-load_music: 78 (Unused?)
 AUTOGEN_OUTOFSCREEN_on_leave_left_on_leave_right_None_None: 78
 load_music_finish: 76
 wrap_screen_bottom: 76 (Unused?)
 wrap_screen_right: 76 (Unused?)
-set_ntsc: 74 (Unused?)
+pause: 74 (Unused?)
 flipscreen: 72 (Unused?)
 wrap_screen_left: 72 (Unused?)
 wrap_screen_top: 72 (Unused?)
-quit: 70 (Unused?)
 jump_actor: 66
 load_panel_finish: 66
+load_music: 62 (Unused?)
 unload_panel_bottom: 62
 unload_panel_top: 62
 destroy_all_actors: 60 (Unused?)
@@ -161,33 +123,34 @@ regenerate_screen: 58
 AUTOGEN_OUTOFSCREEN_None_None_None_reset_level: 54
 destroy_block: 52 (Unused?)
 return: 52 (Unused?)
-color_off: 52
-color_on: 52
+quit: 50 (Unused?)
 regenerate_screen_wait: 46
 on_leave_left: 46
 on_leave_right: 46
 set_actor_invisible: 46
-key_up_pressed: 44
+key_up_pressed: 44 (Unused?)
 freeze_actor: 40 (Unused?)
 unfreeze_actor: 40 (Unused?)
-key_down_pressed: 38
-key_left_pressed: 38
-key_right_pressed: 38
+key_down_pressed: 38 (Unused?)
+key_left_pressed: 38 (Unused?)
+key_right_pressed: 38 (Unused?)
 block_coll_force: 32 (Unused?)
 block_coll_passthru: 32 (Unused?)
 clear_block_collision: 32
-key_attack_pressed: 32
-key_down_released: 32
-key_left_released: 32
-key_right_released: 32
-key_up_released: 32
+key_attack_pressed: 32 (Unused?)
+key_down_released: 32 (Unused?)
+key_left_released: 32 (Unused?)
+key_right_released: 32 (Unused?)
+key_up_released: 32 (Unused?)
 vm_registers: 26 (Unused?)
 vm_constants: 26 (Unused?)
 debug_breakpoint: 26 (Unused?)
 hardware_amiga: 26 (Unused?)
 hardware_megadrive: 26 (Unused?)
+set_ntsc: 26 (Unused?)
 vm_constants_audiodriver: 26 (Unused?)
 vm_constants_controlbits: 26 (Unused?)
 vm_constants_notes: 26 (Unused?)
-vm_constants_platform: 26 (Unused?)
 vm_constants_tile_properties: 26 (Unused?)
+color_off: 26 (Unused?)
+color_on: 26 (Unused?)

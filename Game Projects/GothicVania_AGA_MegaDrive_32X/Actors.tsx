@@ -61,4 +61,9 @@
       <property name="Name" value="skeleton_spawn_right" type="string" />
     </properties>
   </tile>
+  <tile id="12">
+    <properties>
+      <property name="Name" value="bgactor3" type="string" />
+    </properties>
+  </tile>
 </tileset>
