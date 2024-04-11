@@ -1,32 +1,42 @@
+ImageFrames: 4
+ImageFrame Data Size: 208
+Actor Count: 5
+Actor Data Size: 940
+Movement Pattern Data: 2
 RAM reserved for level tiles: 1088 bytes (largest level: map1)
 
+Animations Count: 9
+Animations Data Size: 144
+AnimationFrame Count: 12
+AnimationFrame Data Size: System.Collections.Generic.List`1[System.Byte]
 MDS Bin file Original size 8202 Crunched size 8202
 MDS Sequence file Original size 48 Crunched size 48
 Project sound Original size 56 Crunched size 56
 Default MD font Original size 2048 Crunched size 2048
-Default MD number font Original size 320 Crunched size 320
-Project virtual machine (codeblocks) Original size 7960 Crunched size 7960
+Project virtual machine (codeblocks) Original size 7894 Crunched size 7894
 Project blocks Original size 272 Crunched size 272
+Images Original size 208 Crunched size 208
+Movement patterns Original size 2 Crunched size 2
 Project actors Original size 940 Crunched size 940
 Project patterns Original size 224 Crunched size 224
-Pattern data for 1 Original size 246 Crunched size 246
-Get Y lookup table map1 Original size 64 Crunched size 64
 Map tile data  map1 Original size 544 Crunched size 33
-Map block data for map1 Original size 544 Crunched size 21
-Map path node data for map1 Original size 12 Crunched size 12
+Tile data for map map1 (mem restrictions:None) Original size 896 Crunched size 896
+Pattern data for 1 Original size 246 Crunched size 246
 Map event data for map1 Original size 32 Crunched size 32
+Get Y lookup table map1 Original size 64 Crunched size 64
+Map path node data for map1 Original size 12 Crunched size 12
+Map block data for map1 Original size 544 Crunched size 21
 Project name table Original size 496 Crunched size 496
-Streamed project patterns Original size 3648 Crunched size 3648
-Images Original size 208 Crunched size 208
 Animations Original size 144 Crunched size 144
 Animation Frames Original size 192 Crunched size 192
-Teleporters Original size 8 Crunched size 8
 Var Data Original size 14 Crunched size 14
-Attack Data Original size 66 Crunched size 66
+Attack Data Original size 72 Crunched size 72
+Teleporters Original size 8 Crunched size 8
 MDS PCM file Original size 7656 Crunched size 7656
-Panel  Original size 10334 Crunched size 10334
-Map header map1 Original size 8892 Crunched size 8892
-Mega Drive header Original size 2902 Crunched size 2902
+Panel  Original size 10350 Crunched size 10350
+Header data for map map1 Original size 8000 Crunched size 8000
+Streamed project patterns Original size 3648 Crunched size 3648
+Project Header Original size 2902 Crunched size 2902
 
 === Possibly unused sound effects ===
 jet
@@ -34,7 +44,7 @@ jet
 === Codeblocks by compiled size ===
 load_level: 724
 do_teleport: 404
-set_yresolution: 398 (Unused?)
+set_yresolution: 390 (Unused?)
 flipscreen_smooth: 310 (Unused?)
 on_button_press: 300
 flipxymove: 278 (Unused?)
@@ -50,7 +60,6 @@ load_panel: 146
 flipxmove: 142 (Unused?)
 unload_level: 142
 pause: 138 (Unused?)
-load_music: 130 (Unused?)
 destroy_all_blocks: 124 (Unused?)
 pre_load_level: 122
 waitforfireup: 114
@@ -69,6 +78,7 @@ wrap_screen_right: 76 (Unused?)
 flipscreen: 72 (Unused?)
 wrap_screen_left: 72 (Unused?)
 wrap_screen_top: 72 (Unused?)
+load_music: 70 (Unused?)
 jump_actor: 66 (Unused?)
 load_panel_finish: 66
 unload_panel_bottom: 62
