@@ -10,6 +10,7 @@
   "TalkpadY": 0,
   "TalkpadWidth": 8,
   "TalkpadHeight": 8,
+  "OverrideGamePalette": true,
   "PanelImagePath": "title.png",
   "FireIndicatorPath": null,
   "ChoiceIndicatorPath": null,
@@ -26,11 +27,12 @@
       "Down": 0,
       "Columns": 1,
       "FrameDelay": 5,
-      "PaletteLine": 3
+      "PaletteLine_MegaDrive": 3,
+      "PaletteLine_NeoGeo": 15
     },
     {
-      "X": 230,
-      "Y": 210,
+      "X": 225,
+      "Y": 208,
       "OptionIconPath": "title_quit.png",
       "Left": 0,
       "Right": 0,
@@ -38,7 +40,8 @@
       "Down": 1,
       "Columns": 1,
       "FrameDelay": 5,
-      "PaletteLine": 3
+      "PaletteLine_MegaDrive": 3,
+      "PaletteLine_NeoGeo": 15
     }
   ],
   "Elements": [],
@@ -53,12 +56,22 @@
     "3": 0
   },
   "CenterAdjust_MegaDrive": 0,
-  "PaletteLines_MegaDrive": 1,
-  "StartingPaletteLine_MegaDrive": 3,
-  "TalkpadPalLine": 0,
-  "FireIndicatorPalLine": 0,
-  "ChoiceIndicatorPalLine": 0,
-  "NumberFontPaletteLine": 0,
+  "MegaDrivePaletteLines": {
+    "Start": 3,
+    "Talkpad": 0,
+    "FireIndicator": 0,
+    "ChoiceIndicator": 0,
+    "NumberFont": 0,
+    "Total": 1
+  },
+  "NeoGeoPaletteLines": {
+    "Start": 15,
+    "Talkpad": 15,
+    "FireIndicator": 15,
+    "ChoiceIndicator": 15,
+    "NumberFont": 15,
+    "Total": 1
+  },
   "ParallaxMultiplierX": 0.5,
   "ParallaxMultiplierY": 0.0,
   "SliceMode": "Unsliced",
@@ -75,5 +88,6 @@
   "ParallaxOverlayPath": null,
   "Gap": 4,
   "MarsRenderMode": "ForegroundAlpha16bit",
-  "OnType": null
+  "OnType": null,
+  "IsRightAligned": false
 }

@@ -9,7 +9,7 @@
     <sharedfeat name="compatibility" value="MVS,AES" />
     <part name="cart" interface="neo_cart">
       <dataarea name="maincpu" width="16" endianness="big" size="0x100000">
-        <rom loadflag="load16_word_swap" name="scorpion.p1" offset="0x000000" size="0x080000" crc="e46767fc" sha1="7aba63c19b574806b2b66caf15888da7c7ad13ca" />
+        <rom loadflag="load16_word_swap" name="scorpion.p1" offset="0x000000" size="0x080000" crc="b39cc78" sha1="5e0fb73e3bef49c453365e35871da99d80967844" />
       </dataarea>
       <dataarea name="fixed" size="0x040000">
         <rom name="scorpion.s1" offset="0x000000" size="0x020000" crc="cbf6fc22" sha1="ae6de44eb0885ec0a1db0a712fb98808c3cd49b4" />
@@ -19,7 +19,7 @@
         <rom loadflag="load16_byte" name="scorpion.c2" offset="0x000001" size="0x020000" crc="a876c90a" sha1="04728fd34d91f10427d637a51b36be8736427876" />
       </dataarea>
       <dataarea name="audiocpu" size="0x020000">
-        <rom name="mzs_driver.m1" offset="0x000000" size="0x010000" crc="84a8fd1" sha1="9d81c483439cc25ffed41efa6dc5e2201449dfd2" />
+        <rom name="mzs_driver.m1" offset="0x000000" size="0x010000" crc="25b82fae" sha1="ff3b1a3a92a558dc3d29b46433ffb30ae87ec9f1" />
       </dataarea>
       <dataarea name="ymsnd" size="0x080000">
         <rom name="scorpion.v1" offset="0x000000" size="0x020000" crc="14e1e12b" sha1="a41a38af7761e0a6316c7331effae124df54b838" />

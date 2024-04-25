@@ -6,10 +6,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -18,10 +21,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -30,10 +36,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -42,10 +51,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -54,10 +66,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -66,10 +81,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -78,10 +96,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -90,10 +111,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -102,10 +126,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -114,10 +141,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -126,10 +156,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -138,10 +171,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -150,10 +186,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -162,10 +201,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -174,10 +216,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -186,10 +231,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -198,10 +246,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -210,10 +261,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -222,10 +276,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -234,10 +291,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -246,10 +306,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -258,10 +321,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -270,10 +336,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -282,10 +351,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -294,10 +366,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -306,10 +381,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -318,10 +396,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -330,10 +411,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -342,10 +426,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -354,10 +441,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -366,10 +456,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -378,10 +471,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -390,10 +486,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -402,10 +501,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -414,10 +516,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -426,10 +531,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -438,10 +546,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -450,10 +561,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -462,10 +576,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -474,10 +591,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -486,10 +606,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -498,10 +621,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -510,10 +636,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -522,10 +651,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -534,10 +666,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -546,10 +681,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -558,10 +696,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -570,10 +711,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -582,10 +726,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -594,10 +741,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -606,10 +756,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -618,10 +771,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -630,10 +786,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -642,10 +801,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -654,10 +816,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -666,10 +831,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -678,10 +846,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -690,10 +861,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -702,10 +876,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -714,10 +891,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -726,10 +906,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -738,10 +921,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -750,10 +936,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -762,10 +951,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -774,10 +966,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -786,10 +981,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -798,10 +996,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -810,10 +1011,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -822,10 +1026,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -834,10 +1041,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -846,10 +1056,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -858,10 +1071,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -870,10 +1086,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -882,10 +1101,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -894,10 +1116,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -906,10 +1131,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -918,10 +1146,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -930,10 +1161,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -942,10 +1176,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -954,10 +1191,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -966,10 +1206,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -978,10 +1221,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -990,10 +1236,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1002,10 +1251,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1014,10 +1266,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1026,10 +1281,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1038,10 +1296,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1050,10 +1311,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1062,10 +1326,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1074,10 +1341,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1086,10 +1356,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1098,10 +1371,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1110,10 +1386,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1122,10 +1401,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1134,10 +1416,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1146,10 +1431,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1158,10 +1446,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1170,10 +1461,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1182,10 +1476,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1194,10 +1491,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1206,10 +1506,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1218,10 +1521,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1230,10 +1536,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1242,10 +1551,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1254,10 +1566,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1266,10 +1581,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1278,10 +1596,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1290,10 +1611,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1302,10 +1626,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1314,10 +1641,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1326,10 +1656,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1338,10 +1671,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1350,10 +1686,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1362,10 +1701,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1374,10 +1716,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1386,10 +1731,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1398,10 +1746,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1410,10 +1761,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1422,10 +1776,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1434,10 +1791,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1446,10 +1806,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1458,10 +1821,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1470,10 +1836,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1482,10 +1851,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1494,10 +1866,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1506,10 +1881,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1518,10 +1896,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1530,10 +1911,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1542,10 +1926,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1554,10 +1941,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1566,10 +1956,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1578,10 +1971,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1590,10 +1986,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1602,10 +2001,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1614,10 +2016,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1626,10 +2031,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1638,10 +2046,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1650,10 +2061,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1662,10 +2076,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1674,10 +2091,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1686,10 +2106,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1698,10 +2121,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1710,10 +2136,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1722,10 +2151,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1734,10 +2166,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1746,10 +2181,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1758,10 +2196,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1770,10 +2211,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1782,10 +2226,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1794,10 +2241,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1806,10 +2256,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1818,10 +2271,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1830,10 +2286,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1842,10 +2301,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1854,10 +2316,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1866,10 +2331,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1878,10 +2346,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1890,10 +2361,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1902,10 +2376,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1914,10 +2391,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1926,10 +2406,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1938,10 +2421,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1950,10 +2436,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1962,10 +2451,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1974,10 +2466,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1986,10 +2481,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -1998,10 +2496,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2010,10 +2511,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2022,10 +2526,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2034,10 +2541,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2046,10 +2556,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2058,10 +2571,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2070,10 +2586,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2082,10 +2601,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2094,10 +2616,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2106,10 +2631,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2118,10 +2646,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2130,10 +2661,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2142,10 +2676,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2154,10 +2691,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2166,10 +2706,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2178,10 +2721,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2190,10 +2736,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2202,10 +2751,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2214,10 +2766,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2226,10 +2781,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2238,10 +2796,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2250,10 +2811,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2262,10 +2826,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2274,10 +2841,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2286,10 +2856,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2298,10 +2871,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2310,10 +2886,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2322,10 +2901,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2334,10 +2916,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2346,10 +2931,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2358,10 +2946,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2370,10 +2961,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2382,10 +2976,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2394,10 +2991,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2406,10 +3006,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2418,10 +3021,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2430,10 +3036,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2442,10 +3051,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2454,10 +3066,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2466,10 +3081,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2478,10 +3096,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2490,10 +3111,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2502,10 +3126,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2514,10 +3141,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2526,10 +3156,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2538,10 +3171,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2550,10 +3186,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2562,10 +3201,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2574,10 +3216,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2586,10 +3231,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2598,10 +3246,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2610,10 +3261,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2622,10 +3276,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2634,10 +3291,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2646,10 +3306,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2658,10 +3321,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2670,10 +3336,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2682,10 +3351,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2694,10 +3366,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2706,10 +3381,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2718,10 +3396,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2730,10 +3411,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2742,10 +3426,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2754,10 +3441,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2766,10 +3456,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2778,10 +3471,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2790,10 +3486,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2802,10 +3501,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2814,10 +3516,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2826,10 +3531,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2838,10 +3546,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2850,10 +3561,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2862,10 +3576,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2874,10 +3591,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2886,10 +3606,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2898,10 +3621,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2910,10 +3636,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2922,10 +3651,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2934,10 +3666,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2946,10 +3681,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2958,10 +3696,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2970,10 +3711,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2982,10 +3726,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -2994,10 +3741,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3006,10 +3756,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3018,10 +3771,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3030,10 +3786,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3042,10 +3801,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3054,10 +3816,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3066,10 +3831,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3078,10 +3846,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3090,10 +3861,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3102,10 +3876,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3114,10 +3891,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3126,10 +3906,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3138,10 +3921,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3150,10 +3936,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3162,10 +3951,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3174,10 +3966,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3186,10 +3981,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3198,10 +3996,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3210,10 +4011,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3222,10 +4026,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3234,10 +4041,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3246,10 +4056,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3258,10 +4071,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3270,10 +4086,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3282,10 +4101,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3294,10 +4116,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3306,10 +4131,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3318,10 +4146,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3330,10 +4161,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3342,10 +4176,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3354,10 +4191,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3366,10 +4206,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3378,10 +4221,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3390,10 +4236,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3402,10 +4251,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3414,10 +4266,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3426,10 +4281,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3438,10 +4296,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3450,10 +4311,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3462,10 +4326,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3474,10 +4341,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3486,10 +4356,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3498,10 +4371,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3510,10 +4386,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3522,10 +4401,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3534,10 +4416,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3546,10 +4431,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3558,10 +4446,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3570,10 +4461,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3582,10 +4476,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3594,10 +4491,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3606,10 +4506,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3618,10 +4521,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3630,10 +4536,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3642,10 +4551,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3654,10 +4566,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3666,10 +4581,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3678,10 +4596,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3690,10 +4611,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3702,10 +4626,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3714,10 +4641,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3726,10 +4656,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3738,10 +4671,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3750,10 +4686,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3762,10 +4701,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3774,10 +4716,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3786,10 +4731,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3798,10 +4746,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3810,10 +4761,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3822,10 +4776,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3834,10 +4791,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3846,10 +4806,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3858,10 +4821,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3870,10 +4836,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3882,10 +4851,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3894,10 +4866,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3906,10 +4881,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3918,10 +4896,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3930,10 +4911,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3942,10 +4926,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3954,10 +4941,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3966,10 +4956,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3978,10 +4971,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -3990,10 +4986,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4002,10 +5001,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4014,10 +5016,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4026,10 +5031,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4038,10 +5046,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4050,10 +5061,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4062,10 +5076,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4074,10 +5091,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4086,10 +5106,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4098,10 +5121,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4110,10 +5136,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4122,10 +5151,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4134,10 +5166,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4146,10 +5181,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4158,10 +5196,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4170,10 +5211,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4182,10 +5226,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4194,10 +5241,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4206,10 +5256,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4218,10 +5271,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4230,10 +5286,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4242,10 +5301,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4254,10 +5316,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4266,10 +5331,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4278,10 +5346,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4290,10 +5361,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4302,10 +5376,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4314,10 +5391,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4326,10 +5406,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4338,10 +5421,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4350,10 +5436,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4362,10 +5451,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4374,10 +5466,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4386,10 +5481,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4398,10 +5496,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4410,10 +5511,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4422,10 +5526,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4434,10 +5541,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4446,10 +5556,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4458,10 +5571,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4470,10 +5586,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4482,10 +5601,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4494,10 +5616,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4506,10 +5631,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4518,10 +5646,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4530,10 +5661,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4542,10 +5676,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4554,10 +5691,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4566,10 +5706,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4578,10 +5721,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4590,10 +5736,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4602,10 +5751,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4614,10 +5766,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4626,10 +5781,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4638,10 +5796,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4650,10 +5811,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4662,10 +5826,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4674,10 +5841,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4686,10 +5856,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4698,10 +5871,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4710,10 +5886,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4722,10 +5901,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4734,10 +5916,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4746,10 +5931,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4758,10 +5946,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4770,10 +5961,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4782,10 +5976,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4794,10 +5991,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4806,10 +6006,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4818,10 +6021,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4830,10 +6036,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4842,10 +6051,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4854,10 +6066,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4866,10 +6081,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4878,10 +6096,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4890,10 +6111,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4902,10 +6126,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4914,10 +6141,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4926,10 +6156,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4938,10 +6171,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4950,10 +6186,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4962,10 +6201,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4974,10 +6216,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4986,10 +6231,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -4998,10 +6246,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5010,10 +6261,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5022,10 +6276,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5034,10 +6291,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5046,10 +6306,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5058,10 +6321,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5070,10 +6336,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5082,10 +6351,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5094,10 +6366,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5106,10 +6381,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5118,10 +6396,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5130,10 +6411,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5142,10 +6426,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5154,10 +6441,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5166,10 +6456,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5178,10 +6471,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5190,10 +6486,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5202,10 +6501,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5214,10 +6516,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5226,10 +6531,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5238,10 +6546,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5250,10 +6561,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5262,10 +6576,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5274,10 +6591,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5286,10 +6606,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5298,10 +6621,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5310,10 +6636,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5322,10 +6651,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5334,10 +6666,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5346,10 +6681,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5358,10 +6696,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5370,10 +6711,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5382,10 +6726,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5394,10 +6741,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5406,10 +6756,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5418,10 +6771,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5430,10 +6786,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5442,10 +6801,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5454,10 +6816,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5466,10 +6831,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5478,10 +6846,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5490,10 +6861,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5502,10 +6876,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5514,10 +6891,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5526,10 +6906,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5538,10 +6921,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5550,10 +6936,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5562,10 +6951,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5574,10 +6966,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5586,10 +6981,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5598,10 +6996,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5610,10 +7011,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5622,10 +7026,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5634,10 +7041,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5646,10 +7056,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5658,10 +7071,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5670,10 +7086,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5682,10 +7101,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5694,10 +7116,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5706,10 +7131,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5718,10 +7146,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5730,10 +7161,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5742,10 +7176,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5754,10 +7191,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5766,10 +7206,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5778,10 +7221,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5790,10 +7236,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5802,10 +7251,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5814,10 +7266,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5826,10 +7281,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5838,10 +7296,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5850,10 +7311,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5862,10 +7326,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5874,10 +7341,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5886,10 +7356,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5898,10 +7371,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5910,10 +7386,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5922,10 +7401,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5934,10 +7416,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5946,10 +7431,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5958,10 +7446,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5970,10 +7461,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5982,10 +7476,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -5994,10 +7491,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6006,10 +7506,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6018,10 +7521,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6030,10 +7536,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6042,10 +7551,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6054,10 +7566,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6066,10 +7581,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6078,10 +7596,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6090,10 +7611,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6102,10 +7626,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6114,10 +7641,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6126,10 +7656,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6138,10 +7671,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6150,10 +7686,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6162,10 +7701,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6174,10 +7716,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6186,10 +7731,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6198,10 +7746,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6210,10 +7761,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6222,10 +7776,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6234,10 +7791,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6246,10 +7806,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6258,10 +7821,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6270,10 +7836,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6282,10 +7851,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6294,10 +7866,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6306,10 +7881,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6318,10 +7896,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6330,10 +7911,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6342,10 +7926,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6354,10 +7941,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6366,10 +7956,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6378,10 +7971,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6390,10 +7986,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6402,10 +8001,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6414,10 +8016,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6426,10 +8031,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6438,10 +8046,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6450,10 +8061,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6462,10 +8076,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6474,10 +8091,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6486,10 +8106,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6498,10 +8121,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6510,10 +8136,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6522,10 +8151,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6534,10 +8166,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6546,10 +8181,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6558,10 +8196,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6570,10 +8211,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6582,10 +8226,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6594,10 +8241,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6606,10 +8256,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6618,10 +8271,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6630,10 +8286,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6642,10 +8301,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6654,10 +8316,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6666,10 +8331,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6678,10 +8346,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6690,10 +8361,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6702,10 +8376,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6714,10 +8391,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6726,10 +8406,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6738,10 +8421,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6750,10 +8436,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6762,10 +8451,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6774,10 +8466,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6786,10 +8481,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6798,10 +8496,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6810,10 +8511,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6822,10 +8526,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6834,10 +8541,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6846,10 +8556,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6858,10 +8571,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6870,10 +8586,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6882,10 +8601,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6894,10 +8616,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6906,10 +8631,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6918,10 +8646,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6930,10 +8661,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6942,10 +8676,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6954,10 +8691,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6966,10 +8706,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6978,10 +8721,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -6990,10 +8736,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7002,10 +8751,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7014,10 +8766,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7026,10 +8781,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7038,10 +8796,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7050,10 +8811,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7062,10 +8826,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7074,10 +8841,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7086,10 +8856,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7098,10 +8871,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7110,10 +8886,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7122,10 +8901,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7134,10 +8916,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7146,10 +8931,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7158,10 +8946,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7170,10 +8961,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7182,10 +8976,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7194,10 +8991,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7206,10 +9006,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7218,10 +9021,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7230,10 +9036,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7242,10 +9051,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7254,10 +9066,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7266,10 +9081,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7278,10 +9096,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7290,10 +9111,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7302,10 +9126,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7314,10 +9141,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7326,10 +9156,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7338,10 +9171,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7350,10 +9186,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7362,10 +9201,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7374,10 +9216,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7386,10 +9231,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7398,10 +9246,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7410,10 +9261,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7422,10 +9276,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7434,10 +9291,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7446,10 +9306,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7458,10 +9321,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7470,10 +9336,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7482,10 +9351,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7494,10 +9366,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7506,10 +9381,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7518,10 +9396,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7530,10 +9411,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7542,10 +9426,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7554,10 +9441,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7566,10 +9456,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7578,10 +9471,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7590,10 +9486,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7602,10 +9501,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7614,10 +9516,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7626,10 +9531,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7638,10 +9546,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7650,10 +9561,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7662,10 +9576,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7674,10 +9591,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7686,10 +9606,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7698,10 +9621,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7710,10 +9636,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7722,10 +9651,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7734,10 +9666,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7746,10 +9681,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7758,10 +9696,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7770,10 +9711,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7782,10 +9726,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7794,10 +9741,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7806,10 +9756,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7818,10 +9771,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7830,10 +9786,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7842,10 +9801,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7854,10 +9816,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7866,10 +9831,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7878,10 +9846,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7890,10 +9861,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7902,10 +9876,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7914,10 +9891,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7926,10 +9906,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7938,10 +9921,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7950,10 +9936,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7962,10 +9951,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7974,10 +9966,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7986,10 +9981,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -7998,10 +9996,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8010,10 +10011,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8022,10 +10026,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8034,10 +10041,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8046,10 +10056,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8058,10 +10071,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8070,10 +10086,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8082,10 +10101,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8094,10 +10116,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8106,10 +10131,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8118,10 +10146,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8130,10 +10161,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8142,10 +10176,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8154,10 +10191,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8166,10 +10206,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8178,10 +10221,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8190,10 +10236,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8202,10 +10251,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8214,10 +10266,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8226,10 +10281,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8238,10 +10296,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8250,10 +10311,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8262,10 +10326,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8274,10 +10341,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8286,10 +10356,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8298,10 +10371,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8310,10 +10386,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8322,10 +10401,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8334,10 +10416,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8346,10 +10431,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8358,10 +10446,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8370,10 +10461,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8382,10 +10476,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8394,10 +10491,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8406,10 +10506,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8418,10 +10521,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8430,10 +10536,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8442,10 +10551,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8454,10 +10566,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8466,10 +10581,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8478,10 +10596,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8490,10 +10611,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8502,10 +10626,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8514,10 +10641,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8526,10 +10656,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8538,10 +10671,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8550,10 +10686,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8562,10 +10701,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8574,10 +10716,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8586,10 +10731,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8598,10 +10746,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8610,10 +10761,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8622,10 +10776,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8634,10 +10791,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8646,10 +10806,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8658,10 +10821,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8670,10 +10836,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8682,10 +10851,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8694,10 +10866,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8706,10 +10881,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8718,10 +10896,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8730,10 +10911,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8742,10 +10926,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8754,10 +10941,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8766,10 +10956,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8778,10 +10971,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8790,10 +10986,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8802,10 +11001,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8814,10 +11016,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8826,10 +11031,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8838,10 +11046,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8850,10 +11061,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8862,10 +11076,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8874,10 +11091,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8886,10 +11106,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8898,10 +11121,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8910,10 +11136,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8922,10 +11151,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8934,10 +11166,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8946,10 +11181,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8958,10 +11196,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8970,10 +11211,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8982,10 +11226,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -8994,10 +11241,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9006,10 +11256,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9018,10 +11271,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9030,10 +11286,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9042,10 +11301,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9054,10 +11316,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9066,10 +11331,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9078,10 +11346,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9090,10 +11361,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9102,10 +11376,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9114,10 +11391,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9126,10 +11406,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9138,10 +11421,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9150,10 +11436,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9162,10 +11451,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9174,10 +11466,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9186,10 +11481,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9198,10 +11496,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9210,10 +11511,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9222,10 +11526,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9234,10 +11541,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9246,10 +11556,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9258,10 +11571,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9270,10 +11586,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9282,10 +11601,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9294,10 +11616,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9306,10 +11631,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9318,10 +11646,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9330,10 +11661,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9342,10 +11676,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9354,10 +11691,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9366,10 +11706,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9378,10 +11721,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9390,10 +11736,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9402,10 +11751,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9414,10 +11766,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9426,10 +11781,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9438,10 +11796,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9450,10 +11811,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9462,10 +11826,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9474,10 +11841,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9486,10 +11856,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9498,10 +11871,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9510,10 +11886,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9522,10 +11901,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9534,10 +11916,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9546,10 +11931,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9558,10 +11946,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9570,10 +11961,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9582,10 +11976,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9594,10 +11991,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9606,10 +12006,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9618,10 +12021,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9630,10 +12036,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9642,10 +12051,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9654,10 +12066,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9666,10 +12081,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9678,10 +12096,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9690,10 +12111,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9702,10 +12126,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9714,10 +12141,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9726,10 +12156,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9738,10 +12171,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9750,10 +12186,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9762,10 +12201,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9774,10 +12216,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9786,10 +12231,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9798,10 +12246,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9810,10 +12261,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9822,10 +12276,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9834,10 +12291,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9846,10 +12306,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9858,10 +12321,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9870,10 +12336,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9882,10 +12351,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9894,10 +12366,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9906,10 +12381,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9918,10 +12396,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9930,10 +12411,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9942,10 +12426,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9954,10 +12441,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9966,10 +12456,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9978,10 +12471,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -9990,10 +12486,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10002,10 +12501,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10014,10 +12516,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10026,10 +12531,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10038,10 +12546,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10050,10 +12561,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10062,10 +12576,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10074,10 +12591,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10086,10 +12606,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10098,10 +12621,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10110,10 +12636,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10122,10 +12651,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10134,10 +12666,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10146,10 +12681,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10158,10 +12696,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10170,10 +12711,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10182,10 +12726,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10194,10 +12741,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10206,10 +12756,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10218,10 +12771,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10230,10 +12786,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10242,10 +12801,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10254,10 +12816,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10266,10 +12831,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10278,10 +12846,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10290,10 +12861,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10302,10 +12876,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10314,10 +12891,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10326,10 +12906,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10338,10 +12921,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10350,10 +12936,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10362,10 +12951,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10374,10 +12966,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10386,10 +12981,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10398,10 +12996,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10410,10 +13011,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10422,10 +13026,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10434,10 +13041,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10446,10 +13056,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10458,10 +13071,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10470,10 +13086,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10482,10 +13101,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10494,10 +13116,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10506,10 +13131,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10518,10 +13146,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10530,10 +13161,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10542,10 +13176,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10554,10 +13191,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10566,10 +13206,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10578,10 +13221,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10590,10 +13236,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10602,10 +13251,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10614,10 +13266,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10626,10 +13281,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10638,10 +13296,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10650,10 +13311,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10662,10 +13326,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10674,10 +13341,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10686,10 +13356,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10698,10 +13371,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10710,10 +13386,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10722,10 +13401,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10734,10 +13416,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10746,10 +13431,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10758,10 +13446,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10770,10 +13461,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10782,10 +13476,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10794,10 +13491,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10806,10 +13506,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10818,10 +13521,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10830,10 +13536,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10842,10 +13551,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10854,10 +13566,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10866,10 +13581,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10878,10 +13596,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10890,10 +13611,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10902,10 +13626,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10914,10 +13641,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10926,10 +13656,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10938,10 +13671,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10950,10 +13686,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10962,10 +13701,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10974,10 +13716,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10986,10 +13731,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -10998,10 +13746,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11010,10 +13761,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11022,10 +13776,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11034,10 +13791,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11046,10 +13806,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11058,10 +13821,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11070,10 +13836,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11082,10 +13851,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11094,10 +13866,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11106,10 +13881,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11118,10 +13896,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11130,10 +13911,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11142,10 +13926,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11154,10 +13941,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11166,10 +13956,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11178,10 +13971,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11190,10 +13986,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11202,10 +14001,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11214,10 +14016,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11226,10 +14031,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11238,10 +14046,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11250,10 +14061,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11262,10 +14076,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11274,10 +14091,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11286,10 +14106,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11298,10 +14121,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11310,10 +14136,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11322,10 +14151,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11334,10 +14166,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11346,10 +14181,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11358,10 +14196,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11370,10 +14211,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11382,10 +14226,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11394,10 +14241,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11406,10 +14256,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11418,10 +14271,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11430,10 +14286,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11442,10 +14301,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11454,10 +14316,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11466,10 +14331,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11478,10 +14346,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11490,10 +14361,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11502,10 +14376,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11514,10 +14391,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11526,10 +14406,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11538,10 +14421,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11550,10 +14436,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11562,10 +14451,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11574,10 +14466,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11586,10 +14481,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11598,10 +14496,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11610,10 +14511,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11622,10 +14526,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11634,10 +14541,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11646,10 +14556,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11658,10 +14571,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11670,10 +14586,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11682,10 +14601,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11694,10 +14616,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11706,10 +14631,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11718,10 +14646,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11730,10 +14661,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11742,10 +14676,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11754,10 +14691,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11766,10 +14706,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11778,10 +14721,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11790,10 +14736,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11802,10 +14751,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11814,10 +14766,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11826,10 +14781,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11838,10 +14796,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11850,10 +14811,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11862,10 +14826,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11874,10 +14841,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11886,10 +14856,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11898,10 +14871,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11910,10 +14886,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11922,10 +14901,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11934,10 +14916,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11946,10 +14931,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11958,10 +14946,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11970,10 +14961,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11982,10 +14976,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -11994,10 +14991,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12006,10 +15006,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12018,10 +15021,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12030,10 +15036,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12042,10 +15051,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12054,10 +15066,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12066,10 +15081,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12078,10 +15096,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12090,10 +15111,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12102,10 +15126,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12114,10 +15141,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12126,10 +15156,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12138,10 +15171,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12150,10 +15186,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12162,10 +15201,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12174,10 +15216,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12186,10 +15231,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12198,10 +15246,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12210,10 +15261,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12222,10 +15276,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12234,10 +15291,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12246,10 +15306,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12258,10 +15321,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12270,10 +15336,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
@@ -12282,10 +15351,13 @@
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="OnAnimFrame" value="" type="string" />
-      <property name="MD_Palette_TL" value="0" type="int" />
-      <property name="MD_Palette_TR" value="0" type="int" />
-      <property name="MD_Palette_BL" value="0" type="int" />
-      <property name="MD_Palette_BR" value="0" type="int" />
+      <property name="MD_Palette_TL" value="0" type="string" />
+      <property name="MD_Palette_TR" value="0" type="string" />
+      <property name="MD_Palette_BL" value="0" type="string" />
+      <property name="MD_Palette_BR" value="0" type="string" />
+      <property name="MD_Is_Dynamic" value="False" type="bool" />
+      <property name="Neo_Palette" type="string" />
+      <property name="AnimateProperties" value="False" type="bool" />
     </properties>
     <animation />
   </tile>
