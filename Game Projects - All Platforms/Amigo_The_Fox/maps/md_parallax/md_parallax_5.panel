@@ -28,8 +28,9 @@
       "BarImage": null,
       "CounterImage1": null,
       "CounterDivisions": 1,
-      "PaletteLine": 3,
       "IsHighPriority": true,
+      "PaletteLine_MegaDrive": 3,
+      "PaletteLine_NeoGeo": 15,
       "MaxValue": 9
     },
     {
@@ -42,8 +43,9 @@
       "BarImage": null,
       "CounterImage1": null,
       "CounterDivisions": 1,
-      "PaletteLine": 3,
       "IsHighPriority": true,
+      "PaletteLine_MegaDrive": 3,
+      "PaletteLine_NeoGeo": 15,
       "MaxValue": 99
     }
   ],
@@ -58,12 +60,22 @@
     "3": 0
   },
   "CenterAdjust_MegaDrive": 0,
-  "PaletteLines_MegaDrive": 1,
-  "StartingPaletteLine_MegaDrive": 3,
-  "TalkpadPalLine": 0,
-  "FireIndicatorPalLine": 0,
-  "ChoiceIndicatorPalLine": 0,
-  "NumberFontPaletteLine": 0,
+  "MegaDrivePaletteLines": {
+    "Start": 3,
+    "Talkpad": 3,
+    "FireIndicator": 3,
+    "ChoiceIndicator": 3,
+    "NumberFont": 3,
+    "Total": 1
+  },
+  "NeoGeoPaletteLines": {
+    "Start": 15,
+    "Talkpad": 0,
+    "FireIndicator": 0,
+    "ChoiceIndicator": 0,
+    "NumberFont": 0,
+    "Total": 1
+  },
   "ParallaxMultiplierX": 0.5,
   "ParallaxMultiplierY": 0.0,
   "SliceMode": "Tile",
@@ -85,9 +97,9 @@
       "Top": 40
     },
     {
-      "Left": -1.0,
-      "Idle": 0.0,
-      "Right": 1.0,
+      "Left": -0.9,
+      "Idle": 0.1,
+      "Right": 1.1,
       "Pseudo3DDistance": 0.0,
       "Pseudo3DSpeed": 0.0,
       "Top": 192
