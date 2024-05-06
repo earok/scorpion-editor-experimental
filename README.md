@@ -4,4 +4,4 @@ This is the experimental version of the Scorpion Engine 2024.1, which includes t
 
 Please consider using [the main repository](https://github.com/earok/scorpion-editor-demos). More details, including acknowledgements for assets used in all of the demos, are also available there.
 
-Consider backing us on Patreon! [Patreon](https://patreon.com/scorpionengine)
+Consider backing us on [Patreon!](https://patreon.com/scorpionengine)
