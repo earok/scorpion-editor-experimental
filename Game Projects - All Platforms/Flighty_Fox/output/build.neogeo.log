@@ -1,5 +1,5 @@
-ImageFrames: 11
-ImageFrame Data Size: 506
+ImageFrames: 40
+ImageFrame Data Size: 1798
 Actor Count: 11
 Actor Data Size: 2068
 Movement Pattern Data: 2
@@ -8,11 +8,11 @@ Animations Data Size: 176
 AnimationFrame Count: 13
 AnimationFrame Data Size: System.Collections.Generic.List`1[System.Byte]
 Music file song Original size 76316 Crunched size 46970
-Project virtual machine (codeblocks) Original size 9128 Crunched size 9128
+Project virtual machine (codeblocks) Original size 9226 Crunched size 9226
 Panel  Original size 3118 Crunched size 3118
 Panel ui Original size 1582 Crunched size 1582
 Project blocks Original size 68 Crunched size 68
-Images Original size 506 Crunched size 506
+Images Original size 1798 Crunched size 1798
 Movement patterns Original size 2 Crunched size 2
 Project actors Original size 2068 Crunched size 2068
 Map block data for level1 Original size 1242 Crunched size 1242
@@ -34,7 +34,7 @@ Teleporters Original size 8 Crunched size 8
 anim_sun
 
 === Possibly unused Actors ===
-new_actor
+neo_big_parallax
 pole1
 pole2
 pole3
@@ -61,6 +61,7 @@ pre_quit: 152 (Unused?)
 load_panel: 146
 flipxmove: 142 (Unused?)
 unload_level: 142
+pause: 138 (Unused?)
 planehandler: 138
 destroy_all_blocks: 124 (Unused?)
 pre_load_level: 122
@@ -84,7 +85,6 @@ AUTOGEN_OUTOFSCREEN_None_None_playerdead_playerdead: 78
 load_music_finish: 76
 wrap_screen_bottom: 76 (Unused?)
 wrap_screen_right: 76 (Unused?)
-pause: 74 (Unused?)
 flipscreen: 72 (Unused?)
 wrap_screen_left: 72 (Unused?)
 wrap_screen_top: 72 (Unused?)
@@ -117,5 +117,6 @@ set_ntsc: 26 (Unused?)
 vm_constants_audiodriver: 26 (Unused?)
 vm_constants_controlbits: 26 (Unused?)
 vm_constants_notes: 26 (Unused?)
+vm_constants_platform: 26 (Unused?)
 vm_constants_tile_properties: 26 (Unused?)
 savedata: 26 (Unused?)

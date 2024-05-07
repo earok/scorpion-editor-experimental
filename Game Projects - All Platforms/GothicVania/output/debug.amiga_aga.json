@@ -799,6 +799,48 @@
       "MemoryOffset": 0
     },
     {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_A",
+      "DefaultValue": "0",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_B",
+      "DefaultValue": "1",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_C",
+      "DefaultValue": "2",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_D",
+      "DefaultValue": "3",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_Start",
+      "DefaultValue": "4",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_Select",
+      "DefaultValue": "5",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
       "CodeBlock": "vm_constants_notes",
       "Name": "Note_C1",
       "DefaultValue": "856",
@@ -1061,6 +1103,13 @@
       "CodeBlock": "vm_constants_platform",
       "Name": "IsAmiga",
       "DefaultValue": "-1",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_platform",
+      "Name": "IsNeoGeo",
+      "DefaultValue": "0",
       "Index": 0,
       "MemoryOffset": 0
     },
@@ -4186,49 +4235,49 @@
     },
     {
       "CodeBlock": "pause",
-      "CodeBlockLine": 9,
+      "CodeBlockLine": 13,
       "MemoryOffset": 3914,
       "Description": "If Test bit cd32_play on control1_buttons ELSE GOTO 00003940"
     },
     {
       "CodeBlock": "pause",
-      "CodeBlockLine": 11,
+      "CodeBlockLine": 15,
       "MemoryOffset": 3926,
       "Description": "Core operation'RefreshFrame'"
     },
     {
       "CodeBlock": "pause",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 16,
       "MemoryOffset": 3934,
       "Description": "GOTO '00003914'"
     },
     {
       "CodeBlock": "pause",
-      "CodeBlockLine": 13,
+      "CodeBlockLine": 17,
       "MemoryOffset": 3940,
       "Description": "If true is not zero ELSE GOTO 00004038"
     },
     {
       "CodeBlock": "pause",
-      "CodeBlockLine": 14,
+      "CodeBlockLine": 18,
       "MemoryOffset": 3948,
       "Description": "Core operation'RefreshFrame'"
     },
     {
       "CodeBlock": "pause",
-      "CodeBlockLine": 15,
+      "CodeBlockLine": 19,
       "MemoryOffset": 3956,
       "Description": "If keyboardrawcode == 0x19 ELSE GOTO 00003994"
     },
     {
       "CodeBlock": "pause",
-      "CodeBlockLine": 21,
+      "CodeBlockLine": 28,
       "MemoryOffset": 3994,
       "Description": "If Test bit cd32_play on control1_buttons ELSE GOTO 00004032"
     },
     {
       "CodeBlock": "pause",
-      "CodeBlockLine": 24,
+      "CodeBlockLine": 31,
       "MemoryOffset": 4032,
       "Description": "GOTO '00003940'"
     },
@@ -7266,19 +7315,19 @@
       "CodeBlock": "player_hurt_handler",
       "CodeBlockLine": 4,
       "MemoryOffset": 10418,
-      "Description": "Raw expression 'hurt_direction'"
-    },
-    {
-      "CodeBlock": "player_hurt_handler",
-      "CodeBlockLine": 4,
-      "MemoryOffset": 10424,
       "Description": "Set 'math_x' to '0.0'"
     },
     {
       "CodeBlock": "player_hurt_handler",
       "CodeBlockLine": 4,
-      "MemoryOffset": 10432,
+      "MemoryOffset": 10426,
       "Description": "Set 'math_y' to '0.0'"
+    },
+    {
+      "CodeBlock": "player_hurt_handler",
+      "CodeBlockLine": 4,
+      "MemoryOffset": 10434,
+      "Description": "Raw expression 'hurt_direction'"
     },
     {
       "CodeBlock": "player_hurt_handler",

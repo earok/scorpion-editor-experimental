@@ -65,7 +65,12 @@
   </tile>
   <tile id="14">
     <properties>
-      <property name="Name" value="new_actor" type="string" />
+      <property name="Name" value="neo_sky_1" type="string" />
+    </properties>
+  </tile>
+  <tile id="15">
+    <properties>
+      <property name="Name" value="neo_sky_2" type="string" />
     </properties>
   </tile>
 </tileset>

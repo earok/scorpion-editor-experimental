@@ -799,6 +799,48 @@
       "MemoryOffset": 0
     },
     {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_A",
+      "DefaultValue": "0",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_B",
+      "DefaultValue": "1",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_C",
+      "DefaultValue": "2",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_D",
+      "DefaultValue": "3",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_Start",
+      "DefaultValue": "4",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_Select",
+      "DefaultValue": "5",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
       "CodeBlock": "vm_constants_notes",
       "Name": "Note_C1",
       "DefaultValue": "856",
@@ -1060,6 +1102,13 @@
     {
       "CodeBlock": "vm_constants_platform",
       "Name": "IsAmiga",
+      "DefaultValue": "0",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_platform",
+      "Name": "IsNeoGeo",
       "DefaultValue": "0",
       "Index": 0,
       "MemoryOffset": 0
@@ -4195,25 +4244,25 @@
     },
     {
       "CodeBlock": "pause",
-      "CodeBlockLine": 13,
+      "CodeBlockLine": 17,
       "MemoryOffset": 3852,
       "Description": "If true is not zero ELSE GOTO 00003912"
     },
     {
       "CodeBlock": "pause",
-      "CodeBlockLine": 14,
+      "CodeBlockLine": 18,
       "MemoryOffset": 3860,
       "Description": "Core operation'RefreshFrame'"
     },
     {
       "CodeBlock": "pause",
-      "CodeBlockLine": 18,
+      "CodeBlockLine": 22,
       "MemoryOffset": 3868,
       "Description": "If Test bit megadrive_start on control1_buttons ELSE GOTO 00003906"
     },
     {
       "CodeBlock": "pause",
-      "CodeBlockLine": 24,
+      "CodeBlockLine": 31,
       "MemoryOffset": 3906,
       "Description": "GOTO '00003852'"
     },
@@ -6847,253 +6896,253 @@
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 9,
+      "CodeBlockLine": 11,
       "MemoryOffset": 9918,
       "Description": "Set 'camera_follow' to '8'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 9,
+      "CodeBlockLine": 11,
       "MemoryOffset": 9924,
       "Description": "Core operation'RefreshCameraFollow'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 9,
+      "CodeBlockLine": 11,
       "MemoryOffset": 9932,
       "Description": "Set 'maxcamerafollow' to '8 | 0'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 11,
+      "CodeBlockLine": 13,
       "MemoryOffset": 9942,
       "Description": "If currentlevel == level2 ELSE GOTO 00010102"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 14,
       "MemoryOffset": 9954,
       "Description": "Core operation'WaitForNoActors'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 14,
       "MemoryOffset": 9962,
       "Description": "Raw expression 'level2'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 14,
       "MemoryOffset": 9968,
       "Description": "Core operation'PushToStack'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 14,
       "MemoryOffset": 9976,
       "Description": "Raw expression 'level2'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 14,
       "MemoryOffset": 9982,
       "Description": "Core operation'PushToStack'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 14,
       "MemoryOffset": 9990,
       "Description": "GOSUB TO 'PRE_LOAD_LEVEL'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 14,
       "MemoryOffset": 10010,
       "Description": "Raw expression '15'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 14,
       "MemoryOffset": 10016,
       "Description": "Core operation'PopFromStack'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 14,
       "MemoryOffset": 10024,
       "Description": "Raw expression '14'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 14,
       "MemoryOffset": 10030,
       "Description": "Core operation'PopFromStack'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 14,
       "MemoryOffset": 10038,
       "Description": "GOSUB TO 'LOAD_LEVEL'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 12,
+      "CodeBlockLine": 14,
       "MemoryOffset": 10058,
       "Description": "GOSUB TO 'FADEIN'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 13,
+      "CodeBlockLine": 17,
       "MemoryOffset": 10078,
       "Description": "Set 'camera_follow' to '2'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 13,
+      "CodeBlockLine": 17,
       "MemoryOffset": 10084,
       "Description": "Core operation'RefreshCameraFollow'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 13,
+      "CodeBlockLine": 17,
       "MemoryOffset": 10092,
       "Description": "Set 'maxcamerafollow' to '8 | 0'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 15,
+      "CodeBlockLine": 19,
       "MemoryOffset": 10102,
       "Description": "If checkpointtype != CheckpointNA ELSE GOTO 00010322"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 16,
+      "CodeBlockLine": 20,
       "MemoryOffset": 10114,
       "Description": "Set 'player_x' to 'CheckpointX'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 16,
+      "CodeBlockLine": 20,
       "MemoryOffset": 10124,
       "Description": "Set 'player_y' to 'CheckpointY'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 17,
+      "CodeBlockLine": 21,
       "MemoryOffset": 10134,
       "Description": "Raw expression 'Camera_follow'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 17,
+      "CodeBlockLine": 21,
       "MemoryOffset": 10140,
       "Description": "Core operation'PushToStack'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 19,
+      "CodeBlockLine": 23,
       "MemoryOffset": 10148,
       "Description": "Set 'camera_x' to '-128 + player_x'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 19,
+      "CodeBlockLine": 23,
       "MemoryOffset": 10164,
       "Description": "Set 'camera_y' to '0 - YRes / 2 + player_y'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 19,
+      "CodeBlockLine": 23,
       "MemoryOffset": 10192,
       "Description": "Set 'camera_follow' to 'camera_follow & 32752'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 20,
+      "CodeBlockLine": 24,
       "MemoryOffset": 10204,
       "Description": "Raw expression '35'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 20,
+      "CodeBlockLine": 24,
       "MemoryOffset": 10210,
       "Description": "Core operation'PopFromStack'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 21,
+      "CodeBlockLine": 25,
       "MemoryOffset": 10218,
       "Description": "Raw expression '4'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 21,
+      "CodeBlockLine": 25,
       "MemoryOffset": 10224,
       "Description": "Raw expression 'alexkidd'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 21,
+      "CodeBlockLine": 25,
       "MemoryOffset": 10230,
       "Description": "Raw expression 'True'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 21,
+      "CodeBlockLine": 25,
       "MemoryOffset": 10236,
       "Description": "Raw expression 'True'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 21,
+      "CodeBlockLine": 25,
       "MemoryOffset": 10242,
       "Description": "Core operation'ActorSetType'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 22,
+      "CodeBlockLine": 26,
       "MemoryOffset": 10250,
       "Description": "If checkpointtype == CheckpointWater ELSE GOTO 00010268"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 23,
+      "CodeBlockLine": 27,
       "MemoryOffset": 10262,
       "Description": "GOTO 'ON_ENTERWATER'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 25,
+      "CodeBlockLine": 29,
       "MemoryOffset": 10268,
       "Description": "If level == level1 ELSE GOTO 00010322"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 26,
+      "CodeBlockLine": 30,
       "MemoryOffset": 10280,
       "Description": "Set 'camera_x' to '0'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 26,
+      "CodeBlockLine": 30,
       "MemoryOffset": 10286,
       "Description": "Set 'camera_follow' to 'camera_follow & 32752'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 27,
+      "CodeBlockLine": 31,
       "MemoryOffset": 10298,
       "Description": "Set 'camera_follow' to '8'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 27,
+      "CodeBlockLine": 31,
       "MemoryOffset": 10304,
       "Description": "Core operation'RefreshCameraFollow'"
     },
     {
       "CodeBlock": "restart_level",
-      "CodeBlockLine": 27,
+      "CodeBlockLine": 31,
       "MemoryOffset": 10312,
       "Description": "Set 'maxcamerafollow' to '8 | 0'"
     },
@@ -7400,10 +7449,9 @@
     "8": "frog",
     "9": "killpuff",
     "10": "merman",
-    "11": "new_actor",
-    "12": "ringshot",
-    "13": "scorpion",
-    "14": "smallfish"
+    "11": "ringshot",
+    "12": "scorpion",
+    "13": "smallfish"
   },
   "Sounds": {
     "0": "No sound played",

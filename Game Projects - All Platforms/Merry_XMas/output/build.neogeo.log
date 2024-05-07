@@ -1,20 +1,20 @@
-ImageFrames: 35
-ImageFrame Data Size: 1548
-Actor Count: 7
-Actor Data Size: 1316
+ImageFrames: 76
+ImageFrame Data Size: 3362
+Actor Count: 8
+Actor Data Size: 1504
 Movement Pattern Data: 2
-Animations Count: 17
-Animations Data Size: 272
-AnimationFrame Count: 56
+Animations Count: 18
+Animations Data Size: 288
+AnimationFrame Count: 57
 AnimationFrame Data Size: System.Collections.Generic.List`1[System.Byte]
 Music file dor_castle_00121 Original size 44292 Crunched size 23226
-Project virtual machine (codeblocks) Original size 10606 Crunched size 10606
+Project virtual machine (codeblocks) Original size 10754 Crunched size 10754
 Panel  Original size 3118 Crunched size 3118
 Panel md_parallax Original size 4462 Crunched size 4462
 Project blocks Original size 816 Crunched size 816
-Images Original size 1548 Crunched size 1548
+Images Original size 3362 Crunched size 3362
 Movement patterns Original size 2 Crunched size 2
-Project actors Original size 1316 Crunched size 1316
+Project actors Original size 1504 Crunched size 1504
 Map block data for level00 Original size 920 Crunched size 920
 Header data for map level00 Original size 8000 Crunched size 8000
 Map tile data  level00 Original size 920 Crunched size 920
@@ -113,13 +113,14 @@ Tile data for map level99 (mem restrictions:None) Original size 2240 Crunched si
 Map event data for level99 Original size 32 Crunched size 32
 Get Y lookup table level99 Original size 80 Crunched size 80
 Map path node data for level99 Original size 12 Crunched size 12
-Animations Original size 272 Crunched size 272
-Animation Frames Original size 896 Crunched size 896
+Animations Original size 288 Crunched size 288
+Animation Frames Original size 912 Crunched size 912
 Project sound Original size 140 Crunched size 140
 Project Header Original size 2902 Crunched size 2902
 Var Data Original size 14 Crunched size 14
 Attack Data Original size 72 Crunched size 72
 Teleporters Original size 8 Crunched size 8
+Commands for Joystick 1 Original size 12 Crunched size 12
 
 === Possibly unused blocks ===
 block_fire_2
@@ -128,12 +129,12 @@ block_fire_3
 === Codeblocks by compiled size ===
 load_level: 724
 try_push_block: 670
-block_stop: 434
+block_stop: 466
 do_teleport: 404
 flipscreen_smooth: 310 (Unused?)
+restartlevel: 284
 flipxymove: 278 (Unused?)
 try_present_hit_target: 264
-restartlevel: 258
 set_yresolution: 256 (Unused?)
 waitforframes: 194
 block_exit_level: 182
@@ -145,6 +146,7 @@ pre_quit: 152 (Unused?)
 load_panel: 146
 flipxmove: 142 (Unused?)
 unload_level: 142
+pause: 138 (Unused?)
 AUTOGEN_OUTOFSCREEN_try_next_level_try_next_level_try_next_level_try_next_level: 130
 destroy_all_blocks: 124 (Unused?)
 pre_load_level: 122
@@ -171,7 +173,6 @@ puff_of_smoke_end: 80
 load_music_finish: 76
 wrap_screen_bottom: 76 (Unused?)
 wrap_screen_right: 76 (Unused?)
-pause: 74 (Unused?)
 flipscreen: 72 (Unused?)
 wrap_screen_left: 72 (Unused?)
 wrap_screen_top: 72 (Unused?)
@@ -215,4 +216,5 @@ set_ntsc: 26 (Unused?)
 vm_constants_audiodriver: 26 (Unused?)
 vm_constants_controlbits: 26 (Unused?)
 vm_constants_notes: 26 (Unused?)
+vm_constants_platform: 26 (Unused?)
 vm_constants_tile_properties: 26 (Unused?)

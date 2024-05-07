@@ -9,20 +9,25 @@ Animations Count: 42
 Animations Data Size: 672
 AnimationFrame Count: 68
 AnimationFrame Data Size: System.Collections.Generic.List`1[System.Byte]
-XGM Null song Original size 172 Crunched size 172
-Project blocks Original size 68 Crunched size 68
-XGM Null sound Original size 256 Crunched size 256
-XGM 68K Plugin Driver Original size 804 Crunched size 804
 Project sound Original size 112 Crunched size 112
 Movement patterns Original size 2 Crunched size 2
+Map path node data for map Original size 12 Crunched size 12
+Map block data for map Original size 1960 Crunched size 7
+XGM Null sound Original size 256 Crunched size 256
+XGM Null song Original size 172 Crunched size 172
+Project blocks Original size 68 Crunched size 68
+Teleporters Original size 8 Crunched size 8
+XGM PCM sound Original size 4096 Crunched size 4096
+XGM 68K Plugin Driver Original size 804 Crunched size 804
 Project patterns Original size 32 Crunched size 32
 Map tile data  map Original size 1960 Crunched size 70
-XGM PCM sound Original size 4096 Crunched size 4096
-XGM Core Driver Original size 5888 Crunched size 5888
+Map event data for map Original size 32 Crunched size 32
+Get Y lookup table map Original size 80 Crunched size 80
 XGM PCM sound Original size 3072 Crunched size 3072
+XGM Core Driver Original size 5888 Crunched size 5888
 XGM PCM sound Original size 6400 Crunched size 6400
 Default MD font Original size 2048 Crunched size 2048
-Project virtual machine (codeblocks) Original size 13376 Crunched size 13376
+Project virtual machine (codeblocks) Original size 13330 Crunched size 13330
 Panel  Original size 10350 Crunched size 10350
 Number font for panel 1 Original size 320 Crunched size 320
 Panel scorepanel Original size 1038 Crunched size 1038
@@ -30,16 +35,12 @@ Font for panel 2 Original size 2048 Crunched size 2048
 Panel talkpad Original size 974 Crunched size 974
 Font for panel 3 Original size 2048 Crunched size 2048
 Number font for panel 3 Original size 320 Crunched size 320
-Panel titlepanel Original size 17170 Crunched size 17170
+Panel titlepanel Original size 17250 Crunched size 17250
 Images Original size 1558 Crunched size 1558
 Project actors Original size 2632 Crunched size 2632
 Tile data for map map (mem restrictions:None) Original size 2688 Crunched size 2688
 Dynamic pattern data for 1 Original size 54144 Crunched size 54144
-Map event data for map Original size 32 Crunched size 32
-Get Y lookup table map Original size 80 Crunched size 80
-Map path node data for map Original size 12 Crunched size 12
 Header data for map map Original size 8000 Crunched size 8000
-Map block data for map Original size 1960 Crunched size 7
 Project name table Original size 9048 Crunched size 9048
 Streamed project patterns Original size 4256 Crunched size 4256
 Animations Original size 672 Crunched size 672
@@ -47,7 +48,6 @@ Animation Frames Original size 1088 Crunched size 1088
 Project Header Original size 2902 Crunched size 2902
 Var Data Original size 16 Crunched size 16
 Attack Data Original size 360 Crunched size 360
-Teleporters Original size 8 Crunched size 8
 
 === Possibly unused Actors ===
 seasonchanger
@@ -55,12 +55,12 @@ spawner_player2
 water
 
 === Codeblocks by compiled size ===
-startup: 964
+startup: 910
 load_level: 724
 season_next: 680
 fallbottom: 504
 do_teleport: 404
-set_yresolution: 390
+set_yresolution: 390 (Unused?)
 update_season: 366
 pumpkin_hit: 340
 flipscreen_smooth: 310 (Unused?)

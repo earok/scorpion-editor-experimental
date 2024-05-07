@@ -799,6 +799,48 @@
       "MemoryOffset": 0
     },
     {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_A",
+      "DefaultValue": "0",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_B",
+      "DefaultValue": "1",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_C",
+      "DefaultValue": "2",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_D",
+      "DefaultValue": "3",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_Start",
+      "DefaultValue": "4",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_controlbits",
+      "Name": "NeoGeo_Select",
+      "DefaultValue": "5",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
       "CodeBlock": "vm_constants_notes",
       "Name": "Note_C1",
       "DefaultValue": "856",
@@ -1060,6 +1102,13 @@
     {
       "CodeBlock": "vm_constants_platform",
       "Name": "IsAmiga",
+      "DefaultValue": "0",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants_platform",
+      "Name": "IsNeoGeo",
       "DefaultValue": "0",
       "Index": 0,
       "MemoryOffset": 0
@@ -4286,25 +4335,25 @@
     },
     {
       "CodeBlock": "pause",
-      "CodeBlockLine": 13,
+      "CodeBlockLine": 17,
       "MemoryOffset": 3852,
       "Description": "If true is not zero ELSE GOTO 00003912"
     },
     {
       "CodeBlock": "pause",
-      "CodeBlockLine": 14,
+      "CodeBlockLine": 18,
       "MemoryOffset": 3860,
       "Description": "Core operation'RefreshFrame'"
     },
     {
       "CodeBlock": "pause",
-      "CodeBlockLine": 18,
+      "CodeBlockLine": 22,
       "MemoryOffset": 3868,
       "Description": "If Test bit megadrive_start on control1_buttons ELSE GOTO 00003906"
     },
     {
       "CodeBlock": "pause",
-      "CodeBlockLine": 24,
+      "CodeBlockLine": 31,
       "MemoryOffset": 3906,
       "Description": "GOTO '00003852'"
     },
@@ -7462,19 +7511,19 @@
       "CodeBlock": "on_eleblock_collide",
       "CodeBlockLine": 7,
       "MemoryOffset": 10116,
-      "Description": "Raw expression 'actor_x'"
-    },
-    {
-      "CodeBlock": "on_eleblock_collide",
-      "CodeBlockLine": 7,
-      "MemoryOffset": 10128,
       "Description": "Set 'math_x' to '0.0'"
     },
     {
       "CodeBlock": "on_eleblock_collide",
       "CodeBlockLine": 7,
-      "MemoryOffset": 10136,
+      "MemoryOffset": 10124,
       "Description": "Set 'math_y' to '0'"
+    },
+    {
+      "CodeBlock": "on_eleblock_collide",
+      "CodeBlockLine": 7,
+      "MemoryOffset": 10132,
+      "Description": "Raw expression 'actor_x'"
     },
     {
       "CodeBlock": "on_eleblock_collide",
@@ -7564,19 +7613,19 @@
       "CodeBlock": "on_eleblock_collide",
       "CodeBlockLine": 11,
       "MemoryOffset": 10268,
-      "Description": "Raw expression 'actor_x'"
-    },
-    {
-      "CodeBlock": "on_eleblock_collide",
-      "CodeBlockLine": 11,
-      "MemoryOffset": 10280,
       "Description": "Set 'math_x' to '0.0'"
     },
     {
       "CodeBlock": "on_eleblock_collide",
       "CodeBlockLine": 11,
-      "MemoryOffset": 10288,
+      "MemoryOffset": 10276,
       "Description": "Set 'math_y' to '0'"
+    },
+    {
+      "CodeBlock": "on_eleblock_collide",
+      "CodeBlockLine": 11,
+      "MemoryOffset": 10284,
+      "Description": "Raw expression 'actor_x'"
     },
     {
       "CodeBlock": "on_eleblock_collide",

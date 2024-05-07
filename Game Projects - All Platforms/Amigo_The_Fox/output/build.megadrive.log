@@ -21,15 +21,8 @@ Number font for panel 4 Original size 320 Crunched size 320
 Number font for panel 5 Original size 320 Crunched size 320
 Number font for panel 6 Original size 320 Crunched size 320
 Movement patterns Original size 2 Crunched size 2
-Map tile data  level1 Original size 5940 Crunched size 263
-Pattern data for 1 Original size 496 Crunched size 496
-Map event data for level1 Original size 32 Crunched size 32
-Get Y lookup table level1 Original size 120 Crunched size 120
-Map path node data for level1 Original size 12 Crunched size 12
-Map block data for level1 Original size 5940 Crunched size 151
-Map event data for level2 Original size 32 Crunched size 32
 MDS PCM file Original size 29036 Crunched size 29036
-Project virtual machine (codeblocks) Original size 24834 Crunched size 24834
+Project virtual machine (codeblocks) Original size 24974 Crunched size 24974
 Panel  Original size 10350 Crunched size 10350
 Panel md_parallax_2 Original size 5754 Crunched size 5754
 Panel md_parallax_3 Original size 6822 Crunched size 6822
@@ -41,11 +34,18 @@ Project blocks Original size 2992 Crunched size 2992
 Images Original size 5940 Crunched size 5940
 Project actors Original size 8084 Crunched size 8084
 Project patterns Original size 1824 Crunched size 1824
+Map tile data  level1 Original size 5940 Crunched size 263
 Tile data for map level1 (mem restrictions:None) Original size 7056 Crunched size 7056
+Pattern data for 1 Original size 496 Crunched size 496
+Map event data for level1 Original size 32 Crunched size 32
+Get Y lookup table level1 Original size 120 Crunched size 120
+Map path node data for level1 Original size 12 Crunched size 12
 Header data for map level1 Original size 8000 Crunched size 8000
+Map block data for level1 Original size 5940 Crunched size 151
 Map tile data  level2 Original size 7080 Crunched size 360
 Tile data for map level2 (mem restrictions:None) Original size 8424 Crunched size 8424
 Pattern data for 2 Original size 1356 Crunched size 1356
+Map event data for level2 Original size 32 Crunched size 32
 Get Y lookup table level2 Original size 120 Crunched size 120
 Map path node data for level2 Original size 12 Crunched size 12
 Header data for map level2 Original size 8000 Crunched size 8000
@@ -119,10 +119,11 @@ thru_door: 482
 playerhitsturtleshell: 468
 do_teleport: 404
 set_yresolution: 390 (Unused?)
+startlevel: 354
 fn_up_in_pipe: 340
+startup: 336
 flipmonster: 330
 handler_fallblock: 320
-startlevel: 318
 flipscreen_smooth: 310 (Unused?)
 fn_down_in_pipe: 310
 fn_down_out_pipe: 298
@@ -136,7 +137,6 @@ player_collected_coin_fromblock: 260
 plant_up: 258
 mushroom_spawn_finished: 256
 lifelost: 248
-startup: 232
 function_setblockmeta: 228
 pre_startup: 212
 flash_fx_trigger: 208

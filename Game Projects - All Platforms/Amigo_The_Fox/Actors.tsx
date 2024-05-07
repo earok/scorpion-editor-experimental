@@ -75,9 +75,4 @@
       <property name="Name" value="fx_glitter" type="string" />
     </properties>
   </tile>
-  <tile id="18">
-    <properties>
-      <property name="Name" value="neo_l6_wall" type="string" />
-    </properties>
-  </tile>
 </tileset>

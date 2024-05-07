@@ -7,10 +7,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="1">
@@ -19,10 +20,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="2">
@@ -31,10 +33,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="3">
@@ -43,10 +46,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="4">
@@ -55,10 +59,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="5">
@@ -67,10 +72,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="6">
@@ -79,10 +85,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="7">
@@ -91,10 +98,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="8">
@@ -103,10 +111,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="9">
@@ -115,10 +124,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="10">
@@ -127,10 +137,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="11">
@@ -139,10 +150,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="12">
@@ -151,10 +163,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="13">
@@ -163,10 +176,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="14">
@@ -175,10 +189,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="15">
@@ -187,10 +202,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="16">
@@ -199,10 +215,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="17">
@@ -211,10 +228,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="18">
@@ -223,10 +241,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="19">
@@ -235,10 +254,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="20">
@@ -247,10 +267,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="21">
@@ -259,10 +280,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="22">
@@ -271,10 +293,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="23">
@@ -283,10 +306,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="24">
@@ -295,10 +319,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="25">
@@ -307,10 +332,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="26">
@@ -319,10 +345,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="27">
@@ -331,10 +358,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="28">
@@ -343,10 +371,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="29">
@@ -355,10 +384,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="30">
@@ -367,10 +397,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="31">
@@ -379,10 +410,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="32">
@@ -391,10 +423,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="33">
@@ -403,10 +436,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="34">
@@ -415,10 +449,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="35">
@@ -427,10 +462,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="36">
@@ -439,10 +475,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="37">
@@ -451,10 +488,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="38">
@@ -463,10 +501,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="39">
@@ -475,10 +514,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="40">
@@ -487,10 +527,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="41">
@@ -499,10 +540,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="42">
@@ -511,10 +553,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="43">
@@ -523,10 +566,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="44">
@@ -535,10 +579,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="45">
@@ -547,10 +592,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="46">
@@ -559,10 +605,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="47">
@@ -571,10 +618,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="48">
@@ -583,10 +631,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="49">
@@ -595,10 +644,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="50">
@@ -607,10 +657,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="51">
@@ -619,10 +670,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="52">
@@ -631,10 +683,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="53">
@@ -643,10 +696,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="54">
@@ -655,10 +709,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="55">
@@ -667,10 +722,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="56">
@@ -679,10 +735,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="57">
@@ -691,10 +748,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="58">
@@ -703,10 +761,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="59">
@@ -715,10 +774,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="60">
@@ -727,10 +787,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="61">
@@ -739,10 +800,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="62">
@@ -751,10 +813,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="63">
@@ -763,10 +826,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="64">
@@ -775,10 +839,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="65">
@@ -787,10 +852,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="66">
@@ -799,10 +865,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="67">
@@ -811,10 +878,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="68">
@@ -823,10 +891,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="69">
@@ -835,10 +904,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="70">
@@ -847,10 +917,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="71">
@@ -859,10 +930,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="72">
@@ -871,10 +943,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="73">
@@ -883,10 +956,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="74">
@@ -895,10 +969,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="75">
@@ -907,10 +982,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="76">
@@ -919,10 +995,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="77">
@@ -931,10 +1008,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="78">
@@ -943,10 +1021,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="79">
@@ -955,10 +1034,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="80">
@@ -967,10 +1047,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="81">
@@ -979,10 +1060,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="82">
@@ -991,10 +1073,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="83">
@@ -1003,10 +1086,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="84">
@@ -1015,10 +1099,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="85">
@@ -1027,10 +1112,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="86">
@@ -1039,10 +1125,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="87">
@@ -1051,10 +1138,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="88">
@@ -1063,10 +1151,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="89">
@@ -1075,10 +1164,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="90">
@@ -1087,10 +1177,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="91">
@@ -1099,10 +1190,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="92">
@@ -1111,10 +1203,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="93">
@@ -1123,10 +1216,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="94">
@@ -1135,10 +1229,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="95">
@@ -1147,10 +1242,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="96">
@@ -1159,10 +1255,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="97">
@@ -1171,10 +1268,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="98">
@@ -1183,10 +1281,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="99">
@@ -1195,10 +1294,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="100">
@@ -1207,10 +1307,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="101">
@@ -1219,10 +1320,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="102">
@@ -1231,10 +1333,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="103">
@@ -1243,10 +1346,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="104">
@@ -1255,10 +1359,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="105">
@@ -1267,10 +1372,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="106">
@@ -1279,10 +1385,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="107">
@@ -1291,10 +1398,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="108">
@@ -1303,10 +1411,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="109">
@@ -1315,10 +1424,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="110">
@@ -1327,10 +1437,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="111">
@@ -1339,10 +1450,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="112">
@@ -1351,10 +1463,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="113">
@@ -1363,10 +1476,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="114">
@@ -1375,10 +1489,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="115">
@@ -1387,10 +1502,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="116">
@@ -1399,10 +1515,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="117">
@@ -1411,10 +1528,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="118">
@@ -1423,10 +1541,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="119">
@@ -1435,10 +1554,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="120">
@@ -1447,10 +1567,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="121">
@@ -1459,10 +1580,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="122">
@@ -1471,10 +1593,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="123">
@@ -1483,10 +1606,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="124">
@@ -1495,10 +1619,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="125">
@@ -1507,10 +1632,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="126">
@@ -1519,10 +1645,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="127">
@@ -1531,10 +1658,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="128">
@@ -1543,10 +1671,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="129">
@@ -1555,10 +1684,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="130">
@@ -1567,10 +1697,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="131">
@@ -1579,10 +1710,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="132">
@@ -1591,10 +1723,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="133">
@@ -1603,10 +1736,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="134">
@@ -1615,10 +1749,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="135">
@@ -1627,10 +1762,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="136">
@@ -1639,10 +1775,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="137">
@@ -1651,10 +1788,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="138">
@@ -1663,10 +1801,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="139">
@@ -1675,10 +1814,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="140">
@@ -1687,10 +1827,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="141">
@@ -1699,10 +1840,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="142">
@@ -1711,10 +1853,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="143">
@@ -1723,10 +1866,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="144">
@@ -1735,10 +1879,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="145">
@@ -1747,10 +1892,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="146">
@@ -1759,10 +1905,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="147">
@@ -1771,10 +1918,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="148">
@@ -1783,10 +1931,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="149">
@@ -1795,10 +1944,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="150">
@@ -1807,10 +1957,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="151">
@@ -1819,10 +1970,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="152">
@@ -1831,10 +1983,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="153">
@@ -1843,10 +1996,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="154">
@@ -1855,10 +2009,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="155">
@@ -1867,10 +2022,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="156">
@@ -1879,10 +2035,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="157">
@@ -1891,10 +2048,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="158">
@@ -1903,10 +2061,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="159">
@@ -1915,10 +2074,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="160">
@@ -1927,10 +2087,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="161">
@@ -1939,10 +2100,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="162">
@@ -1951,10 +2113,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="163">
@@ -1963,10 +2126,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="164">
@@ -1975,10 +2139,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="165">
@@ -1987,10 +2152,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="166">
@@ -1999,10 +2165,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="167">
@@ -2011,10 +2178,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="168">
@@ -2023,10 +2191,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="169">
@@ -2035,10 +2204,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="170">
@@ -2047,10 +2217,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="171">
@@ -2059,10 +2230,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="172">
@@ -2071,10 +2243,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="173">
@@ -2083,10 +2256,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="174">
@@ -2095,10 +2269,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="175">
@@ -2107,10 +2282,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="176">
@@ -2119,10 +2295,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="177">
@@ -2131,10 +2308,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="178">
@@ -2143,10 +2321,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="179">
@@ -2155,10 +2334,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="180">
@@ -2167,10 +2347,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="181">
@@ -2179,10 +2360,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="182">
@@ -2191,10 +2373,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="183">
@@ -2203,10 +2386,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="184">
@@ -2215,10 +2399,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="185">
@@ -2227,10 +2412,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="186">
@@ -2239,10 +2425,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="187">
@@ -2251,10 +2438,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="188">
@@ -2263,10 +2451,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="189">
@@ -2275,10 +2464,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="190">
@@ -2287,10 +2477,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="191">
@@ -2299,10 +2490,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="192">
@@ -2311,10 +2503,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="193">
@@ -2323,10 +2516,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="194">
@@ -2335,10 +2529,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="195">
@@ -2347,10 +2542,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="196">
@@ -2359,10 +2555,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="197">
@@ -2371,10 +2568,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="198">
@@ -2383,10 +2581,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="199">
@@ -2395,10 +2594,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="200">
@@ -2407,10 +2607,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="201">
@@ -2419,10 +2620,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="202">
@@ -2431,10 +2633,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="203">
@@ -2443,10 +2646,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="204">
@@ -2455,10 +2659,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="205">
@@ -2467,10 +2672,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="206">
@@ -2479,10 +2685,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="207">
@@ -2491,10 +2698,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="208">
@@ -2503,10 +2711,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="209">
@@ -2515,10 +2724,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="210">
@@ -2527,10 +2737,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="211">
@@ -2539,10 +2750,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="212">
@@ -2551,10 +2763,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="213">
@@ -2563,10 +2776,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="214">
@@ -2575,10 +2789,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="215">
@@ -2587,10 +2802,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="216">
@@ -2599,10 +2815,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="217">
@@ -2611,10 +2828,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="218">
@@ -2623,10 +2841,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="219">
@@ -2635,10 +2854,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="220">
@@ -2647,10 +2867,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="221">
@@ -2659,10 +2880,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="222">
@@ -2671,10 +2893,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="223">
@@ -2683,10 +2906,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="224">
@@ -2695,10 +2919,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="225">
@@ -2707,10 +2932,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="226">
@@ -2719,10 +2945,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="227">
@@ -2731,10 +2958,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="228">
@@ -2743,10 +2971,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="229">
@@ -2755,10 +2984,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="230">
@@ -2767,10 +2997,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="231">
@@ -2779,10 +3010,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="232">
@@ -2791,10 +3023,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="233">
@@ -2803,10 +3036,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="234">
@@ -2815,10 +3049,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="235">
@@ -2827,10 +3062,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="236">
@@ -2839,10 +3075,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="237">
@@ -2851,10 +3088,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="238">
@@ -2863,10 +3101,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="239">
@@ -2875,10 +3114,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="240">
@@ -2887,10 +3127,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="241">
@@ -2899,10 +3140,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="242">
@@ -2911,10 +3153,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="243">
@@ -2923,10 +3166,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="244">
@@ -2935,10 +3179,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="245">
@@ -2947,10 +3192,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="246">
@@ -2959,10 +3205,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="247">
@@ -2971,10 +3218,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="248">
@@ -2983,10 +3231,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="249">
@@ -2995,10 +3244,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="250">
@@ -3007,10 +3257,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="251">
@@ -3019,10 +3270,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="252">
@@ -3031,10 +3283,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="253">
@@ -3043,10 +3296,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="254">
@@ -3055,10 +3309,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="255">
@@ -3067,10 +3322,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="256">
@@ -3079,10 +3335,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="257">
@@ -3091,10 +3348,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="258">
@@ -3103,10 +3361,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="259">
@@ -3115,10 +3374,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="260">
@@ -3127,10 +3387,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="261">
@@ -3139,10 +3400,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="262">
@@ -3151,10 +3413,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="263">
@@ -3163,10 +3426,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="264">
@@ -3175,10 +3439,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="265">
@@ -3187,10 +3452,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="266">
@@ -3199,10 +3465,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="267">
@@ -3211,10 +3478,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="268">
@@ -3223,10 +3491,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="269">
@@ -3235,10 +3504,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="270">
@@ -3247,10 +3517,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="271">
@@ -3259,10 +3530,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="272">
@@ -3271,10 +3543,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="273">
@@ -3283,10 +3556,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="274">
@@ -3295,10 +3569,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="275">
@@ -3307,10 +3582,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="276">
@@ -3319,10 +3595,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="277">
@@ -3331,10 +3608,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="278">
@@ -3343,10 +3621,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="279">
@@ -3355,10 +3634,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="280">
@@ -3367,10 +3647,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="281">
@@ -3379,10 +3660,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="282">
@@ -3391,10 +3673,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="283">
@@ -3403,10 +3686,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="284">
@@ -3415,10 +3699,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="285">
@@ -3427,10 +3712,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="286">
@@ -3439,10 +3725,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="287">
@@ -3451,10 +3738,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="288">
@@ -3463,10 +3751,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="289">
@@ -3475,10 +3764,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="290">
@@ -3487,10 +3777,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="291">
@@ -3499,10 +3790,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="292">
@@ -3511,10 +3803,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="293">
@@ -3523,10 +3816,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="294">
@@ -3535,10 +3829,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="295">
@@ -3547,10 +3842,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="296">
@@ -3559,10 +3855,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="297">
@@ -3571,10 +3868,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="298">
@@ -3583,10 +3881,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="299">
@@ -3595,10 +3894,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="300">
@@ -3607,10 +3907,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="301">
@@ -3619,10 +3920,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="302">
@@ -3631,10 +3933,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="303">
@@ -3643,10 +3946,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="304">
@@ -3655,10 +3959,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="305">
@@ -3667,10 +3972,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="306">
@@ -3679,10 +3985,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="307">
@@ -3691,10 +3998,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="308">
@@ -3703,10 +4011,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="309">
@@ -3715,10 +4024,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="310">
@@ -3727,10 +4037,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="311">
@@ -3739,10 +4050,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="312">
@@ -3751,10 +4063,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="313">
@@ -3763,10 +4076,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="314">
@@ -3775,10 +4089,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="315">
@@ -3787,10 +4102,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="316">
@@ -3799,10 +4115,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="317">
@@ -3811,10 +4128,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="318">
@@ -3823,10 +4141,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="319">
@@ -3835,10 +4154,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="320">
@@ -3847,10 +4167,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="321">
@@ -3859,10 +4180,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="322">
@@ -3871,10 +4193,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="323">
@@ -3883,10 +4206,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="324">
@@ -3895,10 +4219,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="325">
@@ -3907,10 +4232,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="326">
@@ -3919,10 +4245,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="327">
@@ -3931,10 +4258,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="328">
@@ -3943,10 +4271,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="329">
@@ -3955,10 +4284,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="330">
@@ -3967,10 +4297,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="331">
@@ -3979,10 +4310,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="332">
@@ -3991,10 +4323,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="333">
@@ -4003,10 +4336,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="334">
@@ -4015,10 +4349,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="335">
@@ -4027,10 +4362,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="336">
@@ -4039,10 +4375,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="337">
@@ -4051,10 +4388,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="338">
@@ -4063,10 +4401,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="339">
@@ -4075,10 +4414,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="340">
@@ -4087,10 +4427,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="341">
@@ -4099,10 +4440,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="342">
@@ -4111,10 +4453,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="343">
@@ -4123,10 +4466,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="344">
@@ -4135,10 +4479,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="345">
@@ -4147,10 +4492,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="346">
@@ -4159,10 +4505,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="347">
@@ -4171,10 +4518,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="348">
@@ -4183,10 +4531,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="349">
@@ -4195,10 +4544,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="350">
@@ -4207,10 +4557,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="351">
@@ -4219,10 +4570,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="352">
@@ -4231,10 +4583,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="353">
@@ -4243,10 +4596,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="354">
@@ -4255,10 +4609,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="355">
@@ -4267,10 +4622,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="356">
@@ -4279,10 +4635,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="357">
@@ -4291,10 +4648,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="358">
@@ -4303,10 +4661,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="359">
@@ -4315,10 +4674,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="360">
@@ -4327,10 +4687,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="361">
@@ -4339,10 +4700,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="362">
@@ -4351,10 +4713,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="363">
@@ -4363,10 +4726,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="364">
@@ -4375,10 +4739,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="365">
@@ -4387,10 +4752,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="366">
@@ -4399,10 +4765,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="367">
@@ -4411,10 +4778,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="368">
@@ -4423,10 +4791,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="369">
@@ -4435,10 +4804,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="370">
@@ -4447,10 +4817,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="371">
@@ -4459,10 +4830,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="372">
@@ -4471,10 +4843,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="373">
@@ -4483,10 +4856,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="374">
@@ -4495,10 +4869,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="375">
@@ -4507,10 +4882,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="376">
@@ -4519,10 +4895,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="377">
@@ -4531,10 +4908,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="378">
@@ -4543,10 +4921,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="379">
@@ -4555,10 +4934,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="380">
@@ -4567,10 +4947,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="381">
@@ -4579,10 +4960,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="382">
@@ -4591,10 +4973,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="383">
@@ -4603,10 +4986,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="384">
@@ -4615,10 +4999,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="385">
@@ -4627,10 +5012,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="386">
@@ -4639,10 +5025,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="387">
@@ -4651,10 +5038,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="388">
@@ -4663,10 +5051,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="389">
@@ -4675,10 +5064,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="390">
@@ -4687,10 +5077,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="391">
@@ -4699,10 +5090,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="392">
@@ -4711,10 +5103,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="393">
@@ -4723,10 +5116,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="394">
@@ -4735,10 +5129,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="395">
@@ -4747,10 +5142,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="396">
@@ -4759,10 +5155,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="397">
@@ -4771,10 +5168,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="398">
@@ -4783,10 +5181,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="399">
@@ -4795,10 +5194,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="400">
@@ -4807,10 +5207,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="401">
@@ -4819,10 +5220,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="402">
@@ -4831,10 +5233,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="403">
@@ -4843,10 +5246,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="404">
@@ -4855,10 +5259,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="405">
@@ -4867,10 +5272,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="406">
@@ -4879,10 +5285,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="407">
@@ -4891,10 +5298,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="408">
@@ -4903,10 +5311,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="409">
@@ -4915,10 +5324,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="410">
@@ -4927,10 +5337,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="411">
@@ -4939,10 +5350,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="412">
@@ -4951,10 +5363,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="413">
@@ -4963,10 +5376,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="414">
@@ -4975,10 +5389,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="415">
@@ -4987,10 +5402,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="416">
@@ -4999,10 +5415,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="417">
@@ -5011,10 +5428,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="418">
@@ -5023,10 +5441,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="419">
@@ -5035,10 +5454,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="420">
@@ -5047,10 +5467,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="421">
@@ -5059,10 +5480,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="422">
@@ -5071,10 +5493,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="423">
@@ -5083,10 +5506,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="424">
@@ -5095,10 +5519,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="425">
@@ -5107,10 +5532,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="426">
@@ -5119,10 +5545,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="427">
@@ -5131,10 +5558,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="428">
@@ -5143,10 +5571,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="429">
@@ -5155,10 +5584,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="430">
@@ -5167,10 +5597,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="431">
@@ -5179,10 +5610,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="432">
@@ -5191,10 +5623,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="433">
@@ -5203,10 +5636,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="434">
@@ -5215,10 +5649,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="435">
@@ -5227,10 +5662,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="436">
@@ -5239,10 +5675,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="437">
@@ -5251,10 +5688,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="438">
@@ -5263,10 +5701,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="439">
@@ -5275,10 +5714,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="440">
@@ -5287,10 +5727,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="441">
@@ -5299,10 +5740,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="442">
@@ -5311,10 +5753,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="443">
@@ -5323,10 +5766,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="444">
@@ -5335,10 +5779,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="445">
@@ -5347,10 +5792,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="446">
@@ -5359,10 +5805,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="447">
@@ -5371,10 +5818,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="448">
@@ -5383,10 +5831,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="449">
@@ -5395,10 +5844,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="450">
@@ -5407,10 +5857,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="451">
@@ -5419,10 +5870,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="452">
@@ -5431,10 +5883,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="453">
@@ -5443,10 +5896,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="454">
@@ -5455,10 +5909,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="455">
@@ -5467,10 +5922,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="456">
@@ -5479,10 +5935,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="457">
@@ -5491,10 +5948,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="458">
@@ -5503,10 +5961,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="459">
@@ -5515,10 +5974,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="460">
@@ -5527,10 +5987,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="461">
@@ -5539,10 +6000,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="462">
@@ -5551,10 +6013,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="463">
@@ -5563,10 +6026,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="464">
@@ -5575,10 +6039,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="465">
@@ -5587,10 +6052,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="466">
@@ -5599,10 +6065,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="467">
@@ -5611,10 +6078,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="468">
@@ -5623,10 +6091,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="469">
@@ -5635,10 +6104,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="470">
@@ -5647,10 +6117,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="471">
@@ -5659,10 +6130,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="472">
@@ -5671,10 +6143,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="473">
@@ -5683,10 +6156,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="474">
@@ -5695,10 +6169,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="475">
@@ -5707,10 +6182,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="476">
@@ -5719,10 +6195,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="477">
@@ -5731,10 +6208,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="478">
@@ -5743,10 +6221,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="479">
@@ -5755,10 +6234,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="480">
@@ -5767,10 +6247,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="481">
@@ -5779,10 +6260,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="482">
@@ -5791,10 +6273,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="483">
@@ -5803,10 +6286,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="484">
@@ -5815,10 +6299,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="485">
@@ -5827,10 +6312,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="486">
@@ -5839,10 +6325,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="487">
@@ -5851,10 +6338,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="488">
@@ -5863,10 +6351,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="489">
@@ -5875,10 +6364,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="490">
@@ -5887,10 +6377,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="491">
@@ -5899,10 +6390,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="492">
@@ -5911,10 +6403,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="493">
@@ -5923,10 +6416,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="494">
@@ -5935,10 +6429,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="495">
@@ -5947,10 +6442,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="496">
@@ -5959,10 +6455,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="497">
@@ -5971,10 +6468,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="498">
@@ -5983,10 +6481,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="499">
@@ -5995,10 +6494,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="500">
@@ -6007,10 +6507,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="501">
@@ -6019,10 +6520,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="502">
@@ -6031,10 +6533,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="503">
@@ -6043,10 +6546,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="504">
@@ -6055,10 +6559,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="505">
@@ -6067,10 +6572,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="506">
@@ -6079,10 +6585,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="507">
@@ -6091,10 +6598,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="508">
@@ -6103,10 +6611,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="509">
@@ -6115,10 +6624,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="510">
@@ -6127,10 +6637,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="511">
@@ -6139,10 +6650,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="512">
@@ -6151,10 +6663,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="513">
@@ -6163,10 +6676,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="514">
@@ -6175,10 +6689,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="515">
@@ -6187,10 +6702,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="516">
@@ -6199,10 +6715,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="517">
@@ -6211,10 +6728,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="518">
@@ -6223,10 +6741,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="519">
@@ -6235,10 +6754,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="520">
@@ -6247,10 +6767,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="521">
@@ -6259,10 +6780,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="522">
@@ -6271,10 +6793,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="523">
@@ -6283,10 +6806,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="524">
@@ -6295,10 +6819,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="525">
@@ -6307,10 +6832,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="526">
@@ -6319,10 +6845,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="527">
@@ -6331,10 +6858,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="528">
@@ -6343,10 +6871,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="529">
@@ -6355,10 +6884,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="530">
@@ -6367,10 +6897,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="531">
@@ -6379,10 +6910,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="532">
@@ -6391,10 +6923,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="533">
@@ -6403,10 +6936,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="534">
@@ -6415,10 +6949,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="535">
@@ -6427,10 +6962,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="536">
@@ -6439,10 +6975,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="537">
@@ -6451,10 +6988,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="538">
@@ -6463,10 +7001,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="539">
@@ -6475,10 +7014,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="540">
@@ -6487,10 +7027,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="541">
@@ -6499,10 +7040,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="542">
@@ -6511,10 +7053,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="543">
@@ -6523,10 +7066,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="544">
@@ -6535,10 +7079,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="545">
@@ -6547,10 +7092,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="546">
@@ -6559,10 +7105,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="547">
@@ -6571,10 +7118,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="548">
@@ -6583,10 +7131,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="549">
@@ -6595,10 +7144,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="550">
@@ -6607,10 +7157,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="551">
@@ -6619,10 +7170,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="552">
@@ -6631,10 +7183,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="553">
@@ -6643,10 +7196,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="554">
@@ -6655,10 +7209,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="555">
@@ -6667,10 +7222,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="556">
@@ -6679,10 +7235,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="557">
@@ -6691,10 +7248,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="558">
@@ -6703,10 +7261,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="559">
@@ -6715,10 +7274,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="560">
@@ -6727,10 +7287,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="561">
@@ -6739,10 +7300,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="562">
@@ -6751,10 +7313,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="563">
@@ -6763,10 +7326,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="564">
@@ -6775,10 +7339,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="565">
@@ -6787,10 +7352,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="566">
@@ -6799,10 +7365,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="567">
@@ -6811,10 +7378,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="568">
@@ -6823,10 +7391,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="569">
@@ -6835,10 +7404,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="570">
@@ -6847,10 +7417,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="571">
@@ -6859,10 +7430,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="572">
@@ -6871,10 +7443,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="573">
@@ -6883,10 +7456,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="574">
@@ -6895,10 +7469,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="575">
@@ -6907,10 +7482,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="576">
@@ -6919,10 +7495,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="577">
@@ -6931,10 +7508,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="578">
@@ -6943,10 +7521,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="579">
@@ -6955,10 +7534,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="580">
@@ -6967,10 +7547,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="581">
@@ -6979,10 +7560,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="582">
@@ -6991,10 +7573,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="583">
@@ -7003,10 +7586,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="584">
@@ -7015,10 +7599,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="585">
@@ -7027,10 +7612,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="586">
@@ -7039,10 +7625,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="587">
@@ -7051,10 +7638,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="588">
@@ -7063,10 +7651,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="589">
@@ -7075,10 +7664,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="590">
@@ -7087,10 +7677,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="591">
@@ -7099,10 +7690,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="592">
@@ -7111,10 +7703,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="593">
@@ -7123,10 +7716,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="594">
@@ -7135,10 +7729,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="595">
@@ -7147,10 +7742,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="596">
@@ -7159,10 +7755,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="597">
@@ -7171,10 +7768,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="598">
@@ -7183,10 +7781,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="599">
@@ -7195,10 +7794,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="600">
@@ -7207,10 +7807,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="601">
@@ -7219,10 +7820,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="602">
@@ -7231,10 +7833,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="603">
@@ -7243,10 +7846,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="604">
@@ -7255,10 +7859,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="605">
@@ -7267,10 +7872,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="606">
@@ -7279,10 +7885,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="607">
@@ -7291,10 +7898,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="608">
@@ -7303,10 +7911,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="609">
@@ -7315,10 +7924,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="610">
@@ -7327,10 +7937,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="611">
@@ -7339,10 +7950,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="612">
@@ -7351,10 +7963,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="613">
@@ -7363,10 +7976,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="614">
@@ -7375,10 +7989,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="615">
@@ -7387,10 +8002,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="616">
@@ -7399,10 +8015,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="617">
@@ -7411,10 +8028,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="618">
@@ -7423,10 +8041,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="619">
@@ -7435,10 +8054,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="620">
@@ -7447,10 +8067,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="621">
@@ -7459,10 +8080,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="622">
@@ -7471,10 +8093,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="623">
@@ -7483,10 +8106,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="624">
@@ -7495,10 +8119,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="625">
@@ -7507,10 +8132,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="626">
@@ -7519,10 +8145,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="627">
@@ -7531,10 +8158,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="628">
@@ -7543,10 +8171,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="629">
@@ -7555,10 +8184,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="630">
@@ -7567,10 +8197,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="631">
@@ -7579,10 +8210,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="632">
@@ -7591,10 +8223,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="633">
@@ -7603,10 +8236,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="634">
@@ -7615,10 +8249,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="635">
@@ -7627,10 +8262,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="636">
@@ -7639,10 +8275,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="637">
@@ -7651,10 +8288,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="638">
@@ -7663,10 +8301,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="639">
@@ -7675,10 +8314,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="640">
@@ -7687,10 +8327,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="641">
@@ -7699,10 +8340,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="642">
@@ -7711,10 +8353,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="643">
@@ -7723,10 +8366,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="644">
@@ -7735,10 +8379,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="645">
@@ -7747,10 +8392,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="646">
@@ -7759,10 +8405,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="647">
@@ -7771,10 +8418,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="648">
@@ -7783,10 +8431,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="649">
@@ -7795,10 +8444,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="650">
@@ -7807,10 +8457,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="651">
@@ -7819,10 +8470,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="652">
@@ -7831,10 +8483,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="653">
@@ -7843,10 +8496,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="654">
@@ -7855,10 +8509,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="655">
@@ -7867,10 +8522,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="656">
@@ -7879,10 +8535,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="657">
@@ -7891,10 +8548,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="658">
@@ -7903,10 +8561,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="659">
@@ -7915,10 +8574,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="660">
@@ -7927,10 +8587,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="661">
@@ -7939,10 +8600,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="662">
@@ -7951,10 +8613,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="663">
@@ -7963,10 +8626,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="664">
@@ -7975,10 +8639,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="665">
@@ -7987,10 +8652,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="666">
@@ -7999,10 +8665,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="667">
@@ -8011,10 +8678,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="668">
@@ -8023,10 +8691,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="669">
@@ -8035,10 +8704,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="670">
@@ -8047,10 +8717,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="671">
@@ -8059,10 +8730,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="672">
@@ -8071,10 +8743,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="673">
@@ -8083,10 +8756,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="674">
@@ -8095,10 +8769,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="675">
@@ -8107,10 +8782,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="676">
@@ -8119,10 +8795,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="677">
@@ -8131,10 +8808,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="678">
@@ -8143,10 +8821,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="679">
@@ -8155,10 +8834,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="680">
@@ -8167,10 +8847,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="681">
@@ -8179,10 +8860,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="682">
@@ -8191,10 +8873,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="683">
@@ -8203,10 +8886,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="684">
@@ -8215,10 +8899,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="685">
@@ -8227,10 +8912,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="686">
@@ -8239,10 +8925,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="687">
@@ -8251,10 +8938,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="688">
@@ -8263,10 +8951,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="689">
@@ -8275,10 +8964,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="690">
@@ -8287,10 +8977,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="691">
@@ -8299,10 +8990,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="692">
@@ -8311,10 +9003,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="693">
@@ -8323,10 +9016,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="694">
@@ -8335,10 +9029,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="695">
@@ -8347,10 +9042,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="696">
@@ -8359,10 +9055,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="697">
@@ -8371,10 +9068,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="698">
@@ -8383,10 +9081,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="699">
@@ -8395,10 +9094,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="700">
@@ -8407,10 +9107,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="701">
@@ -8419,10 +9120,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="702">
@@ -8431,10 +9133,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="703">
@@ -8443,10 +9146,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="704">
@@ -8455,10 +9159,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="705">
@@ -8467,10 +9172,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="706">
@@ -8479,10 +9185,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="707">
@@ -8491,10 +9198,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="708">
@@ -8503,10 +9211,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="709">
@@ -8515,10 +9224,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="710">
@@ -8527,10 +9237,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="711">
@@ -8539,10 +9250,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="712">
@@ -8551,10 +9263,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="713">
@@ -8563,10 +9276,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="714">
@@ -8575,10 +9289,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="715">
@@ -8587,10 +9302,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="716">
@@ -8599,10 +9315,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="717">
@@ -8611,10 +9328,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="718">
@@ -8623,10 +9341,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="719">
@@ -8635,10 +9354,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="720">
@@ -8647,10 +9367,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="721">
@@ -8659,10 +9380,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="722">
@@ -8671,10 +9393,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="723">
@@ -8683,10 +9406,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="724">
@@ -8695,10 +9419,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="725">
@@ -8707,10 +9432,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="726">
@@ -8719,10 +9445,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="727">
@@ -8731,10 +9458,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="728">
@@ -8743,10 +9471,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="729">
@@ -8755,10 +9484,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="730">
@@ -8767,10 +9497,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="731">
@@ -8779,10 +9510,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="732">
@@ -8791,10 +9523,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="733">
@@ -8803,10 +9536,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="734">
@@ -8815,10 +9549,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="735">
@@ -8827,10 +9562,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="736">
@@ -8839,10 +9575,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="737">
@@ -8851,10 +9588,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="738">
@@ -8863,10 +9601,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="739">
@@ -8875,10 +9614,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="740">
@@ -8887,10 +9627,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="741">
@@ -8899,10 +9640,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="742">
@@ -8911,10 +9653,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="743">
@@ -8923,10 +9666,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="744">
@@ -8935,10 +9679,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="745">
@@ -8947,10 +9692,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="746">
@@ -8959,10 +9705,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="747">
@@ -8971,10 +9718,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="748">
@@ -8983,10 +9731,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="749">
@@ -8995,10 +9744,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="750">
@@ -9007,10 +9757,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="751">
@@ -9019,10 +9770,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="752">
@@ -9031,10 +9783,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="753">
@@ -9043,10 +9796,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="754">
@@ -9055,10 +9809,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="755">
@@ -9067,10 +9822,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="756">
@@ -9079,10 +9835,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="757">
@@ -9091,10 +9848,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="758">
@@ -9103,10 +9861,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="759">
@@ -9115,10 +9874,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="760">
@@ -9127,10 +9887,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="761">
@@ -9139,10 +9900,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="762">
@@ -9151,10 +9913,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="763">
@@ -9163,10 +9926,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="764">
@@ -9175,10 +9939,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="765">
@@ -9187,10 +9952,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="766">
@@ -9199,10 +9965,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="767">
@@ -9211,10 +9978,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="768">
@@ -9223,10 +9991,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="769">
@@ -9235,10 +10004,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="770">
@@ -9247,10 +10017,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="771">
@@ -9259,10 +10030,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="772">
@@ -9271,10 +10043,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="773">
@@ -9283,10 +10056,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="774">
@@ -9295,10 +10069,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="775">
@@ -9307,10 +10082,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="776">
@@ -9319,10 +10095,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="777">
@@ -9331,10 +10108,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="778">
@@ -9343,10 +10121,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="779">
@@ -9355,10 +10134,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="780">
@@ -9367,10 +10147,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="781">
@@ -9379,10 +10160,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="782">
@@ -9391,10 +10173,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="783">
@@ -9403,10 +10186,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="784">
@@ -9415,10 +10199,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="785">
@@ -9427,10 +10212,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="786">
@@ -9439,10 +10225,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="787">
@@ -9451,10 +10238,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="788">
@@ -9463,10 +10251,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="789">
@@ -9475,10 +10264,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="790">
@@ -9487,10 +10277,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="791">
@@ -9499,10 +10290,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="792">
@@ -9511,10 +10303,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="793">
@@ -9523,10 +10316,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="794">
@@ -9535,10 +10329,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="795">
@@ -9547,10 +10342,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="796">
@@ -9559,10 +10355,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="797">
@@ -9571,10 +10368,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="798">
@@ -9583,10 +10381,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="799">
@@ -9595,10 +10394,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="800">
@@ -9607,10 +10407,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="801">
@@ -9619,10 +10420,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="802">
@@ -9631,10 +10433,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="803">
@@ -9643,10 +10446,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="804">
@@ -9655,10 +10459,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="805">
@@ -9667,10 +10472,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="806">
@@ -9679,10 +10485,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="807">
@@ -9691,10 +10498,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="808">
@@ -9703,10 +10511,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="809">
@@ -9715,10 +10524,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="810">
@@ -9727,10 +10537,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="811">
@@ -9739,10 +10550,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="812">
@@ -9751,10 +10563,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="813">
@@ -9763,10 +10576,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="814">
@@ -9775,10 +10589,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="815">
@@ -9787,10 +10602,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="816">
@@ -9799,10 +10615,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="817">
@@ -9811,10 +10628,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="818">
@@ -9823,10 +10641,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="819">
@@ -9835,10 +10654,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="820">
@@ -9847,10 +10667,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="821">
@@ -9859,10 +10680,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="822">
@@ -9871,10 +10693,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="823">
@@ -9883,10 +10706,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="824">
@@ -9895,10 +10719,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="825">
@@ -9907,10 +10732,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="826">
@@ -9919,10 +10745,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="827">
@@ -9931,10 +10758,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="828">
@@ -9943,10 +10771,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="829">
@@ -9955,10 +10784,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="830">
@@ -9967,10 +10797,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="831">
@@ -9979,10 +10810,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="832">
@@ -9991,10 +10823,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="833">
@@ -10003,10 +10836,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="834">
@@ -10015,10 +10849,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="835">
@@ -10027,10 +10862,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="836">
@@ -10039,10 +10875,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="837">
@@ -10051,10 +10888,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="838">
@@ -10063,10 +10901,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="839">
@@ -10075,10 +10914,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="840">
@@ -10087,10 +10927,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="841">
@@ -10099,10 +10940,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="842">
@@ -10111,10 +10953,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="843">
@@ -10123,10 +10966,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="844">
@@ -10135,10 +10979,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="845">
@@ -10147,10 +10992,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="846">
@@ -10159,10 +11005,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="847">
@@ -10171,10 +11018,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="848">
@@ -10183,10 +11031,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="849">
@@ -10195,10 +11044,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="850">
@@ -10207,10 +11057,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="851">
@@ -10219,10 +11070,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="852">
@@ -10231,10 +11083,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="853">
@@ -10243,10 +11096,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="854">
@@ -10255,10 +11109,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="855">
@@ -10267,10 +11122,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="856">
@@ -10279,10 +11135,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="857">
@@ -10291,10 +11148,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="858">
@@ -10303,10 +11161,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="859">
@@ -10315,10 +11174,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="860">
@@ -10327,10 +11187,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="861">
@@ -10339,10 +11200,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="862">
@@ -10351,10 +11213,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
  <tile id="863">
@@ -10363,10 +11226,11 @@
    <property name="IsPlatform" type="bool" value="false"/>
    <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Is_Dynamic" type="bool" value="true"/>
-   <property name="MD_Palette_BL" type="int" value="1"/>
-   <property name="MD_Palette_BR" type="int" value="1"/>
-   <property name="MD_Palette_TL" type="int" value="1"/>
-   <property name="MD_Palette_TR" type="int" value="1"/>
+   <property name="MD_Palette_BL" value="1"/>
+   <property name="MD_Palette_BR" value="1"/>
+   <property name="MD_Palette_TL" value="1"/>
+   <property name="MD_Palette_TR" value="1"/>
+   <property name="Neo_Palette" value="1"/>
   </properties>
  </tile>
 </tileset>

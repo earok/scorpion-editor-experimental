@@ -5693,19 +5693,19 @@
       "CodeBlock": "handler_drone",
       "CodeBlockLine": 6,
       "MemoryOffset": 7386,
-      "Description": "Raw expression 'actor_var2'"
-    },
-    {
-      "CodeBlock": "handler_drone",
-      "CodeBlockLine": 6,
-      "MemoryOffset": 7398,
       "Description": "Set 'math_x' to '0'"
     },
     {
       "CodeBlock": "handler_drone",
       "CodeBlockLine": 6,
-      "MemoryOffset": 7406,
+      "MemoryOffset": 7394,
       "Description": "Set 'math_y' to '-32'"
+    },
+    {
+      "CodeBlock": "handler_drone",
+      "CodeBlockLine": 6,
+      "MemoryOffset": 7402,
+      "Description": "Raw expression 'actor_var2'"
     },
     {
       "CodeBlock": "handler_drone",
@@ -6185,19 +6185,19 @@
       "CodeBlock": "player_shot",
       "CodeBlockLine": 3,
       "MemoryOffset": 8306,
-      "Description": "Raw expression 'rotation_amount'"
-    },
-    {
-      "CodeBlock": "player_shot",
-      "CodeBlockLine": 3,
-      "MemoryOffset": 8312,
       "Description": "Set 'math_x' to '32.0'"
     },
     {
       "CodeBlock": "player_shot",
       "CodeBlockLine": 3,
-      "MemoryOffset": 8320,
+      "MemoryOffset": 8314,
       "Description": "Set 'math_y' to '0.0'"
+    },
+    {
+      "CodeBlock": "player_shot",
+      "CodeBlockLine": 3,
+      "MemoryOffset": 8322,
+      "Description": "Raw expression 'rotation_amount'"
     },
     {
       "CodeBlock": "player_shot",
@@ -6666,6 +6666,54 @@
       "CodeBlockLine": 9,
       "MemoryOffset": 9180,
       "Description": "Set 'camera_follow' to 'camera_follow & 32752'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 10,
+      "MemoryOffset": 9192,
+      "Description": "Raw expression 'neo_top'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 10,
+      "MemoryOffset": 9198,
+      "Description": "Raw expression '0'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 10,
+      "MemoryOffset": 9204,
+      "Description": "Raw expression '0'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 10,
+      "MemoryOffset": 9210,
+      "Description": "Core operation'PixelSpawn'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 11,
+      "MemoryOffset": 9218,
+      "Description": "Raw expression 'neo_bottom'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 11,
+      "MemoryOffset": 9224,
+      "Description": "Raw expression '0'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 11,
+      "MemoryOffset": 9230,
+      "Description": "Raw expression '0'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 11,
+      "MemoryOffset": 9236,
+      "Description": "Core operation'PixelSpawn'"
     }
   ],
   "Levels": {
@@ -6682,25 +6730,29 @@
   "Actors": {
     "0": "Destroyed actor",
     "1": "drone",
-    "2": "player",
-    "3": "shot1",
-    "4": "spinner"
+    "2": "neo_bottom",
+    "3": "neo_top",
+    "4": "player",
+    "5": "shot1",
+    "6": "spinner"
   },
   "Sounds": {
     "0": "No sound played"
   },
   "Animations": {
     "1": "anim_drone",
-    "2": "anim_player_r",
-    "3": "anim_player_l",
-    "4": "anim_player_shot_d_r",
-    "5": "anim_player_shot_d_l",
-    "6": "anim_player_shot_r",
-    "7": "anim_player_shot_l",
-    "8": "anim_player_shot_u_r",
-    "9": "anim_player_shot_u_l",
-    "10": "anim_shot1_r",
-    "11": "anim_shot1_l",
-    "12": "anim_spinner"
+    "2": "anim_neo_bottom",
+    "3": "anim_neo_top",
+    "4": "anim_player_r",
+    "5": "anim_player_l",
+    "6": "anim_player_shot_d_r",
+    "7": "anim_player_shot_d_l",
+    "8": "anim_player_shot_r",
+    "9": "anim_player_shot_l",
+    "10": "anim_player_shot_u_r",
+    "11": "anim_player_shot_u_l",
+    "12": "anim_shot1_r",
+    "13": "anim_shot1_l",
+    "14": "anim_spinner"
   }
 }
