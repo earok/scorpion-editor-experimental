@@ -1,14 +1,17 @@
+Compiled on Thursday, 16 May 2024 4:18:13 a.m.
+Version string: SE2024.1.240516.04.14.EX
+
 ImageFrames: 135
 ImageFrame Data Size: 5940
-Actor Count: 43
-Actor Data Size: 8084
+Actor Count: 44
+Actor Data Size: 8272
 Movement Pattern Data: 2
 RAM reserved for level tiles: 19260 bytes (largest level: level6)
 
 Animations Count: 81
 Animations Data Size: 1296
 AnimationFrame Count: 392
-AnimationFrame Data Size: System.Collections.Generic.List`1[System.Byte]
+AnimationFrame Data Size: 6272
 MDS Bin file Original size 8202 Crunched size 8202
 MDS Sequence file Original size 1010 Crunched size 1010
 Project sound Original size 252 Crunched size 252
@@ -19,27 +22,28 @@ Number font for panel 2 Original size 320 Crunched size 320
 Number font for panel 3 Original size 320 Crunched size 320
 Number font for panel 4 Original size 320 Crunched size 320
 Number font for panel 5 Original size 320 Crunched size 320
-Number font for panel 6 Original size 320 Crunched size 320
 Movement patterns Original size 2 Crunched size 2
+Map event data for level1 Original size 32 Crunched size 32
+Map path node data for level1 Original size 12 Crunched size 12
+Teleporters Original size 8 Crunched size 8
 MDS PCM file Original size 29036 Crunched size 29036
-Project virtual machine (codeblocks) Original size 24974 Crunched size 24974
+Project virtual machine (codeblocks) Original size 25330 Crunched size 25330
 Panel  Original size 10350 Crunched size 10350
 Panel md_parallax_2 Original size 5754 Crunched size 5754
 Panel md_parallax_3 Original size 6822 Crunched size 6822
 Panel md_parallax_4 Original size 7136 Crunched size 7136
 Panel md_parallax_5 Original size 6784 Crunched size 6784
+Number font for panel 6 Original size 320 Crunched size 320
 Panel md_parallax_6 Original size 5658 Crunched size 5658
-Panel ui_title Original size 10414 Crunched size 10414
+Panel ui_title Original size 10094 Crunched size 10094
 Project blocks Original size 2992 Crunched size 2992
 Images Original size 5940 Crunched size 5940
-Project actors Original size 8084 Crunched size 8084
+Project actors Original size 8272 Crunched size 8272
 Project patterns Original size 1824 Crunched size 1824
 Map tile data  level1 Original size 5940 Crunched size 263
 Tile data for map level1 (mem restrictions:None) Original size 7056 Crunched size 7056
 Pattern data for 1 Original size 496 Crunched size 496
-Map event data for level1 Original size 32 Crunched size 32
 Get Y lookup table level1 Original size 120 Crunched size 120
-Map path node data for level1 Original size 12 Crunched size 12
 Header data for map level1 Original size 8000 Crunched size 8000
 Map block data for level1 Original size 5940 Crunched size 151
 Map tile data  level2 Original size 7080 Crunched size 360
@@ -88,8 +92,7 @@ Animations Original size 1296 Crunched size 1296
 Animation Frames Original size 6272 Crunched size 6272
 Project Header Original size 2902 Crunched size 2902
 Var Data Original size 14 Crunched size 14
-Attack Data Original size 144 Crunched size 144
-Teleporters Original size 8 Crunched size 8
+Attack Data Original size 216 Crunched size 216
 Commands for Joystick 1 Original size 12 Crunched size 12
 
 === Possibly unused blocks ===
@@ -111,48 +114,49 @@ lavaball
 === Codeblocks by compiled size ===
 go_thru_pipe: 2472
 reset_level_bounds: 1544
-block_bump: 1068
+block_bump: 1104
 load_level: 724
-playerhitsbigmushroom: 646
-killmonster: 488
+playerhitsbigmushroom: 670
+killmonster: 598
+playerhitsturtleshell: 552
 thru_door: 482
-playerhitsturtleshell: 468
 do_teleport: 404
 set_yresolution: 390 (Unused?)
 startlevel: 354
-fn_up_in_pipe: 340
+fn_up_in_pipe: 346
+handler_fallblock: 346
+killturtleshell: 346
+flipmonster: 336
 startup: 336
-flipmonster: 330
-handler_fallblock: 320
+fn_down_in_pipe: 316
 flipscreen_smooth: 310 (Unused?)
-fn_down_in_pipe: 310
-fn_down_out_pipe: 298
-fn_up_out_pipe: 298
+fn_down_out_pipe: 304
+fn_up_out_pipe: 304
 candle_lit: 288
-killturtleshell: 288
 turtleshell_hits_block: 282
 handler_fxblock: 280
 flipxymove: 278 (Unused?)
-player_collected_coin_fromblock: 260
+player_collected_coin_fromblock: 266
 plant_up: 258
 mushroom_spawn_finished: 256
-lifelost: 248
+lifelost: 254
 function_setblockmeta: 228
 pre_startup: 212
 flash_fx_trigger: 208
-addcoin: 200
+addcoin: 206
 projectilehitmonster: 200
 waitforframes: 194
 plant_down: 192
-player_collected_flower: 180
+player_collected_flower: 186
 candle_extinguish: 174
 check_talkpad: 172 (Unused?)
+killplayer: 172
+hurtplayer: 164
 flipymove: 162 (Unused?)
+function_uppipe: 160 (Unused?)
 playerhitsmusic: 160
 snap_to_screen: 158 (Unused?)
-hurtplayer: 158
 reset_powerlevel: 158
-function_uppipe: 154 (Unused?)
 pre_quit: 152 (Unused?)
 keep_on_screen_bottom: 152
 load_panel: 146
@@ -160,14 +164,13 @@ playerhitsblock: 144
 flipxmove: 142 (Unused?)
 unload_level: 142
 plant_out: 142
-killplayer: 140
 pause: 138 (Unused?)
 AUTOGEN_OUTOFSCREEN_destroy_actor_destroy_actor_destroy_actor_destroy_actor: 130
 playerhitsmonster: 128
+function_downpipe: 126 (Unused?)
 destroy_all_blocks: 124 (Unused?)
 handler_springlaunch: 124
 pre_load_level: 122
-function_downpipe: 120 (Unused?)
 player_invincible: 118
 waitforfireup: 114
 handler_pipe: 114
@@ -179,22 +182,24 @@ unload_panel: 106
 AUTOGEN_OUTOFSCREEN_destroy_actor_destroy_actor_None_destroy_actor: 106
 load_panel_bottom: 96 (Unused?)
 load_panel_top: 96 (Unused?)
+playerhitsplant: 96
 destroy_child_actors: 94 (Unused?)
 plant_spawn: 94
 autogen_anim_gooma_r_0: 90
 autogen_anim_gooma_l_0: 90
 playerhits_fallblock: 90
-playerhitsplant: 90
 spawnglitter_block: 90
+spring_start: 90
 fadeout: 88
 pre_anim5: 86 (Unused?)
 waitforfirehit: 86
-spring_start: 84
 autogen_anim_plant_0: 82
 cover_spawn: 80
 fishjump: 80
 nextlevel: 80
 AUTOGEN_OUTOFSCREEN_None_None_destroy_actor_destroy_actor: 78
+new_codeblock: 78
+player_collected_coin: 78
 load_music_finish: 76
 wrap_screen_bottom: 76 (Unused?)
 wrap_screen_right: 76 (Unused?)
@@ -202,7 +207,6 @@ flipscreen: 72 (Unused?)
 wrap_screen_left: 72 (Unused?)
 wrap_screen_top: 72 (Unused?)
 music_toggle: 72 (Unused?)
-player_collected_coin: 72
 load_music: 70
 boost_player: 70 (Unused?)
 jump_actor: 66 (Unused?)
@@ -240,13 +244,6 @@ block_coll_force: 32 (Unused?)
 block_coll_passthru: 32 (Unused?)
 clear_block_collision: 32
 vm_registers: 26 (Unused?)
-vm_constants: 26 (Unused?)
 debug_breakpoint: 26 (Unused?)
-hardware_amiga: 26 (Unused?)
-hardware_megadrive: 26 (Unused?)
 set_ntsc: 26
-vm_constants_audiodriver: 26 (Unused?)
-vm_constants_controlbits: 26 (Unused?)
-vm_constants_notes: 26 (Unused?)
-vm_constants_platform: 26 (Unused?)
 vm_constants_tile_properties: 26 (Unused?)
