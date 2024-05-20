@@ -2245,10 +2245,10 @@
       "PaletteOperationType": "SetColor",
       "CoreType": "ActorSetType",
       "ControlMode": "Joys_1",
-      "Goto": "reset_level_bounds",
+      "Goto": "refresh_ui",
       "Comment": "",
       "Variable": "none",
-      "Expression": "0",
+      "Expression": "",
       "Index": "0",
       "Label": "",
       "DiceSides": 2,
@@ -2286,7 +2286,7 @@
         "Up": "0",
         "Down": "0"
       },
-      "YRes": "224",
+      "YRes": "",
       "FrameWait": "",
       "CameraFollowLeft": true,
       "CameraFollowRight": true,
@@ -2301,22 +2301,14 @@
         "b": 0,
         "a": 255
       },
-      "Sound": "none",
-      "Music": "none",
+      "Sound": "",
+      "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
       "Platform": "all",
       "VariableType": "Variable",
       "VariableExpansionMode": "Word",
-      "Conditions": [
-        {
-          "LeftSide": "",
-          "Comparison": "NotZero",
-          "RightSide": "",
-          "ComparisonNext": "End",
-          "IsValid": false
-        }
-      ]
+      "Conditions": []
     }
   ]
 }

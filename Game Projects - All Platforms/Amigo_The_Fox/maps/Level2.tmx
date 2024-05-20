@@ -222,7 +222,24 @@
       <property name="neogeo_cd" type="bool" value="true" />
     </properties>
   </layer>
-  <objectgroup id="5" name="events" />
+  <objectgroup id="5" name="events">
+    <object id="0" gid="0" x="0" y="64" width="3280" height="208">
+      <properties>
+        <property name="iscameraboundszone" type="boolean" value="True" />
+        <property name="onenter" type="String" />
+        <property name="divert" type="String" value="" />
+        <property name="eventtype" type="String" value="none" />
+      </properties>
+    </object>
+    <object id="0" gid="0" x="3280" y="64" width="464" height="208">
+      <properties>
+        <property name="iscameraboundszone" type="boolean" value="True" />
+        <property name="onenter" type="String" />
+        <property name="divert" type="String" value="" />
+        <property name="eventtype" type="String" value="none" />
+      </properties>
+    </object>
+  </objectgroup>
   <imagelayer id="8" name="Reference" visible="0" opacity="0.5" offsetx="0" offsety="64">
     <image source="level2_out.png" width="3744" height="208" />
   </imagelayer>

@@ -200,5 +200,24 @@
       <property name="neogeo_cd" type="bool" value="true" />
     </properties>
   </layer>
-  <objectgroup id="5" name="events" />
+  <objectgroup id="5" name="events">
+    <object id="0" gid="0" x="0" y="64" width="2880" height="208">
+      <properties>
+        <property name="onenter" type="String" />
+        <property name="divert" type="String" value="" />
+        <property name="eventtype" type="String" value="none" />
+        <property name="pushout" type="String" value="none" />
+        <property name="onceonly" type="Boolean" value="False" />
+        <property name="iscameraboundszone" type="boolean" value="True" />
+      </properties>
+    </object>
+    <object id="0" gid="0" x="2880" y="64" width="256" height="208">
+      <properties>
+        <property name="onenter" type="String" />
+        <property name="divert" type="String" value="" />
+        <property name="eventtype" type="String" value="none" />
+        <property name="iscameraboundszone" type="boolean" value="True" />
+      </properties>
+    </object>
+  </objectgroup>
 </map>
