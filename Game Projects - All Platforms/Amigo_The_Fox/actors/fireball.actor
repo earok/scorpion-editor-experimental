@@ -1,6 +1,5 @@
 {
   "ShootDirType": "actor_direction",
-  "ClassType": "DefaultClass",
   "DefaultLookDir": "right",
   "Recycle": "Default",
   "MoveType": "cpu_platform",
@@ -128,6 +127,7 @@
   "CollType_Up": "bounce",
   "CollType_Down": "bounce",
   "Player": null,
+  "BlockCollider": null,
   "CanRidePlatform": null,
   "Camera": null,
   "AutoScroll": null,
@@ -159,8 +159,14 @@
     "0"
   ],
   "ControlPort": 1,
-  "DataVersion": 3,
+  "DataVersion": 4,
+  "ActorTag": "None",
   "AutoSpawn": null,
   "AutoNavigate": false,
+  "ActorTimeline": {
+    "TimelineFrames": null,
+    "TimelineEvents": {},
+    "PingPong": false
+  },
   "TileID": -1
 }

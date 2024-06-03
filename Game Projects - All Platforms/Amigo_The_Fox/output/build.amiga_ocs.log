@@ -1,16 +1,16 @@
-Compiled on Monday, 20 May 2024 10:03:18 p.m.
-Version string: SE2024.1.240519.22.39.EX
+Compiled on Monday, 3 June 2024 4:19:38 p.m.
+Version string: SE2024.1.240603.15.17.EX
 
 === Misc ===
 ImageFrames: 233
 ImageFrame Data Size: 10252
-Maps and Asset Bundles Count: 7
-Maps and Asset Bundles Data Size: 84
+Maps and Asset Bundles Count: 2
+Maps and Asset Bundles Data Size: 24
 Actor Count: 43
 Actor Data Size: 8084
 Movement Pattern Data: 2
-Block Count: 44
-Block Data Size: 2992
+Block Count: 49
+Block Data Size: 3332
 Anim5 Count: 0
 Anim5 Data Size: 0
 Sound Count: 8
@@ -24,76 +24,53 @@ AnimationFrame Data Size: 6272
 Sprites: 163
 Sprites Data Size: 2282
 Attack Data: 2
-Attack Data Size: 144
+Attack Data Size: 148
 Misc data size: 14
 === Image optimisations ===
+Music file song Original size 52260 Crunched size 27830
+Movement patterns Original size 2 Crunched size 2
+Panel scorpion_eng_splashscreen Original size 55172 Crunched size 3460
+Panel ui_title Original size 47472 Crunched size 6460
+Project virtual machine (codeblocks) Original size 21986 Crunched size 5798
+Header data for map level6 Original size 8000 Crunched size 348
+Tile data for map level6 (mem restrictions:None) Original size 48474 Crunched size 3256
+Background for map level6 Original size 1680 Crunched size 326
+Parallax for map level6 Original size 29956 Crunched size 1390
+Asset bundle 0 (Core project asset bundle) Original size 70599 Crunched size 31314
+Asset bundle 1 (level6) Original size 7138 Crunched size 1924
+Project Header Original size 4036 Crunched size 1208
+Project Data Original size 31938 Crunched size 7622
+Project virtual machine redirects Original size 4 Crunched size 4
 
-=== Estimated memory usages ===
+=== Accounted Memory Usage ===
+(Note that this isn't a full account of memory usage, just the memory we can account for)
 
 For chip:
 Map gfx (Panel: scorpion_eng_splashscreen): 55172
 Music memory (song): 52260
 BP Buffer memory: 105248
 core sfx/gfx memory: 70599
-Parallax memory: 43268
+Parallax memory: 29956
 OS/other estimated: 99328
 
 For other:
-Map cache memory: 0
-Map header cache memory: 0
+Map cache memory: 3256
+Map header cache memory: 348
 Map data memory: 48474
-Map background memory: 2316
-EXE memory: 215596
-vm memory: 23056
-project memory: 31654
+Map background memory: 1680
+EXE memory: 215080
+vm memory: 21986
+project memory: 31938
 memory reserved for active actors on screen (32): 4744
 memory reserved for dormant actors in map (256): 9216
 OS/other estimated: 105472
 
-Accounted memory chip: 531347
-Accounted memory other: 335056
-Accounted memory total: 866403
-Music file song Original size 52260 Crunched size 52260
-Movement patterns Original size 2 Crunched size 2
-Panel scorpion_eng_splashscreen Original size 55172 Crunched size 3460
-Panel ui_title Original size 47472 Crunched size 47472
-Project virtual machine (codeblocks) Original size 23056 Crunched size 23056
-Header data for map level1 Original size 8000 Crunched size 8000
-Tile data for map level1 (mem restrictions:None) Original size 30016 Crunched size 30016
-Background for map level1 Original size 2316 Crunched size 2316
-Parallax for map level1 Original size 42508 Crunched size 42508
-Header data for map level2 Original size 8000 Crunched size 8000
-Tile data for map level2 (mem restrictions:None) Original size 35716 Crunched size 35716
-Background for map level2 Original size 1684 Crunched size 1684
-Parallax for map level2 Original size 33456 Crunched size 33456
-Header data for map level3 Original size 8000 Crunched size 8000
-Tile data for map level3 (mem restrictions:None) Original size 23858 Crunched size 23858
-Background for map level3 Original size 2200 Crunched size 2200
-Parallax for map level3 Original size 43166 Crunched size 43166
-Header data for map level4 Original size 8000 Crunched size 8000
-Tile data for map level4 (mem restrictions:None) Original size 32416 Crunched size 32416
-Background for map level4 Original size 2232 Crunched size 2232
-Parallax for map level4 Original size 43268 Crunched size 43268
-Header data for map level5 Original size 8000 Crunched size 8000
-Tile data for map level5 (mem restrictions:None) Original size 29266 Crunched size 29266
-Background for map level5 Original size 2100 Crunched size 2100
-Parallax for map level5 Original size 41864 Crunched size 41864
-Header data for map level6 Original size 8000 Crunched size 8000
-Tile data for map level6 (mem restrictions:None) Original size 48474 Crunched size 48474
-Background for map level6 Original size 1680 Crunched size 1680
-Parallax for map level6 Original size 29956 Crunched size 29956
-Asset bundle 0 (Core project asset bundle) Original size 70599 Crunched size 70599
-Asset bundle 1 (level1) Original size 16858 Crunched size 16858
-Asset bundle 2 (level2) Original size 32682 Crunched size 32682
-Asset bundle 3 (level3) Original size 16034 Crunched size 16034
-Asset bundle 4 (level4) Original size 14150 Crunched size 14150
-Asset bundle 5 (level5) Original size 15432 Crunched size 15432
-Asset bundle 6 (level6) Original size 7138 Crunched size 7138
-Project Header Original size 4036 Crunched size 4036
-Project Data Original size 31654 Crunched size 31654
-Project virtual machine redirects Original size 4 Crunched size 4
+Accounted memory chip: 412563
+Accounted memory other: 442194
+Accounted memory total: 854757
 
 === Possibly unused blocks ===
+block_candle
 block_coin_x03
 block_coin_x04
 block_coin_x05
@@ -101,6 +78,11 @@ block_coin_x06
 block_coin_x07
 block_coin_x08
 block_coin_x09
+block_coincollect_brick
+block_coincollect_cave
+block_coincollect_collumn
+block_marker4
+block_marker5
 glitter2
 glitter3
 tempblock
@@ -110,12 +92,11 @@ fx_glitter
 lavaball
 
 === Codeblocks by compiled size ===
-go_thru_pipe: 1476
 block_bump: 1104
 playerhitsbigmushroom: 646
 killmonster: 598
+load_level: 568
 playerhitsturtleshell: 552
-load_level: 532
 thru_door: 482
 do_teleport: 424
 startlevel: 354
@@ -128,6 +109,7 @@ fn_down_in_pipe: 316
 flipscreen_smooth: 310 (Unused?)
 fn_down_out_pipe: 304
 fn_up_out_pipe: 304
+go_thru_pipe: 300
 candle_lit: 288
 turtleshell_hits_block: 282
 handler_fxblock: 280
@@ -138,15 +120,15 @@ mushroom_spawn_finished: 256
 lifelost: 250
 function_setblockmeta: 228
 flash_fx_trigger: 208
+block_find: 206
 pre_startup: 204
 set_yresolution: 202
 projectilehitmonster: 200
-block_find: 194 (Unused?)
 waitforframes: 194
 check_talkpad: 192 (Unused?)
 plant_down: 192
 player_collected_flower: 186
-block_count: 182 (Unused?)
+block_count: 178 (Unused?)
 pause: 176
 candle_extinguish: 174
 killplayer: 172
@@ -161,6 +143,7 @@ reset_powerlevel: 158
 pre_quit: 152
 keep_on_screen_bottom: 152
 load_panel: 146
+addcoin: 144
 playerhitsblock: 144
 flipxmove: 142 (Unused?)
 unload_level: 142
@@ -171,10 +154,10 @@ playerhitsmonster: 128
 function_downpipe: 126 (Unused?)
 handler_springlaunch: 124
 pre_load_level: 122
+handler_pipe: 120
+handler_uppipe: 120
 player_invincible: 118
 waitforfireup: 114
-handler_pipe: 114
-handler_uppipe: 114
 fadein: 112
 flower_spawn_finished: 112
 spawnglitter_player: 112
@@ -184,7 +167,6 @@ AUTOGEN_OUTOFSCREEN_destroy_actor_destroy_actor_None_destroy_actor: 106
 refresh_ui: 100
 load_panel_bottom: 96 (Unused?)
 load_panel_top: 96 (Unused?)
-addcoin: 96
 playerhitsplant: 96
 destroy_child_actors: 94 (Unused?)
 plant_spawn: 94

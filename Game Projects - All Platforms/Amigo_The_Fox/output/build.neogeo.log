@@ -1,3 +1,6 @@
+Compiled on Monday, 3 June 2024 4:30:18 p.m.
+Version string: SE2024.1.240603.15.17.EX
+
 ImageFrames: 337
 ImageFrame Data Size: 14860
 Actor Count: 52
@@ -6,9 +9,9 @@ Movement Pattern Data: 2
 Animations Count: 89
 Animations Data Size: 1424
 AnimationFrame Count: 400
-AnimationFrame Data Size: System.Collections.Generic.List`1[System.Byte]
+AnimationFrame Data Size: 6400
 Music file song Original size 52260 Crunched size 27830
-Project virtual machine (codeblocks) Original size 25180 Crunched size 25180
+Project virtual machine (codeblocks) Original size 21624 Crunched size 21624
 Panel  Original size 3118 Crunched size 3118
 Panel md_parallax_1 Original size 5038 Crunched size 5038
 Panel md_parallax_2 Original size 5038 Crunched size 5038
@@ -17,8 +20,8 @@ Panel md_parallax_4 Original size 5038 Crunched size 5038
 Panel md_parallax_5 Original size 5038 Crunched size 5038
 Panel md_parallax_6 Original size 5038 Crunched size 5038
 Panel neo_geo_ui Original size 1322 Crunched size 1322
-Panel ui_title Original size 3438 Crunched size 3438
-Project blocks Original size 2992 Crunched size 2992
+Panel ui_title Original size 3118 Crunched size 3118
+Project blocks Original size 3332 Crunched size 3332
 Images Original size 14860 Crunched size 14860
 Movement patterns Original size 2 Crunched size 2
 Project actors Original size 9776 Crunched size 9776
@@ -26,42 +29,42 @@ Map block data for level1 Original size 5940 Crunched size 5940
 Header data for map level1 Original size 8000 Crunched size 8000
 Map tile data  level1 Original size 5940 Crunched size 5940
 Tile data for map level1 (mem restrictions:None) Original size 14112 Crunched size 14112
-Map event data for level1 Original size 32 Crunched size 32
+Map event data for level1 Original size 48 Crunched size 48
 Get Y lookup table level1 Original size 120 Crunched size 120
 Map path node data for level1 Original size 12 Crunched size 12
 Map block data for level2 Original size 7080 Crunched size 7080
 Header data for map level2 Original size 8000 Crunched size 8000
 Map tile data  level2 Original size 7080 Crunched size 7080
 Tile data for map level2 (mem restrictions:None) Original size 16848 Crunched size 16848
-Map event data for level2 Original size 32 Crunched size 32
+Map event data for level2 Original size 48 Crunched size 48
 Get Y lookup table level2 Original size 120 Crunched size 120
 Map path node data for level2 Original size 12 Crunched size 12
 Map block data for level3 Original size 4710 Crunched size 4710
 Header data for map level3 Original size 8000 Crunched size 8000
 Map tile data  level3 Original size 4710 Crunched size 4710
 Tile data for map level3 (mem restrictions:None) Original size 11160 Crunched size 11160
-Map event data for level3 Original size 32 Crunched size 32
+Map event data for level3 Original size 40 Crunched size 40
 Get Y lookup table level3 Original size 120 Crunched size 120
 Map path node data for level3 Original size 12 Crunched size 12
 Map block data for level4 Original size 6420 Crunched size 6420
 Header data for map level4 Original size 8000 Crunched size 8000
 Map tile data  level4 Original size 6420 Crunched size 6420
 Tile data for map level4 (mem restrictions:None) Original size 15264 Crunched size 15264
-Map event data for level4 Original size 32 Crunched size 32
+Map event data for level4 Original size 48 Crunched size 48
 Get Y lookup table level4 Original size 120 Crunched size 120
 Map path node data for level4 Original size 12 Crunched size 12
 Map block data for level5 Original size 5790 Crunched size 5790
 Header data for map level5 Original size 8000 Crunched size 8000
 Map tile data  level5 Original size 5790 Crunched size 5790
 Tile data for map level5 (mem restrictions:None) Original size 13752 Crunched size 13752
-Map event data for level5 Original size 32 Crunched size 32
+Map event data for level5 Original size 48 Crunched size 48
 Get Y lookup table level5 Original size 120 Crunched size 120
 Map path node data for level5 Original size 12 Crunched size 12
 Map block data for level6 Original size 9630 Crunched size 9630
 Header data for map level6 Original size 8000 Crunched size 8000
 Map tile data  level6 Original size 9630 Crunched size 9630
 Tile data for map level6 (mem restrictions:None) Original size 22968 Crunched size 22968
-Map event data for level6 Original size 32 Crunched size 32
+Map event data for level6 Original size 56 Crunched size 56
 Get Y lookup table level6 Original size 120 Crunched size 120
 Map path node data for level6 Original size 12 Crunched size 12
 Animations Original size 1424 Crunched size 1424
@@ -69,9 +72,17 @@ Animation Frames Original size 6400 Crunched size 6400
 Project sound Original size 224 Crunched size 224
 Project Header Original size 2902 Crunched size 2902
 Var Data Original size 112 Crunched size 112
-Attack Data Original size 144 Crunched size 144
+Attack Data Original size 148 Crunched size 148
 Teleporters Original size 8 Crunched size 8
 Commands for Joystick 1 Original size 24 Crunched size 24
+
+=== Accounted Memory Usage ===
+(Note that this isn't a full account of memory usage, just the memory we can account for)
+RAM reserved for level tiles: 19260 bytes (largest level: level6): 19260
+memory reserved for active actors on screen (32): 4744
+memory reserved for dormant actors in map (256): 9216
+
+Total: 33220 bytes
 
 === Possibly unused blocks ===
 block_coin_x03
@@ -88,52 +99,63 @@ tempblock
 
 === Possibly unused Actors ===
 lavaball
+neo_l1_bush
+neo_l1_cloud
+neo_l1_ground
+neo_l2_cave
+neo_l3_cloud_bottom
+neo_l3_cloud_top
+neo_l4_desert
+neo_l5_water
+neo_l6_wall
 
 === Codeblocks by compiled size ===
-go_thru_pipe: 2472
-reset_level_bounds: 1544
-block_bump: 1068
-load_level: 724
-startlevel: 672
-playerhitsbigmushroom: 606
-killmonster: 488
+block_bump: 1104
+playerhitsbigmushroom: 630
+killmonster: 598
+playerhitsturtleshell: 552
+load_level: 528
 thru_door: 482
-playerhitsturtleshell: 468
 do_teleport: 404
-startup: 368
-fn_up_in_pipe: 340
-flipmonster: 330
-handler_fallblock: 320
+startup: 356
+fn_up_in_pipe: 346
+handler_fallblock: 346
+killturtleshell: 346
+flipmonster: 336
+fn_down_in_pipe: 316
 flipscreen_smooth: 310 (Unused?)
-fn_down_in_pipe: 310
-fn_down_out_pipe: 298
-fn_up_out_pipe: 298
+fn_down_out_pipe: 304
+fn_up_out_pipe: 304
+go_thru_pipe: 300
 candle_lit: 288
-killturtleshell: 288
 turtleshell_hits_block: 282
 handler_fxblock: 280
 flipxymove: 278 (Unused?)
-player_collected_coin_fromblock: 260
+player_collected_coin_fromblock: 266
 plant_up: 258
+startlevel: 258
 set_yresolution: 256
 mushroom_spawn_finished: 256
-lifelost: 248
+lifelost: 254
 function_setblockmeta: 228
+addcoin: 212
 flash_fx_trigger: 208
-addcoin: 200
+block_find: 206
 projectilehitmonster: 200
 waitforframes: 194
 plant_down: 192
-player_collected_flower: 180
+player_collected_flower: 186
+block_count: 178 (Unused?)
 candle_extinguish: 174
 check_talkpad: 172 (Unused?)
+killplayer: 172
 pre_startup: 168
+hurtplayer: 164
 flipymove: 162 (Unused?)
+function_uppipe: 160 (Unused?)
 playerhitsmusic: 160
 snap_to_screen: 158 (Unused?)
-hurtplayer: 158
 reset_powerlevel: 158
-function_uppipe: 154 (Unused?)
 pre_quit: 152 (Unused?)
 keep_on_screen_bottom: 152
 load_panel: 146
@@ -141,42 +163,43 @@ playerhitsblock: 144
 flipxmove: 142 (Unused?)
 unload_level: 142
 plant_out: 142
-killplayer: 140
 pause: 138
 AUTOGEN_OUTOFSCREEN_destroy_actor_destroy_actor_destroy_actor_destroy_actor: 130
+destroy_all_blocks: 128 (Unused?)
 playerhitsmonster: 128
-destroy_all_blocks: 124 (Unused?)
+function_downpipe: 126 (Unused?)
 handler_springlaunch: 124
 pre_load_level: 122
-function_downpipe: 120 (Unused?)
+handler_pipe: 120
+handler_uppipe: 120
 player_invincible: 118
 waitforfireup: 114
-handler_pipe: 114
-handler_uppipe: 114
 fadein: 112
 flower_spawn_finished: 112
 waitforfiredown: 110
 unload_panel: 106
 AUTOGEN_OUTOFSCREEN_destroy_actor_destroy_actor_None_destroy_actor: 106
+refresh_ui: 100
 load_panel_bottom: 96 (Unused?)
 load_panel_top: 96 (Unused?)
+playerhitsplant: 96
 destroy_child_actors: 94 (Unused?)
 plant_spawn: 94
 autogen_anim_gooma_r_0: 90
 autogen_anim_gooma_l_0: 90
 playerhits_fallblock: 90
-playerhitsplant: 90
 spawnglitter_block: 90
+spring_start: 90
 fadeout: 88
 pre_anim5: 86 (Unused?)
 waitforfirehit: 86
-spring_start: 84
 autogen_anim_plant_0: 82
 neo_cloud_handler: 82
 cover_spawn: 80
 fishjump: 80
 nextlevel: 80
 AUTOGEN_OUTOFSCREEN_None_None_destroy_actor_destroy_actor: 78
+player_collected_coin: 78
 load_music_finish: 76
 wrap_screen_bottom: 76 (Unused?)
 wrap_screen_right: 76 (Unused?)
@@ -184,7 +207,6 @@ flipscreen: 72 (Unused?)
 wrap_screen_left: 72 (Unused?)
 wrap_screen_top: 72 (Unused?)
 music_toggle: 72 (Unused?)
-player_collected_coin: 72
 boost_player: 70 (Unused?)
 jump_actor: 66 (Unused?)
 load_panel_finish: 66
@@ -222,13 +244,6 @@ block_coll_force: 32 (Unused?)
 block_coll_passthru: 32 (Unused?)
 clear_block_collision: 32
 vm_registers: 26 (Unused?)
-vm_constants: 26 (Unused?)
 debug_breakpoint: 26 (Unused?)
-hardware_amiga: 26 (Unused?)
-hardware_megadrive: 26 (Unused?)
 set_ntsc: 26 (Unused?)
-vm_constants_audiodriver: 26 (Unused?)
-vm_constants_controlbits: 26 (Unused?)
-vm_constants_notes: 26 (Unused?)
-vm_constants_platform: 26 (Unused?)
 vm_constants_tile_properties: 26 (Unused?)

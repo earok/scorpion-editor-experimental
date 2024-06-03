@@ -168,4 +168,29 @@
       <property name="Name" value="block_coincollect_cave" type="string" />
     </properties>
   </tile>
+  <tile id="35">
+    <properties>
+      <property name="Name" value="block_marker1" type="string" />
+    </properties>
+  </tile>
+  <tile id="36">
+    <properties>
+      <property name="Name" value="block_marker2" type="string" />
+    </properties>
+  </tile>
+  <tile id="37">
+    <properties>
+      <property name="Name" value="block_marker3" type="string" />
+    </properties>
+  </tile>
+  <tile id="38">
+    <properties>
+      <property name="Name" value="block_marker4" type="string" />
+    </properties>
+  </tile>
+  <tile id="39">
+    <properties>
+      <property name="Name" value="block_marker5" type="string" />
+    </properties>
+  </tile>
 </tileset>
