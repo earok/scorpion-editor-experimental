@@ -323,8 +323,8 @@ XGM_PlayPCM
     adda.l  d0,a0                   ; a0 point on channel info
 
     move.l  d2,d0
-    lsr.l   #4,d0
-    and.l   #$F,d0                  ; d0 = priority
+;    lsr.l   #4,d0
+    and.l   #$C,d0                  ; d0 = priority
     
     move.b  d0,(a0)+                ; set priority
     
