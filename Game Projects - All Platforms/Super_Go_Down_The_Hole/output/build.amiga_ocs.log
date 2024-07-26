@@ -1,5 +1,5 @@
-Compiled on Wednesday, 17 July 2024 3:16:01 p.m.
-Version string: SE2024.1.240716.23.57.EX
+Compiled on Friday, 26 July 2024 12:41:11 p.m.
+Version string: SE2024.2.240726.12.37.EX
 
 === Misc ===
 ImageFrames: 149
@@ -27,11 +27,11 @@ Attack Data Size: 176
 Misc data size: 14
 === Image optimisations ===
 Music file vampire_ninjas_in_1_001124 Original size 20900 Crunched size 8204
-Panel scorpion_eng_splashscreen Original size 55172 Crunched size 3460
+Panel scorpion_eng_splashscreen Original size 35172 Crunched size 3266
 Panel healthbar Original size 4472 Crunched size 244
 Panel theend Original size 11632 Crunched size 278
 Panel title Original size 49024 Crunched size 8790
-Project virtual machine (codeblocks) Original size 14070 Crunched size 3910
+Project virtual machine (codeblocks) Original size 14214 Crunched size 3846
 Header data for map map Original size 8000 Crunched size 296
 Tile data for map map (mem restrictions:None) Original size 10936 Crunched size 756
 Background for map map Original size 1396 Crunched size 80
@@ -41,23 +41,23 @@ Background for map map2 Original size 1396 Crunched size 80
 Header data for map map3 Original size 8000 Crunched size 274
 Tile data for map map3 (mem restrictions:None) Original size 2616 Crunched size 422
 Background for map map3 Original size 1396 Crunched size 80
-Asset bundle 0 (Core project asset bundle) Original size 137156 Crunched size 50954
+Asset bundle 0 (Core project asset bundle) Original size 137158 Crunched size 50984
 Asset bundle 1 (map) Original size 5156 Crunched size 1938
 Asset bundle 2 (map2) Original size 17822 Crunched size 2930
 Asset bundle 3 (map3) Original size 4688 Crunched size 1736
 Misc Data (paths, hurt boxes etc) Original size 2 Crunched size 2
 Project Header Original size 4036 Crunched size 1198
-Project Data Original size 18246 Crunched size 5534
+Project Data Original size 18246 Crunched size 5524
 Project virtual machine redirects Original size 4 Crunched size 4
 
 === Accounted Memory Usage ===
 (Note that this isn't a full account of memory usage, just the memory we can account for)
 
 For chip:
-Map gfx (Panel: scorpion_eng_splashscreen): 55172
+Map gfx (Panel: title): 49024
 Music memory (vampire_ninjas_in_1_001124): 20900
 BP Buffer memory: 112800
-core sfx/gfx memory: 137156
+core sfx/gfx memory: 137158
 Parallax memory: 0
 OS/other estimated: 99328
 
@@ -66,16 +66,16 @@ Map cache memory: 0
 Map header cache memory: 0
 Map data memory: 48988
 Map background memory: 1396
-EXE memory: 217056
-vm memory: 14070
+EXE memory: 216360
+vm memory: 14214
 project memory: 18246
 memory reserved for active actors on screen (32): 4616
 memory reserved for dormant actors in map (256): 9216
 OS/other estimated: 105472
 
-Accounted memory chip: 425356
-Accounted memory other: 419060
-Accounted memory total: 844416
+Accounted memory chip: 419210
+Accounted memory other: 418508
+Accounted memory total: 837718
 
 === Possibly unused Actors ===
 blackness
@@ -92,9 +92,8 @@ jumpa
 push
 
 === Codeblocks by compiled size ===
-startup: 578
+startup: 774
 load_level: 568
-elephant_handler: 460
 on_eleblock_collide: 450 (Unused?)
 on_exit: 430
 do_teleport: 424
@@ -102,6 +101,7 @@ pre_startup: 354
 walljump: 332
 flipscreen_smooth: 310 (Unused?)
 function_bomblava: 308
+load_next_level: 300 (Unused?)
 on_angerduck_collide: 300
 flipxymove: 278 (Unused?)
 on_buttonpress: 270
@@ -119,6 +119,7 @@ endcutscene: 176
 flipymove: 162 (Unused?)
 snap_to_screen: 158 (Unused?)
 pre_quit: 152
+restart_this_level: 150 (Unused?)
 load_panel: 146
 flipxmove: 142
 unload_level: 142
@@ -180,8 +181,7 @@ on_end_walkcycle: 58
 destroy_block: 52 (Unused?)
 return: 52 (Unused?)
 regenerate_screen_wait: 46
-zzz_testkeyboard: 44
-testplatformland: 42
+separate_player_from_actor: 46
 freeze_actor: 40 (Unused?)
 unfreeze_actor: 40 (Unused?)
 block_coll_force: 32 (Unused?)
