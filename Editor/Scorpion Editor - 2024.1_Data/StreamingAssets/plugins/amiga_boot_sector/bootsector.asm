@@ -107,7 +107,6 @@ redirectLoop
 
 GameReady			
 			;The game should be fully patched within chipram  
-;			bra GameReady infinite loop for debugging
 			
 			move.l A5,A4
 			move.l 2(A4),A4 ;Get the location of the Blitz Basic initialisation code
