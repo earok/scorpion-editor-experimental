@@ -47,7 +47,7 @@ start
 ; a6 = SysBase
 ; a1 = trackdisk IOStdReq
 
-			;Patch out openlibrary
+			;Patch out openlibrary (remove this, strategy did not work)
 ;			move.l #OldOpenLibraryLocation,A5
 ;			move.l OpenLibrary+2(A6),(A5)
 ;			move.l #OpenLibraryPatch,A5			
@@ -108,28 +108,35 @@ redirectLoop
 GameReady			
 			;The game should be fully patched within chipram  
 			
-			move.l A5,A4
-			move.l 2(A4),A4 ;Get the location of the Blitz Basic initialisation code
+;			move.l A5,A4
+;			move.l 2(A4),A4 ;Get the location of the Blitz Basic initialisation code
 			;Patch out the initialisation code after the memory has been initialised 
 			;So blitz doesn't do automated calls to OpenLibrary etc
-			move.w #$4e75,BlitzPatch(A4) 
+			;move.w #$4e75,BlitzPatch(A4) 
             JMP (A5)
 
-;Blitz attempts to open dos.library even if no dos calls are actually used, simply pretend it worked
-;OpenLibraryPatch	
-;			cmp.l #$646F732E,(A1) ;"dos."
-;			bne OldOpenLibrary
+;Blitz attempts to open dos and intuition even if no dos or intuition calls are actually used, simply pretend it worked
+;OpenLibraryPatch
+;			bra OpenLibraryPatch
 			
-;If we get to here, just pretend it worked
-;			MoveQ #1,D0
-;			rts
+;			cmp.l #$646F732E,(A1) ;"dos."
+;			beq PretendSuccess		
+;			cmp.l #$696E7475,(A1) ;"intu"
+;			beq PretendFailed
 
-;If we get to here, it's not dos.library	
 ;OldOpenLibrary
 ;			dc.w $4EF9 ;JMP
 ;OldOpenLibraryLocation
 ;			dc.l 0			
 			
+;PretendSuccess
+;			MoveQ #1,D0
+;			rts
+
+;PretendFailed
+;			MoveQ #0,D0
+;			rts
+
 
 ;Fill to 1024 bytes
             cnop 0,1024
