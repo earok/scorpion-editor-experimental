@@ -21,14 +21,4 @@
       <property name="Name" value="drone" type="string" />
     </properties>
   </tile>
-  <tile id="4">
-    <properties>
-      <property name="Name" value="neo_top" type="string" />
-    </properties>
-  </tile>
-  <tile id="5">
-    <properties>
-      <property name="Name" value="neo_bottom" type="string" />
-    </properties>
-  </tile>
 </tileset>

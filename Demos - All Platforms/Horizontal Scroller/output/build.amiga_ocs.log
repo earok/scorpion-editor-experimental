@@ -1,5 +1,5 @@
-Compiled on Wednesday, 10 July 2024 9:45:24 p.m.
-Version string: SE2024.1.240710.14.52.EX
+Compiled on Sunday, 25 August 2024 1:33:41 p.m.
+Version string: SE2024.2.240824.22.43.EX
 
 === Misc ===
 ImageFrames: 20
@@ -24,29 +24,29 @@ Sprites: 10
 Sprites Data Size: 140
 Attack Data: 3
 Attack Data Size: 264
-Misc data size: 28
+Misc data size: 68
 === Image optimisations ===
-Panel scorpion_eng_splashscreen Original size 55172 Crunched size 3460
-Project virtual machine (codeblocks) Original size 10628 Crunched size 3174
-Header data for map level1 Original size 8000 Crunched size 258
+Panel scorpion_eng_splashscreen Original size 35168 Crunched size 3258
+Project virtual machine (codeblocks) Original size 10940 Crunched size 3196
+Header data for map level1 Original size 8004 Crunched size 260
 Tile data for map level1 (mem restrictions:No_Blocks) Original size 4420 Crunched size 474
 Background for map level1 Original size 1492 Crunched size 316
 Parallax for map level1 Original size 26752 Crunched size 4294
-Asset bundle 0 (Core project asset bundle) Original size 9748 Crunched size 4954
+Asset bundle 0 (Core project asset bundle) Original size 9768 Crunched size 4946
 Asset bundle 1 (level1) Original size 5352 Crunched size 2200
 Misc Data (paths, hurt boxes etc) Original size 2 Crunched size 2
-Project Header Original size 4036 Crunched size 1198
-Project Data Original size 2886 Crunched size 894
+Project Header Original size 4396 Crunched size 1234
+Project Data Original size 2926 Crunched size 922
 Project virtual machine redirects Original size 4 Crunched size 4
 
 === Accounted Memory Usage ===
 (Note that this isn't a full account of memory usage, just the memory we can account for)
 
 For chip:
-Map gfx (Panel: scorpion_eng_splashscreen): 55172
+Map gfx (Panel: scorpion_eng_splashscreen): 35168
 Music memory (): 0
 BP Buffer memory: 105600
-core sfx/gfx memory: 9748
+core sfx/gfx memory: 9768
 Parallax memory: 26752
 OS/other estimated: 99328
 
@@ -55,16 +55,16 @@ Map cache memory: 0
 Map header cache memory: 0
 Map data memory: 4420
 Map background memory: 1492
-EXE memory: 217016
-vm memory: 10628
-project memory: 2886
+EXE memory: 194448
+vm memory: 10940
+project memory: 2926
 memory reserved for active actors on screen (32): 4616
 memory reserved for dormant actors in map (256): 9216
 OS/other estimated: 105472
 
-Accounted memory chip: 296600
-Accounted memory other: 355746
-Accounted memory total: 652346
+Accounted memory chip: 276616
+Accounted memory other: 333530
+Accounted memory total: 610146
 
 === Possibly unused Actors ===
 player
@@ -73,29 +73,30 @@ player
 load_level: 568
 startup: 480
 handler_spinner: 436
-autogen_anim_player_shot_r_0: 428
 autogen_anim_player_shot_l_0: 428
+autogen_anim_player_shot_r_0: 428
 do_teleport: 424
-pre_startup: 354
-level1code: 342
+pre_startup: 366
+level1code: 318
 flipscreen_smooth: 310 (Unused?)
+load_next_level: 300 (Unused?)
 player_autogen_attack: 286
 flipxymove: 278 (Unused?)
+player_shot: 212 (Unused?)
 block_find: 206 (Unused?)
 set_yresolution: 202
 waitforframes: 194
 check_talkpad: 192 (Unused?)
-player_shot: 188 (Unused?)
 block_count: 178 (Unused?)
 pause: 176
 flipymove: 162 (Unused?)
 snap_to_screen: 158
 pre_quit: 152
+restart_this_level: 150 (Unused?)
 load_panel: 146
 flipxmove: 142 (Unused?)
 unload_level: 142
-spawn_wave: 142 (Unused?)
-handler_drone: 138
+spawn_wave: 130 (Unused?)
 destroy_all_blocks: 128 (Unused?)
 pre_load_level: 122
 waitforfireup: 114
@@ -133,7 +134,7 @@ regenerate_screen_wait: 46
 spawn_player: 46
 freeze_actor: 40 (Unused?)
 unfreeze_actor: 40 (Unused?)
-player_handler: 36
+player_handler: 36 (Unused?)
 block_coll_force: 32 (Unused?)
 block_coll_passthru: 32 (Unused?)
 clear_block_collision: 32
