@@ -1,5 +1,5 @@
-Compiled on Monday, 19 August 2024 10:50:53 a.m.
-Version string: SE2024.2.240818.21.16.EX
+Compiled on Monday, 14 October 2024 12:13:14 a.m.
+Version string: SE2024.2.241012.18.20.EX
 
 ImageFrames: 5
 ImageFrame Data Size: 260
@@ -9,33 +9,34 @@ Animations Count: 11
 Animations Data Size: 176
 AnimationFrame Count: 12
 AnimationFrame Data Size: 192
-Map tile data  level1 Original size 352 Crunched size 13
-Map block data for level1 Original size 352 Crunched size 6
-Misc Data (paths, hurt boxes etc) Original size 2 Crunched size 2
 XGM Null sound Original size 256 Crunched size 256
 XGM Null song Original size 172 Crunched size 172
 XGM 68K Plugin Driver Original size 802 Crunched size 802
 XGM Core Driver Original size 5888 Crunched size 5888
 Project sound Original size 28 Crunched size 28
 Default MD font Original size 2048 Crunched size 2048
-Project virtual machine (codeblocks) Original size 11184 Crunched size 11184
+Project virtual machine (codeblocks) Original size 11718 Crunched size 11718
 Panel  Original size 10352 Crunched size 10352
 Panel water Original size 4624 Crunched size 4624
 Project blocks Original size 68 Crunched size 68
 Images Original size 260 Crunched size 260
 Project actors Original size 540 Crunched size 540
 Project patterns Original size 32 Crunched size 32
+Map tile data  level1 Original size 352 Crunched size 13
 Tile data for map level1 (mem restrictions:None) Original size 560 Crunched size 560
 Map event data for level1 Original size 40 Crunched size 40
 Get Y lookup table level1 Original size 64 Crunched size 64
 Map path node data for level1 Original size 12 Crunched size 12
-Header data for map level1 Original size 8000 Crunched size 8000
+Map actor data for level1 Original size 28 Crunched size 12
+Header data for map level1 Original size 836 Crunched size 836
+Map block data for level1 Original size 352 Crunched size 6
 Project name table Original size 8 Crunched size 8
 Streamed project patterns Original size 1248 Crunched size 1248
 Animations Original size 176 Crunched size 176
 Animation Frames Original size 192 Crunched size 192
-Project Header Original size 2902 Crunched size 2902
-Var Data Original size 14 Crunched size 14
+Misc Data (paths, hurt boxes etc) Original size 2 Crunched size 2
+Project Header Original size 3262 Crunched size 3262
+Var Data Original size 50 Crunched size 50
 Attack Data Original size 176 Crunched size 176
 Teleporters Original size 8 Crunched size 8
 Commands for Joystick 1 Original size 12 Crunched size 12
@@ -44,25 +45,22 @@ Commands for Joystick 1 Original size 12 Crunched size 12
 (Note that this isn't a full account of memory usage, just the memory we can account for)
 RAM reserved for level tiles: (largest level: level1): 704
 memory reserved for active actors on screen (32): 4616
-memory reserved for dormant actors in map (256): 9216
+memory reserved for dormant actors in map (128): 4608
 
-Total: 14536 bytes
-
-=== Possibly unused Actors ===
-player
+Total: 9928 bytes
 
 === Codeblocks by compiled size ===
-load_level: 528
+load_level: 510
 autogen_anim_player_shot_l_0: 428
 autogen_anim_player_shot_r_0: 428
-do_teleport: 404
 set_yresolution: 390 (Unused?)
-pre_startup: 342
+do_teleport: 382
+pre_startup: 360
 flipscreen_smooth: 310 (Unused?)
-load_next_level: 300 (Unused?)
 player_autogen_attack: 286
 flipxymove: 278 (Unused?)
-startup: 254
+load_next_level: 252 (Unused?)
+startup: 232
 block_find: 206 (Unused?)
 waitforframes: 194
 block_count: 178 (Unused?)
@@ -70,13 +68,13 @@ check_talkpad: 172 (Unused?)
 flipymove: 162 (Unused?)
 snap_to_screen: 158
 pre_quit: 152 (Unused?)
-restart_this_level: 150 (Unused?)
 load_panel: 146
 wave: 144
 flipxmove: 142 (Unused?)
 unload_level: 142
 pause: 138 (Unused?)
 destroy_all_blocks: 128 (Unused?)
+restart_this_level: 128 (Unused?)
 pre_load_level: 122
 waitforfireup: 114
 fadein: 112
