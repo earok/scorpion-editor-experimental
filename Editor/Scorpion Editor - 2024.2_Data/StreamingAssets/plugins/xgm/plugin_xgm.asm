@@ -5,25 +5,25 @@ Z80_DRV_PARAMS equ $A00104 ;Driver parameters base
 FunctionTable
 ;XGM Init - Load Z80 driver and initialize system. 
 ;JSR 0(plugin_XGM)
-;A0.l = Location of Z80 driver
-;D0.l = Size of Z80 Driver
-;D1.l = Location of Null sample (must be 256 byte aligned)
+;a0.l = Location of Z80 driver
+;d0.l = Size of Z80 Driver
+;d1.l = Location of Null sample (must be 256 byte aligned)
     bra.w XGM_init
 
 ;XGM VInt - Updates the driver, run during VINT
 ;JSR 4(plugin_XGM)
-;D0.b = Number of frames to increase (typically 1, may be more or less to handle difference between PAL/NTSC etc)
+;d0.b = Number of frames to increase (typically 1, may be more or less to handle difference between PAL/NTSC etc)
     bra.w XGM_vint
 
 ;XGM IsPlayingMusic - Simply returns if music is being played or not
 ;JSR 8(plugin_XGM)
-;Returns IsPlayingMusic in D0
+;Returns IsPlayingMusic in d0
     bra.w XGM_IsPlayingMusic
 
 ;XGM StartPlayMusic - Starts playing a track
-;A0 = Memory space for sample table
-;A1 = Track location
-;A2 = Location of NULL sample
+;a0 = Memory space for sample table
+;a1 = Track location
+;a2 = Location of NULL sample
 ;JSR 12(plugin_xgm)
     bra.w XGM_StartPlayMusic
 
@@ -32,21 +32,21 @@ FunctionTable
     bra.w XGM_ResumePlayMusic
 
 ;XGM StopPlayMusic
-;D0 = Memory address of stop_bin (empty music file)
+;d0 = Memory address of stop_bin (empty music file)
 ;JSR 20(plugin_xgm)
     bra.w XGM_StopPlayMusic
 
 ;XGM IsPlayingPCM
-;D0 = Channel to test.
-;Returns result in D0
+;d0 = Channel to test.
+;Returns result in d0
 ;JSR 24(plugin_xgm)
     bra.w XGM_IsPlayingPCM
 
 ;XGM Play pcm sample
-;A1 = Sample (must be 256 byte aligned)
-;A2 = Pointer to longword variable to contain the sample number (initial value of this variable should be $40)
-;D1 = Length
-;D2 = Channel
+;a1 = Sample (must be 256 byte aligned)
+;a2 = Pointer to longword variable to contain the sample number (initial value of this variable should be $40)
+;d1 = Length
+;d2 = Channel
 ;JSR 28(plugin_xgm)
     bra.w XGM_PlayPCM
 
@@ -59,15 +59,15 @@ XGM_init
     move.w  #$100,($A11200)
 
 @z80_wait1:
-    move.w  ($A11100),D2            ; read Z80 halted state
-    btst    #8,D2                   ; Z80 halted ?
+    move.w  ($A11100),d2            ; read Z80 halted state
+    btst    #8,d2                   ; Z80 halted ?
     bne     @z80_wait1              ; not yet, wait..
      
-    MOVE.L  #$A00000,A1
+    MOVE.L  #$A00000,a1
      
 @loop:
-    MOVE.B  (A0)+,(A1)+
-    DBRA    D0,@loop               ; load driver
+    MOVE.B  (a0)+,(a1)+
+    DBRA    d0,@loop               ; load driver
     
     move.l  #$A01C00,a0             ; point to Z80 sample id table (first entry = silent sample)
 
@@ -87,14 +87,14 @@ XGM_init
     move.w  #100,d0                 ; 
 
 @wait:
-    DBRA    D0,@wait               ; wait a bit
+    DBRA    d0,@wait               ; wait a bit
     
     move.w  #$100,($A11100)         ; Send the Z80 a bus request
     move.w  #$100,($A11200)         ; End Z80 Reset
 
 @z80_wait2:
-    move.w  ($A11100),D0            ; read Z80 halted state
-    btst    #8,D0                   ; Z80 halted ?
+    move.w  ($A11100),d0            ; read Z80 halted state
+    btst    #8,d0                   ; Z80 halted ?
     bne     @z80_wait2              ; not yet, wait...
 
     move.b (a0),d0
@@ -127,7 +127,7 @@ XGM_vint
 XGM_vint_ready
 
     ;Move the frame number
-    move.b D0,($A00113) ;$A00104 + $0F
+    move.b d0,($A00113) ;$A00104 + $0F
 
     move.w  #$000,($A11100)         ; release the Z80 bus
     rts
@@ -138,8 +138,8 @@ XGM_IsPlayingMusic
     move.w  #$100,($A11200)
 
 @XGM_IsPlayingMusic_z80_wait1:
-    move.w  ($A11100),D0            ; read Z80 halted state
-    btst    #8,D0                   ; Z80 halted ?
+    move.w  ($A11100),d0            ; read Z80 halted state
+    btst    #8,d0                   ; Z80 halted ?
     bne     @XGM_IsPlayingMusic_z80_wait1              ; not yet, wait..
 
     move.b  ($A00102),d0            ; get channel playing status
@@ -153,8 +153,8 @@ XGM_StartPlayMusic
     move.w  #$100,($A11200)
     
 @XGM_StartPlayMusic_z80_wait1:
-    move.w  ($A11100),D0            ; read Z80 halted state
-    btst    #8,D0                   ; Z80 halted ?
+    move.w  ($A11100),d0            ; read Z80 halted state
+    btst    #8,d0                   ; Z80 halted ?
     bne     @z80_wait1              ; not yet, wait..
     moveq   #0,d0
      
@@ -169,7 +169,7 @@ XGM_StartPlayMusic
     cmp.w   #$FFFF,d2               ; is null sample ?
     bne     @not_null
     
-    move.l  A2,d2
+    move.l  a2,d2
     jmp     @addr_done
     
 @not_null:
@@ -228,8 +228,8 @@ XGM_ResumePlayMusic
     move.w  #$100,($A11200)
 
 @XGM_ResumePlayMusic_z80_wait1:
-    move.w  ($A11100),D0            ; read Z80 halted state
-    btst    #8,D0                   ; Z80 halted ?
+    move.w  ($A11100),d0            ; read Z80 halted state
+    btst    #8,d0                   ; Z80 halted ?
     bne     @XGM_ResumePlayMusic_z80_wait1              ; not yet, wait..
     
     or.b    #$20,(Z80_DRV_COMMAND)          ; send resume play command
@@ -290,8 +290,8 @@ XGM_PlayPCM
     move.w  #$100,($A11200)
     
 @XGM_PlayPCM_z80_wait1:
-    move.w  ($A11100),D0            ; read Z80 halted state
-    btst    #8,D0                   ; Z80 halted ?
+    move.w  ($A11100),d0            ; read Z80 halted state
+    btst    #8,d0                   ; Z80 halted ?
     bne     @XGM_PlayPCM_z80_wait1              ; not yet, wait..
 
     move.l  (a2),d0
