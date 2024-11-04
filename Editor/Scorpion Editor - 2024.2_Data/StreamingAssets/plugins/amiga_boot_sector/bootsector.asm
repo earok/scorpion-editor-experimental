@@ -7,8 +7,11 @@
 ;https://github.com/keirf/Amiga-Stuff/blob/master/base/bootblock.S
 ;Cheers Alpine9000
 
+;Todo - killcache from ;https://eab.abime.net/showthread.php?t=96233 ?
+
 ;LVOs etc
 io_Device	EQU	$14
+Supervisor  EQU -30
 AllocMem	EQU	-198
 AllocAbs	EQU	-204
 FreeMem		EQU -210
@@ -21,6 +24,7 @@ MEMF_CLEAR  EQU $10000
 
 MEMF_CLEAR_CHIP	EQU $10002	
 MEMF_CLEAR_ANY	EQU $10000
+MEMF_CLEAR_FAST EQU $10004
 
 IO_COMMAND  EQU 28
 IO_LENGTH   EQU 36
@@ -29,6 +33,9 @@ IO_OFFSET   EQU 44
 
 CMD_READ	EQU 2
 TD_MOTOR	EQU 9
+
+NEGSIZE     EQU 16
+POSSIZE     EQU 18
 
 boot
             dc.b "DOS",0    ;Header
@@ -51,61 +58,60 @@ start
 			;Put some useful stuff on the stack so we can grab it in blitz
             movem.l a1-a6/d1-d7,-(sp)  ; preserve registers			
 			
-            moveq.l #9,D7                    ; Shift left by nine to change sector size to full file size
+            moveq.l #9,d7                    ; Shift left by nine to change sector size to full file size
 
             ;Put the offset into the IO structure
-            moveq.l #0,D0
-            move.w execstart,D0
-            asl.l D7,d0
-        	move.l	d0,IO_OFFSET(A1)
+            moveq.l #0,d0
+            move.w execstart,d0
+            asl.l d7,d0
+        	move.l	d0,IO_OFFSET(a1)
 
             ;Put the size into the IO structure
-            moveq.l #0,D0
-            move.w execsize,D0
-            asl.l D7,d0                     ; Exec size is now full required memory size
-            move.l d0,IO_LENGTH(A1)         ; Put this length into the IO request structure
+            moveq.l #0,d0
+            move.w execsize,d0
+            asl.l d7,d0                     ; Exec size is now full required memory size
+            move.l d0,IO_LENGTH(a1)         ; Put this length into the IO request structure
 
-            move.l A1,a5                    ; A5 now contains trackdisk.device IO request
+            move.l a1,a5                    ; a5 now contains trackdisk.device IO request
 
-            ;Allocate the memory now. D0 already contains the amount we want
-			move.l  D0,D7 ;Remember how much we allocate here so we can deallocate later
+            ;Allocate the memory now. d0 already contains the amount we want
+			move.l  d0,d7 ;Remember how much we allocate here so we can deallocate later
             move.l	#MEMF_CLEAR_CHIP,d1
         	jsr	AllocMem(a6)
 
             ;Chip memory is now allocated. Do the executable read
         	move.l	a5,a1                   ;Move IO request into AI
-        	move.l	d0,IO_DATA(a1)          ;D0 contains the pointer from allocmem
-			move.l  d0,A5					;Don't forget where the memory is stored
+        	move.l	d0,IO_DATA(a1)          ;d0 contains the pointer from allocmem
+			move.l  d0,a5					;Don't forget where the memory is stored
 			
         	jsr	DoIO(a6)
 					
-            ;It's all loaded, we need to decrunch to other mem
-			;Allocate our fast/slow ram
+            ;It's all loaded, we need to decrunch to any available mem
 			move.l  origsize,d0
             move.l	#MEMF_CLEAR_ANY,d1
         	jsr	AllocMem(a6)			
 			
 			move.l  a5,a0 ;The source is the chip ram that we allocated earlier 
-			move.l  d0,a1 ;The target is the slow ram that we just allocated
+			move.l  d0,a1 ;The target is the any ram that we just allocated
             movem.l a0-a6/d0-d7,-(sp)  ; preserve registers			
 			jsr zx0_decompress
             movem.l (sp)+,a0-a6/d0-d7  ; preserve registers
 			
 			
 			;Now we can fix the redirects
-			move.l  A1,A5  ;We keep the target as A5 from now on			
-			move.l  A1,D1  ;Also need the address in data register for add operation	
-			move.l  A0,A1  ;Put the source chip into A1 so we can free immediately after the redirect
-            add.l   redirstart,a0 ;A0 now contains the redirect offset
-			moveq	#0,D0
-			move.w	redircount,D0
+			move.l  a1,a5  ;We keep the target as a5 from now on			
+			move.l  a1,d1  ;Also need the address in data register for add operation	
+			move.l  a0,a1  ;Put the source chip into a1 so we can free immediately after the redirect
+            add.l   redirstart,a0 ;a0 now contains the redirect offset
+			moveq	#0,d0
+			move.w	redircount,d0
 					
 			blt GameReady ;Skip if no redirects
 
 redirectLoop
-            move.l A5,A2 ;Reset redirect base
-            add.l (a0)+,A2 ;Increase redirect base by the offset of the redirect
-            add.l d1,(A2) ;Patch the redirect by the start of allocated memory
+            move.l a5,a2 ;Reset redirect base
+            add.l (a0)+,a2 ;Increase redirect base by the offset of the redirect
+            add.l d1,(a2) ;Patch the redirect by the start of allocated memory
             dbra.w d0,redirectLoop ;Repeat X times
 
 GameReady			
@@ -113,10 +119,12 @@ GameReady
 			move.l d7,d0
         	jsr	FreeMem(a6)
 
-			;The game should be fully patched within chipram 
-			Move.l A5,A0
-			MoveQ #0,D0
+			;The game should be fully patched within any ram 
+			Move.l a5,a0
+			MoveQ #0,d0
             movem.l (sp)+,a1-a6/d1-d7  ; preserve registers								
+
+            JSR MoveExec ;Move exec
 			RTS
 
 zx0_decompress:
@@ -171,10 +179,6 @@ zx0_decompress:
 
 .done:         movem.l (sp)+,a2/d2  ; restore preserved registers
 .got_elias:    rts
-
-GetVBR
-				dc.w $4e7a,$c801 ;hex for "movec VBR,a4"
-				rte ;return from Supervisor mode
 
 ;Fill to 1024 bytes
             cnop 0,1024
