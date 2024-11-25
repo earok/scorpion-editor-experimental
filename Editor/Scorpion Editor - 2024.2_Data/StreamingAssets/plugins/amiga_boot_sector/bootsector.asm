@@ -51,6 +51,7 @@ redirstart  dc.l 0 ;24 Pointer to the redirect list (uncrunched after the ZX0 da
 redircount	dc.w 0 ;28 Number of relocations as word
 datastart   dc.w 0 ;30 Pointer to Scorpion data lookup table in sectors
 datasize    dc.w 0 ;32 Size of Scorpion data lookup header in sectors
+savestart	dc.w 0 ;34 The start of the part of the disk where we can write user data (may be after the last sector if there's no space for saving)
 
 start
 ; a6 = SysBase
@@ -124,7 +125,6 @@ GameReady
 			MoveQ #0,d0
             movem.l (sp)+,a1-a6/d1-d7  ; preserve registers								
 
-            JSR MoveExec ;Move exec
 			RTS
 
 zx0_decompress:
