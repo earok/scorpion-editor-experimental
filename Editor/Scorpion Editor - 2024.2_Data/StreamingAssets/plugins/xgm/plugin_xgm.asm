@@ -54,6 +54,10 @@ FunctionTable
 ;JSR 32(plugin_XGM)
     bra.w XGM_EnableProtection
 
+;XGM Pause play music (use instead of stop if we want to resume)
+;JSR 36(plugin_XGM)
+    bra.w XGM_PausePlayMusic
+
 XGM_init
     move.w  #$100,($A11100)         ; Send the Z80 a bus request.
     move.w  #$100,($A11200)
@@ -237,6 +241,20 @@ XGM_ResumePlayMusic
     move.w  #$000,($A11100)         ; release the Z80 bus
     rts
 
+
+XGM_PausePlayMusic
+    move.w  #$100,($A11100)         ; Send the Z80 a bus request
+    move.w  #$100,($A11200)
+
+@XGM_PausePlayMusic_z80_wait1:
+    move.w  ($A11100),d0            ; read Z80 halted state
+    btst    #8,d0                   ; Z80 halted ?
+    bne     @XGM_PausePlayMusic_z80_wait1              ; not yet, wait..
+    
+    or.b    #$10,(Z80_DRV_COMMAND)          ; send pause play command
+
+    move.w  #$000,($A11100)         ; release the Z80 bus
+    rts
 
 
 XGM_StopPlayMusic
