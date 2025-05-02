@@ -24,7 +24,6 @@
       "Expression": "KeyboardRawCode",
       "Index": "0",
       "Label": "",
-      "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
       "Level": "none",
@@ -81,7 +80,16 @@
       "Platform": "all",
       "VariableType": "Alias",
       "VariableExpansionMode": "Word",
-      "Conditions": []
+      "DiceSides": "2",
+      "Conditions": [
+        {
+          "LeftSide": "",
+          "Comparison": "NotZero",
+          "RightSide": "",
+          "ComparisonNext": "End",
+          "IsValid": false
+        }
+      ]
     },
     {
       "Values": {},
@@ -105,7 +113,6 @@
       "Expression": "EventTag",
       "Index": "0",
       "Label": "",
-      "DiceSides": 2,
       "Disabled": false,
       "Breakpoint": false,
       "Level": "none",
@@ -162,6 +169,7 @@
       "Platform": "all",
       "VariableType": "Alias",
       "VariableExpansionMode": "Word",
+      "DiceSides": "2",
       "Conditions": []
     }
   ]
