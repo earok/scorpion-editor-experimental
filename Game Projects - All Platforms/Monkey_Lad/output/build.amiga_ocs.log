@@ -1,39 +1,13 @@
-=== Image optimisations ===
-
-=== Estimated memory usages ===
-
-For chip:
-Map gfx (Panel: scorpion_eng_splashscreen): 55172
-Music memory (song): 78332
-BP Buffer memory: 109056
-core sfx/gfx memory: 82520
-Parallax memory: 0
-OS/other estimated: 99328
-
-For other:
-Map cache memory: 0
-Map header cache memory: 0
-Map data memory: 31600
-Map background memory: 1400
-EXE memory: 214360
-vm memory: 11612
-project memory: 8732
-memory reserved for active actors on screen (32): 4744
-memory reserved for dormant actors in map (256): 9216
-OS/other estimated: 105472
-
-Accounted memory chip: 529880
-Accounted memory other: 281664
-Accounted memory total: 811544
+Compiled on Sunday, 25 May 2025 8:52:10 p.m.
+Version string: SE2024.2.250518.20.03.EX
 
 === Misc ===
-ImageFrames: 56
-ImageFrame Data Size: 2464
+ImageFrames: 57
+ImageFrame Data Size: 2508
 Maps and Asset Bundles Count: 3
 Maps and Asset Bundles Data Size: 36
 Actor Count: 14
-Actor Data Size: 2632
-Movement Pattern Data: 2
+Actor Data Size: 2520
 Block Count: 13
 Block Data Size: 884
 Anim5 Count: 0
@@ -45,99 +19,124 @@ Teleporter Data Size: 16
 Animations Count: 35
 Animations Data Size: 560
 AnimationFrame Count: 58
-AnimationFrame Data Size: System.Collections.Generic.List`1[System.Byte]
+AnimationFrame Data Size: 928
 Sprites: 53
 Sprites Data Size: 742
-Attack Data: 3
-Attack Data Size: 216
-Misc data size: 56
+Attack Data: 5
+Attack Data Size: 440
+Misc data size: 140
+=== Image optimisations ===
 Music file song Original size 78332 Crunched size 46572
-Movement patterns Original size 2 Crunched size 2
-Panel scorpion_eng_splashscreen Original size 55172 Crunched size 3460
-Panel pnl_title Original size 41072 Crunched size 7090
-Project virtual machine (codeblocks) Original size 11612 Crunched size 3176
-Header data for map level1 Original size 8000 Crunched size 340
-Tile data for map level1 (mem restrictions:None) Original size 31600 Crunched size 2430
-Background for map level1 Original size 1400 Crunched size 164
-Header data for map level2 Original size 8000 Crunched size 390
-Tile data for map level2 (mem restrictions:None) Original size 26304 Crunched size 1378
-Background for map level2 Original size 1400 Crunched size 138
-Asset bundle 0 (Core project asset bundle) Original size 82520 Crunched size 30438
+Panel (background color #F0F) Original size 1296 Crunched size 76
+Panel scorpion_eng_splashscreen Original size 36792 Crunched size 3380
+Panel (background)level1_sky Original size 1396 Crunched size 190
+Panel (background)level2_sky Original size 1396 Crunched size 164
+Panel pnl_title Original size 40192 Crunched size 7096
+Project virtual machine (codeblocks) Original size 12564 Crunched size 3514
+Map actor data for level1 Original size 560 Crunched size 192
+Header data for map level1 Original size 844 Crunched size 136
+Tile data for map level1 (mem restrictions:None) Original size 31580 Crunched size 2426
+Map actor data for level2 Original size 1008 Crunched size 252
+Header data for map level2 Original size 844 Crunched size 138
+Tile data for map level2 (mem restrictions:None) Original size 26316 Crunched size 1386
+Asset bundle 0 (Core project asset bundle) Original size 82530 Crunched size 30454
 Asset bundle 1 (level1) Original size 5418 Crunched size 2804
 Asset bundle 2 (level2) Original size 4206 Crunched size 1726
-Project Header Original size 4036 Crunched size 1208
-Project Data Original size 8732 Crunched size 2828
+Misc Data (paths, hurt boxes etc) Original size 2 Crunched size 2
+Project Header Original size 4408 Crunched size 1246
+Project Data Original size 8972 Crunched size 3042
 Project virtual machine redirects Original size 4 Crunched size 4
 
-=== Possibly unused blocks ===
-underwaterburgerrock
+=== Accounted Memory Usage ===
+(Note that this isn't a full account of memory usage, just the memory we can account for)
 
-=== Possibly unused Actors ===
-bigfish
-bird
-frog
-merman
-ringshot
-scorpion
-smallfish
+For chip:
+Map gfx (Panel: pnl_title): 40192
+Music memory (song): 78332
+BP Buffer memory: 109056
+Core sfx/gfx memory: 82530
+Parallax memory: 0
+OS/other estimated: 99328
+
+For other:
+Map cache memory: 0
+Map header cache memory: 0
+Map actor cache memory: 0
+Map data memory: 31580
+Map background memory: 1396
+EXE memory: 204056
+vm memory: 12564
+project memory: 8972
+memory reserved for active actors on screen (32): 4616
+memory reserved for dormant actors in map (128): 4608
+OS/other estimated: 105472
+
+Accounted memory chip: 409438
+Accounted memory other: 373264
+Accounted memory total: 782702
 
 === Codeblocks by compiled size ===
-load_level: 764
-restart_level: 648
-do_teleport: 424
+restart_level: 604
+load_level: 550
+pre_startup: 422
+do_teleport: 402
 flipscreen_smooth: 310 (Unused?)
+alexkidd_autogen_attack: 292
+alexkidd_swim_autogen_attack: 286
 flipxymove: 278 (Unused?)
-startup: 242
-on_enterwater: 220
-pre_startup: 204
+load_next_level: 252 (Unused?)
+startup: 250
+on_enterwater: 226
+block_find: 206 (Unused?)
 set_yresolution: 202
 waitforframes: 194
 check_talkpad: 192 (Unused?)
-pause: 176 (Unused?)
-on_playerkill: 172
+pause: 184 (Unused?)
+block_count: 178 (Unused?)
+on_playerkill: 178
 flipymove: 162 (Unused?)
+pre_quit: 160
 snap_to_screen: 158
 on_hardblockcollide: 154
-pre_quit: 152
+on_blockhit: 148
+on_blockhit_mysterycontainer: 148
+on_blockhit_starcontainer: 148
+on_blockhit_underwaterburgerrock: 148
 load_panel: 146
-on_blockhit: 144
-on_blockhit_mysterycontainer: 144
-on_blockhit_starcontainer: 144
-on_blockhit_underwaterburgerrock: 144
 flipxmove: 142 (Unused?)
 unload_level: 142
 AUTOGEN_OUTOFSCREEN_snap_to_screen_snap_to_screen_snap_to_screen_snap_to_screen: 130
 AUTOGEN_OUTOFSCREEN_destroy_actor_destroy_actor_destroy_actor_destroy_actor: 130
+destroy_all_blocks: 128 (Unused?)
+restart_this_level: 128 (Unused?)
 on_finishlevel: 128
-destroy_all_blocks: 124 (Unused?)
 on_entered_checkpoint: 124
 pre_load_level: 122
-spawnbrokenblock: 118
-waitforfireup: 114
 fadein: 112
 on_rockcollide: 112
 swapsky: 112
-waitforfiredown: 110
+spawnbrokenblock: 110
 unload_panel: 106
-blockcheck_hit: 98 (Unused?)
+waitforfireup: 102
+blockcheck_hit: 102 (Unused?)
+waitforfiredown: 98
+on_punch: 98
 load_panel_bottom: 96 (Unused?)
 load_panel_top: 96 (Unused?)
 destroy_child_actors: 94 (Unused?)
-on_punch: 92
 autogen_alexkidd_punch_jump_l_0: 90
-autogen_alexkidd_punch_l_0: 90
-autogen_alexkidd_swim_attack_r_0: 90
 autogen_alexkidd_swim_attack_l_0: 90
+autogen_alexkidd_swim_attack_r_0: 90
 fadeout: 88
 autogen_alexkidd_punch_jump_r_0: 88
-autogen_alexkidd_punch_r_0: 88
 pre_anim5: 86 (Unused?)
 waitforfirehit: 86
+on_getring: 84
+on_killenemy: 84
 destroyplayer: 82
 load_music: 78
 AUTOGEN_OUTOFSCREEN_snap_to_screen_snap_to_screen_None_None: 78
-on_getring: 78
-on_killenemy: 78
+on_getmoney: 78
 load_music_finish: 76
 wrap_screen_bottom: 76 (Unused?)
 wrap_screen_right: 76 (Unused?)
@@ -145,14 +144,13 @@ set_ntsc: 74 (Unused?)
 flipscreen: 72 (Unused?)
 wrap_screen_left: 72 (Unused?)
 wrap_screen_top: 72 (Unused?)
-on_getmoney: 72
 quit: 70
 jump_actor: 66 (Unused?)
 load_panel_finish: 66
 on_hitmerman: 66
+on_frogjump: 64
 unload_panel_bottom: 62
 unload_panel_top: 62
-zzz_cameratrack: 62 (Unused?)
 destroy_all_actors: 60 (Unused?)
 destroy_actor: 58
 regenerate_screen: 58
@@ -164,18 +162,10 @@ AUTOGEN_OUTOFSCREEN_destroy_actor_None_None_None: 50
 regenerate_screen_wait: 46
 freeze_actor: 40 (Unused?)
 unfreeze_actor: 40 (Unused?)
-on_frogjump: 38
 spawn_merman: 36
 block_coll_force: 32 (Unused?)
 block_coll_passthru: 32 (Unused?)
 clear_block_collision: 32
 vm_registers: 26 (Unused?)
-vm_constants: 26 (Unused?)
 debug_breakpoint: 26 (Unused?)
-hardware_amiga: 26 (Unused?)
-hardware_megadrive: 26 (Unused?)
-vm_constants_audiodriver: 26 (Unused?)
-vm_constants_controlbits: 26 (Unused?)
-vm_constants_notes: 26 (Unused?)
-vm_constants_platform: 26 (Unused?)
 vm_constants_tile_properties: 26 (Unused?)

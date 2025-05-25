@@ -506,6 +506,13 @@
     },
     {
       "CodeBlock": "vm_constants",
+      "Name": "RenderMode_BlinkAlternative",
+      "DefaultValue": "10",
+      "Index": 0,
+      "MemoryOffset": 0
+    },
+    {
+      "CodeBlock": "vm_constants",
       "Name": "IsOnPlatform_False",
       "DefaultValue": "0",
       "Index": 0,
@@ -2594,80 +2601,94 @@
     },
     {
       "CodeBlock": "startup",
-      "Name": "myarray",
-      "DefaultValue": "5",
+      "Name": "negative_var",
+      "DefaultValue": "-1",
       "Index": 184,
       "MemoryOffset": 1242
     },
     {
       "CodeBlock": "startup",
-      "Name": "myfracarray",
+      "Name": "myarray",
       "DefaultValue": "5",
       "Index": 185,
-      "MemoryOffset": 1245
+      "MemoryOffset": 1243
+    },
+    {
+      "CodeBlock": "startup",
+      "Name": "myfracarray",
+      "DefaultValue": "5",
+      "Index": 186,
+      "MemoryOffset": 1246
     },
     {
       "CodeBlock": "startup",
       "Name": "arrayindex",
       "DefaultValue": "4",
-      "Index": 186,
-      "MemoryOffset": 1255
-    },
-    {
-      "CodeBlock": "startup",
-      "Name": "arrayindex2",
-      "DefaultValue": "2",
       "Index": 187,
       "MemoryOffset": 1256
     },
     {
       "CodeBlock": "startup",
-      "Name": "test",
-      "DefaultValue": "0",
+      "Name": "arrayindex2",
+      "DefaultValue": "2",
       "Index": 188,
       "MemoryOffset": 1257
     },
     {
       "CodeBlock": "startup",
-      "Name": "value",
+      "Name": "test",
       "DefaultValue": "0",
       "Index": 189,
       "MemoryOffset": 1258
     },
     {
       "CodeBlock": "startup",
-      "Name": "expected",
+      "Name": "value",
       "DefaultValue": "0",
       "Index": 190,
       "MemoryOffset": 1259
     },
     {
       "CodeBlock": "startup",
-      "Name": "value_alias",
-      "DefaultValue": "value",
+      "Name": "expected",
+      "DefaultValue": "0",
       "Index": 191,
       "MemoryOffset": 1260
+    },
+    {
+      "CodeBlock": "startup",
+      "Name": "value_alias",
+      "DefaultValue": "value",
+      "Index": 192,
+      "MemoryOffset": 1261
     },
     {
       "CodeBlock": "startup",
       "Name": "expected_alias",
       "DefaultValue": "expected",
-      "Index": 191,
-      "MemoryOffset": 1260
+      "Index": 192,
+      "MemoryOffset": 1261
     },
     {
       "CodeBlock": "startup",
       "Name": "defined_delay",
       "DefaultValue": "actor_var2",
-      "Index": 191,
-      "MemoryOffset": 1260
+      "Index": 192,
+      "MemoryOffset": 1261
     },
     {
       "CodeBlock": "startup",
       "Name": "test_bitshift",
       "DefaultValue": "8",
-      "Index": 191,
-      "MemoryOffset": 1260
+      "Index": 192,
+      "MemoryOffset": 1261
+    },
+    {
+      "CodeBlock": "startup",
+      "Name": "bytevariable",
+      "DefaultValue": "0",
+      "Index": 193,
+      "MemoryOffset": 1262
     }
   ],
   "Lines": [
@@ -5798,1593 +5819,1605 @@
       "Description": "Set 'actor_y' to 'actor_y + yres + 16'"
     },
     {
-      "CodeBlock": "new_actor_autogen_attack",
-      "CodeBlockLine": 0,
-      "MemoryOffset": 7114,
-      "Description": "NEW_ACTOR_AUTOGEN_ATTACK"
-    },
-    {
-      "CodeBlock": "new_actor_autogen_attack",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 7114,
-      "Description": "If Test bit AnimFlag_PreventAttack on actor_animationflags ELSE GOTO 00007160"
-    },
-    {
-      "CodeBlock": "new_actor_autogen_attack",
-      "CodeBlockLine": 4,
-      "MemoryOffset": 7160,
-      "Description": "If actor_controlfire == 0 ELSE GOTO 00007206"
-    },
-    {
-      "CodeBlock": "new_actor_autogen_attack",
-      "CodeBlockLine": 7,
-      "MemoryOffset": 7206,
-      "Description": "If Test bit Flag_AutoFire on actor_controlattackcontrols is zero ELSE GOTO 00007272"
-    },
-    {
-      "CodeBlock": "new_actor_autogen_attack",
-      "CodeBlockLine": 8,
-      "MemoryOffset": 7226,
-      "Description": "If actor_controlfire != Button_Hit ELSE GOTO 00007272"
-    },
-    {
       "CodeBlock": "assert",
       "CodeBlockLine": 0,
-      "MemoryOffset": 7298,
+      "MemoryOffset": 7114,
       "Description": "ASSERT"
     },
     {
       "CodeBlock": "assert",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7298,
+      "MemoryOffset": 7114,
       "Description": "Set 'test' to 'test + 1'"
     },
     {
       "CodeBlock": "assert",
       "CodeBlockLine": 3,
-      "MemoryOffset": 7308,
-      "Description": "If value != expected_alias ELSE GOTO 00007412"
+      "MemoryOffset": 7124,
+      "Description": "If value != expected_alias ELSE GOTO 00007228"
     },
     {
       "CodeBlock": "assert",
       "CodeBlockLine": 4,
-      "MemoryOffset": 7322,
+      "MemoryOffset": 7138,
       "Description": "Set 'line' to 'test * 3'"
     },
     {
       "CodeBlock": "assert",
       "CodeBlockLine": 5,
-      "MemoryOffset": 7334,
+      "MemoryOffset": 7150,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "assert",
       "CodeBlockLine": 5,
-      "MemoryOffset": 7342,
+      "MemoryOffset": 7158,
       "Description": "Print 'Test {test} failed at line {line}. Expected {expected} Actual {value}' on quit"
     },
     {
       "CodeBlock": "assert_fraction",
       "CodeBlockLine": 0,
-      "MemoryOffset": 7438,
+      "MemoryOffset": 7254,
       "Description": "ASSERT_FRACTION"
     },
     {
       "CodeBlock": "assert_fraction",
       "CodeBlockLine": 4,
-      "MemoryOffset": 7438,
+      "MemoryOffset": 7254,
       "Description": "Set 'test' to 'test + 1'"
     },
     {
       "CodeBlock": "assert_fraction",
       "CodeBlockLine": 5,
-      "MemoryOffset": 7448,
-      "Description": "If value_frac + 0.0 != expected_frac + 0.0 ELSE GOTO 00007560"
+      "MemoryOffset": 7264,
+      "Description": "If value_frac + 0.0 != expected_frac + 0.0 ELSE GOTO 00007380"
     },
     {
       "CodeBlock": "assert_fraction",
       "CodeBlockLine": 6,
-      "MemoryOffset": 7470,
+      "MemoryOffset": 7290,
       "Description": "Set 'line' to 'test * 3'"
     },
     {
       "CodeBlock": "assert_fraction",
       "CodeBlockLine": 7,
-      "MemoryOffset": 7482,
+      "MemoryOffset": 7302,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "assert_fraction",
       "CodeBlockLine": 7,
-      "MemoryOffset": 7490,
+      "MemoryOffset": 7310,
       "Description": "Print 'Test {test} failed at line {line}. Expected {expected_frac} Actual {value_frac}' on quit"
     },
     {
       "CodeBlock": "assert_long",
       "CodeBlockLine": 0,
-      "MemoryOffset": 7586,
+      "MemoryOffset": 7406,
       "Description": "ASSERT_LONG"
     },
     {
       "CodeBlock": "assert_long",
       "CodeBlockLine": 3,
-      "MemoryOffset": 7586,
+      "MemoryOffset": 7406,
       "Description": "Set 'test' to 'test + 1'"
     },
     {
       "CodeBlock": "assert_long",
       "CodeBlockLine": 4,
-      "MemoryOffset": 7596,
-      "Description": "If value_long != expected_long ELSE GOTO 00007700"
+      "MemoryOffset": 7416,
+      "Description": "If value_long != expected_long ELSE GOTO 00007520"
     },
     {
       "CodeBlock": "assert_long",
       "CodeBlockLine": 5,
-      "MemoryOffset": 7610,
+      "MemoryOffset": 7430,
       "Description": "Set 'line' to 'test * 3'"
     },
     {
       "CodeBlock": "assert_long",
       "CodeBlockLine": 6,
-      "MemoryOffset": 7622,
+      "MemoryOffset": 7442,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "assert_long",
       "CodeBlockLine": 6,
-      "MemoryOffset": 7630,
+      "MemoryOffset": 7450,
       "Description": "Print 'Test {test} failed at line {line}. Expected {expected_long} Actual {value_long}' on quit"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 0,
-      "MemoryOffset": 7726,
+      "MemoryOffset": 7546,
       "Description": "STARTUP"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 20,
-      "MemoryOffset": 7726,
+      "CodeBlockLine": 22,
+      "MemoryOffset": 7546,
       "Description": "Set 'value_long' to '200000'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 21,
-      "MemoryOffset": 7734,
-      "Description": "If value_long > 300000 ELSE GOTO 00007782"
+      "CodeBlockLine": 23,
+      "MemoryOffset": 7554,
+      "Description": "If value_long > 300000 ELSE GOTO 00007602"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 22,
-      "MemoryOffset": 7750,
+      "CodeBlockLine": 24,
+      "MemoryOffset": 7570,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 22,
-      "MemoryOffset": 7758,
+      "CodeBlockLine": 24,
+      "MemoryOffset": 7578,
       "Description": "Print 'Long compare error' on quit"
     },
     {
       "CodeBlock": "startup",
+      "CodeBlockLine": 26,
+      "MemoryOffset": 7602,
+      "Description": "Set 'bytevariable' to '1'"
+    },
+    {
+      "CodeBlock": "startup",
       "CodeBlockLine": 27,
-      "MemoryOffset": 7782,
-      "Description": "Set 'new_var5' to '-1'"
+      "MemoryOffset": 7608,
+      "Description": "If bytevariable != 1 ELSE GOTO 00007660"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 28,
-      "MemoryOffset": 7792,
-      "Description": "Set 'myarray[3]' to '3'"
+      "MemoryOffset": 7622,
+      "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 29,
-      "MemoryOffset": 7798,
-      "Description": "Set 'myfracarray[3]' to '5.5'"
+      "CodeBlockLine": 28,
+      "MemoryOffset": 7630,
+      "Description": "Print 'Byte compare error {bytevariable}' on quit"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 30,
-      "MemoryOffset": 7808,
-      "Description": "Set 'myarray[arrayindex]' to '120'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 31,
-      "MemoryOffset": 7824,
-      "Description": "Set 'myarray[arrayindex2]' to 'myarray[arrayindex]'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 32,
-      "MemoryOffset": 7856,
-      "Description": "GOSUB TO 'TESTS'"
+      "CodeBlockLine": 33,
+      "MemoryOffset": 7660,
+      "Description": "Set 'new_var5' to '-1'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 34,
-      "MemoryOffset": 7876,
-      "Description": "If true == true AND false == true ELSE GOTO 00007926"
+      "MemoryOffset": 7670,
+      "Description": "Set 'myarray[3]' to '3'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 35,
-      "MemoryOffset": 7896,
-      "Description": "Core operation'Print'"
+      "MemoryOffset": 7676,
+      "Description": "Set 'myfracarray[3]' to '5.5'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 35,
-      "MemoryOffset": 7904,
-      "Description": "Print 'AND check failed' on quit"
+      "CodeBlockLine": 36,
+      "MemoryOffset": 7686,
+      "Description": "Set 'myarray[arrayindex]' to '120'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 37,
-      "MemoryOffset": 7926,
-      "Description": "If true == true AND false == false ELSE GOTO 00007952"
+      "MemoryOffset": 7702,
+      "Description": "Set 'myarray[arrayindex2]' to 'myarray[arrayindex]'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 38,
-      "MemoryOffset": 7946,
-      "Description": "Set 'all_and_tests_passed' to 'true'"
+      "MemoryOffset": 7734,
+      "Description": "GOSUB TO 'TESTS'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 40,
-      "MemoryOffset": 7952,
-      "Description": "If true == false OR false == false ELSE GOTO 00007978"
+      "MemoryOffset": 7754,
+      "Description": "If true == true AND false == true ELSE GOTO 00007804"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 41,
-      "MemoryOffset": 7972,
-      "Description": "Set 'all_or_tests_passed' to 'true'"
+      "MemoryOffset": 7774,
+      "Description": "Core operation'Print'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 41,
+      "MemoryOffset": 7782,
+      "Description": "Print 'AND check failed' on quit"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 43,
-      "MemoryOffset": 7978,
-      "Description": "If true == true AND true == false OR false == false ELSE GOTO 00008014"
+      "MemoryOffset": 7804,
+      "Description": "If true == true AND false == false ELSE GOTO 00007830"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 44,
-      "MemoryOffset": 8008,
-      "Description": "Set 'all_both_tests_passed' to 'true'"
+      "MemoryOffset": 7824,
+      "Description": "Set 'all_and_tests_passed' to 'true'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 46,
-      "MemoryOffset": 8014,
-      "Description": "If all_and_tests_passed == false ELSE GOTO 00008058"
+      "MemoryOffset": 7830,
+      "Description": "If true == false OR false == false ELSE GOTO 00007856"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 47,
-      "MemoryOffset": 8026,
-      "Description": "Core operation'Print'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 47,
-      "MemoryOffset": 8034,
-      "Description": "Print 'AND check failed 2' on quit"
+      "MemoryOffset": 7850,
+      "Description": "Set 'all_or_tests_passed' to 'true'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 49,
-      "MemoryOffset": 8058,
-      "Description": "If all_or_tests_passed == false ELSE GOTO 00008100"
+      "MemoryOffset": 7856,
+      "Description": "If true == true AND true == false OR false == false ELSE GOTO 00007892"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 50,
-      "MemoryOffset": 8070,
-      "Description": "Core operation'Print'"
-    },
-    {
-      "CodeBlock": "startup",
-      "CodeBlockLine": 50,
-      "MemoryOffset": 8078,
-      "Description": "Print 'OR check failed 2' on quit"
+      "MemoryOffset": 7886,
+      "Description": "Set 'all_both_tests_passed' to 'true'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 52,
-      "MemoryOffset": 8100,
-      "Description": "If all_both_tests_passed == false ELSE GOTO 00008148"
+      "MemoryOffset": 7892,
+      "Description": "If all_and_tests_passed == false ELSE GOTO 00007936"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 53,
-      "MemoryOffset": 8112,
+      "MemoryOffset": 7904,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 53,
-      "MemoryOffset": 8120,
-      "Description": "Print 'OR and AND check failed' on quit"
+      "MemoryOffset": 7912,
+      "Description": "Print 'AND check failed 2' on quit"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 55,
-      "MemoryOffset": 8148,
-      "Description": "Set 'block_x' to '50'"
+      "MemoryOffset": 7936,
+      "Description": "If all_or_tests_passed == false ELSE GOTO 00007978"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 56,
-      "MemoryOffset": 8154,
-      "Description": "Set 'math_x' to '5.1234'"
+      "MemoryOffset": 7948,
+      "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 57,
-      "MemoryOffset": 8162,
-      "Description": "Set 'math_x' to '50'"
+      "CodeBlockLine": 56,
+      "MemoryOffset": 7956,
+      "Description": "Print 'OR check failed 2' on quit"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 58,
-      "MemoryOffset": 8170,
-      "Description": "If block_x != math_x ELSE GOTO 00008228"
+      "MemoryOffset": 7978,
+      "Description": "If all_both_tests_passed == false ELSE GOTO 00008026"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 59,
-      "MemoryOffset": 8184,
+      "MemoryOffset": 7990,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 59,
-      "MemoryOffset": 8192,
-      "Description": "Print 'Word+Fraction comparison failed' on quit"
+      "MemoryOffset": 7998,
+      "Description": "Print 'OR and AND check failed' on quit"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 61,
-      "MemoryOffset": 8228,
-      "Description": "Set 'usedchip' to '512 - chipram'"
+      "MemoryOffset": 8026,
+      "Description": "Set 'block_x' to '50'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 62,
-      "MemoryOffset": 8242,
-      "Description": "Set 'usedother' to '512 - otherram'"
+      "MemoryOffset": 8032,
+      "Description": "Set 'math_x' to '5.1234'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 63,
-      "MemoryOffset": 8256,
+      "MemoryOffset": 8040,
+      "Description": "Set 'math_x' to '50'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 64,
+      "MemoryOffset": 8048,
+      "Description": "If block_x != math_x ELSE GOTO 00008106"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 65,
+      "MemoryOffset": 8062,
       "Description": "Core operation'Print'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 63,
-      "MemoryOffset": 8264,
+      "CodeBlockLine": 65,
+      "MemoryOffset": 8070,
+      "Description": "Print 'Word+Fraction comparison failed' on quit"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 67,
+      "MemoryOffset": 8106,
+      "Description": "Set 'usedchip' to '512 - chipram'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 68,
+      "MemoryOffset": 8120,
+      "Description": "Set 'usedother' to '512 - otherram'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 69,
+      "MemoryOffset": 8134,
+      "Description": "Core operation'Print'"
+    },
+    {
+      "CodeBlock": "startup",
+      "CodeBlockLine": 69,
+      "MemoryOffset": 8142,
       "Description": "Print 'All {test} tests passed !!! {usedchip} : {usedother}' on quit"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 0,
-      "MemoryOffset": 8338,
+      "MemoryOffset": 8216,
       "Description": "TESTS"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 1,
-      "MemoryOffset": 8338,
+      "MemoryOffset": 8216,
       "Description": "Set 'value' to '-25 / 10'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 2,
-      "MemoryOffset": 8352,
+      "MemoryOffset": 8230,
       "Description": "Set 'expected' to '-2'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 3,
-      "MemoryOffset": 8358,
+      "MemoryOffset": 8236,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 4,
-      "MemoryOffset": 8378,
+      "MemoryOffset": 8256,
       "Description": "Set 'value' to '25 / -10'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 5,
-      "MemoryOffset": 8392,
+      "MemoryOffset": 8270,
       "Description": "Set 'expected' to '-2'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 6,
-      "MemoryOffset": 8398,
+      "MemoryOffset": 8276,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 7,
-      "MemoryOffset": 8418,
+      "MemoryOffset": 8296,
       "Description": "Set 'value' to '123 >> 4'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 8,
-      "MemoryOffset": 8426,
+      "MemoryOffset": 8304,
       "Description": "Set 'expected' to '7'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 9,
-      "MemoryOffset": 8432,
+      "MemoryOffset": 8310,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 10,
-      "MemoryOffset": 8452,
+      "MemoryOffset": 8330,
       "Description": "Set 'value' to '17 << 4'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 11,
-      "MemoryOffset": 8460,
+      "MemoryOffset": 8338,
       "Description": "Set 'expected' to '272'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 12,
-      "MemoryOffset": 8466,
+      "MemoryOffset": 8344,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 13,
-      "MemoryOffset": 8486,
+      "MemoryOffset": 8364,
       "Description": "Set 'value' to '0x0F | 0xF0'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 14,
-      "MemoryOffset": 8496,
+      "MemoryOffset": 8374,
       "Description": "Set 'expected' to '255'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 15,
-      "MemoryOffset": 8502,
+      "MemoryOffset": 8380,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 16,
-      "MemoryOffset": 8522,
+      "MemoryOffset": 8400,
       "Description": "Set 'value' to '0xAF ^ 0xFA'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 17,
-      "MemoryOffset": 8538,
+      "MemoryOffset": 8416,
       "Description": "Set 'expected' to '85'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 18,
-      "MemoryOffset": 8544,
+      "MemoryOffset": 8422,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 19,
-      "MemoryOffset": 8564,
+      "MemoryOffset": 8442,
       "Description": "Set 'value' to '7 ^ arrayindex'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 20,
-      "MemoryOffset": 8576,
+      "MemoryOffset": 8454,
       "Description": "Set 'expected' to '3'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 21,
-      "MemoryOffset": 8582,
+      "MemoryOffset": 8460,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 22,
-      "MemoryOffset": 8602,
+      "MemoryOffset": 8480,
       "Description": "Set 'value' to '0b1111 & 0b0110'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 23,
-      "MemoryOffset": 8612,
+      "MemoryOffset": 8490,
       "Description": "Set 'expected' to '6'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 24,
-      "MemoryOffset": 8618,
+      "MemoryOffset": 8496,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 25,
-      "MemoryOffset": 8638,
+      "MemoryOffset": 8516,
       "Description": "Set 'value' to 'testconst_hex'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 26,
-      "MemoryOffset": 8644,
+      "MemoryOffset": 8522,
       "Description": "Set 'expected' to '0xff'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 27,
-      "MemoryOffset": 8650,
+      "MemoryOffset": 8528,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 28,
-      "MemoryOffset": 8670,
+      "MemoryOffset": 8548,
       "Description": "Set 'value' to 'testconst_bin'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 29,
-      "MemoryOffset": 8676,
+      "MemoryOffset": 8554,
       "Description": "Set 'expected' to '0b1010'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 30,
-      "MemoryOffset": 8682,
+      "MemoryOffset": 8560,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 31,
-      "MemoryOffset": 8702,
+      "MemoryOffset": 8580,
       "Description": "Set 'value' to '-testconst_bin'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 32,
-      "MemoryOffset": 8708,
+      "MemoryOffset": 8586,
       "Description": "Set 'expected' to '-10'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 33,
-      "MemoryOffset": 8714,
+      "MemoryOffset": 8592,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 34,
-      "MemoryOffset": 8734,
+      "MemoryOffset": 8612,
       "Description": "Set 'value' to '1 << test_bitshift | 1'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 35,
-      "MemoryOffset": 8750,
+      "MemoryOffset": 8628,
       "Description": "Set 'expected' to '257'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 36,
-      "MemoryOffset": 8756,
+      "MemoryOffset": 8634,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 37,
-      "MemoryOffset": 8776,
+      "MemoryOffset": 8654,
       "Description": "Set 'value' to '1024 >> test_bitshift'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 38,
-      "MemoryOffset": 8790,
+      "MemoryOffset": 8668,
       "Description": "Set 'expected' to '4'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 39,
-      "MemoryOffset": 8796,
+      "MemoryOffset": 8674,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 40,
-      "MemoryOffset": 8816,
+      "MemoryOffset": 8694,
       "Description": "Set 'value' to '0b1111 & test_bitshift'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 41,
-      "MemoryOffset": 8826,
+      "MemoryOffset": 8704,
       "Description": "Set 'expected' to '8'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 42,
-      "MemoryOffset": 8832,
+      "MemoryOffset": 8710,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 43,
-      "MemoryOffset": 8852,
+      "MemoryOffset": 8730,
       "Description": "Set 'value' to '0b1111 | test_bitshift'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 44,
-      "MemoryOffset": 8862,
+      "MemoryOffset": 8740,
       "Description": "Set 'expected' to '0b1111'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 45,
-      "MemoryOffset": 8868,
+      "MemoryOffset": 8746,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 46,
-      "MemoryOffset": 8888,
+      "MemoryOffset": 8766,
       "Description": "Set 'value' to '64 / test_bitshift'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 47,
-      "MemoryOffset": 8900,
+      "MemoryOffset": 8778,
       "Description": "Set 'expected' to '8'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 48,
-      "MemoryOffset": 8906,
+      "MemoryOffset": 8784,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 49,
-      "MemoryOffset": 8926,
+      "MemoryOffset": 8804,
       "Description": "Set 'value' to '100 % test_bitshift'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 50,
-      "MemoryOffset": 8942,
+      "MemoryOffset": 8820,
       "Description": "Set 'expected' to '4'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 51,
-      "MemoryOffset": 8948,
+      "MemoryOffset": 8826,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 52,
-      "MemoryOffset": 8968,
+      "MemoryOffset": 8846,
       "Description": "Set 'value' to '100 * test_bitshift'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 53,
-      "MemoryOffset": 8978,
+      "MemoryOffset": 8856,
       "Description": "Set 'expected' to '800'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 54,
-      "MemoryOffset": 8984,
+      "MemoryOffset": 8862,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 55,
-      "MemoryOffset": 9004,
+      "MemoryOffset": 8882,
       "Description": "Set 'value' to '100 - test_bitshift'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 56,
-      "MemoryOffset": 9014,
+      "MemoryOffset": 8892,
       "Description": "Set 'expected' to '92'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 57,
-      "MemoryOffset": 9020,
+      "MemoryOffset": 8898,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 58,
-      "MemoryOffset": 9040,
+      "MemoryOffset": 8918,
       "Description": "Set 'value' to '-test_bitshift'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 59,
-      "MemoryOffset": 9050,
+      "MemoryOffset": 8928,
       "Description": "Set 'expected' to '-8'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 60,
-      "MemoryOffset": 9056,
+      "MemoryOffset": 8934,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 61,
-      "MemoryOffset": 9076,
+      "MemoryOffset": 8954,
       "Description": "Set 'value' to '100 + test_bitshift'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 62,
-      "MemoryOffset": 9086,
+      "MemoryOffset": 8964,
       "Description": "Set 'expected' to '108'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 63,
-      "MemoryOffset": 9092,
+      "MemoryOffset": 8970,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 64,
-      "MemoryOffset": 9112,
+      "MemoryOffset": 8990,
       "Description": "Set 'value' to 'test_bitshift'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 65,
-      "MemoryOffset": 9118,
+      "MemoryOffset": 8996,
       "Description": "Set 'expected' to '8'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 66,
-      "MemoryOffset": 9124,
+      "MemoryOffset": 9002,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 67,
-      "MemoryOffset": 9144,
+      "MemoryOffset": 9022,
       "Description": "Set 'value' to '100 % 8'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 68,
-      "MemoryOffset": 9160,
+      "MemoryOffset": 9038,
       "Description": "Set 'expected' to '4'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 69,
-      "MemoryOffset": 9166,
+      "MemoryOffset": 9044,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 70,
-      "MemoryOffset": 9186,
+      "MemoryOffset": 9064,
       "Description": "Set 'value' to '8 * 8'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 71,
-      "MemoryOffset": 9196,
+      "MemoryOffset": 9074,
       "Description": "Set 'expected' to '64'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 72,
-      "MemoryOffset": 9202,
+      "MemoryOffset": 9080,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 73,
-      "MemoryOffset": 9222,
+      "MemoryOffset": 9100,
       "Description": "Set 'value' to '2 + 2'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 74,
-      "MemoryOffset": 9230,
+      "MemoryOffset": 9108,
       "Description": "Set 'expected' to '4'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 75,
-      "MemoryOffset": 9236,
+      "MemoryOffset": 9114,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 76,
-      "MemoryOffset": 9256,
+      "MemoryOffset": 9134,
       "Description": "Set 'value' to '8 - 4'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 77,
-      "MemoryOffset": 9264,
+      "MemoryOffset": 9142,
       "Description": "Set 'expected' to '4'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 78,
-      "MemoryOffset": 9270,
+      "MemoryOffset": 9148,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 79,
-      "MemoryOffset": 9290,
+      "MemoryOffset": 9168,
       "Description": "Set 'value' to 'logic_speed'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 80,
-      "MemoryOffset": 9296,
+      "MemoryOffset": 9174,
       "Description": "Set 'expected' to '25'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 81,
-      "MemoryOffset": 9302,
+      "MemoryOffset": 9180,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 82,
-      "MemoryOffset": 9322,
+      "MemoryOffset": 9200,
       "Description": "Set 'value' to 'target_speed'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 83,
-      "MemoryOffset": 9328,
+      "MemoryOffset": 9206,
       "Description": "Set 'expected' to '50'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 84,
-      "MemoryOffset": 9334,
+      "MemoryOffset": 9212,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 85,
-      "MemoryOffset": 9354,
+      "MemoryOffset": 9232,
       "Description": "Set 'value' to 'camera_x'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 86,
-      "MemoryOffset": 9360,
+      "MemoryOffset": 9238,
       "Description": "Set 'expected' to '0'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 87,
-      "MemoryOffset": 9366,
+      "MemoryOffset": 9244,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 88,
-      "MemoryOffset": 9386,
+      "MemoryOffset": 9264,
       "Description": "Set 'value' to '-5'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 88,
-      "MemoryOffset": 9392,
-      "Description": "If value < 0 ELSE GOTO 00009414"
+      "MemoryOffset": 9270,
+      "Description": "If value < 0 ELSE GOTO 00009292"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 88,
-      "MemoryOffset": 9404,
+      "MemoryOffset": 9282,
       "Description": "Set 'value' to '0 - value'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 89,
-      "MemoryOffset": 9414,
+      "MemoryOffset": 9292,
       "Description": "Set 'expected' to '5'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 90,
-      "MemoryOffset": 9420,
+      "MemoryOffset": 9298,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 91,
-      "MemoryOffset": 9440,
+      "MemoryOffset": 9318,
       "Description": "Set 'math_x' to '3'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 91,
-      "MemoryOffset": 9448,
+      "MemoryOffset": 9326,
       "Description": "Set 'math_y' to '4'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 91,
-      "MemoryOffset": 9456,
+      "MemoryOffset": 9334,
       "Description": "Set 'math_x2' to '0'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 91,
-      "MemoryOffset": 9464,
+      "MemoryOffset": 9342,
       "Description": "Set 'math_y2' to '0'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 91,
-      "MemoryOffset": 9472,
+      "MemoryOffset": 9350,
       "Description": "Set 'math_x' to 'math_x - math_x2'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 91,
-      "MemoryOffset": 9484,
+      "MemoryOffset": 9362,
       "Description": "Set 'math_y' to 'math_y - math_y2'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 91,
-      "MemoryOffset": 9496,
-      "Description": "If math_x < 0 ELSE GOTO 00009518"
+      "MemoryOffset": 9374,
+      "Description": "If math_x < 0 ELSE GOTO 00009396"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 91,
-      "MemoryOffset": 9508,
+      "MemoryOffset": 9386,
       "Description": "Set 'math_x' to '0 - math_x'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 91,
-      "MemoryOffset": 9518,
-      "Description": "If math_y < 0 ELSE GOTO 00009540"
+      "MemoryOffset": 9396,
+      "Description": "If math_y < 0 ELSE GOTO 00009418"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 91,
-      "MemoryOffset": 9530,
+      "MemoryOffset": 9408,
       "Description": "Set 'math_y' to '0 - math_y'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 91,
-      "MemoryOffset": 9540,
+      "MemoryOffset": 9418,
       "Description": "Set 'value' to 'math_x + math_y'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 92,
-      "MemoryOffset": 9552,
+      "MemoryOffset": 9430,
       "Description": "Set 'expected' to '7'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 93,
-      "MemoryOffset": 9558,
+      "MemoryOffset": 9436,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 94,
-      "MemoryOffset": 9578,
+      "MemoryOffset": 9456,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 94,
-      "MemoryOffset": 9584,
+      "MemoryOffset": 9462,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 94,
-      "MemoryOffset": 9590,
+      "MemoryOffset": 9468,
       "Description": "Raw expression '3'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 94,
-      "MemoryOffset": 9596,
+      "MemoryOffset": 9474,
       "Description": "Raw expression '4'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 94,
-      "MemoryOffset": 9602,
+      "MemoryOffset": 9480,
       "Description": "Core operation'Maths_Distance'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 94,
-      "MemoryOffset": 9610,
+      "MemoryOffset": 9488,
       "Description": "Set 'value' to 'math_x'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 95,
-      "MemoryOffset": 9616,
+      "MemoryOffset": 9494,
       "Description": "Set 'expected' to '5'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 96,
-      "MemoryOffset": 9622,
+      "MemoryOffset": 9500,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 97,
-      "MemoryOffset": 9642,
+      "MemoryOffset": 9520,
       "Description": "Raw expression '9'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 97,
-      "MemoryOffset": 9648,
+      "MemoryOffset": 9526,
       "Description": "Core operation'Maths_SqrRoot'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 97,
-      "MemoryOffset": 9656,
+      "MemoryOffset": 9534,
       "Description": "Set 'value' to 'math_x'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 98,
-      "MemoryOffset": 9662,
+      "MemoryOffset": 9540,
       "Description": "Set 'expected' to '3'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 99,
-      "MemoryOffset": 9668,
+      "MemoryOffset": 9546,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 106,
-      "MemoryOffset": 9688,
+      "MemoryOffset": 9566,
       "Description": "Set 'value' to 'myarray[3]'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 107,
-      "MemoryOffset": 9700,
+      "MemoryOffset": 9578,
       "Description": "Set 'expected' to '3'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 108,
-      "MemoryOffset": 9706,
+      "MemoryOffset": 9584,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 109,
-      "MemoryOffset": 9726,
+      "MemoryOffset": 9604,
       "Description": "Set 'value' to 'myarray[arrayindex]'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 110,
-      "MemoryOffset": 9750,
+      "MemoryOffset": 9628,
       "Description": "Set 'expected' to '120'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 111,
-      "MemoryOffset": 9756,
+      "MemoryOffset": 9634,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 112,
-      "MemoryOffset": 9776,
+      "MemoryOffset": 9654,
       "Description": "Set 'value' to 'myarray[arrayindex2]'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 113,
-      "MemoryOffset": 9800,
+      "MemoryOffset": 9678,
       "Description": "Set 'expected' to '120'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 114,
-      "MemoryOffset": 9806,
+      "MemoryOffset": 9684,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 115,
-      "MemoryOffset": 9826,
+      "MemoryOffset": 9704,
       "Description": "Set 'value' to 'new_var5'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 116,
-      "MemoryOffset": 9838,
+      "MemoryOffset": 9716,
       "Description": "Set 'expected' to '-1'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 117,
-      "MemoryOffset": 9844,
+      "MemoryOffset": 9722,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 118,
-      "MemoryOffset": 9864,
+      "MemoryOffset": 9742,
       "Description": "Set 'value' to '-10 * new_var5'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 119,
-      "MemoryOffset": 9880,
+      "MemoryOffset": 9758,
       "Description": "Set 'expected' to '10'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 120,
-      "MemoryOffset": 9886,
+      "MemoryOffset": 9764,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 121,
-      "MemoryOffset": 9906,
+      "MemoryOffset": 9784,
       "Description": "Set 'value' to '-10 / new_var5'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 122,
-      "MemoryOffset": 9924,
+      "MemoryOffset": 9802,
       "Description": "Set 'expected' to '10'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 123,
-      "MemoryOffset": 9930,
+      "MemoryOffset": 9808,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 124,
-      "MemoryOffset": 9950,
+      "MemoryOffset": 9828,
       "Description": "Set 'value_frac' to '1'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 125,
-      "MemoryOffset": 9958,
+      "MemoryOffset": 9836,
       "Description": "Set 'expected_frac' to '1'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 126,
-      "MemoryOffset": 9966,
+      "MemoryOffset": 9844,
       "Description": "GOSUB TO 'ASSERT_FRACTION'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 127,
-      "MemoryOffset": 9986,
+      "MemoryOffset": 9864,
       "Description": "Set 'value_frac' to '0.5 + 0.5'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 128,
-      "MemoryOffset": 10002,
+      "MemoryOffset": 9880,
       "Description": "Set 'expected_frac' to '1'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 129,
-      "MemoryOffset": 10010,
+      "MemoryOffset": 9888,
       "Description": "GOSUB TO 'ASSERT_FRACTION'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 130,
-      "MemoryOffset": 10030,
+      "MemoryOffset": 9908,
       "Description": "Set 'value_frac' to '0.25 + 0.25'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 131,
-      "MemoryOffset": 10046,
+      "MemoryOffset": 9924,
       "Description": "Set 'expected_frac' to '0.5'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 132,
-      "MemoryOffset": 10054,
+      "MemoryOffset": 9932,
       "Description": "GOSUB TO 'ASSERT_FRACTION'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 133,
-      "MemoryOffset": 10074,
+      "MemoryOffset": 9952,
       "Description": "Set 'value_frac' to '2 * 0.25'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 134,
-      "MemoryOffset": 10090,
+      "MemoryOffset": 9970,
       "Description": "Set 'expected_frac' to '0.5'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 135,
-      "MemoryOffset": 10098,
+      "MemoryOffset": 9978,
       "Description": "GOSUB TO 'ASSERT_FRACTION'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 136,
-      "MemoryOffset": 10118,
+      "MemoryOffset": 9998,
       "Description": "Set 'value_frac' to '0.25 * 2'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 137,
-      "MemoryOffset": 10134,
+      "MemoryOffset": 10014,
       "Description": "Set 'expected_frac' to '0.5'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 138,
-      "MemoryOffset": 10142,
+      "MemoryOffset": 10022,
       "Description": "GOSUB TO 'ASSERT_FRACTION'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 139,
-      "MemoryOffset": 10162,
+      "MemoryOffset": 10042,
       "Description": "Set 'value_frac' to '1 / 2.0'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 140,
-      "MemoryOffset": 10180,
+      "MemoryOffset": 10062,
       "Description": "Set 'expected_frac' to '0.5'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 141,
-      "MemoryOffset": 10188,
+      "MemoryOffset": 10070,
       "Description": "GOSUB TO 'ASSERT_FRACTION'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 142,
-      "MemoryOffset": 10208,
+      "MemoryOffset": 10090,
       "Description": "Set 'value_frac' to '1 / -2.0'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 143,
-      "MemoryOffset": 10226,
+      "MemoryOffset": 10110,
       "Description": "Set 'expected_frac' to '-0.5'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 144,
-      "MemoryOffset": 10234,
+      "MemoryOffset": 10118,
       "Description": "GOSUB TO 'ASSERT_FRACTION'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 145,
-      "MemoryOffset": 10254,
+      "MemoryOffset": 10138,
       "Description": "Set 'value_frac' to 'test_frac'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 146,
-      "MemoryOffset": 10260,
+      "MemoryOffset": 10144,
       "Description": "Set 'expected_frac' to '0.5'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 147,
-      "MemoryOffset": 10268,
+      "MemoryOffset": 10152,
       "Description": "GOSUB TO 'ASSERT_FRACTION'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 148,
-      "MemoryOffset": 10288,
+      "MemoryOffset": 10172,
       "Description": "Set 'value_frac' to 'test_frac + test_frac + test_frac.'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 149,
-      "MemoryOffset": 10308,
+      "MemoryOffset": 10194,
       "Description": "Set 'expected_frac' to '1.5'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 150,
-      "MemoryOffset": 10316,
+      "MemoryOffset": 10202,
       "Description": "GOSUB TO 'ASSERT_FRACTION'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 151,
-      "MemoryOffset": 10336,
+      "MemoryOffset": 10222,
       "Description": "Set 'value_frac' to 'test_frac. * test_frac.'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 152,
-      "MemoryOffset": 10358,
+      "MemoryOffset": 10246,
       "Description": "Set 'expected_frac' to '0.25'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 153,
-      "MemoryOffset": 10366,
+      "MemoryOffset": 10254,
       "Description": "GOSUB TO 'ASSERT_FRACTION'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 154,
-      "MemoryOffset": 10386,
+      "MemoryOffset": 10274,
       "Description": "Set 'value_long' to '0x400000'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 155,
-      "MemoryOffset": 10394,
+      "MemoryOffset": 10282,
       "Description": "Set 'expected_long' to '0x400000'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 156,
-      "MemoryOffset": 10402,
+      "MemoryOffset": 10290,
       "Description": "GOSUB TO 'ASSERT_LONG'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 157,
-      "MemoryOffset": 10422,
+      "MemoryOffset": 10310,
       "Description": "Set 'value_long' to '0'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 158,
-      "MemoryOffset": 10430,
+      "MemoryOffset": 10318,
       "Description": "Set 'expected_long' to '0'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 159,
-      "MemoryOffset": 10438,
+      "MemoryOffset": 10326,
       "Description": "GOSUB TO 'ASSERT_LONG'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 160,
-      "MemoryOffset": 10458,
+      "MemoryOffset": 10346,
       "Description": "Set 'value_alias' to '67'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 161,
-      "MemoryOffset": 10464,
+      "MemoryOffset": 10352,
       "Description": "Set 'expected' to '67'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 162,
-      "MemoryOffset": 10470,
+      "MemoryOffset": 10358,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 163,
-      "MemoryOffset": 10490,
+      "MemoryOffset": 10378,
       "Description": "Set 'math_x' to '-3'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 163,
-      "MemoryOffset": 10498,
+      "MemoryOffset": 10386,
       "Description": "Set 'math_y' to '-4'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 163,
-      "MemoryOffset": 10506,
+      "MemoryOffset": 10394,
       "Description": "Set 'math_x2' to '0'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 163,
-      "MemoryOffset": 10514,
+      "MemoryOffset": 10402,
       "Description": "Set 'math_y2' to '0'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 163,
-      "MemoryOffset": 10522,
+      "MemoryOffset": 10410,
       "Description": "Set 'math_x' to 'math_x - math_x2'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 163,
-      "MemoryOffset": 10534,
+      "MemoryOffset": 10422,
       "Description": "Set 'math_y' to 'math_y - math_y2'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 163,
-      "MemoryOffset": 10546,
-      "Description": "If math_x < 0 ELSE GOTO 00010568"
+      "MemoryOffset": 10434,
+      "Description": "If math_x < 0 ELSE GOTO 00010456"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 163,
-      "MemoryOffset": 10558,
+      "MemoryOffset": 10446,
       "Description": "Set 'math_x' to '0 - math_x'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 163,
-      "MemoryOffset": 10568,
-      "Description": "If math_y < 0 ELSE GOTO 00010590"
+      "MemoryOffset": 10456,
+      "Description": "If math_y < 0 ELSE GOTO 00010478"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 163,
-      "MemoryOffset": 10580,
+      "MemoryOffset": 10468,
       "Description": "Set 'math_y' to '0 - math_y'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 163,
-      "MemoryOffset": 10590,
+      "MemoryOffset": 10478,
       "Description": "Set 'value_alias' to 'math_x + math_y'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 164,
-      "MemoryOffset": 10602,
+      "MemoryOffset": 10490,
       "Description": "Set 'expected' to '7'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 165,
-      "MemoryOffset": 10608,
+      "MemoryOffset": 10496,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 166,
-      "MemoryOffset": 10628,
+      "MemoryOffset": 10516,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 166,
-      "MemoryOffset": 10634,
+      "MemoryOffset": 10522,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 166,
-      "MemoryOffset": 10640,
+      "MemoryOffset": 10528,
       "Description": "Raw expression '-3'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 166,
-      "MemoryOffset": 10646,
+      "MemoryOffset": 10534,
       "Description": "Raw expression '-4'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 166,
-      "MemoryOffset": 10652,
+      "MemoryOffset": 10540,
       "Description": "Core operation'Maths_Distance'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 166,
-      "MemoryOffset": 10660,
+      "MemoryOffset": 10548,
       "Description": "Set 'value_alias' to 'math_x'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 167,
-      "MemoryOffset": 10666,
+      "MemoryOffset": 10554,
       "Description": "Set 'expected' to '5'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 168,
-      "MemoryOffset": 10672,
+      "MemoryOffset": 10560,
       "Description": "GOSUB TO 'ASSERT'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 169,
-      "MemoryOffset": 10692,
+      "MemoryOffset": 10580,
       "Description": "Set 'value_frac' to 'myfracarray[3].'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 170,
-      "MemoryOffset": 10702,
+      "MemoryOffset": 10590,
       "Description": "Set 'expected_frac' to '5.5'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 171,
-      "MemoryOffset": 10710,
+      "MemoryOffset": 10598,
       "Description": "GOSUB TO 'ASSERT_FRACTION'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 172,
-      "MemoryOffset": 10730,
+      "MemoryOffset": 10618,
       "Description": "Set 'value_frac' to '2.75 / expected_frac'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 173,
-      "MemoryOffset": 10752,
+      "MemoryOffset": 10640,
       "Description": "Set 'expected_frac' to '0.5'"
     },
     {
       "CodeBlock": "tests",
       "CodeBlockLine": 174,
-      "MemoryOffset": 10760,
+      "MemoryOffset": 10648,
+      "Description": "GOSUB TO 'ASSERT_FRACTION'"
+    },
+    {
+      "CodeBlock": "tests",
+      "CodeBlockLine": 175,
+      "MemoryOffset": 10668,
+      "Description": "Set 'value_frac' to '0.5 * negative_var'"
+    },
+    {
+      "CodeBlock": "tests",
+      "CodeBlockLine": 176,
+      "MemoryOffset": 10694,
+      "Description": "Set 'expected_frac' to '-0.5'"
+    },
+    {
+      "CodeBlock": "tests",
+      "CodeBlockLine": 177,
+      "MemoryOffset": 10702,
       "Description": "GOSUB TO 'ASSERT_FRACTION'"
     }
   ],

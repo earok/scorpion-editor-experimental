@@ -1,5 +1,5 @@
-Compiled on Thursday, 27 March 2025 5:45:45 p.m.
-Version string: SE2024.2.250324.21.09.EX
+Compiled on Thursday, 8 May 2025 7:24:07 p.m.
+Version string: SE2024.2.250507.23.16.EX
 
 === Misc ===
 ImageFrames: 4
@@ -22,20 +22,20 @@ AnimationFrame Count: 5
 AnimationFrame Data Size: 80
 Sprites: 1
 Sprites Data Size: 14
-Attack Data: 2
-Attack Data Size: 176
+Attack Data: 1
+Attack Data Size: 88
 Misc data size: 32
 === Image optimisations ===
 Panel (background color #000) Original size 1296 Crunched size 76
 Panel scorpion_eng_splashscreen Original size 36792 Crunched size 3380
-Project virtual machine (codeblocks) Original size 12054 Crunched size 3886
+Project virtual machine (codeblocks) Original size 12020 Crunched size 3908
 Header data for map new_map Original size 844 Crunched size 130
 Tile data for map new_map (mem restrictions:No_Blocks) Original size 5736 Crunched size 1496
 Asset bundle 0 (Core project asset bundle) Original size 4 Crunched size 4
 Asset bundle 1 (new_map) Original size 23036 Crunched size 11214
 Misc Data (paths, hurt boxes etc) Original size 2 Crunched size 2
 Project Header Original size 4408 Crunched size 1226
-Project Data Original size 1000 Crunched size 178
+Project Data Original size 912 Crunched size 164
 Project virtual machine redirects Original size 4 Crunched size 4
 
 === Accounted Memory Usage ===
@@ -45,7 +45,7 @@ For chip:
 Map gfx (Panel: scorpion_eng_splashscreen): 36792
 Music memory (): 0
 BP Buffer memory: 131040
-core sfx/gfx memory: 4
+Core sfx/gfx memory: 4
 Parallax memory: 0
 OS/other estimated: 99328
 
@@ -55,20 +55,20 @@ Map header cache memory: 0
 Map actor cache memory: 0
 Map data memory: 5736
 Map background memory: 1296
-EXE memory: 202792
-vm memory: 12054
-project memory: 1000
+EXE memory: 203968
+vm memory: 12020
+project memory: 912
 memory reserved for active actors on screen (32): 4616
 memory reserved for dormant actors in map (128): 4608
 OS/other estimated: 105472
 
 Accounted memory chip: 267164
-Accounted memory other: 337574
-Accounted memory total: 604738
+Accounted memory other: 338628
+Accounted memory total: 605792
 
 === Codeblocks by compiled size ===
-tests: 2560
-startup: 912
+tests: 2624
+startup: 990
 load_level: 550
 pre_startup: 422
 do_teleport: 402
@@ -80,9 +80,8 @@ set_yresolution: 202
 waitforframes: 194
 check_talkpad: 192 (Unused?)
 pause: 184 (Unused?)
-new_actor_autogen_attack: 184
 block_count: 178 (Unused?)
-assert_fraction: 168
+assert_fraction: 172
 flipymove: 162 (Unused?)
 pre_quit: 160
 assert: 160

@@ -1,6 +1,5 @@
 {
   "ShootDirType": "actor_direction",
-  "ClassType": "DefaultClass",
   "DefaultLookDir": "right",
   "Recycle": "Default",
   "MoveType": "control_platform_maryo",
@@ -128,6 +127,7 @@
   "CollType_Up": "block",
   "CollType_Down": "block",
   "Player": null,
+  "BlockCollider": null,
   "CanRidePlatform": null,
   "Camera": null,
   "AutoScroll": null,
@@ -156,11 +156,23 @@
     "0",
     "0",
     "-11",
-    "monkeylad"
+    "0"
   ],
   "ControlPort": 1,
-  "DataVersion": 3,
+  "DataVersion": 6,
+  "ActorTag": "monkeylad",
   "AutoSpawn": null,
   "AutoNavigate": false,
-  "TileID": 0
+  "ActorTimeline": {
+    "TimelineFrames": null,
+    "TimelineEvents": {},
+    "PingPong": false
+  },
+  "DontSpawnIfTooMany": false,
+  "DivertMeleeByProjectile": null,
+  "DivertMeleeAgainstProjectile": null,
+  "IsAttacker": null,
+  "PreviewParent": null,
+  "TileID": 0,
+  "MaxTimelineFrames": 50
 }

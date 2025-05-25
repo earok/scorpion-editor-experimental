@@ -26,4 +26,9 @@
       <property name="Name" value="full" type="string" />
     </properties>
   </tile>
+  <tile id="5">
+    <properties>
+      <property name="Name" value="steps" type="string" />
+    </properties>
+  </tile>
 </tileset>

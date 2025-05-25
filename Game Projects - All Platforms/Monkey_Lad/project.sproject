@@ -1,8 +1,7 @@
 {
-  "TargetPlatform": "neogeo",
+  "TargetPlatform": "amiga_ocs",
   "StartupCodeBlock": "startup",
   "Recompile": true,
-  "DebugMode": false,
   "DataVersion": 4,
   "Commands": [
     {
@@ -295,8 +294,18 @@
       "Channel": null
     }
   },
-  "NumberFontMetaData": {},
-  "FontMetaData": {},
+  "NumberFontMetaData": {
+    "default_numberfont": {
+      "Radix": 10
+    }
+  },
+  "FontMetaData": {
+    "default_font": {
+      "IsMonoSpaced": false,
+      "LineHeight": 8,
+      "SpaceWidth": 8
+    }
+  },
   "SplashScreen": null,
   "LogicSpeed": "PAL_50HZ",
   "ReadCD32Buttons": false,
@@ -304,5 +313,7 @@
   "MDRegion": "Universal",
   "MDSoundDriver": "MDSDRV",
   "SplashScreenFrames": 50,
-  "TestLevel": null
+  "TestLevel": null,
+  "SafetyRails": false,
+  "NGH": 21317
 }

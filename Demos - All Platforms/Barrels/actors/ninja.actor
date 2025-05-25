@@ -29,12 +29,12 @@
   "Attacks": {
     "UpLeft": "",
     "Up": "",
-    "UpRight": "",
+    "UpRight": "ninja_attack_r",
     "Left": "ninja_attack_l",
     "Right": "ninja_attack_r",
     "DownLeft": "",
     "Down": "",
-    "DownRight": ""
+    "DownRight": "ninja_attack_r"
   },
   "ProjectileOffsets": [
     {
@@ -147,8 +147,8 @@
   "DivertOutOfScreenUp": "",
   "DivertOutOfScreenDown": "",
   "DivertPlatformEdge": null,
-  "DivertPlatformLand": null,
-  "DivertTimer": "zzz_update_temp",
+  "DivertPlatformLand": "",
+  "DivertTimer": "",
   "DivertTimerFrames": 0,
   "Vars": [
     "0",
@@ -159,7 +159,8 @@
     "0"
   ],
   "ControlPort": 1,
-  "DataVersion": 3,
+  "DataVersion": 6,
+  "ActorTag": "None",
   "AutoSpawn": null,
   "AutoNavigate": false,
   "ActorTimeline": {
@@ -189,5 +190,13 @@
     "TimelineEvents": {},
     "PingPong": false
   },
-  "TileID": 0
+  "DontSpawnIfTooMany": false,
+  "AutoClearChildren": false,
+  "DivertMeleeByProjectile": null,
+  "DivertMeleeAgainstProjectile": null,
+  "IsAttacker": null,
+  "PreviewParent": null,
+  "RotationEnabled": false,
+  "TileID": 0,
+  "MaxTimelineFrames": 50
 }

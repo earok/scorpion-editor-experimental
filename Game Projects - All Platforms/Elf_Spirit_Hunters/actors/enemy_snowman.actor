@@ -1,6 +1,5 @@
 {
   "ShootDirType": "actor_direction",
-  "ClassType": "DefaultClass",
   "DefaultLookDir": "upright",
   "Recycle": "Always",
   "MoveType": "cpu_wave",
@@ -128,6 +127,7 @@
   "CollType_Up": "bounce",
   "CollType_Down": "bounce",
   "Player": null,
+  "BlockCollider": null,
   "CanRidePlatform": null,
   "Camera": null,
   "AutoScroll": null,
@@ -156,11 +156,25 @@
     "0",
     "enemy_snowman_hunter",
     "a_snowman_caught",
-    "enemy"
+    "0"
   ],
   "ControlPort": 2,
-  "DataVersion": 3,
+  "DataVersion": 6,
+  "ActorTag": "enemy",
   "AutoSpawn": null,
   "AutoNavigate": false,
-  "TileID": 18
+  "ActorTimeline": {
+    "TimelineFrames": null,
+    "TimelineEvents": {},
+    "PingPong": false
+  },
+  "DontSpawnIfTooMany": false,
+  "AutoClearChildren": false,
+  "DivertMeleeByProjectile": null,
+  "DivertMeleeAgainstProjectile": null,
+  "IsAttacker": null,
+  "PreviewParent": null,
+  "RotationEnabled": false,
+  "TileID": 18,
+  "MaxTimelineFrames": 50
 }

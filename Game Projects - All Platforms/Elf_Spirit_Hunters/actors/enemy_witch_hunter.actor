@@ -1,6 +1,5 @@
 {
   "ShootDirType": "actor_direction",
-  "ClassType": "DefaultClass",
   "DefaultLookDir": "upright",
   "Recycle": "Default",
   "MoveType": "cpu",
@@ -128,6 +127,7 @@
   "CollType_Up": "none",
   "CollType_Down": "none",
   "Player": null,
+  "BlockCollider": null,
   "CanRidePlatform": null,
   "Camera": null,
   "AutoScroll": null,
@@ -156,11 +156,25 @@
     "0",
     "0",
     "0",
-    "enemy"
+    "0"
   ],
   "ControlPort": 0,
-  "DataVersion": 3,
+  "DataVersion": 6,
+  "ActorTag": "enemy",
   "AutoSpawn": null,
   "AutoNavigate": false,
-  "TileID": 23
+  "ActorTimeline": {
+    "TimelineFrames": null,
+    "TimelineEvents": {},
+    "PingPong": false
+  },
+  "DontSpawnIfTooMany": false,
+  "AutoClearChildren": false,
+  "DivertMeleeByProjectile": null,
+  "DivertMeleeAgainstProjectile": null,
+  "IsAttacker": null,
+  "PreviewParent": null,
+  "RotationEnabled": false,
+  "TileID": 23,
+  "MaxTimelineFrames": 50
 }

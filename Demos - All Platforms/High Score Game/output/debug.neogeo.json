@@ -2626,6 +2626,20 @@
       "DefaultValue": "AAA",
       "Index": 190,
       "MemoryOffset": 364
+    },
+    {
+      "CodeBlock": "startup",
+      "Name": "testx",
+      "DefaultValue": "0",
+      "Index": 191,
+      "MemoryOffset": 366
+    },
+    {
+      "CodeBlock": "startup",
+      "Name": "testy",
+      "DefaultValue": "0",
+      "Index": 192,
+      "MemoryOffset": 367
     }
   ],
   "Lines": [
@@ -5696,1635 +5710,1671 @@
       "Description": "Set 'actor_y' to 'actor_y + yres + 16'"
     },
     {
-      "CodeBlock": "autogen_anim_player_shot_l_0",
+      "CodeBlock": "autogen_anim_player_l_0",
       "CodeBlockLine": 0,
       "MemoryOffset": 6944,
+      "Description": "AUTOGEN_ANIM_PLAYER_L_0"
+    },
+    {
+      "CodeBlock": "autogen_anim_player_l_0",
+      "CodeBlockLine": 1,
+      "MemoryOffset": 6944,
+      "Description": "Set 'testx' to '-20 + actor_x'"
+    },
+    {
+      "CodeBlock": "autogen_anim_player_l_0",
+      "CodeBlockLine": 2,
+      "MemoryOffset": 6960,
+      "Description": "Set 'testy' to '-20 + actor_y'"
+    },
+    {
+      "CodeBlock": "autogen_anim_player_r_0",
+      "CodeBlockLine": 0,
+      "MemoryOffset": 7002,
+      "Description": "AUTOGEN_ANIM_PLAYER_R_0"
+    },
+    {
+      "CodeBlock": "autogen_anim_player_r_0",
+      "CodeBlockLine": 1,
+      "MemoryOffset": 7002,
+      "Description": "Set 'testx' to '20 + actor_x'"
+    },
+    {
+      "CodeBlock": "autogen_anim_player_r_0",
+      "CodeBlockLine": 2,
+      "MemoryOffset": 7018,
+      "Description": "Set 'testy' to '-20 + actor_y'"
+    },
+    {
+      "CodeBlock": "autogen_anim_player_shot_l_0",
+      "CodeBlockLine": 0,
+      "MemoryOffset": 7060,
       "Description": "AUTOGEN_ANIM_PLAYER_SHOT_L_0"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_l_0",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6944,
+      "MemoryOffset": 7060,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_l_0",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6950,
+      "MemoryOffset": 7066,
       "Description": "Raw expression 'shot1'"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_l_0",
       "CodeBlockLine": 1,
-      "MemoryOffset": 6956,
+      "MemoryOffset": 7072,
       "Description": "Core operation'ActorSpawn'"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_l_0",
       "CodeBlockLine": 2,
-      "MemoryOffset": 6964,
+      "MemoryOffset": 7080,
       "Description": "Set 'new_x' to 'new_x + -32'"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_l_0",
       "CodeBlockLine": 2,
-      "MemoryOffset": 6984,
+      "MemoryOffset": 7100,
       "Description": "Set 'new_y' to 'new_y + -7'"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_l_0",
       "CodeBlockLine": 3,
-      "MemoryOffset": 7004,
+      "MemoryOffset": 7120,
       "Description": "Raw expression '12'"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_l_0",
       "CodeBlockLine": 3,
-      "MemoryOffset": 7010,
+      "MemoryOffset": 7126,
       "Description": "Raw expression 'move_left'"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_l_0",
       "CodeBlockLine": 3,
-      "MemoryOffset": 7016,
+      "MemoryOffset": 7132,
       "Description": "Core operation'ActorSetLookdir'"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_l_0",
       "CodeBlockLine": 4,
-      "MemoryOffset": 7024,
+      "MemoryOffset": 7140,
       "Description": "Set 'new_xspeed' to '-6'"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_r_0",
       "CodeBlockLine": 0,
-      "MemoryOffset": 7062,
+      "MemoryOffset": 7178,
       "Description": "AUTOGEN_ANIM_PLAYER_SHOT_R_0"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_r_0",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7062,
+      "MemoryOffset": 7178,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_r_0",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7068,
+      "MemoryOffset": 7184,
       "Description": "Raw expression 'shot1'"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_r_0",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7074,
+      "MemoryOffset": 7190,
       "Description": "Core operation'ActorSpawn'"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_r_0",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7082,
+      "MemoryOffset": 7198,
       "Description": "Set 'new_x' to 'new_x + 32'"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_r_0",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7102,
+      "MemoryOffset": 7218,
       "Description": "Set 'new_y' to 'new_y + -7'"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_r_0",
       "CodeBlockLine": 3,
-      "MemoryOffset": 7122,
+      "MemoryOffset": 7238,
       "Description": "Raw expression '12'"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_r_0",
       "CodeBlockLine": 3,
-      "MemoryOffset": 7128,
+      "MemoryOffset": 7244,
       "Description": "Raw expression 'move_right'"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_r_0",
       "CodeBlockLine": 3,
-      "MemoryOffset": 7134,
+      "MemoryOffset": 7250,
       "Description": "Core operation'ActorSetLookdir'"
     },
     {
       "CodeBlock": "autogen_anim_player_shot_r_0",
       "CodeBlockLine": 4,
-      "MemoryOffset": 7142,
+      "MemoryOffset": 7258,
       "Description": "Set 'new_xspeed' to '6'"
     },
     {
       "CodeBlock": "autogen_outofscreen_snap_to_screen_snap_to_screen_none_none",
       "CodeBlockLine": 0,
-      "MemoryOffset": 7180,
+      "MemoryOffset": 7296,
       "Description": "AUTOGEN_OUTOFSCREEN_SNAP_TO_SCREEN_SNAP_TO_SCREEN_NONE_NONE"
     },
     {
       "CodeBlock": "autogen_outofscreen_snap_to_screen_snap_to_screen_none_none",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7180,
-      "Description": "If actor_x < camera_x ELSE GOTO 00007204"
+      "MemoryOffset": 7296,
+      "Description": "If actor_x < camera_x ELSE GOTO 00007320"
     },
     {
       "CodeBlock": "autogen_outofscreen_snap_to_screen_snap_to_screen_none_none",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7198,
+      "MemoryOffset": 7314,
       "Description": "GOTO 'SNAP_TO_SCREEN'"
     },
     {
       "CodeBlock": "autogen_outofscreen_snap_to_screen_snap_to_screen_none_none",
       "CodeBlockLine": 4,
-      "MemoryOffset": 7204,
-      "Description": "If actor_x > xres + camera_x ELSE GOTO 00007232"
+      "MemoryOffset": 7320,
+      "Description": "If actor_x > xres + camera_x ELSE GOTO 00007348"
     },
     {
       "CodeBlock": "autogen_outofscreen_snap_to_screen_snap_to_screen_none_none",
       "CodeBlockLine": 5,
-      "MemoryOffset": 7226,
+      "MemoryOffset": 7342,
       "Description": "GOTO 'SNAP_TO_SCREEN'"
     },
     {
       "CodeBlock": "autogen_outofscreen_none_destroy_actor_none_none",
       "CodeBlockLine": 0,
-      "MemoryOffset": 7258,
+      "MemoryOffset": 7374,
       "Description": "AUTOGEN_OUTOFSCREEN_NONE_DESTROY_ACTOR_NONE_NONE"
     },
     {
       "CodeBlock": "autogen_outofscreen_none_destroy_actor_none_none",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7258,
-      "Description": "If actor_x > xres + camera_x ELSE GOTO 00007286"
+      "MemoryOffset": 7374,
+      "Description": "If actor_x > xres + camera_x ELSE GOTO 00007402"
     },
     {
       "CodeBlock": "autogen_outofscreen_none_destroy_actor_none_none",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7280,
+      "MemoryOffset": 7396,
       "Description": "GOTO 'DESTROY_ACTOR'"
     },
     {
       "CodeBlock": "player_autogen_attack",
       "CodeBlockLine": 0,
-      "MemoryOffset": 7312,
+      "MemoryOffset": 7428,
       "Description": "PLAYER_AUTOGEN_ATTACK"
     },
     {
       "CodeBlock": "player_autogen_attack",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7312,
-      "Description": "If actor_attackdelay > 0 ELSE GOTO 00007372"
+      "MemoryOffset": 7428,
+      "Description": "If actor_attackdelay > 0 ELSE GOTO 00007488"
     },
     {
       "CodeBlock": "player_autogen_attack",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7328,
+      "MemoryOffset": 7444,
       "Description": "Set 'actor_attackdelay' to 'actor_attackdelay - 1'"
     },
     {
       "CodeBlock": "player_autogen_attack",
       "CodeBlockLine": 5,
-      "MemoryOffset": 7372,
-      "Description": "If Test bit AnimFlag_PreventAttack on actor_animationflags ELSE GOTO 00007418"
+      "MemoryOffset": 7488,
+      "Description": "If Test bit AnimFlag_PreventAttack on actor_animationflags ELSE GOTO 00007534"
     },
     {
       "CodeBlock": "player_autogen_attack",
       "CodeBlockLine": 8,
-      "MemoryOffset": 7418,
-      "Description": "If actor_controlfire == 0 ELSE GOTO 00007464"
+      "MemoryOffset": 7534,
+      "Description": "If actor_controlfire == 0 ELSE GOTO 00007580"
     },
     {
       "CodeBlock": "player_autogen_attack",
       "CodeBlockLine": 11,
-      "MemoryOffset": 7464,
-      "Description": "If Test bit Flag_AutoFire on actor_controlattackcontrols is zero ELSE GOTO 00007530"
+      "MemoryOffset": 7580,
+      "Description": "If Test bit Flag_AutoFire on actor_controlattackcontrols is zero ELSE GOTO 00007646"
     },
     {
       "CodeBlock": "player_autogen_attack",
       "CodeBlockLine": 12,
-      "MemoryOffset": 7484,
-      "Description": "If actor_controlfire != Button_Hit ELSE GOTO 00007530"
+      "MemoryOffset": 7600,
+      "Description": "If actor_controlfire != Button_Hit ELSE GOTO 00007646"
     },
     {
       "CodeBlock": "player_autogen_attack",
       "CodeBlockLine": 16,
-      "MemoryOffset": 7530,
+      "MemoryOffset": 7646,
       "Description": "Set 'actor_attackdelay' to '10'"
     },
     {
       "CodeBlock": "player_autogen_attack",
       "CodeBlockLine": 17,
-      "MemoryOffset": 7540,
+      "MemoryOffset": 7656,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "player_autogen_attack",
       "CodeBlockLine": 17,
-      "MemoryOffset": 7546,
+      "MemoryOffset": 7662,
       "Description": "Raw expression 'trigger_attackanimation'"
     },
     {
       "CodeBlock": "player_autogen_attack",
       "CodeBlockLine": 17,
-      "MemoryOffset": 7552,
+      "MemoryOffset": 7668,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "player_autogen_attack",
       "CodeBlockLine": 17,
-      "MemoryOffset": 7558,
+      "MemoryOffset": 7674,
       "Description": "Raw expression '1'"
     },
     {
       "CodeBlock": "player_autogen_attack",
       "CodeBlockLine": 17,
-      "MemoryOffset": 7564,
+      "MemoryOffset": 7680,
       "Description": "Core operation'ActorSetAnimation'"
     },
     {
       "CodeBlock": "game_loop",
       "CodeBlockLine": 0,
-      "MemoryOffset": 7598,
+      "MemoryOffset": 7714,
       "Description": "GAME_LOOP"
     },
     {
       "CodeBlock": "game_loop",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7598,
+      "MemoryOffset": 7714,
       "Description": "Raw expression 'spinner'"
     },
     {
       "CodeBlock": "game_loop",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7604,
+      "MemoryOffset": 7720,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "game_loop",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7610,
+      "MemoryOffset": 7726,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "game_loop",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7616,
+      "MemoryOffset": 7732,
       "Description": "Core operation'PixelSpawn'"
     },
     {
       "CodeBlock": "game_loop",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7624,
+      "MemoryOffset": 7740,
       "Description": "Set 'dice' to '359'"
     },
     {
       "CodeBlock": "game_loop",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7630,
+      "MemoryOffset": 7746,
       "Description": "Core operation'RollDice'"
     },
     {
       "CodeBlock": "game_loop",
       "CodeBlockLine": 3,
-      "MemoryOffset": 7638,
+      "MemoryOffset": 7754,
       "Description": "Set 'math_x' to '0'"
     },
     {
       "CodeBlock": "game_loop",
       "CodeBlockLine": 3,
-      "MemoryOffset": 7646,
+      "MemoryOffset": 7762,
       "Description": "Set 'math_y' to '- 150'"
     },
     {
       "CodeBlock": "game_loop",
       "CodeBlockLine": 3,
-      "MemoryOffset": 7654,
+      "MemoryOffset": 7770,
       "Description": "Raw expression 'dice'"
     },
     {
       "CodeBlock": "game_loop",
       "CodeBlockLine": 3,
-      "MemoryOffset": 7660,
+      "MemoryOffset": 7776,
       "Description": "Core operation'Maths_Angle'"
     },
     {
       "CodeBlock": "game_loop",
       "CodeBlockLine": 4,
-      "MemoryOffset": 7668,
+      "MemoryOffset": 7784,
       "Description": "Set 'new_x' to 'math_x + 128'"
     },
     {
       "CodeBlock": "game_loop",
       "CodeBlockLine": 4,
-      "MemoryOffset": 7684,
+      "MemoryOffset": 7800,
       "Description": "Set 'new_y' to 'math_y + 112'"
     },
     {
       "CodeBlock": "game_loop",
       "CodeBlockLine": 5,
-      "MemoryOffset": 7700,
+      "MemoryOffset": 7816,
       "Description": "Set 'new_xspeed' to '0'"
     },
     {
       "CodeBlock": "game_loop",
       "CodeBlockLine": 5,
-      "MemoryOffset": 7712,
+      "MemoryOffset": 7828,
       "Description": "Set 'new_yspeed' to '0'"
     },
     {
       "CodeBlock": "game_loop",
       "CodeBlockLine": 5,
-      "MemoryOffset": 7724,
-      "Description": "If new_yspeed < 0 ELSE GOTO 00007750"
+      "MemoryOffset": 7840,
+      "Description": "If new_yspeed < 0 ELSE GOTO 00007866"
     },
     {
       "CodeBlock": "game_loop",
       "CodeBlockLine": 5,
-      "MemoryOffset": 7740,
+      "MemoryOffset": 7856,
       "Description": "Set 'new_isonplatform' to 'false'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 0,
-      "MemoryOffset": 7776,
+      "MemoryOffset": 7892,
       "Description": "GAME_OVER"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7776,
+      "MemoryOffset": 7892,
       "Description": "Core operation'WaitForNoActors'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 1,
-      "MemoryOffset": 7784,
+      "MemoryOffset": 7900,
       "Description": "GOSUB TO 'UNLOAD_LEVEL'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7804,
+      "MemoryOffset": 7920,
       "Description": "Set 'newvalue' to 'none'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 2,
-      "MemoryOffset": 7810,
+      "MemoryOffset": 7926,
       "Description": "GOSUB TO 'LOAD_PANEL_BOTTOM'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 3,
-      "MemoryOffset": 7830,
-      "Description": "If playerscore <= score10 ELSE GOTO 00007850"
+      "MemoryOffset": 7946,
+      "Description": "If playerscore <= score10 ELSE GOTO 00007966"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 5,
-      "MemoryOffset": 7844,
+      "MemoryOffset": 7960,
       "Description": "GOTO 'GAME_START'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 7,
-      "MemoryOffset": 7850,
+      "MemoryOffset": 7966,
       "Description": "Set 'newvalue' to '0'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 7,
-      "MemoryOffset": 7856,
-      "Description": "If newvalue < 3 ELSE GOTO 00007900"
+      "MemoryOffset": 7972,
+      "Description": "If newvalue < 3 ELSE GOTO 00008016"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 7,
-      "MemoryOffset": 7868,
+      "MemoryOffset": 7984,
       "Description": "Set 'playername[newvalue]' to '00'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 7,
-      "MemoryOffset": 7884,
+      "MemoryOffset": 8000,
       "Description": "Set 'newvalue' to 'newvalue + 1'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 7,
-      "MemoryOffset": 7894,
-      "Description": "GOTO '00007856'"
+      "MemoryOffset": 8010,
+      "Description": "GOTO '00007972'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 7,
-      "MemoryOffset": 7900,
+      "MemoryOffset": 8016,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 9,
-      "MemoryOffset": 7908,
+      "MemoryOffset": 8024,
       "Description": "Set 'newvalue' to 'entry'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 9,
-      "MemoryOffset": 7914,
+      "MemoryOffset": 8030,
       "Description": "GOSUB TO 'LOAD_PANEL'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 10,
-      "MemoryOffset": 7934,
+      "MemoryOffset": 8050,
       "Description": "Set 'wait' to '0'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 10,
-      "MemoryOffset": 7940,
+      "MemoryOffset": 8056,
       "Description": "GOSUB TO 'WAITFORFRAMES'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 11,
-      "MemoryOffset": 7960,
+      "MemoryOffset": 8076,
       "Description": "Set 'playername[0]' to '65 + option'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 11,
-      "MemoryOffset": 7970,
-      "Description": "Core operation'RefreshUI'"
-    },
-    {
-      "CodeBlock": "game_over",
-      "CodeBlockLine": 12,
-      "MemoryOffset": 7978,
-      "Description": "Set 'wait' to '0'"
-    },
-    {
-      "CodeBlock": "game_over",
-      "CodeBlockLine": 12,
-      "MemoryOffset": 7984,
-      "Description": "GOSUB TO 'WAITFORFRAMES'"
-    },
-    {
-      "CodeBlock": "game_over",
-      "CodeBlockLine": 13,
-      "MemoryOffset": 8004,
-      "Description": "Set 'playername[1]' to '65 + option'"
-    },
-    {
-      "CodeBlock": "game_over",
-      "CodeBlockLine": 13,
-      "MemoryOffset": 8014,
-      "Description": "Core operation'RefreshUI'"
-    },
-    {
-      "CodeBlock": "game_over",
-      "CodeBlockLine": 14,
-      "MemoryOffset": 8022,
-      "Description": "Set 'wait' to '0'"
-    },
-    {
-      "CodeBlock": "game_over",
-      "CodeBlockLine": 14,
-      "MemoryOffset": 8028,
-      "Description": "GOSUB TO 'WAITFORFRAMES'"
-    },
-    {
-      "CodeBlock": "game_over",
-      "CodeBlockLine": 15,
-      "MemoryOffset": 8048,
-      "Description": "Set 'playername[2]' to '65 + option'"
-    },
-    {
-      "CodeBlock": "game_over",
-      "CodeBlockLine": 15,
-      "MemoryOffset": 8058,
-      "Description": "Core operation'RefreshUI'"
-    },
-    {
-      "CodeBlock": "game_over",
-      "CodeBlockLine": 16,
-      "MemoryOffset": 8066,
-      "Description": "If score10 != playerscore ELSE GOTO 00008094"
-    },
-    {
-      "CodeBlock": "game_over",
-      "CodeBlockLine": 16,
-      "MemoryOffset": 8080,
-      "Description": "Set 'score10' to 'playerscore'"
-    },
-    {
-      "CodeBlock": "game_over",
-      "CodeBlockLine": 16,
       "MemoryOffset": 8086,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
-      "CodeBlockLine": 17,
+      "CodeBlockLine": 12,
       "MemoryOffset": 8094,
+      "Description": "Set 'wait' to '0'"
+    },
+    {
+      "CodeBlock": "game_over",
+      "CodeBlockLine": 12,
+      "MemoryOffset": 8100,
+      "Description": "GOSUB TO 'WAITFORFRAMES'"
+    },
+    {
+      "CodeBlock": "game_over",
+      "CodeBlockLine": 13,
+      "MemoryOffset": 8120,
+      "Description": "Set 'playername[1]' to '65 + option'"
+    },
+    {
+      "CodeBlock": "game_over",
+      "CodeBlockLine": 13,
+      "MemoryOffset": 8130,
+      "Description": "Core operation'RefreshUI'"
+    },
+    {
+      "CodeBlock": "game_over",
+      "CodeBlockLine": 14,
+      "MemoryOffset": 8138,
+      "Description": "Set 'wait' to '0'"
+    },
+    {
+      "CodeBlock": "game_over",
+      "CodeBlockLine": 14,
+      "MemoryOffset": 8144,
+      "Description": "GOSUB TO 'WAITFORFRAMES'"
+    },
+    {
+      "CodeBlock": "game_over",
+      "CodeBlockLine": 15,
+      "MemoryOffset": 8164,
+      "Description": "Set 'playername[2]' to '65 + option'"
+    },
+    {
+      "CodeBlock": "game_over",
+      "CodeBlockLine": 15,
+      "MemoryOffset": 8174,
+      "Description": "Core operation'RefreshUI'"
+    },
+    {
+      "CodeBlock": "game_over",
+      "CodeBlockLine": 16,
+      "MemoryOffset": 8182,
+      "Description": "If score10 != playerscore ELSE GOTO 00008210"
+    },
+    {
+      "CodeBlock": "game_over",
+      "CodeBlockLine": 16,
+      "MemoryOffset": 8196,
+      "Description": "Set 'score10' to 'playerscore'"
+    },
+    {
+      "CodeBlock": "game_over",
+      "CodeBlockLine": 16,
+      "MemoryOffset": 8202,
+      "Description": "Core operation'RefreshUI'"
+    },
+    {
+      "CodeBlock": "game_over",
+      "CodeBlockLine": 17,
+      "MemoryOffset": 8210,
       "Description": "Set 'name10[0]' to 'playername[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 17,
-      "MemoryOffset": 8104,
+      "MemoryOffset": 8220,
       "Description": "Set 'name10[1]' to 'playername[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 17,
-      "MemoryOffset": 8114,
+      "MemoryOffset": 8230,
       "Description": "Set 'name10[2]' to 'playername[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 17,
-      "MemoryOffset": 8124,
+      "MemoryOffset": 8240,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 18,
-      "MemoryOffset": 8132,
-      "Description": "If playerscore > score9 ELSE GOTO 00008278"
+      "MemoryOffset": 8248,
+      "Description": "If playerscore > score9 ELSE GOTO 00008394"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 19,
-      "MemoryOffset": 8146,
-      "Description": "If score10 != score9 ELSE GOTO 00008174"
+      "MemoryOffset": 8262,
+      "Description": "If score10 != score9 ELSE GOTO 00008290"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 19,
-      "MemoryOffset": 8160,
+      "MemoryOffset": 8276,
       "Description": "Set 'score10' to 'score9'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 19,
-      "MemoryOffset": 8166,
+      "MemoryOffset": 8282,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 20,
-      "MemoryOffset": 8174,
+      "MemoryOffset": 8290,
       "Description": "Set 'name10[0]' to 'name9[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 20,
-      "MemoryOffset": 8184,
+      "MemoryOffset": 8300,
       "Description": "Set 'name10[1]' to 'name9[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 20,
-      "MemoryOffset": 8194,
+      "MemoryOffset": 8310,
       "Description": "Set 'name10[2]' to 'name9[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 20,
-      "MemoryOffset": 8204,
+      "MemoryOffset": 8320,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 21,
-      "MemoryOffset": 8212,
-      "Description": "If score9 != playerscore ELSE GOTO 00008240"
+      "MemoryOffset": 8328,
+      "Description": "If score9 != playerscore ELSE GOTO 00008356"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 21,
-      "MemoryOffset": 8226,
+      "MemoryOffset": 8342,
       "Description": "Set 'score9' to 'playerscore'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 21,
-      "MemoryOffset": 8232,
+      "MemoryOffset": 8348,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 22,
-      "MemoryOffset": 8240,
+      "MemoryOffset": 8356,
       "Description": "Set 'name9[0]' to 'playername[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 22,
-      "MemoryOffset": 8250,
+      "MemoryOffset": 8366,
       "Description": "Set 'name9[1]' to 'playername[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 22,
-      "MemoryOffset": 8260,
+      "MemoryOffset": 8376,
       "Description": "Set 'name9[2]' to 'playername[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 22,
-      "MemoryOffset": 8270,
+      "MemoryOffset": 8386,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 24,
-      "MemoryOffset": 8278,
-      "Description": "If playerscore > score8 ELSE GOTO 00008424"
+      "MemoryOffset": 8394,
+      "Description": "If playerscore > score8 ELSE GOTO 00008540"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 25,
-      "MemoryOffset": 8292,
-      "Description": "If score9 != score8 ELSE GOTO 00008320"
+      "MemoryOffset": 8408,
+      "Description": "If score9 != score8 ELSE GOTO 00008436"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 25,
-      "MemoryOffset": 8306,
+      "MemoryOffset": 8422,
       "Description": "Set 'score9' to 'score8'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 25,
-      "MemoryOffset": 8312,
+      "MemoryOffset": 8428,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 26,
-      "MemoryOffset": 8320,
+      "MemoryOffset": 8436,
       "Description": "Set 'name9[0]' to 'name8[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 26,
-      "MemoryOffset": 8330,
+      "MemoryOffset": 8446,
       "Description": "Set 'name9[1]' to 'name8[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 26,
-      "MemoryOffset": 8340,
+      "MemoryOffset": 8456,
       "Description": "Set 'name9[2]' to 'name8[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 26,
-      "MemoryOffset": 8350,
+      "MemoryOffset": 8466,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 27,
-      "MemoryOffset": 8358,
-      "Description": "If score8 != playerscore ELSE GOTO 00008386"
+      "MemoryOffset": 8474,
+      "Description": "If score8 != playerscore ELSE GOTO 00008502"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 27,
-      "MemoryOffset": 8372,
+      "MemoryOffset": 8488,
       "Description": "Set 'score8' to 'playerscore'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 27,
-      "MemoryOffset": 8378,
+      "MemoryOffset": 8494,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 28,
-      "MemoryOffset": 8386,
+      "MemoryOffset": 8502,
       "Description": "Set 'name8[0]' to 'playername[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 28,
-      "MemoryOffset": 8396,
+      "MemoryOffset": 8512,
       "Description": "Set 'name8[1]' to 'playername[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 28,
-      "MemoryOffset": 8406,
+      "MemoryOffset": 8522,
       "Description": "Set 'name8[2]' to 'playername[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 28,
-      "MemoryOffset": 8416,
+      "MemoryOffset": 8532,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 30,
-      "MemoryOffset": 8424,
-      "Description": "If playerscore > score7 ELSE GOTO 00008570"
+      "MemoryOffset": 8540,
+      "Description": "If playerscore > score7 ELSE GOTO 00008686"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 31,
-      "MemoryOffset": 8438,
-      "Description": "If score8 != score7 ELSE GOTO 00008466"
+      "MemoryOffset": 8554,
+      "Description": "If score8 != score7 ELSE GOTO 00008582"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 31,
-      "MemoryOffset": 8452,
+      "MemoryOffset": 8568,
       "Description": "Set 'score8' to 'score7'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 31,
-      "MemoryOffset": 8458,
+      "MemoryOffset": 8574,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 32,
-      "MemoryOffset": 8466,
+      "MemoryOffset": 8582,
       "Description": "Set 'name8[0]' to 'name7[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 32,
-      "MemoryOffset": 8476,
+      "MemoryOffset": 8592,
       "Description": "Set 'name8[1]' to 'name7[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 32,
-      "MemoryOffset": 8486,
+      "MemoryOffset": 8602,
       "Description": "Set 'name8[2]' to 'name7[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 32,
-      "MemoryOffset": 8496,
+      "MemoryOffset": 8612,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 33,
-      "MemoryOffset": 8504,
-      "Description": "If score7 != playerscore ELSE GOTO 00008532"
+      "MemoryOffset": 8620,
+      "Description": "If score7 != playerscore ELSE GOTO 00008648"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 33,
-      "MemoryOffset": 8518,
+      "MemoryOffset": 8634,
       "Description": "Set 'score7' to 'playerscore'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 33,
-      "MemoryOffset": 8524,
+      "MemoryOffset": 8640,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 34,
-      "MemoryOffset": 8532,
+      "MemoryOffset": 8648,
       "Description": "Set 'name7[0]' to 'playername[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 34,
-      "MemoryOffset": 8542,
+      "MemoryOffset": 8658,
       "Description": "Set 'name7[1]' to 'playername[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 34,
-      "MemoryOffset": 8552,
+      "MemoryOffset": 8668,
       "Description": "Set 'name7[2]' to 'playername[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 34,
-      "MemoryOffset": 8562,
+      "MemoryOffset": 8678,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 36,
-      "MemoryOffset": 8570,
-      "Description": "If playerscore > score6 ELSE GOTO 00008716"
+      "MemoryOffset": 8686,
+      "Description": "If playerscore > score6 ELSE GOTO 00008832"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 37,
-      "MemoryOffset": 8584,
-      "Description": "If score7 != score6 ELSE GOTO 00008612"
+      "MemoryOffset": 8700,
+      "Description": "If score7 != score6 ELSE GOTO 00008728"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 37,
-      "MemoryOffset": 8598,
+      "MemoryOffset": 8714,
       "Description": "Set 'score7' to 'score6'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 37,
-      "MemoryOffset": 8604,
+      "MemoryOffset": 8720,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 38,
-      "MemoryOffset": 8612,
+      "MemoryOffset": 8728,
       "Description": "Set 'name7[0]' to 'name6[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 38,
-      "MemoryOffset": 8622,
+      "MemoryOffset": 8738,
       "Description": "Set 'name7[1]' to 'name6[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 38,
-      "MemoryOffset": 8632,
+      "MemoryOffset": 8748,
       "Description": "Set 'name7[2]' to 'name6[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 38,
-      "MemoryOffset": 8642,
+      "MemoryOffset": 8758,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 39,
-      "MemoryOffset": 8650,
-      "Description": "If score6 != playerscore ELSE GOTO 00008678"
+      "MemoryOffset": 8766,
+      "Description": "If score6 != playerscore ELSE GOTO 00008794"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 39,
-      "MemoryOffset": 8664,
+      "MemoryOffset": 8780,
       "Description": "Set 'score6' to 'playerscore'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 39,
-      "MemoryOffset": 8670,
+      "MemoryOffset": 8786,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 40,
-      "MemoryOffset": 8678,
+      "MemoryOffset": 8794,
       "Description": "Set 'name6[0]' to 'playername[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 40,
-      "MemoryOffset": 8688,
+      "MemoryOffset": 8804,
       "Description": "Set 'name6[1]' to 'playername[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 40,
-      "MemoryOffset": 8698,
+      "MemoryOffset": 8814,
       "Description": "Set 'name6[2]' to 'playername[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 40,
-      "MemoryOffset": 8708,
+      "MemoryOffset": 8824,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 42,
-      "MemoryOffset": 8716,
-      "Description": "If playerscore > score5 ELSE GOTO 00008862"
+      "MemoryOffset": 8832,
+      "Description": "If playerscore > score5 ELSE GOTO 00008978"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 43,
-      "MemoryOffset": 8730,
-      "Description": "If score6 != score5 ELSE GOTO 00008758"
+      "MemoryOffset": 8846,
+      "Description": "If score6 != score5 ELSE GOTO 00008874"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 43,
-      "MemoryOffset": 8744,
+      "MemoryOffset": 8860,
       "Description": "Set 'score6' to 'score5'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 43,
-      "MemoryOffset": 8750,
+      "MemoryOffset": 8866,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 44,
-      "MemoryOffset": 8758,
+      "MemoryOffset": 8874,
       "Description": "Set 'name6[0]' to 'name5[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 44,
-      "MemoryOffset": 8768,
+      "MemoryOffset": 8884,
       "Description": "Set 'name6[1]' to 'name5[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 44,
-      "MemoryOffset": 8778,
+      "MemoryOffset": 8894,
       "Description": "Set 'name6[2]' to 'name5[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 44,
-      "MemoryOffset": 8788,
+      "MemoryOffset": 8904,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 45,
-      "MemoryOffset": 8796,
-      "Description": "If score5 != playerscore ELSE GOTO 00008824"
+      "MemoryOffset": 8912,
+      "Description": "If score5 != playerscore ELSE GOTO 00008940"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 45,
-      "MemoryOffset": 8810,
+      "MemoryOffset": 8926,
       "Description": "Set 'score5' to 'playerscore'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 45,
-      "MemoryOffset": 8816,
+      "MemoryOffset": 8932,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 46,
-      "MemoryOffset": 8824,
+      "MemoryOffset": 8940,
       "Description": "Set 'name5[0]' to 'playername[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 46,
-      "MemoryOffset": 8834,
+      "MemoryOffset": 8950,
       "Description": "Set 'name5[1]' to 'playername[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 46,
-      "MemoryOffset": 8844,
+      "MemoryOffset": 8960,
       "Description": "Set 'name5[2]' to 'playername[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 46,
-      "MemoryOffset": 8854,
+      "MemoryOffset": 8970,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 48,
-      "MemoryOffset": 8862,
-      "Description": "If playerscore > score4 ELSE GOTO 00009008"
+      "MemoryOffset": 8978,
+      "Description": "If playerscore > score4 ELSE GOTO 00009124"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 49,
-      "MemoryOffset": 8876,
-      "Description": "If score5 != score4 ELSE GOTO 00008904"
+      "MemoryOffset": 8992,
+      "Description": "If score5 != score4 ELSE GOTO 00009020"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 49,
-      "MemoryOffset": 8890,
+      "MemoryOffset": 9006,
       "Description": "Set 'score5' to 'score4'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 49,
-      "MemoryOffset": 8896,
+      "MemoryOffset": 9012,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 50,
-      "MemoryOffset": 8904,
+      "MemoryOffset": 9020,
       "Description": "Set 'name5[0]' to 'name4[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 50,
-      "MemoryOffset": 8914,
+      "MemoryOffset": 9030,
       "Description": "Set 'name5[1]' to 'name4[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 50,
-      "MemoryOffset": 8924,
+      "MemoryOffset": 9040,
       "Description": "Set 'name5[2]' to 'name4[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 50,
-      "MemoryOffset": 8934,
+      "MemoryOffset": 9050,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 51,
-      "MemoryOffset": 8942,
-      "Description": "If score4 != playerscore ELSE GOTO 00008970"
+      "MemoryOffset": 9058,
+      "Description": "If score4 != playerscore ELSE GOTO 00009086"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 51,
-      "MemoryOffset": 8956,
+      "MemoryOffset": 9072,
       "Description": "Set 'score4' to 'playerscore'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 51,
-      "MemoryOffset": 8962,
+      "MemoryOffset": 9078,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 52,
-      "MemoryOffset": 8970,
+      "MemoryOffset": 9086,
       "Description": "Set 'name4[0]' to 'playername[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 52,
-      "MemoryOffset": 8980,
+      "MemoryOffset": 9096,
       "Description": "Set 'name4[1]' to 'playername[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 52,
-      "MemoryOffset": 8990,
+      "MemoryOffset": 9106,
       "Description": "Set 'name4[2]' to 'playername[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 52,
-      "MemoryOffset": 9000,
+      "MemoryOffset": 9116,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 54,
-      "MemoryOffset": 9008,
-      "Description": "If playerscore > score3 ELSE GOTO 00009154"
+      "MemoryOffset": 9124,
+      "Description": "If playerscore > score3 ELSE GOTO 00009270"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 55,
-      "MemoryOffset": 9022,
-      "Description": "If score4 != score3 ELSE GOTO 00009050"
+      "MemoryOffset": 9138,
+      "Description": "If score4 != score3 ELSE GOTO 00009166"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 55,
-      "MemoryOffset": 9036,
+      "MemoryOffset": 9152,
       "Description": "Set 'score4' to 'score3'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 55,
-      "MemoryOffset": 9042,
+      "MemoryOffset": 9158,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 56,
-      "MemoryOffset": 9050,
+      "MemoryOffset": 9166,
       "Description": "Set 'name4[0]' to 'name3[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 56,
-      "MemoryOffset": 9060,
+      "MemoryOffset": 9176,
       "Description": "Set 'name4[1]' to 'name3[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 56,
-      "MemoryOffset": 9070,
+      "MemoryOffset": 9186,
       "Description": "Set 'name4[2]' to 'name3[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 56,
-      "MemoryOffset": 9080,
+      "MemoryOffset": 9196,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 57,
-      "MemoryOffset": 9088,
-      "Description": "If score3 != playerscore ELSE GOTO 00009116"
+      "MemoryOffset": 9204,
+      "Description": "If score3 != playerscore ELSE GOTO 00009232"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 57,
-      "MemoryOffset": 9102,
+      "MemoryOffset": 9218,
       "Description": "Set 'score3' to 'playerscore'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 57,
-      "MemoryOffset": 9108,
+      "MemoryOffset": 9224,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 58,
-      "MemoryOffset": 9116,
+      "MemoryOffset": 9232,
       "Description": "Set 'name3[0]' to 'playername[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 58,
-      "MemoryOffset": 9126,
+      "MemoryOffset": 9242,
       "Description": "Set 'name3[1]' to 'playername[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 58,
-      "MemoryOffset": 9136,
+      "MemoryOffset": 9252,
       "Description": "Set 'name3[2]' to 'playername[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 58,
-      "MemoryOffset": 9146,
+      "MemoryOffset": 9262,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 60,
-      "MemoryOffset": 9154,
-      "Description": "If playerscore > score2 ELSE GOTO 00009300"
+      "MemoryOffset": 9270,
+      "Description": "If playerscore > score2 ELSE GOTO 00009416"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 61,
-      "MemoryOffset": 9168,
-      "Description": "If score3 != score2 ELSE GOTO 00009196"
+      "MemoryOffset": 9284,
+      "Description": "If score3 != score2 ELSE GOTO 00009312"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 61,
-      "MemoryOffset": 9182,
+      "MemoryOffset": 9298,
       "Description": "Set 'score3' to 'score2'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 61,
-      "MemoryOffset": 9188,
+      "MemoryOffset": 9304,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 62,
-      "MemoryOffset": 9196,
+      "MemoryOffset": 9312,
       "Description": "Set 'name3[0]' to 'name2[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 62,
-      "MemoryOffset": 9206,
+      "MemoryOffset": 9322,
       "Description": "Set 'name3[1]' to 'name2[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 62,
-      "MemoryOffset": 9216,
+      "MemoryOffset": 9332,
       "Description": "Set 'name3[2]' to 'name2[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 62,
-      "MemoryOffset": 9226,
+      "MemoryOffset": 9342,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 63,
-      "MemoryOffset": 9234,
-      "Description": "If score2 != playerscore ELSE GOTO 00009262"
+      "MemoryOffset": 9350,
+      "Description": "If score2 != playerscore ELSE GOTO 00009378"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 63,
-      "MemoryOffset": 9248,
+      "MemoryOffset": 9364,
       "Description": "Set 'score2' to 'playerscore'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 63,
-      "MemoryOffset": 9254,
+      "MemoryOffset": 9370,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 64,
-      "MemoryOffset": 9262,
+      "MemoryOffset": 9378,
       "Description": "Set 'name2[0]' to 'playername[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 64,
-      "MemoryOffset": 9272,
+      "MemoryOffset": 9388,
       "Description": "Set 'name2[1]' to 'playername[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 64,
-      "MemoryOffset": 9282,
+      "MemoryOffset": 9398,
       "Description": "Set 'name2[2]' to 'playername[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 64,
-      "MemoryOffset": 9292,
+      "MemoryOffset": 9408,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 66,
-      "MemoryOffset": 9300,
-      "Description": "If playerscore > score1 ELSE GOTO 00009446"
+      "MemoryOffset": 9416,
+      "Description": "If playerscore > score1 ELSE GOTO 00009562"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 67,
-      "MemoryOffset": 9314,
-      "Description": "If score2 != score1 ELSE GOTO 00009342"
+      "MemoryOffset": 9430,
+      "Description": "If score2 != score1 ELSE GOTO 00009458"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 67,
-      "MemoryOffset": 9328,
+      "MemoryOffset": 9444,
       "Description": "Set 'score2' to 'score1'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 67,
-      "MemoryOffset": 9334,
+      "MemoryOffset": 9450,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 68,
-      "MemoryOffset": 9342,
+      "MemoryOffset": 9458,
       "Description": "Set 'name2[0]' to 'name1[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 68,
-      "MemoryOffset": 9352,
+      "MemoryOffset": 9468,
       "Description": "Set 'name2[1]' to 'name1[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 68,
-      "MemoryOffset": 9362,
+      "MemoryOffset": 9478,
       "Description": "Set 'name2[2]' to 'name1[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 68,
-      "MemoryOffset": 9372,
+      "MemoryOffset": 9488,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 69,
-      "MemoryOffset": 9380,
-      "Description": "If score1 != playerscore ELSE GOTO 00009408"
+      "MemoryOffset": 9496,
+      "Description": "If score1 != playerscore ELSE GOTO 00009524"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 69,
-      "MemoryOffset": 9394,
+      "MemoryOffset": 9510,
       "Description": "Set 'score1' to 'playerscore'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 69,
-      "MemoryOffset": 9400,
+      "MemoryOffset": 9516,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 70,
-      "MemoryOffset": 9408,
+      "MemoryOffset": 9524,
       "Description": "Set 'name1[0]' to 'playername[0]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 70,
-      "MemoryOffset": 9418,
+      "MemoryOffset": 9534,
       "Description": "Set 'name1[1]' to 'playername[1]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 70,
-      "MemoryOffset": 9428,
+      "MemoryOffset": 9544,
       "Description": "Set 'name1[2]' to 'playername[2]'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 70,
-      "MemoryOffset": 9438,
+      "MemoryOffset": 9554,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 72,
-      "MemoryOffset": 9446,
+      "MemoryOffset": 9562,
       "Description": "Raw expression 'True'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 72,
-      "MemoryOffset": 9452,
+      "MemoryOffset": 9568,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 72,
-      "MemoryOffset": 9458,
+      "MemoryOffset": 9574,
       "Description": "Raw expression '644'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 72,
-      "MemoryOffset": 9464,
+      "MemoryOffset": 9580,
       "Description": "Raw expression '80'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 72,
-      "MemoryOffset": 9470,
+      "MemoryOffset": 9586,
       "Description": "Core operation'LoadOrSave'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 72,
-      "MemoryOffset": 9478,
+      "MemoryOffset": 9594,
       "Description": "Raw string 'High Score Game'"
     },
     {
       "CodeBlock": "game_over",
       "CodeBlockLine": 73,
-      "MemoryOffset": 9494,
+      "MemoryOffset": 9610,
       "Description": "GOTO 'GAME_START'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 0,
-      "MemoryOffset": 9526,
+      "MemoryOffset": 9642,
       "Description": "GAME_START"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 1,
-      "MemoryOffset": 9526,
-      "Description": "If playerscore != 0 ELSE GOTO 00009556"
+      "MemoryOffset": 9642,
+      "Description": "If playerscore != 0 ELSE GOTO 00009672"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 1,
-      "MemoryOffset": 9540,
+      "MemoryOffset": 9656,
       "Description": "Set 'playerscore' to '0'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 1,
-      "MemoryOffset": 9548,
+      "MemoryOffset": 9664,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 2,
-      "MemoryOffset": 9556,
+      "MemoryOffset": 9672,
       "Description": "GOSUB TO 'UNLOAD_LEVEL'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 2,
-      "MemoryOffset": 9576,
+      "MemoryOffset": 9692,
       "Description": "Set 'newvalue' to 'title'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 2,
-      "MemoryOffset": 9582,
+      "MemoryOffset": 9698,
       "Description": "GOSUB TO 'LOAD_PANEL'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 2,
-      "MemoryOffset": 9602,
-      "Description": "If panel != 0 ELSE GOTO 00009660"
+      "MemoryOffset": 9718,
+      "Description": "If panel != 0 ELSE GOTO 00009776"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 2,
-      "MemoryOffset": 9614,
+      "MemoryOffset": 9730,
       "Description": "Set 'wait' to '0'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 2,
-      "MemoryOffset": 9620,
+      "MemoryOffset": 9736,
       "Description": "GOSUB TO 'WAITFORFRAMES'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 2,
-      "MemoryOffset": 9640,
+      "MemoryOffset": 9756,
       "Description": "GOSUB TO 'UNLOAD_PANEL'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 3,
-      "MemoryOffset": 9660,
+      "MemoryOffset": 9776,
       "Description": "Set 'panel_bottom' to 'hud'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 3,
-      "MemoryOffset": 9666,
+      "MemoryOffset": 9782,
       "Description": "Core operation'WaitForNoActors'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 3,
-      "MemoryOffset": 9674,
+      "MemoryOffset": 9790,
       "Description": "Raw expression 'level1'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 3,
-      "MemoryOffset": 9680,
+      "MemoryOffset": 9796,
       "Description": "Core operation'PushToStack'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 3,
-      "MemoryOffset": 9688,
+      "MemoryOffset": 9804,
       "Description": "GOSUB TO 'PRE_LOAD_LEVEL'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 3,
-      "MemoryOffset": 9708,
+      "MemoryOffset": 9824,
       "Description": "Set 'background' to '-1'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 3,
-      "MemoryOffset": 9714,
+      "MemoryOffset": 9830,
       "Description": "Raw expression '14'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 3,
-      "MemoryOffset": 9720,
+      "MemoryOffset": 9836,
       "Description": "Core operation'PopFromStack'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 3,
-      "MemoryOffset": 9728,
+      "MemoryOffset": 9844,
       "Description": "GOSUB TO 'LOAD_LEVEL'"
     },
     {
       "CodeBlock": "game_start",
       "CodeBlockLine": 3,
-      "MemoryOffset": 9748,
+      "MemoryOffset": 9864,
       "Description": "GOSUB TO 'FADEIN'"
     },
     {
       "CodeBlock": "hit_enemy",
       "CodeBlockLine": 0,
-      "MemoryOffset": 9794,
+      "MemoryOffset": 9910,
       "Description": "HIT_ENEMY"
     },
     {
       "CodeBlock": "hit_enemy",
       "CodeBlockLine": 1,
-      "MemoryOffset": 9794,
+      "MemoryOffset": 9910,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "hit_enemy",
       "CodeBlockLine": 1,
-      "MemoryOffset": 9800,
+      "MemoryOffset": 9916,
       "Description": "Raw expression 'none'"
     },
     {
       "CodeBlock": "hit_enemy",
       "CodeBlockLine": 1,
-      "MemoryOffset": 9806,
+      "MemoryOffset": 9922,
       "Description": "Raw expression 'True'"
     },
     {
       "CodeBlock": "hit_enemy",
       "CodeBlockLine": 1,
-      "MemoryOffset": 9812,
+      "MemoryOffset": 9928,
       "Description": "Raw expression 'True'"
     },
     {
       "CodeBlock": "hit_enemy",
       "CodeBlockLine": 1,
-      "MemoryOffset": 9818,
+      "MemoryOffset": 9934,
       "Description": "Core operation'ActorSetType'"
     },
     {
       "CodeBlock": "hit_enemy",
       "CodeBlockLine": 2,
-      "MemoryOffset": 9826,
-      "Description": "If playerscore != playerscore + 100 ELSE GOTO 00009872"
+      "MemoryOffset": 9942,
+      "Description": "If playerscore != playerscore + 100 ELSE GOTO 00009988"
     },
     {
       "CodeBlock": "hit_enemy",
       "CodeBlockLine": 2,
-      "MemoryOffset": 9848,
+      "MemoryOffset": 9964,
       "Description": "Set 'playerscore' to 'playerscore + 100'"
     },
     {
       "CodeBlock": "hit_enemy",
       "CodeBlockLine": 2,
-      "MemoryOffset": 9864,
+      "MemoryOffset": 9980,
       "Description": "Core operation'RefreshUI'"
     },
     {
       "CodeBlock": "startup",
       "CodeBlockLine": 0,
-      "MemoryOffset": 9898,
+      "MemoryOffset": 10014,
       "Description": "STARTUP"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 9898,
+      "CodeBlockLine": 3,
+      "MemoryOffset": 10014,
       "Description": "Raw expression 'False'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 9904,
+      "CodeBlockLine": 3,
+      "MemoryOffset": 10020,
       "Description": "Raw expression '0'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 9910,
+      "CodeBlockLine": 3,
+      "MemoryOffset": 10026,
       "Description": "Raw expression '644'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 9916,
+      "CodeBlockLine": 3,
+      "MemoryOffset": 10032,
       "Description": "Raw expression '80'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 9922,
+      "CodeBlockLine": 3,
+      "MemoryOffset": 10038,
       "Description": "Core operation'LoadOrSave'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 1,
-      "MemoryOffset": 9930,
+      "CodeBlockLine": 3,
+      "MemoryOffset": 10046,
       "Description": "Raw string 'High Score Game'"
     },
     {
       "CodeBlock": "startup",
-      "CodeBlockLine": 2,
-      "MemoryOffset": 9946,
+      "CodeBlockLine": 4,
+      "MemoryOffset": 10062,
       "Description": "GOTO 'GAME_START'"
     }
   ],

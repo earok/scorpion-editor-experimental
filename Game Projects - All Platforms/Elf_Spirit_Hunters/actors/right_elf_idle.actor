@@ -1,6 +1,5 @@
 {
   "ShootDirType": "actor_direction",
-  "ClassType": "Actor",
   "DefaultLookDir": "left",
   "Recycle": "Trash",
   "MoveType": "cpu",
@@ -128,6 +127,7 @@
   "CollType_Up": "block",
   "CollType_Down": "block",
   "Player": null,
+  "BlockCollider": null,
   "CanRidePlatform": null,
   "Camera": null,
   "AutoScroll": null,
@@ -159,8 +159,22 @@
     "0"
   ],
   "ControlPort": 0,
-  "DataVersion": 3,
+  "DataVersion": 6,
+  "ActorTag": "None",
   "AutoSpawn": null,
   "AutoNavigate": false,
-  "TileID": 11
+  "ActorTimeline": {
+    "TimelineFrames": null,
+    "TimelineEvents": {},
+    "PingPong": false
+  },
+  "DontSpawnIfTooMany": false,
+  "AutoClearChildren": false,
+  "DivertMeleeByProjectile": null,
+  "DivertMeleeAgainstProjectile": null,
+  "IsAttacker": null,
+  "PreviewParent": null,
+  "RotationEnabled": false,
+  "TileID": 11,
+  "MaxTimelineFrames": 50
 }

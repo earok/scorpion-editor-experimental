@@ -1,87 +1,101 @@
-ImageFrames: 56
+Compiled on Sunday, 25 May 2025 9:48:38 p.m.
+Version string: SE2024.2.250518.20.03.EX
+
 ImageFrame Data Size: 2500
 Actor Count: 25
-Actor Data Size: 4700
-Movement Pattern Data: 2
+Actor Data Size: 4500
 Animations Count: 23
 Animations Data Size: 368
 AnimationFrame Count: 46
-AnimationFrame Data Size: System.Collections.Generic.List`1[System.Byte]
-Project virtual machine (codeblocks) Original size 16956 Crunched size 16956
-Panel  Original size 3118 Crunched size 3118
-Panel emptypanel Original size 3118 Crunched size 3118
-Panel main_panel Original size 3118 Crunched size 3118
-Panel store Original size 3538 Crunched size 3538
-Panel title_panel Original size 3118 Crunched size 3118
-Panel ui Original size 1358 Crunched size 1358
+AnimationFrame Data Size: 736
+Project virtual machine (codeblocks) Original size 18878 Crunched size 18878
+Panel  Original size 3130 Crunched size 3130
+Panel emptypanel Original size 3130 Crunched size 3130
+Panel main_panel Original size 3130 Crunched size 3130
+Panel store Original size 3582 Crunched size 3582
+Panel title_panel Original size 3130 Crunched size 3130
+Panel ui Original size 1402 Crunched size 1402
 Project blocks Original size 408 Crunched size 408
 Images Original size 2500 Crunched size 2500
-Movement patterns Original size 2 Crunched size 2
-Project actors Original size 4700 Crunched size 4700
+Project actors Original size 4500 Crunched size 4500
 Map block data for map Original size 2244 Crunched size 2244
-Header data for map map Original size 8000 Crunched size 8000
+Header data for map map Original size 844 Crunched size 844
 Map tile data  map Original size 2244 Crunched size 2244
-Tile data for map map (mem restrictions:None) Original size 8000 Crunched size 8000
-Map event data for map Original size 32 Crunched size 32
+Tile data for map map (mem restrictions:None) Original size 4000 Crunched size 4000
+Map event data for map Original size 76 Crunched size 76
 Get Y lookup table map Original size 408 Crunched size 408
 Map path node data for map Original size 12 Crunched size 12
+Project name table Original size 536 Crunched size 536
 Animations Original size 368 Crunched size 368
 Animation Frames Original size 736 Crunched size 736
 Project sound Original size 252 Crunched size 252
-Project Header Original size 2902 Crunched size 2902
-Var Data Original size 112 Crunched size 112
-Attack Data Original size 144 Crunched size 144
+Misc Data (paths, hurt boxes etc) Original size 2 Crunched size 2
+Project Header Original size 3266 Crunched size 3266
+Var Data Original size 194 Crunched size 194
+Attack Data Original size 176 Crunched size 176
 Teleporters Original size 8 Crunched size 8
 
+=== Accounted Memory Usage ===
+(Note that this isn't a full account of memory usage, just the memory we can account for)
+RAM reserved for level tiles: (largest level: map): 4488
+memory reserved for active actors on screen (32): 4616
+memory reserved for dormant actors in map (128): 4608
+
+Total: 13712 bytes
+
 === Codeblocks by compiled size ===
-game_loop: 2576
-store_selection: 1142
-load_level: 724
-game_over_bank: 480
+game_loop: 3068
+store_selection: 1512
+game_over_bank: 642
+load_level: 510
+beam_cross: 502
 activate: 464
-beam_cross: 462
-random_dir: 438
-startup: 408
-do_teleport: 404
-manager_heart: 404
+startup: 460
+manager_heart: 458
+random_dir: 444
 manager: 400
 beam_collision: 388
+do_teleport: 382
+store_manager: 368
 beam_test_side: 342
+pre_startup: 316
 flipscreen_smooth: 310 (Unused?)
+battery_drain: 302
 flipxymove: 278 (Unused?)
-battery_drain: 266
-store_manager: 260
 set_yresolution: 256 (Unused?)
-hunt: 222
+load_next_level: 252 (Unused?)
+hunt: 226
+block_find: 206 (Unused?)
+drop_chest: 200
 waitforframes: 194
-drop_chest: 194
-restart: 180 (Unused?)
+block_count: 178 (Unused?)
 check_talkpad: 172 (Unused?)
-pre_startup: 168
 flipymove: 162 (Unused?)
+pre_quit: 160 (Unused?)
 snap_to_screen: 158 (Unused?)
-pre_quit: 152 (Unused?)
+restart: 158 (Unused?)
 load_panel: 146
 flipxmove: 142 (Unused?)
 unload_level: 142
 pause: 138 (Unused?)
 flipxlook: 134
+destroyed_block: 130
+hunt_kill: 130
+destroy_all_blocks: 128 (Unused?)
+restart_this_level: 128 (Unused?)
 celebrate: 128
-destroy_all_blocks: 124 (Unused?)
-destroyed_block: 124
+game_over: 128
 pre_load_level: 122
 chest_close: 118
-hunt_kill: 118
-waitforfireup: 114
+return_to_northpole: 114
 fadein: 112
-waitforfiredown: 110
+chest_open: 110
 unload_panel: 106
-chest_open: 104
-game_over: 104
+waitforfireup: 102
+waitforfiredown: 98
 load_panel_bottom: 96
 load_panel_top: 96 (Unused?)
 destroy_child_actors: 94 (Unused?)
-return_to_northpole: 90
 fadeout: 88
 pre_anim5: 86 (Unused?)
 waitforfirehit: 86
@@ -104,9 +118,9 @@ regenerate_screen: 58
 kill_elf: 58
 destroy_block: 52 (Unused?)
 return: 52 (Unused?)
+beam_sfx: 52
 quit: 50 (Unused?)
 regenerate_screen_wait: 46
-beam_sfx: 46
 turn_right: 46
 freeze_actor: 40 (Unused?)
 unfreeze_actor: 40 (Unused?)
@@ -114,13 +128,6 @@ block_coll_force: 32 (Unused?)
 block_coll_passthru: 32 (Unused?)
 clear_block_collision: 32
 vm_registers: 26 (Unused?)
-vm_constants: 26 (Unused?)
 debug_breakpoint: 26 (Unused?)
-hardware_amiga: 26 (Unused?)
-hardware_megadrive: 26 (Unused?)
 set_ntsc: 26 (Unused?)
-vm_constants_audiodriver: 26 (Unused?)
-vm_constants_controlbits: 26 (Unused?)
-vm_constants_notes: 26 (Unused?)
-vm_constants_platform: 26 (Unused?)
 vm_constants_tile_properties: 26 (Unused?)

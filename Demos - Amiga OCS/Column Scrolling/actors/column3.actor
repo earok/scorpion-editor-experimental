@@ -131,7 +131,7 @@
   "CanRidePlatform": null,
   "Camera": null,
   "AutoScroll": null,
-  "Flags": 0,
+  "Flags": "ghostThruWalls",
   "AttackProjectile": null,
   "AttackProjectileAmmoVariable": null,
   "AttackSound": null,
@@ -159,7 +159,8 @@
     "0"
   ],
   "ControlPort": 0,
-  "DataVersion": 3,
+  "DataVersion": 6,
+  "ActorTag": "None",
   "AutoSpawn": null,
   "AutoNavigate": false,
   "ActorTimeline": {
@@ -189,5 +190,13 @@
     "TimelineEvents": {},
     "PingPong": false
   },
-  "TileID": 2
+  "DontSpawnIfTooMany": false,
+  "AutoClearChildren": false,
+  "DivertMeleeByProjectile": null,
+  "DivertMeleeAgainstProjectile": null,
+  "IsAttacker": null,
+  "PreviewParent": null,
+  "RotationEnabled": false,
+  "TileID": 2,
+  "MaxTimelineFrames": 50
 }

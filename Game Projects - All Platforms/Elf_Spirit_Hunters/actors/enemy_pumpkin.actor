@@ -156,11 +156,25 @@
     "0",
     "enemy_pumpkin_hunter",
     "a_pumpkin_caught",
-    "enemy"
+    "0"
   ],
   "ControlPort": 2,
-  "DataVersion": 3,
+  "DataVersion": 6,
+  "ActorTag": "enemy",
   "AutoSpawn": null,
   "AutoNavigate": false,
-  "TileID": 20
+  "ActorTimeline": {
+    "TimelineFrames": null,
+    "TimelineEvents": {},
+    "PingPong": false
+  },
+  "DontSpawnIfTooMany": false,
+  "AutoClearChildren": false,
+  "DivertMeleeByProjectile": null,
+  "DivertMeleeAgainstProjectile": null,
+  "IsAttacker": null,
+  "PreviewParent": null,
+  "RotationEnabled": false,
+  "TileID": 20,
+  "MaxTimelineFrames": 50
 }

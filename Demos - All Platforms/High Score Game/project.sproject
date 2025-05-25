@@ -1,8 +1,7 @@
 {
-  "TargetPlatform": "megadrive",
+  "TargetPlatform": "amiga_ocs_trackdisk",
   "StartupCodeBlock": "startup",
   "Recompile": true,
-  "DebugMode": false,
   "DataVersion": 4,
   "Commands": [
     {
@@ -77,7 +76,13 @@
       "Radix": 10
     }
   },
-  "FontMetaData": {},
+  "FontMetaData": {
+    "defaultfont": {
+      "IsMonoSpaced": false,
+      "LineHeight": 8,
+      "SpaceWidth": 8
+    }
+  },
   "SplashScreen": null,
   "LogicSpeed": "PAL_25HZ",
   "ReadCD32Buttons": false,
@@ -86,5 +91,6 @@
   "MDSoundDriver": "MDSDRV",
   "SplashScreenFrames": 50,
   "TestLevel": null,
-  "SafetyRails": false
+  "SafetyRails": false,
+  "NGH": 61166
 }
