@@ -81,7 +81,15 @@
       "VariableType": "Variable",
       "VariableExpansionMode": "Word",
       "DiceSides": "2",
-      "Conditions": []
+      "Conditions": [
+        {
+          "LeftSide": "",
+          "Comparison": "NotZero",
+          "RightSide": "",
+          "ComparisonNext": "End",
+          "IsValid": false
+        }
+      ]
     },
     {
       "Values": {},
@@ -9195,7 +9203,7 @@
       "ControlMode": "Joys_1",
       "Goto": "",
       "Comment": "A Vblank operation such as flipping the display buffers is due",
-      "Variable": "DisplayDirty",
+      "Variable": "DisplayDirtyXxxxxxxxxxxxxxxx",
       "Expression": "0",
       "Index": "0",
       "Label": "",
