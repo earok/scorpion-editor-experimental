@@ -11,7 +11,7 @@ ProjectileController=Expression
 
 **Description:**
 
-Trigger a codeblock on this entity after a number of frames
+Override the joystick controller for the actor
 
 Expression: The expression such as X+5
 
