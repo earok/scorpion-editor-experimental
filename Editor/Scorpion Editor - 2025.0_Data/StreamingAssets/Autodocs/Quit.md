@@ -6,17 +6,17 @@ Base
 **Syntax:**
 
 ```scorpionengine
-Quit "Expression"
+Quit ="Expression"
 ```
 
 **Description:**
 
 Exit to AmigaDOS or Workbench (set expression to other than 0 to display error code)
 
-Expression: The expression such as X+5
+Expression: A string expression such as "Hello World"
 
 ```scorpionengine
 
-Quit "Hello world"
+Quit ="Hello world"
 
 ```

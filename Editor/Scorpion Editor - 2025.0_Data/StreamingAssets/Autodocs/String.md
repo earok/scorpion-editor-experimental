@@ -6,7 +6,7 @@ Variable
 **Syntax:**
 
 ```scorpionengine
-String VarName "Expression"
+String VarName ="Expression"
 ```
 
 **Description:**
@@ -14,10 +14,10 @@ String VarName "Expression"
 A set of ASCII characters. Value field contains the initial value (length cannot be changed)
 
 VarName: The variable name
-Expression: The expression such as X+5
+Expression: A string expression such as "Hello World"
 
 ```scorpionengine
 
-String MyVariable "Hello world"
+String MyVariable ="Hello world"
 
 ```

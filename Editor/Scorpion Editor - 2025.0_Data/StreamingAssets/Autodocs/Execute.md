@@ -6,17 +6,17 @@ Base
 **Syntax:**
 
 ```scorpionengine
-Execute "Expression"
+Execute ="Expression"
 ```
 
 **Description:**
 
 Run an AmigaDOS command (use with care)
 
-Expression: The expression such as X+5
+Expression: A string expression such as "Hello World"
 
 ```scorpionengine
 
-Execute "Hello world"
+Execute ="Hello world"
 
 ```
