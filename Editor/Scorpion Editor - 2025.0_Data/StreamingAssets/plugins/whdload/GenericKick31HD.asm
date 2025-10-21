@@ -40,7 +40,7 @@ FASTMEMSIZE	= {fast_mem_size}	;size of fast memory
 NUMDRIVES	= 1		;amount of floppy drives to be configured
 WPDRIVES	= %0000		;write protection of floppy drives
 
-;BLACKSCREEN			;set all initial colors to black
+BLACKSCREEN			;set all initial colors to black
 ;BOOTBLOCK			;enable _bootblock routine
 BOOTDOS				;enable _bootdos routine
 ;BOOTEARLY			;enable _bootearly routine
@@ -50,13 +50,13 @@ BOOTDOS				;enable _bootdos routine
 ;CACHE				;enable inst/data cache for fast memory with MMU
 ;CACHECHIP			;enable inst cache for chip/fast memory
 ;CACHECHIPDATA			;enable inst/data cache for chip/fast memory
-DEBUG				;enable additional internal checks
+;DEBUG				;enable additional internal checks (Earok - we don't want this?)
 ;DISKSONBOOT			;insert disks in floppy drives
 ;DOSASSIGN			;enable _dos_assign routine
-FONTHEIGHT	= 8		;enable 80 chars per line
+;FONTHEIGHT	= 8		;enable 80 chars per line
 HDINIT				;initialize filesystem handler
-HRTMON				;add support for HrtMON
-;INITAGA			;enable AGA features
+;HRTMON				;add support for HrtMON (Earok - we don't want this?)
+INITAGA			;enable AGA features (Earok - we do want AGA)
 ;INIT_AUDIO			;enable audio.device
 ;INIT_GADTOOLS			;enable gadtools.library
 ;INIT_LOWLEVEL			;load lowlevel.library
@@ -67,15 +67,15 @@ IOCACHE		= 10000		;cache for the filesystem handler (per fh)
 ;JOYPADEMU			;use keyboard for joypad buttons
 ;MEMFREE	= $200		;location to store free memory counter
 ;NEEDFPU			;set requirement for a fpu
-NO68020				;remain 68000 compatible
-POINTERTICKS	= 1		;set mouse speed
+;NO68020				;remain 68000 compatible (Earok - we only use this for AGA, so we can assume an 68020)
+;POINTERTICKS	= 1		;set mouse speed
 ;PROMOTE_DISPLAY		;allow DblPAL/NTSC promotion
-SEGTRACKER			;add segment tracker
-SETKEYBOARD			;activate host keymap
+;SEGTRACKER			;add segment tracker (Earok - don't need this?)
+;SETKEYBOARD			;activate host keymap (Earok - don't need this?)
 ;SNOOPFS			;trace filesystem handler
 ;STACKSIZE	= 6000		;increase default stack
 ;TRDCHANGEDISK			;enable _trd_changedisk routine
-WHDCTRL				;add WHDCtrl resident command
+;WHDCTRL				;add WHDCtrl resident command (Earok - don't need this)
 
 ;============================================================================
 

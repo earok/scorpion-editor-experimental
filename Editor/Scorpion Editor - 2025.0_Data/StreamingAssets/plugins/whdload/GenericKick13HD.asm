@@ -22,7 +22,7 @@
 	INCDIR	Includes:
 	INCLUDE	whdload.i
 	INCLUDE	whdmacros.i
-	INCLUDE	lvo/dos.i
+;	INCLUDE	lvo/dos.i
 
 	IFD BARFLY
 	OUTPUT	"GenericKick13.slave"
@@ -42,7 +42,7 @@ FASTMEMSIZE	= {fast_mem_size}	;size of fast memory
 NUMDRIVES	= 1		;amount of floppy drives to be configured
 WPDRIVES	= %0000		;write protection of floppy drives
 
-;BLACKSCREEN			;set all initial colors to black
+BLACKSCREEN			;set all initial colors to black
 ;BOOTBLOCK			;enable _bootblock routine
 BOOTDOS			;enable _bootdos routine
 ;BOOTEARLY			;enable _bootearly routine
@@ -52,23 +52,23 @@ CBDOSLOADSEG			;enable _cb_dosLoadSeg routine
 ;CACHE				;enable inst/data cache for fast memory with MMU
 ;CACHECHIP			;enable inst cache for chip/fast memory
 ;CACHECHIPDATA			;enable inst/data cache for chip/fast memory
-DEBUG				;add more internal checks
+;DEBUG				;add more internal checks (Earok - We don't want this?)
 ;DISKSONBOOT			;insert disks in floppy drives
 ;DOSASSIGN			;enable _dos_assign routine
-FONTHEIGHT	= 8		;enable 80 chars per line
+;FONTHEIGHT	= 8		;enable 80 chars per line
 HDINIT				;initialize filesystem handler
-HRTMON				;add support for HrtMON
+;HRTMON				;add support for HrtMON (Earok - we don't want this?)
 IOCACHE		= 8192		;cache for the filesystem handler (per fh)
 ;MEMFREE	= $200		;location to store free memory counter
 ;NEEDFPU			;set requirement for a fpu
-POINTERTICKS	= 1		;set mouse speed
-SEGTRACKER			;add segment tracker
-SETKEYBOARD			;activate host keymap
+;POINTERTICKS	= 1		;set mouse speed (Earok - don't need this?)
+;SEGTRACKER			;add segment tracker (Earok - don't need this?)
+;SETKEYBOARD			;activate host keymap  (Earok - don't need this?)
 SETPATCH			;enable patches from SetPatch 1.38
 ;SNOOPFS			;trace filesystem handler
 ;STACKSIZE	= 6000		;increase default stack
 ;TRDCHANGEDISK			;enable _trd_changedisk routine
-WHDCTRL				;add WHDCtrl resident command
+;WHDCTRL				;add WHDCtrl resident command (Earok - don't need this)
 
 ;============================================================================
 
