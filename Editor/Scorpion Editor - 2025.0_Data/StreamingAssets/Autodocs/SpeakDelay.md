@@ -6,7 +6,7 @@ Dialogue
 **Syntax:**
 
 ```scorpionengine
-SpeakDelay=Expression
+SpeakDelay Expression
 ```
 
 **Description:**
@@ -17,6 +17,6 @@ Expression: The expression such as X+5
 
 ```scorpionengine
 
-SpeakDelay=5*5
+SpeakDelay 5*5
 
 ```
