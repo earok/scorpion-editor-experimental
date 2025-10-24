@@ -1,5 +1,5 @@
-Compiled on Thursday, 2 October 2025 12:46:18 a.m.
-Version string: SE2025.0.251001.15.23.EX
+Compiled on Friday, 24 October 2025 11:48:56 p.m.
+Version string: SE2025.0.251024.22.09.EX
 
 ImageFrame Data Size: 492
 Actor Count: 2
@@ -9,30 +9,55 @@ Animations Data Size: 32
 AnimationFrame Count: 4
 AnimationFrame Data Size: 64
 
+=== Cartridge Composition ===
+ Header |   Offset | Size     | Crunch    | Detail
+   VC00 |   104580 |     7960 |  NoCrunch | Project virtual machine (codeblocks)
+   PL01 |   112540 |     2010 |  NoCrunch | Panel 
+   PB00 |   114550 |       68 |  NoCrunch | Project blocks
+   PI00 |   114618 |      492 |  NoCrunch | Images
+   PA00 |   115110 |      360 |  NoCrunch | Project actors
+   ML01 |   115470 |        6 |       ZX0 | Map block data for new_map
+   MA01 |   115476 |       12 |       ZX0 | Map actor data for new_map
+   MH01 |   115488 |      848 |  NoCrunch | Header data for map new_map
+   MT01 |   116336 |       14 |       ZX0 | Map tile data  new_map
+   MD01 |   116350 |      448 |  NoCrunch | Tile data for map new_map (mem restrictions:None)
+   ME01 |   116798 |       44 |  NoCrunch | Map event data for new_map
+   MY01 |   116842 |       64 |  NoCrunch | Get Y lookup table new_map
+   MN01 |   116906 |       12 |  NoCrunch | Map path node data for new_map
+   NT00 |   116918 |        4 |  NoCrunch | Project name table
+   PN00 |   116922 |       32 |  NoCrunch | Animations
+   PF00 |   116954 |       64 |  NoCrunch | Animation Frames
+   PS00 |   117018 |       28 |  NoCrunch | Project sound
+   DB00 |   117046 |        2 |  NoCrunch | Misc Data (paths, hurt boxes etc)
+   PH00 |   117048 |     3290 |  NoCrunch | Project Header
+   PV00 |   120338 |       32 |  NoCrunch | Var Data
+   AT00 |   120370 |       88 |  NoCrunch | Attack Data
+   PE00 |   120458 |        8 |  NoCrunch | Teleporters
+
 === Data Sizes ===
-    Size | Crunch | Detail
-    8024 |        | Project virtual machine (codeblocks)
-    3290 |        | Project Header
-    2010 |        | Panel 
-     848 |        | Header data for map new_map
-     492 |        | Images
-     448 |        | Tile data for map new_map (mem restrictions:None)
-     360 |        | Project actors
-      88 |        | Attack Data
-      68 |        | Project blocks
-      64 |        | Get Y lookup table new_map
-      64 |        | Animation Frames
-      44 |        | Map event data for new_map
-      32 |        | Animations
-      32 |        | Var Data
-      28 |        | Project sound
-      14 |  (96%) | Map tile data  new_map
-      12 |  (58%) | Map actor data for new_map
-      12 |        | Map path node data for new_map
-       8 |        | Teleporters
-       6 |  (98%) | Map block data for new_map
-       4 |        | Project name table
-       2 |        | Misc Data (paths, hurt boxes etc)
+    Size |   Memory | Crunch | Detail
+    7960 |     7960 |        | Project virtual machine (codeblocks)
+    3290 |     3290 |        | Project Header
+    2010 |     2010 |        | Panel 
+     848 |      848 |        | Header data for map new_map
+     492 |      492 |        | Images
+     448 |      448 |        | Tile data for map new_map (mem restrictions:None)
+     360 |      360 |        | Project actors
+      88 |       88 |        | Attack Data
+      68 |       68 |        | Project blocks
+      64 |       64 |        | Get Y lookup table new_map
+      64 |       64 |        | Animation Frames
+      44 |       44 |        | Map event data for new_map
+      32 |       32 |        | Animations
+      32 |       32 |        | Var Data
+      28 |       28 |        | Project sound
+      14 |      288 |  (96%) | Map tile data  new_map
+      12 |       28 |  (58%) | Map actor data for new_map
+      12 |       12 |        | Map path node data for new_map
+       8 |        8 |        | Teleporters
+       6 |      288 |  (98%) | Map block data for new_map
+       4 |        4 |        | Project name table
+       2 |        2 |        | Misc Data (paths, hurt boxes etc)
 
 === Accounted Memory Usage ===
 (Note that this isn't a full account of memory usage, just the memory we can account for)
@@ -43,8 +68,8 @@ memory reserved for dormant actors in map (128): 4608
 Total: 10248 bytes
 
 === Codeblocks by compiled size ===
-load_level: 610
-pre_startup: 356
+load_level: 594
+pre_startup: 348
 flipscreen_smooth: 310 (Unused?)
 do_teleport: 280
 flipxymove: 278 (Unused?)
@@ -63,14 +88,14 @@ pause: 138 (Unused?)
 restart_this_level: 136 (Unused?)
 startup: 136
 load_panel: 134
-unload_level: 130
 destroy_all_blocks: 128 (Unused?)
-pre_load_level: 122
+unload_level: 118
 fadein: 108
 unload_panel: 102
 load_panel_bottom: 96 (Unused?)
 load_panel_top: 96 (Unused?)
 destroy_child_actors: 94 (Unused?)
+pre_load_level: 86
 waitforfirehit: 86
 fadeout: 76
 load_music_finish: 76
@@ -95,7 +120,7 @@ quit: 40 (Unused?)
 unfreeze_actor: 40 (Unused?)
 block_coll_force: 32 (Unused?)
 block_coll_passthru: 32
-vm_registers: 26 (Unused?)
 debug_breakpoint: 26 (Unused?)
+hardware_amiga: 26 (Unused?)
 set_ntsc: 26 (Unused?)
 vm_constants_tile_properties: 26 (Unused?)
