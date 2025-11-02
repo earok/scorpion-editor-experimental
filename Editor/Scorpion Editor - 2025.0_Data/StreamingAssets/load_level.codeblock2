@@ -19,7 +19,8 @@ Set cameratargety=yres / 2
 Set mapwidthtiles=mapwidth / 16
 Set mapheighttiles=mapheight / 16
 If teleport //Teleported from another level
-    PopStack player_var5 //Stack is restored in backwards order
+    PopStack player_var6 //Stack is restored in backwards order
+    PopStack player_var5
     PopStack player_var4
     PopStack player_var3
     PopStack player_var2
