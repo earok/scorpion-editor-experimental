@@ -9,7 +9,7 @@ End
 If level < 0
     Set level=1
 End
-ScrollSpeed
+ScrollSpeed X=0 Y=0
 Advanced ReloadLevel
 If mapheight < yres
     Quit="Error: Level needs to be at least as tall as the current Y Resolution value {yres}"
