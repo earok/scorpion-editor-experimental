@@ -30,6 +30,7 @@ Variable word Panel_Bottom=0 //GET or SET the currently loaded bottom panel
 Variable word Panel_Special=0 //GET or SET the currently loaded special panel
 Variable word Panel_Talkpad=0 //GET or SET the currently loaded talkpad panel
 Variable word Option=0 //The currently selected option in a menu panel
+Variable word OptionsEnabled=true //Whether options are currently showing
 Variable word Block_Type=0 //GET or SET the value of the block type underneath Block_X and Block_Y
 Variable word Block_Tag=0 //Get the tag of the block underneath Block_X and Block_Y (read only)
 Variable word Block_X=0 //GET or SET the block pointer on the X tile coordinate
