@@ -201,7 +201,7 @@ Variable fraction Scroll_Speed_Y=0 //The auto scroll speed on Y
 Variable word StringLength=0 //Reserved for memory talkpad strings
 Array byte CharBuffer[512] //Reserved memory for talkpad strings
 Array byte NumBuffer[10] //Reserved memory for number strings
+[megadrive] Array byte SpriteBuffer[640]
 [megadrive] Array word CRAMBuffer[64]
 [megadrive] Array word VScrollBuffer[40]
 [megadrive] Array word HScrollBuffer[480]
-[megadrive] Array byte SpriteBuffer[640]
