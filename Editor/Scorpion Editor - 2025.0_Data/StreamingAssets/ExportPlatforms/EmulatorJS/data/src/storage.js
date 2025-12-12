@@ -34,7 +34,7 @@ class EJS_STORAGE {
             };
             openRequest.onupgradeneeded = () => {
                 let db = openRequest.result;
-                if (! db.objectStoreNames.contains(this.storeName)) {
+                if (!db.objectStoreNames.contains(this.storeName)) {
                     db.createObjectStore(this.storeName);
                 };
             };
@@ -58,7 +58,7 @@ class EJS_STORAGE {
             };
             openRequest.onupgradeneeded = () => {
                 let db = openRequest.result;
-                if (! db.objectStoreNames.contains(this.storeName)) {
+                if (!db.objectStoreNames.contains(this.storeName)) {
                     db.createObjectStore(this.storeName);
                 };
             };
@@ -80,7 +80,7 @@ class EJS_STORAGE {
             };
             openRequest.onupgradeneeded = () => {
                 let db = openRequest.result;
-                if (! db.objectStoreNames.contains(this.storeName)) {
+                if (!db.objectStoreNames.contains(this.storeName)) {
                     db.createObjectStore(this.storeName);
                 };
             };
@@ -92,7 +92,7 @@ class EJS_STORAGE {
             const keys = await this.get("?EJS_KEYS!");
             if (!keys) return resolve({});
             let rv = {};
-            for (let i=0; i<keys.length; i++) {
+            for (let i = 0; i < keys.length; i++) {
                 const result = await this.get(keys[i]);
                 if (!result || !result.data || typeof result.data.byteLength !== "number") continue;
                 rv[keys[i]] = result.data.byteLength;
@@ -101,4 +101,25 @@ class EJS_STORAGE {
         })
     }
 }
+
+class EJS_DUMMYSTORAGE {
+    constructor() {}
+    addFileToDB() {
+        return new Promise(resolve => resolve());
+    }
+    get() {
+        return new Promise(resolve => resolve());
+    }
+    put() {
+        return new Promise(resolve => resolve());
+    }
+    remove() {
+        return new Promise(resolve => resolve());
+    }
+    getSizes() {
+        return new Promise(resolve => resolve({}));
+    }
+}
+
 window.EJS_STORAGE = EJS_STORAGE;
+window.EJS_DUMMYSTORAGE = EJS_DUMMYSTORAGE;
