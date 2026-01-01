@@ -11,7 +11,11 @@
       <property name="Name" value="player_maryo" type="string" />
     </properties>
   </tile>
-  <tile id="2" />
+  <tile id="2">
+    <properties>
+      <property name="Name" value="new_actor" type="string" />
+    </properties>
+  </tile>
   <tile id="3">
     <properties>
       <property name="Name" value="player_jetpack" type="string" />

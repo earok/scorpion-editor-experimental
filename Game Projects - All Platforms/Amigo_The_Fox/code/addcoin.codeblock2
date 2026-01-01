@@ -1,0 +1,8 @@
+Set coins=coins + 1
+If coins >= 100
+    Sound powerup Period=0
+    Set lives=lives + 1
+    Set coins=0
+End
+Goto refresh_ui
+CameraBox L=0 R=0 U=100 D=-100 LookL=0 LookR=0 LookU=0 LookD=0

@@ -1,5 +1,5 @@
 {
-  "TargetPlatform": "amiga_ocs",
+  "TargetPlatform": "neogeo_aes",
   "StartupCodeBlock": "startup",
   "Recompile": true,
   "DataVersion": 4,
@@ -7,10 +7,10 @@
     {
       "Compiler": "amiga",
       "Key": "Alpha1",
-      "JoystickPort": 0,
+      "JoystickPort": -1,
       "JoystickX": 0,
       "JoystickY": 0,
-      "JoystickFire1": true,
+      "JoystickFire1": false,
       "JoystickFire2": false,
       "CD32Play": false,
       "CD32Reverse": false,
@@ -31,9 +31,9 @@
       "Neo_D": false,
       "Neo_Start": false,
       "Neo_Select": false,
-      "OnPress": "nextlevel",
-      "OnRelease": "",
-      "buttonState": 1
+      "OnPress": null,
+      "OnRelease": "nextlevel",
+      "buttonState": 0
     },
     {
       "Compiler": "amiga",
@@ -95,7 +95,7 @@
       "Neo_Select": false,
       "OnPress": "nextlevel",
       "OnRelease": null,
-      "buttonState": 8
+      "buttonState": 128
     },
     {
       "Compiler": "neogeo",
@@ -126,7 +126,7 @@
       "Neo_Select": false,
       "OnPress": "pause",
       "OnRelease": null,
-      "buttonState": 16
+      "buttonState": 256
     },
     {
       "Compiler": "neogeo",
@@ -157,7 +157,7 @@
       "Neo_Select": true,
       "OnPress": "nextlevel",
       "OnRelease": null,
-      "buttonState": 32
+      "buttonState": 512
     },
     {
       "Compiler": "amiga",
@@ -187,37 +187,6 @@
       "Neo_Start": false,
       "Neo_Select": false,
       "OnPress": "quit",
-      "OnRelease": null,
-      "buttonState": 0
-    },
-    {
-      "Compiler": "amiga",
-      "Key": "Escape",
-      "JoystickPort": -1,
-      "JoystickX": 0,
-      "JoystickY": 0,
-      "JoystickFire1": false,
-      "JoystickFire2": false,
-      "CD32Play": false,
-      "CD32Reverse": false,
-      "CD32Forward": false,
-      "CD32Green": false,
-      "CD32Yellow": false,
-      "MegaDrive_B": false,
-      "MegaDrive_C": false,
-      "MegaDrive_A": false,
-      "MegaDrive_Start": false,
-      "MegaDrive_X": false,
-      "MegaDrive_Y": false,
-      "MegaDrive_Z": false,
-      "MegaDrive_Mode": false,
-      "Neo_A": false,
-      "Neo_B": false,
-      "Neo_C": false,
-      "Neo_D": false,
-      "Neo_Start": false,
-      "Neo_Select": false,
-      "OnPress": "startup",
       "OnRelease": null,
       "buttonState": 0
     }
@@ -361,9 +330,9 @@
   "ReadCD32Buttons": false,
   "ReadMD6Buttons": true,
   "MDRegion": "Universal",
-  "MDSoundDriver": "MDSDRV",
+  "MDSoundDriver": "XGM",
   "SplashScreenFrames": 50,
   "TestLevel": "",
   "SafetyRails": true,
-  "NGH": 21317
+  "VDPColor": false
 }

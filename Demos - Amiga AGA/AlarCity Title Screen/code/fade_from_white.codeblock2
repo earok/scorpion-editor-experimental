@@ -1,0 +1,37 @@
+Variable word i=0
+Variable word maxbrite=127
+Variable word delta=0
+CameraPosition X=320+32 Y=256 ResetMovement //Camera X is now {camera_x}
+Yield 2 //Camera x is now {camera_x}
+Set i=1
+While i < 128
+    SetColor i #FFFFFF
+    Set i=i + 1 //i is now {i}
+End
+CameraPosition X=320+32 Y=16 ResetMovement
+Yield 2
+While maxbrite > 0
+    Set frame_countdown=0
+    Set i=1
+    While i < 128
+        ReadColor i
+        Set delta=255 - red * maxbrite >> 7
+        Set red=red + delta
+        Set delta=255 - blue * maxbrite >> 7
+        Set blue=blue + delta
+        Set delta=255 - green * maxbrite >> 7
+        Set green=green + delta
+        WriteColor i
+        Set i=i + 1
+    End
+    Set maxbrite=maxbrite - 16
+    While frame_countdown >= 0
+        Yield 1
+    End
+End
+Set i=1
+While i < 128
+    ResetColor i
+    Set i=i + 1
+End
+//End

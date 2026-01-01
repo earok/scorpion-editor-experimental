@@ -1,5 +1,5 @@
 {
-  "TargetPlatform": "amiga_ocs",
+  "TargetPlatform": "neogeo_aes",
   "StartupCodeBlock": "startup",
   "Recompile": true,
   "DataVersion": 3,
@@ -64,7 +64,7 @@
       "Neo_Select": false,
       "OnPress": "",
       "OnRelease": "restartlevel",
-      "buttonState": 8
+      "buttonState": 128
     },
     {
       "Compiler": "amiga",
@@ -157,7 +157,7 @@
       "Neo_Select": false,
       "OnPress": "go_to_next_level",
       "OnRelease": null,
-      "buttonState": 16
+      "buttonState": 256
     }
   ],
   "AnimationMetaData": {},
@@ -233,5 +233,5 @@
   "SplashScreenFrames": 50,
   "TestLevel": null,
   "SafetyRails": true,
-  "NGH": 21317
+  "VDPColor": false
 }

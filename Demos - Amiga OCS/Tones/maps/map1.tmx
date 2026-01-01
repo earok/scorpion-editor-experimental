@@ -26,6 +26,7 @@
     <properties>
       <property name="amiga_ocs" type="bool" value="true" />
       <property name="foreground" type="bool" value="False" />
+      <property name="megadrive" type="bool" value="true" />
     </properties>
   </layer>
   <layer id="1" name="map" width="16" height="14">
@@ -48,6 +49,7 @@
     <properties>
       <property name="amiga_ocs" type="bool" value="true" />
       <property name="foreground" type="bool" value="False" />
+      <property name="megadrive" type="bool" value="true" />
     </properties>
   </layer>
   <layer id="7" name="detail" width="16" height="14">
@@ -70,6 +72,7 @@
     <properties>
       <property name="amiga_ocs" type="bool" value="true" />
       <property name="foreground" type="bool" value="False" />
+      <property name="megadrive" type="bool" value="true" />
     </properties>
   </layer>
   <layer id="2" name="objects" width="16" height="14">
@@ -92,6 +95,7 @@
     <properties>
       <property name="amiga_ocs" type="bool" value="true" />
       <property name="foreground" type="bool" value="False" />
+      <property name="megadrive" type="bool" value="true" />
     </properties>
   </layer>
   <layer id="3" name="foreground" width="16" height="14">
@@ -114,7 +118,15 @@
     <properties>
       <property name="amiga_ocs" type="bool" value="true" />
       <property name="foreground" type="bool" value="True" />
+      <property name="megadrive" type="bool" value="true" />
     </properties>
   </layer>
-  <objectgroup id="5" name="events" />
+  <objectgroup id="5" name="events">
+    <object id="0" gid="0" x="53" y="113" width="86" height="36">
+      <properties>
+        <property name="onenter" type="String" value="none" />
+        <property name="onexit" type="String" value="quit" />
+      </properties>
+    </object>
+  </objectgroup>
 </map>
