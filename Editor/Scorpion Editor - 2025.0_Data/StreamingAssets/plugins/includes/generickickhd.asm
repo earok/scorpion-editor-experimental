@@ -24,14 +24,14 @@ _bootdos	lea	(_saveregs,pc),a0
 		move.l	(_resload,pc),a2	;A2 = resload
 
 		lea	(_program,pc),a0
-		move.l	#STR_BUF_SIZE,d0
-		moveq	#0,d1
-		jsr	(resload_GetCustom,a2)
+;		move.l	#STR_BUF_SIZE,d0 <- Do not allow custom override
+;		moveq	#0,d1
+;		jsr	(resload_GetCustom,a2)
 
 	;split program and arguments
-		lea	(_program,pc),a0
-		tst.b	(a0)
-		bne	.custom_set
+;		lea	(_program,pc),a0
+;		tst.b	(a0)
+;		bne	.custom_set
 		
 	;Load game.exe instead into _program
 		lea	(_game_exe,pc),a1
