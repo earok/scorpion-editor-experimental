@@ -15,6 +15,7 @@ Advanced ReloadLevel
 If mapheight < yres
     Quit="Error: Level needs to be at least as tall as the current Y Resolution value {yres}"
 End
+Set water_y=0x7FFF
 Set cameratargetx=xres / 2
 Set cameratargety=yres / 2
 Set mapwidthtiles=mapwidth / 16
