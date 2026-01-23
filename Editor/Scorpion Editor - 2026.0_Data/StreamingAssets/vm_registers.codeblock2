@@ -203,8 +203,9 @@ Variable word Warn_Frameskip=0 //Set this to true if you want the screen to flas
 Variable word StringLength=0 //Reserved for memory talkpad strings
 Array byte CharBuffer[512] //Reserved memory for talkpad strings
 Array byte NumBuffer[10] //Reserved memory for number strings
-[megadrive] Array byte SpriteBuffer[640]
+[megadrive] Array word SpriteBuffer[320]
 [megadrive] Array word CRAMBuffer[64]
 [megadrive] Array word VScrollBuffer[40]
 [megadrive] Array word HScrollBuffer[480]
+[megadrive] Variable word MDCustomSprites=0
 [neogeo] Array byte NeoGeoMiscData[384]
