@@ -1,0 +1,7 @@
+If player_y > water_y
+    BoostSpeed player1 L=-2 R=-2 U=-2 D=-2
+    BoostAccel player1 L=-0.25 R=-0.25 U=0 D=-0.15
+Else
+    BoostSpeed player1 L=0 R=0 U=0 D=0
+    BoostAccel player1 L=0 R=0 U=0 D=0
+End
