@@ -11,11 +11,11 @@ If level < 0
 End
 ScrollSpeed X=0 Y=0
 CameraPosition X=0 Y=0
+Set water_y=0x7FFF //Put the water "off screen"
 Advanced ReloadLevel
 If mapheight < yres
     Quit="Error: Level needs to be at least as tall as the current Y Resolution value {yres}"
 End
-Set water_y=0x7FFF
 Set cameratargetx=xres / 2
 Set cameratargety=yres / 2
 Set mapwidthtiles=mapwidth / 16
