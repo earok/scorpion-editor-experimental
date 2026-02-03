@@ -2,12 +2,14 @@
 title=Amigo The Fox
 fullscreen=false
 
-#Game should match the name of the ROM without extension. The core itself will try to match the extension to the game.
-game=Amigo The Fox
-
 #Uncomment ONE of these cores
 core=puae #Default core for Amiga
 #core=picodrive #Default core for Mega Drive
+#core=geolith #Default core for NeoGeo (make sure to put aes.zip and neogeo.zip in the System folder)
+
+#Game should match the name of the ROM without extension. The core itself will try to match the extension to the game.
+game=Amigo The Fox
+
 
 #Default port configuration
 port_0=RETRO_DEVICE_JOYPAD
@@ -169,3 +171,23 @@ c_puae=puae_vkbd_dimming;25%
 c_puae=puae_vkbd_theme;auto
 c_puae=puae_vkbd_transparency;25%
 c_puae=puae_z3mem_size;auto
+
+#Geolith configuration
+c_geolith=geolith_4player;off
+c_geolith=geolith_aspect;1:1
+c_geolith=geolith_disable_adpcm_wrap;off
+c_geolith=geolith_force_int_timing;off
+c_geolith=geolith_freeplay;off
+c_geolith=geolith_memcard;on
+c_geolith=geolith_memcard_wp;off
+c_geolith=geolith_oc;off
+c_geolith=geolith_overscan_b;8
+c_geolith=geolith_overscan_l;8
+c_geolith=geolith_overscan_r;8
+c_geolith=geolith_overscan_t;8
+c_geolith=geolith_palette;resnet
+c_geolith=geolith_region;us
+c_geolith=geolith_settingmode;off
+c_geolith=geolith_sprlimit;96
+c_geolith=geolith_system_type;aes
+c_geolith=geolith_unibios_hw;mvs
