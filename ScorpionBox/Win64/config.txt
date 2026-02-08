@@ -10,6 +10,8 @@ core=puae #Default core for Amiga
 #Game should match the name of the ROM without extension. The core itself will try to match the extension to the game.
 game=Amigo The Fox
 
+#Misc
+volume=100
 
 #Default port configuration
 port_0=RETRO_DEVICE_JOYPAD
@@ -34,6 +36,8 @@ key_RETRO_DEVICE_ID_JOYPAD_SELECT_0=Space
 #General Keyboard bindings
 key_fullscreen=F11
 key_quit=Escape
+key_vol+=OemPlus
+key_vol-=OemMinus
 
 #BlastEm has no configuration?
 
