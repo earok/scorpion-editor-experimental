@@ -4,8 +4,8 @@ fullscreen=false
 
 #Uncomment ONE of these cores
 core=puae #Default core for Amiga
-#core=picodrive #Default core for Mega Drive
-#core=geolith #Default core for NeoGeo (make sure to put aes.zip and neogeo.zip in the System folder)
+#core=blastem #Default core for Mega Drive
+#core=geolith #Default core for NeoGeo
 
 #Game should match the name of the ROM without extension. The core itself will try to match the extension to the game.
 game=Amigo The Fox
@@ -35,28 +35,7 @@ key_RETRO_DEVICE_ID_JOYPAD_SELECT_0=Space
 key_fullscreen=F11
 key_quit=Escape
 
-#Picodrive configuration
-c_picodrive=picodrive_aspect;PAR
-c_picodrive=picodrive_audio_filter;disabled
-c_picodrive=picodrive_drc;enabled
-c_picodrive=picodrive_fm_filter;off
-c_picodrive=picodrive_fmchip;ym2612
-c_picodrive=picodrive_frameskip;disabled
-c_picodrive=picodrive_frameskip_threshold;33
-c_picodrive=picodrive_ggghost;off
-c_picodrive=picodrive_input1;3 button pad
-c_picodrive=picodrive_input2;3 button pad
-c_picodrive=picodrive_lowpass_range;60
-c_picodrive=picodrive_overclk68k;disabled
-c_picodrive=picodrive_ramcart;disabled
-c_picodrive=picodrive_region;Auto
-c_picodrive=picodrive_renderer;accurate
-c_picodrive=picodrive_smsfm;off
-c_picodrive=picodrive_smsmapper;Auto
-c_picodrive=picodrive_smstms;SMS
-c_picodrive=picodrive_smstype;Auto
-c_picodrive=picodrive_sound_rate;44100
-c_picodrive=picodrive_sprlim;disabled
+#BlastEm has no configuration?
 
 #PUAE configuration
 c_puae=puae_analogmouse;both
