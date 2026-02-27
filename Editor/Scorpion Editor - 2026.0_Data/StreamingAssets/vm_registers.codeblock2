@@ -201,6 +201,7 @@ Variable fraction Scroll_Speed_X=0 //The auto scroll speed on X
 Variable fraction Scroll_Speed_Y=0 //The auto scroll speed on Y
 Variable word Warn_Frameskip=0 //Set this to true if you want the screen to flash whenever it drops below 50/60 hz
 Variable word CacheEnabled=true //Disable this to prevent storing assets in cache for quick reloading
+Array byte Port[2] //Device ports
 Variable word StringLength=0 //Reserved for memory talkpad strings
 Array byte CharBuffer[512] //Reserved memory for talkpad strings
 Array byte NumBuffer[10] //Reserved memory for number strings
