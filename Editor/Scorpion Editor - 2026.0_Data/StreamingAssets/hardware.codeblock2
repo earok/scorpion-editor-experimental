@@ -1,0 +1,6 @@
+HardwareRegister word ami_clxdat=0xDFF00E //Collision data for Amiga
+HardwareRegister word ami_color00=0xDFF180 //Amiga color 00
+HardwareRegister word ami_beamcon0=0xdff1dc //For ECS, beam control
+HardwareRegister word md_vdp_data=0xc00000 //Mega Drive VDP Data Port
+HardwareRegister word md_vdp_control=0xc00004 //Mega Drive VDP Control Port
+HardwareRegister byte neo_autoanim=0x100000 //Used for setting NeoGeo autoanim speed. Set before level load.
