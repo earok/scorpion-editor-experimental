@@ -3,7 +3,7 @@ While keyboardrawcode == 0x19
     //Wait for the user to release the P key
     Advanced RefreshFrame
 End
-[megadrive] While control1_buttons btst megadrive_start
+[megadrive] While Control1_Buttons btst megadrive_start
     [megadrive] //Wait for the user to release the Mega Drive "start" key
     [megadrive] Advanced RefreshFrame
 [megadrive] End
