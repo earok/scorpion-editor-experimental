@@ -3,19 +3,19 @@ title=Amigo The Fox
 fullscreen=false
 
 #Uncomment ONE of these cores
-#core=puae #Default core for Amiga
+core=puae #Default core for Amiga
 #core=blastem #Default core for Mega Drive
-core=geolith #Default core for NeoGeo
+#core=geolith #Default core for NeoGeo
 
 #Game should match the name of the ROM without extension. The core itself will try to match the extension to the game.
-game=real_time_scale
+game=line_of_sight
 
 #Misc
 volume=100
 
 #Default port configuration
 #RETRO_DEVICE_JOYPAD, RETRO_DEVICE_MOUSE, RETRO_DEVICE_NONE
-port_0=RETRO_DEVICE_MOUSE
+port_0=RETRO_DEVICE_JOYPAD
 port_1=RETRO_DEVICE_JOYPAD
 port_2=RETRO_DEVICE_JOYPAD
 port_3=RETRO_DEVICE_JOYPAD
@@ -173,5 +173,5 @@ c_geolith=geolith_palette;resnet
 c_geolith=geolith_region;us
 c_geolith=geolith_settingmode;off
 c_geolith=geolith_sprlimit;96
-c_geolith=geolith_system_type;mvs
+c_geolith=geolith_system_type;aes
 c_geolith=geolith_unibios_hw;mvs
