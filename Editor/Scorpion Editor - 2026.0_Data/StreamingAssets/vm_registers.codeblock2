@@ -16,6 +16,7 @@ Variable word Lookahead_Up=0 //Lookahead speed up
 Variable word Lookahead_Down=0 //Lookahead speed down
 Variable word MaxCameraFollow=0 //The maximum amount of pixels that the camera can travel per frame
 Variable word FastSloppyCollisions=0 //0=Accurate/Slow 1=Medium 2=Non Accurate/Fast
+Variable word FastSpriteCollisions=0 //For Mega Drive, collision detection is only done if any two sprites are overlapping on pixels
 Variable word Dice=0 //SET to make a random number between 1 and VALUE. GET to get the value of the last roll.
 Variable word Level=0 //GET or SET the currently loaded level
 Variable word Background=0 //GET or SET the currently loaded level background
