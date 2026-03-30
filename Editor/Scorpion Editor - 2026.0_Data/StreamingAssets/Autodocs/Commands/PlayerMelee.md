@@ -20,6 +20,6 @@ Height: The box height
 
 ```scorpionengine
 
-PlayerMelee X=5*MyVar Y=5*MyVar Width=5*MyVar Height=5*MyVar
+PlayerMelee X=1 Y=1 Width=1 Height=1
 
 ```

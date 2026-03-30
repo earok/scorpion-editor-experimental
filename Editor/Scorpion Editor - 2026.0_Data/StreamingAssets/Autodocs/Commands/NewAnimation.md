@@ -20,6 +20,6 @@ AutoFlip: Try to flip the animation left/right automatically if needed
 
 ```scorpionengine
 
-NewAnimation MyAnimation Frame=5*MyVar Loop AutoFlip
+NewAnimation MyAnimation Frame=1 Loop AutoFlip
 
 ```

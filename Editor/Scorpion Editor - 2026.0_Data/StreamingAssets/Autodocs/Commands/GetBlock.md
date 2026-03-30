@@ -19,6 +19,6 @@ Y: The Y coordinate
 
 ```scorpionengine
 
-GetBlock MyVariable X=5*MyVar Y=5*MyVar
+GetBlock MyVariable X=1 Y=1
 
 ```

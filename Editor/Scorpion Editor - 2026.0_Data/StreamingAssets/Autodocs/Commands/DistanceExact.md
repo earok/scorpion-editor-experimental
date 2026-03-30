@@ -21,6 +21,6 @@ Y2: The second Y coordinate
 
 ```scorpionengine
 
-DistanceExact MyVariable X1=5*MyVar Y1=5*MyVar X2=5*MyVar Y2=5*MyVar
+DistanceExact MyVariable X1=1 Y1=1 X2=1 Y2=1
 
 ```

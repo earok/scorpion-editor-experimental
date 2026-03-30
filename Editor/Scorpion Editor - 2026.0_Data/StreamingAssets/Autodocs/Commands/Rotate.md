@@ -21,6 +21,6 @@ YVar: Variable to receive the Y Calculation
 
 ```scorpionengine
 
-Rotate 5*5 X=5*MyVar Y=5*MyVar MyXVar MyYVar
+Rotate 5*5 X=1 Y=1 MyXVar MyYVar
 
 ```

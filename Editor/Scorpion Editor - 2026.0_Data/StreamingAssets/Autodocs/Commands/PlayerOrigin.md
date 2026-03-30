@@ -18,6 +18,6 @@ Y: The Y coordinate
 
 ```scorpionengine
 
-PlayerOrigin X=5*MyVar Y=5*MyVar
+PlayerOrigin X=1 Y=1
 
 ```

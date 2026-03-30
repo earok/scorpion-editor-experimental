@@ -20,6 +20,6 @@ D: The Down setting
 
 ```scorpionengine
 
-CameraBounds 1 1 1 1
+CameraBounds L=1 R=1 U=1 D=1
 
 ```

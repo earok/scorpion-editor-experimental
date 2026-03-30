@@ -19,6 +19,6 @@ Angle: The angle 0-359
 
 ```scorpionengine
 
-ActorSpeed X=5*MyVar Y=5*MyVar Angle=180
+ActorSpeed X=1 Y=1 Angle=180
 
 ```

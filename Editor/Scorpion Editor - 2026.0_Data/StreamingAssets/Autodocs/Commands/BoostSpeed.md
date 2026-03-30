@@ -21,6 +21,6 @@ D: The Down setting
 
 ```scorpionengine
 
-BoostSpeed Player1 1 1 1 1
+BoostSpeed Player1 L=1 R=1 U=1 D=1
 
 ```

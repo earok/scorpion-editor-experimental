@@ -6,7 +6,7 @@ Variable
 **Syntax:**
 
 ```scorpionengine
-String VarName ="Expression"
+String VarName="Expression"
 ```
 
 **Description:**
@@ -18,6 +18,6 @@ Expression: A string expression such as "Hello World"
 
 ```scorpionengine
 
-String MyVariable ="Hello world"
+String MyVariable="Hello world"
 
 ```

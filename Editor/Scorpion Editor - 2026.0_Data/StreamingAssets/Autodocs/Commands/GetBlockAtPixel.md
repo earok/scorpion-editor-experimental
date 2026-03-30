@@ -20,6 +20,6 @@ PixelPerfect: Pixel Perfect block detection
 
 ```scorpionengine
 
-GetBlockAtPixel MyVariable X=5*MyVar Y=5*MyVar PixelPerfect
+GetBlockAtPixel MyVariable X=1 Y=1 PixelPerfect
 
 ```

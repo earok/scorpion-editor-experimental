@@ -18,6 +18,6 @@ Frames: The number of frames
 
 ```scorpionengine
 
-NewScheduleEvent MyLabel Frames=5*MyVar
+NewScheduleEvent MyLabel Frames=1
 
 ```

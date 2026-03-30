@@ -18,6 +18,6 @@ Y: The Y coordinate
 
 ```scorpionengine
 
-ScrollParallax 5*5 Y=5*MyVar
+ScrollParallax 5*5 Y=1
 
 ```

@@ -20,6 +20,6 @@ Smooth: The smoothing type None to Max
 
 ```scorpionengine
 
-CameraFollow !UDLR Snap MaxCamera=5*MyVar Low
+CameraFollow !UDLR Snap MaxCamera=1 Low
 
 ```

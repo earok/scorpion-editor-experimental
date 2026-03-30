@@ -19,6 +19,6 @@ Y: The Y coordinate
 
 ```scorpionengine
 
-Spawn MyActorType X=5*MyVar Y=5*MyVar
+Spawn MyActorType X=1 Y=1
 
 ```

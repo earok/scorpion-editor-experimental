@@ -19,6 +19,6 @@ Y: The Y coordinate
 
 ```scorpionengine
 
-GetTileProperties MyVariable X=5*MyVar Y=5*MyVar
+GetTileProperties MyVariable X=1 Y=1
 
 ```

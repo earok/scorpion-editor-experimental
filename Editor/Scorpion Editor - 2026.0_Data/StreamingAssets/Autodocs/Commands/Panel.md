@@ -24,6 +24,6 @@ NoLevelUnload: Keep level loaded in the background
 
 ```scorpionengine
 
-Panel MyPanel Music=MyMusic MusicPos=5*MyVar PanelTop=MyTopPanel PanelBottom=MyBottomPanel Frames=5*MyVar ForFire NoLevelUnload
+Panel MyPanel Music=MyMusic MusicPos=1 PanelTop=MyTopPanel PanelBottom=MyBottomPanel Frames=1 ForFire NoLevelUnload
 
 ```

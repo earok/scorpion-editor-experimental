@@ -22,6 +22,6 @@ Fast: Fast setting
 
 ```scorpionengine
 
-CameraPosition X=5*MyVar Y=5*MyVar Center ResetMovement Warp Fast
+CameraPosition X=1 Y=1 Center ResetMovement Warp Fast
 
 ```

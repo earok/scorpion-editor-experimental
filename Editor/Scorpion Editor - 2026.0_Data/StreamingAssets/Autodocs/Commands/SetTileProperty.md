@@ -20,6 +20,6 @@ Y: The Y coordinate
 
 ```scorpionengine
 
-SetTileProperty False Solid X=5*MyVar Y=5*MyVar
+SetTileProperty False Solid X=1 Y=1
 
 ```

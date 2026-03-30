@@ -24,6 +24,6 @@ LookD: The Look Down setting
 
 ```scorpionengine
 
-CameraBox 1 1 1 1 1 1 1 1
+CameraBox L=1 R=1 U=1 D=1 LookL=1 LookR=1 LookU=1 LookD=1
 
 ```

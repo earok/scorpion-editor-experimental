@@ -23,6 +23,6 @@ NoColumnScroll: Disable Mega Drive column scroll
 
 ```scorpionengine
 
-Screen Y=5*MyVar Height=5*MyVar Frames=5*MyVar AGASpriteWrap NoAGASpriteWrap ColumnScroll NoColumnScroll
+Screen Y=1 Height=1 Frames=1 AGASpriteWrap NoAGASpriteWrap ColumnScroll NoColumnScroll
 
 ```

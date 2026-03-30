@@ -19,6 +19,6 @@ ForFire: If this command waits for the user to press fire
 
 ```scorpionengine
 
-Say "Hello world" Frames=5*MyVar ForFire
+Say "Hello world" Frames=1 ForFire
 
 ```

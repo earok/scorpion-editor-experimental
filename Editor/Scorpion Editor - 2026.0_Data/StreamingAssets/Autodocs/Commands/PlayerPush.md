@@ -21,6 +21,6 @@ Decay: Smoothly decays push
 
 ```scorpionengine
 
-PlayerPush 5 X=5*MyVar Y=5*MyVar ResetMovement Decay
+PlayerPush 5 X=1 Y=1 ResetMovement Decay
 
 ```

@@ -23,6 +23,6 @@ NoFadeIn: Prevent automatic fade in
 
 ```scorpionengine
 
-Level MyLevel Music=MyMusic MusicPos=5*MyVar PanelTop=MyTopPanel PanelBottom=MyBottomPanel PanelBackground=MyBottomPanel NoFadeIn
+Level MyLevel Music=MyMusic MusicPos=1 PanelTop=MyTopPanel PanelBottom=MyBottomPanel PanelBackground=MyBottomPanel NoFadeIn
 
 ```

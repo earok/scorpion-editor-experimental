@@ -18,6 +18,6 @@ Y: The Y coordinate
 
 ```scorpionengine
 
-ProjectileLookAt X=5*MyVar Y=5*MyVar
+ProjectileLookAt X=1 Y=1
 
 ```

@@ -6,7 +6,7 @@ Base
 **Syntax:**
 
 ```scorpionengine
-Execute ="Expression"
+Execute="Expression"
 ```
 
 **Description:**
@@ -17,6 +17,6 @@ Expression: A string expression such as "Hello World"
 
 ```scorpionengine
 
-Execute ="Hello world"
+Execute="Hello world"
 
 ```
