@@ -33,5 +33,4 @@
 
 ### Amiga
 - ~~Audio issue (glitch with sounds repeated ~12 seconds)~~ — technically not solved, but improved and on hold for now
-- 2025.0 should be patched so that freemem codeblock includes freeing the talkpad
 - Known bugs with Camera Warp Fast
