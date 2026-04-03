@@ -12,6 +12,7 @@
 
 ### NeoGeo
 - AutoAnim should be available for animations, not just tiles
+- Support additional MVS functionality such as coin drops
 
 ### Scorpion Box
 - Improve mouse tracking around borders
