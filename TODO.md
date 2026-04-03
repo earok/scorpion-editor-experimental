@@ -27,7 +27,8 @@
 - Lookup tables should also work for strings
 - All systems should support real time color changes to water layer
 - Remove repeat frame events, instead each individual animation event should be flagged about whether it should repeat across the entire frame delay or not
-- Continue development of new Race Car controller. In particular: Drag, 360 rotation.
+- Continue development of new Race Car controller. In particular: rotation snap needs to be adjusted.
+- Should be possible for slopes to work as platforms (don't snap when moving up)
 
 ## Bugs
 
