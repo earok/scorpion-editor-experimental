@@ -28,8 +28,13 @@
 - All systems should support real time color changes to water layer
 - Remove repeat frame events, instead each individual animation event should be flagged about whether it should repeat across the entire frame delay or not
 - Continue development of new Race Car controller. In particular: rotation snap needs to be adjusted.
+- Foreach Actor_Tag should throw compile time error if set to a constant that isn't a tag
+- Foreach Actor_Type should throw compile time error if set to a constant that isn't a type
 
 ## Bugs
 
 ### Amiga
 - ~~Audio issue (glitch with sounds repeated ~12 seconds)~~ — technically not solved, but improved and on hold for now
+
+### Universal
+- Unable to create space ship out of racecar controller?
