@@ -114,6 +114,7 @@ Variable word Warn_Frameskip=0 //Set this to true if you want the screen to flas
 Variable word CacheEnabled=true //Disable this to prevent storing assets in cache for quick reloading
 Variable word All_Buttons=0 //Every controller's currently pressed buttons
 Array byte Port[2] //Device ports
+Variable fraction IsometricScale=0 //For racing car controllers, isometric scale determines how much of an effect Y has
 Variable word StringLength=0 //Reserved for memory talkpad strings
 Array byte CharBuffer[512] //Reserved memory for talkpad strings
 Array byte NumBuffer[10] //Reserved memory for number strings
