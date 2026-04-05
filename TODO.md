@@ -25,11 +25,13 @@
 ### Universal
 - Lookup tables should also work for labels
 - Lookup tables should also work for strings
+- Lookup tables should support negative keys
 - All systems should support real time color changes to water layer
 - Remove repeat frame events, instead each individual animation event should be flagged about whether it should repeat across the entire frame delay or not
-- Continue development of new Race Car controller. In particular: rotation snap needs to be adjusted.
-- Foreach Actor_Tag should throw compile time error if set to a constant that isn't a tag
-- Foreach Actor_Type should throw compile time error if set to a constant that isn't a type
+- Foreach Actor_Tag should throw compile time error if set to a constant that is actually an Actor_Type, and vice versa
+- Add codeblocks control settings for Race Car
+- Add steer towards codeblock command
+- Make sure that tilesets or tileset images outside of the project folder are not supported
 
 ## Bugs
 
@@ -37,4 +39,3 @@
 - ~~Audio issue (glitch with sounds repeated ~12 seconds)~~ — technically not solved, but improved and on hold for now
 
 ### Universal
-- Unable to create space ship out of racecar controller?
