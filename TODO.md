@@ -23,7 +23,6 @@
 - Fork emulator.js in order to create a version of Scorpion Box that is compatible (so far as possible) with Scorpion Box configuration files, as well as NeoGeo and Amiga support
 
 ### Universal
-- Byte sized variables should only use 1 byte of memory (when used in pairs)
 - Lookup tables should also work for strings
 - Lookup tables should support negative keys
 - All systems should support real time color changes to water layer
