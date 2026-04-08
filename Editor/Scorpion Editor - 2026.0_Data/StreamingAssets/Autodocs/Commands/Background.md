@@ -6,7 +6,7 @@ Level
 **Syntax:**
 
 ```scorpionengine
-Background Background
+Background Background Cache
 ```
 
 **Description:**
@@ -14,9 +14,10 @@ Background Background
 Replace the current background with another one
 
 Background: The background to load
+Cache: Preload from cache
 
 ```scorpionengine
 
-Background MyBackground
+Background MyBackground Cache
 
 ```
