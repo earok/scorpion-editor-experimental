@@ -6,7 +6,7 @@ Level
 **Syntax:**
 
 ```scorpionengine
-Level Level Music=Expression MusicPos=Expression PanelTop=Expression PanelBottom=Expression Background=Expression NoFadeIn
+Level Level Music=Expression MusicPos=Expression PanelTop=Expression PanelBottom=Expression Background=Expression NoFadeIn Cache
 ```
 
 **Description:**
@@ -20,9 +20,10 @@ PanelTop: The top panel to load
 PanelBottom: The bottom panel to load
 Background: The background to load
 NoFadeIn: Prevent automatic fade in
+Cache: Preload from cache
 
 ```scorpionengine
 
-Level MyLevel Music=MyMusic MusicPos=1 PanelTop=MyTopPanel PanelBottom=MyBottomPanel PanelBackground=MyBottomPanel NoFadeIn
+Level MyLevel Music=MyMusic MusicPos=1 PanelTop=MyTopPanel PanelBottom=MyBottomPanel PanelBackground=MyBottomPanel NoFadeIn Cache
 
 ```
