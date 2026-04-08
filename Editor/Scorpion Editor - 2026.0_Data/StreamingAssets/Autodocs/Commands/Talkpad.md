@@ -6,7 +6,7 @@ Display
 **Syntax:**
 
 ```scorpionengine
-Talkpad Panel
+Talkpad Panel Cache
 ```
 
 **Description:**
@@ -14,9 +14,10 @@ Talkpad Panel
 Set the talkpad, needed for Say command
 
 Panel: The main full-screen panel
+Cache: Preload from cache
 
 ```scorpionengine
 
-Talkpad MyPanel
+Talkpad MyPanel Cache
 
 ```

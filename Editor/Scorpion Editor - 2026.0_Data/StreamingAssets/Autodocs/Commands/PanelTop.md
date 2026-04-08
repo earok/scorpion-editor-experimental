@@ -6,7 +6,7 @@ Display
 **Syntax:**
 
 ```scorpionengine
-PanelTop PanelTop
+PanelTop PanelTop Cache
 ```
 
 **Description:**
@@ -14,9 +14,10 @@ PanelTop PanelTop
 Change the panel on top
 
 PanelTop: The main full-screen panel
+Cache: Preload from cache
 
 ```scorpionengine
 
-PanelTop MyPanel
+PanelTop MyPanel Cache
 
 ```

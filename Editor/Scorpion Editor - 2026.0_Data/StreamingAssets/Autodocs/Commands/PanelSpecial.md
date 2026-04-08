@@ -6,7 +6,7 @@ Display
 **Syntax:**
 
 ```scorpionengine
-PanelSpecial PanelSpecial
+PanelSpecial PanelSpecial Cache
 ```
 
 **Description:**
@@ -14,9 +14,10 @@ PanelSpecial PanelSpecial
 Change the 32X panel OR Amiga Sprite Panel
 
 Panel: The special panel
+Cache: Preload from cache
 
 ```scorpionengine
 
-PanelSpecial MyPanel
+PanelSpecial MyPanel Cache
 
 ```
