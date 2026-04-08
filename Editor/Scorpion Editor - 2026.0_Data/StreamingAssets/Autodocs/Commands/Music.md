@@ -6,7 +6,7 @@ Audio
 **Syntax:**
 
 ```scorpionengine
-Music Music MusicPos
+Music Music MusicPos=Expression Cache
 ```
 
 **Description:**
@@ -14,10 +14,11 @@ Music Music MusicPos
 Load and play a song
 
 Music: The song
-MusicPos: The position in the song (Amiga only)
+MusicPos: The position to start the music from (Protracker)
+Cache: Preload from cache
 
 ```scorpionengine
 
-Music MySong 16
+Music MySong MusicPos=1 Cache
 
 ```
