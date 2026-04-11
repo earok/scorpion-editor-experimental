@@ -1,7 +1,7 @@
 Array word FR[6] //Scorpion Internal use only
 Variable word Wait=0 //SET to make Scorpion pause for VALUE number of frames
-Variable word Camera_X=0 //GET or SET the current X position of the camera
-Variable word Camera_Y=0 //GET or SET the current Y position of the camera
+Variable word Camera_X=0 //The current X position of the camera (Left edge of screen)
+Variable word Camera_Y=0 //The current Y position of the camera (Top edge of screen)
 Variable word Camera_XMin=0 //GET the minimum X position of the camera. Defaults to 0
 Variable word Camera_YMin=0 //GET the minimum Y position of the camera. Defaults to 0
 Variable word Camera_XMax=0 //GET the maximum X position of the camera. Defaults to level width
