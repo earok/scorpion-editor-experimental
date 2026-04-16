@@ -16,6 +16,7 @@ Advanced ReloadLevel
 If mapheight < yres
     Quit="Error: Level needs to be at least as tall as the current Y Resolution value {yres}"
 End
+Set camera_y3d=mapheight - 1 //Align 3D camera to bottom of map by default
 Set cameratargetx=xres / 2
 Set cameratargety=yres / 2
 Set mapwidthtiles=mapwidth / 16
