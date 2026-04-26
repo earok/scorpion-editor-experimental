@@ -110,7 +110,7 @@
     "Height": 12
   },
   "AttackDelay": 0,
-  "ZOrder": 0,
+  "ZOrder": -500,
   "SpeedLeft": 0.5,
   "SpeedRight": 0.5,
   "SpeedUp": 0.5,
@@ -164,7 +164,29 @@
   "AutoSpawn": null,
   "AutoNavigate": false,
   "ActorTimeline": {
-    "TimelineFrames": null,
+    "TimelineFrames": {
+      "50": {
+        "X": 16,
+        "Y": 16,
+        "EaseX": "linear",
+        "EaseY": "linear",
+        "Bezier": "linear",
+        "BezierPoints": [
+          {
+            "x": 0,
+            "y": 0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0
+          }
+        ]
+      }
+    },
     "TimelineEvents": {},
     "PingPong": false
   },
@@ -175,6 +197,7 @@
   "IsAttacker": null,
   "PreviewParent": null,
   "RotationEnabled": false,
+  "SlopeMode": "Single",
   "TileID": 2,
   "MaxTimelineFrames": 50
 }

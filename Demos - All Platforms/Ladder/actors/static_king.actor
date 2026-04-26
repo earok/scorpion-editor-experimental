@@ -5,7 +5,7 @@
   "MoveType": "cpu_platform",
   "MaxEntities": 0,
   "NudgeX": 8,
-  "NudgeY": 15,
+  "NudgeY": 16,
   "Idles": {
     "UpLeft": "",
     "Up": "",
@@ -105,7 +105,7 @@
   ],
   "CollBox": {
     "X": -4,
-    "Y": -15,
+    "Y": -16,
     "Width": 8,
     "Height": 16
   },
@@ -164,7 +164,29 @@
   "AutoSpawn": null,
   "AutoNavigate": false,
   "ActorTimeline": {
-    "TimelineFrames": null,
+    "TimelineFrames": {
+      "50": {
+        "X": 16,
+        "Y": 16,
+        "EaseX": "linear",
+        "EaseY": "linear",
+        "Bezier": "linear",
+        "BezierPoints": [
+          {
+            "x": 0,
+            "y": 0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0
+          }
+        ]
+      }
+    },
     "TimelineEvents": {},
     "PingPong": false
   },
@@ -175,6 +197,7 @@
   "IsAttacker": null,
   "PreviewParent": null,
   "RotationEnabled": false,
+  "SlopeMode": "Single",
   "TileID": 3,
   "MaxTimelineFrames": 50
 }
