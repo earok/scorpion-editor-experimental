@@ -1,4 +1,4 @@
-### NewNoClear
+### NewClear
 
 **Category:**
 New
@@ -6,7 +6,7 @@ New
 **Syntax:**
 
 ```scorpionengine
-NewNoClear True/False
+NewClear True/False
 ```
 
 **Description:**
@@ -17,6 +17,6 @@ True/False: Only True or False accepted (defaults to True)
 
 ```scorpionengine
 
-NewNoClear False
+NewClear False
 
 ```

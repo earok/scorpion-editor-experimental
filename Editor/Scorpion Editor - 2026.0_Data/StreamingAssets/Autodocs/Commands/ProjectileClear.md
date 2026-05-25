@@ -1,12 +1,12 @@
-### ActorNoClear
+### ProjectileClear
 
 **Category:**
-Actor
+Projectile
 
 **Syntax:**
 
 ```scorpionengine
-ActorNoClear True/False
+ProjectileClear True/False
 ```
 
 **Description:**
@@ -17,6 +17,6 @@ True/False: Only True or False accepted (defaults to True)
 
 ```scorpionengine
 
-ActorNoClear False
+ProjectileClear False
 
 ```

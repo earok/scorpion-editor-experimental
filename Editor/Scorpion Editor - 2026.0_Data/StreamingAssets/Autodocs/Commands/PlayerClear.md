@@ -1,4 +1,4 @@
-### PlayerNoClear
+### PlayerClear
 
 **Category:**
 Player
@@ -6,7 +6,7 @@ Player
 **Syntax:**
 
 ```scorpionengine
-PlayerNoClear True/False
+PlayerClear True/False
 ```
 
 **Description:**
@@ -17,6 +17,6 @@ True/False: Only True or False accepted (defaults to True)
 
 ```scorpionengine
 
-PlayerNoClear False
+PlayerClear False
 
 ```
