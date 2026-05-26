@@ -127,4 +127,6 @@ Array byte NumBuffer[10] //Reserved memory for number strings
 [megadrive] Array word HScrollBuffer[480]
 [megadrive] Variable word MDCustomSprites=0
 [megadrive] Variable word DMA_Protection=true
+[neogeo] Variable word Neo_BG_SpriteBudget=64 //Budget for background sprites (behind the tileset)
+[neogeo] Variable word Neo_FG_SpriteBudget=32 //Budget for foreground sprites (in front of the foreground tileset)
 [neogeo] Array byte NeoGeoMiscData[384]
