@@ -41,7 +41,7 @@
 ### Amiga
 - ~~Audio issue (glitch with sounds repeated ~12 seconds)~~ — technically not solved, but improved and on hold for now
 - Window Panels broken on tall maps
-- Crash in the panel system
+- Talkpad needs to be reworked to avoid flashing panel elements
 
 ### NeoGeo
 - Shrunken sprites sometimes contain junk from previous sprite renders
