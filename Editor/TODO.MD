@@ -7,6 +7,7 @@
 - Implement ISOCD Win to streamline CD32 development (https://github.com/fuseoppl/isocd-win)
 - Manipulate music per channel?
 - Parallel port adapter needs to be configured as a default in WinUAE.
+- Single buffer mode (BufferCount=1) needs more work — panel system currently assumes double buffering
 
 ### Mega Drive
 - Ongoing development of sprite UI elements
@@ -40,6 +41,7 @@
 ### Amiga
 - ~~Audio issue (glitch with sounds repeated ~12 seconds)~~ — technically not solved, but improved and on hold for now
 - Window Panels broken on tall maps
+- Crash in the panel system
 
 ### NeoGeo
 - Shrunken sprites sometimes contain junk from previous sprite renders
@@ -47,4 +49,3 @@
 ### Universal
 - Bug with players being frozen and unfrozen?
 - Bug with spawning from blocks? (Wizonk)
-- Panels broken on some Amiga projects?
