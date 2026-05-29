@@ -4,15 +4,18 @@
 
 ### Amiga
 - When there's not enough sprites left in auto sprite mode, just use the sprites available and fill out the rest with blitter
-- Control the number of buffers, default at 2 but could be 1 or more than 2
 - Implement ISOCD Win to streamline CD32 development (https://github.com/fuseoppl/isocd-win)
+- Manipulate music per channel?
+- Parallel port adapter needs to be configured as a default in WinUAE.
 
 ### Mega Drive
 - Ongoing development of sprite UI elements
+- Finish development of Window panels
 
 ### NeoGeo
 - AutoAnim should be available for animations, not just tiles
 - Support additional MVS functionality such as coin drops
+- Implementation of all Road/Floor functions
 
 ### Scorpion Box
 - Improve mouse tracking around borders
@@ -27,11 +30,21 @@
 - Lookup tables should support negative keys
 - All systems should support real time color changes to water layer
 - Remove repeat frame events, instead each individual animation event should be flagged about whether it should repeat across the entire frame delay or not
-- Add boost settings for codeblocks
+- Add car boost settings for codeblocks
 - Add steer towards codeblock command
-- Make sure that tilesets or tileset images outside of the project folder are not supported
+- Full audit of all ASM code needed
+- Actor separate command should have "weight" so that one actor can fully push the other one (maybe default to 0.5 so they're evenly separated)
 
 ## Bugs
 
 ### Amiga
 - ~~Audio issue (glitch with sounds repeated ~12 seconds)~~ — technically not solved, but improved and on hold for now
+- Window Panels broken on tall maps
+
+### NeoGeo
+- Shrunken sprites sometimes contain junk from previous sprite renders
+
+### Universal
+- Bug with players being frozen and unfrozen?
+- Bug with spawning from blocks? (Wizonk)
+- Panels broken on some Amiga projects?
