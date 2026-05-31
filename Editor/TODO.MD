@@ -12,11 +12,13 @@
 ### Mega Drive
 - Ongoing development of sprite UI elements
 - Finish development of Window panels
+- Bars should have an option for pixel perfect
 
 ### NeoGeo
 - AutoAnim should be available for animations, not just tiles
 - Support additional MVS functionality such as coin drops
 - Implementation of all Road/Floor functions
+- Bars should have an option for pixel perfect
 
 ### Scorpion Box
 - Improve mouse tracking around borders
@@ -49,3 +51,7 @@
 ### Universal
 - Bug with players being frozen and unfrozen?
 - Bug with spawning from blocks? (Wizonk)
+
+## Documentation
+- Help for control mode
+- Help for defragging
