@@ -19,6 +19,7 @@
 - Support additional MVS functionality such as coin drops
 - Implementation of all Road/Floor functions
 - Bars should have an option for pixel perfect
+- ShrinkX/Y should be relative to actor 0 position
 
 ### Scorpion Box
 - Improve mouse tracking around borders
@@ -35,6 +36,7 @@
 - Remove repeat frame events, instead each individual animation event should be flagged about whether it should repeat across the entire frame delay or not
 - Add car boost settings for codeblocks
 - Add steer towards codeblock command
+- Shrink command to be added to Codeblocks2
 - Full audit of all ASM code needed
 - Actor separate command should have "weight" so that one actor can fully push the other one (maybe default to 0.5 so they're evenly separated)
 
@@ -46,12 +48,11 @@
 - Talkpad needs to be reworked to avoid flashing panel elements
 
 ### NeoGeo
-- Shrunken sprites sometimes contain junk from previous sprite renders
+- ~~Shrunken sprites sometimes contain junk from previous sprite renders~~
 
 ### Universal
 - Bug with players being frozen and unfrozen?
-- Bug with spawning from blocks? (Wizonk)
 
-## Documentation
-- Help for control mode
-- Help for defragging
+
+### Editor
+- Review bugs with sound in animation tab
