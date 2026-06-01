@@ -8,6 +8,7 @@
 - Manipulate music per channel?
 - Parallel port adapter needs to be configured as a default in WinUAE.
 - Single buffer mode (BufferCount=1) needs more work — panel system currently assumes double buffering
+- Add parallax tricks 3
 
 ### Mega Drive
 - Ongoing development of sprite UI elements
@@ -39,12 +40,12 @@
 - Shrink command to be added to Codeblocks2
 - Full audit of all ASM code needed
 - Actor separate command should have "weight" so that one actor can fully push the other one (maybe default to 0.5 so they're evenly separated)
+- Add 'calculator' panel demo
 
 ## Bugs
 
 ### Amiga
 - ~~Audio issue (glitch with sounds repeated ~12 seconds)~~ — technically not solved, but improved and on hold for now
-- Window Panels broken on tall maps
 - Talkpad needs to be reworked to avoid flashing panel elements
 
 ### NeoGeo
