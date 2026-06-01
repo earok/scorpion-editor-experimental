@@ -50,9 +50,5 @@
 ### NeoGeo
 - ~~Shrunken sprites sometimes contain junk from previous sprite renders~~
 
-### Universal
-- Bug with players being frozen and unfrozen?
-
-
 ### Editor
 - Review bugs with sound in animation tab
