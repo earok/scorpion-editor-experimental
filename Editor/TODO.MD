@@ -21,6 +21,8 @@
 - Implementation of all Road/Floor functions
 - Bars should have an option for pixel perfect
 - ShrinkX/Y should be relative to actor 0 position
+- Retire RAINE, switch to MAME for NeoGeo CD development
+- Music looping should be supported equally in CD and ADPCMB
 
 ### Scorpion Box
 - Improve mouse tracking around borders
@@ -49,7 +51,8 @@
 - Talkpad needs to be reworked to avoid flashing panel elements
 
 ### NeoGeo
-- ~~Shrunken sprites sometimes contain junk from previous sprite renders~~
+- Sound seems to be broken in .NEO files
+- Black screen issue (Scorpion Box)
 
 ### Editor
 - Review bugs with sound in animation tab
