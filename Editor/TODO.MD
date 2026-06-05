@@ -16,6 +16,7 @@
 - Bars should have an option for pixel perfect
 
 ### NeoGeo
+- MezzEstate needs to be replaced with NullSound driver
 - AutoAnim should be available for animations, not just tiles
 - Support additional MVS functionality such as coin drops
 - Implementation of all Road/Floor functions
@@ -33,6 +34,7 @@
 - Fork emulator.js in order to create a version of Scorpion Box that is compatible (so far as possible) with Scorpion Box configuration files, as well as NeoGeo and Amiga support
 
 ### Universal
+- Window Panels should support Talkpads
 - Lookup tables should also work for strings
 - Lookup tables should support negative keys
 - All systems should support real time color changes to water layer
@@ -43,6 +45,8 @@
 - Full audit of all ASM code needed
 - Actor separate command should have "weight" so that one actor can fully push the other one (maybe default to 0.5 so they're evenly separated)
 - Add 'calculator' panel demo
+- ActorMoveToward function
+- Arrays should work in panel elements
 
 ## Bugs
 
@@ -50,9 +54,10 @@
 - ~~Audio issue (glitch with sounds repeated ~12 seconds)~~ — technically not solved, but improved and on hold for now
 - Talkpad needs to be reworked to avoid flashing panel elements
 
+### MegaDrive
+
 ### NeoGeo
-- Sound seems to be broken in .NEO files
-- Black screen issue (Scorpion Box)
 
 ### Editor
 - Review bugs with sound in animation tab
+- MusicVolume commands should be blocked on platforms that do not support them 
