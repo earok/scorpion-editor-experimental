@@ -52,9 +52,10 @@
 
 ### Amiga
 - ~~Audio issue (glitch with sounds repeated ~12 seconds)~~ — technically not solved, but improved and on hold for now
-- Talkpad needs to be reworked to avoid flashing panel elements
+- Panel elements need to be optimised
 
 ### MegaDrive
+- RetroAnimator not separately buffering parts
 
 ### NeoGeo
 
