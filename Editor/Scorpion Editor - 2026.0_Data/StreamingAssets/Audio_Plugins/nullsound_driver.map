@@ -1,0 +1,1589 @@
+ASxxxx Linker V05.50.4-SDLD,  page 1.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+.  .ABS.                            00000000    00000000 =           0. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     00000000  .__.ABS.                           nullsound
+     00000000  .__.CPU.                           nullsound
+     00000000  .__.H$L.                           nullsound
+     00000000  A_START_LSB                        nullsound
+     00000000  B_START_LSB                        nullsound
+     00000000  CH_STREAM_SAVED                    nullsound
+     00000000  PORT_FROM_68K                      nullsound
+     00000000  REG_ADPCM_A_START_STOP             nullsound
+     00000000  REG_SSG_A_FINE_TUNE                nullsound
+     00000000  TIMER_CONSUMER_STREAM_BIT          nullsound
+     00000000  l__CODE                         
+     00000000  op_id_write_port_a                 nullsound
+     00000000  s_CODE                          
+     00000000  s_START                         
+     00000000  s_START0                        
+     00000000  s_START1                        
+     00000000  s_START2                        
+     00000000  s_START3                        
+     00000000  s_START4                        
+     00000000  s_START5                        
+     00000000  s_START6                        
+     00000000  s_START7                        
+     00000000  s_START8                        
+     00000000  s__CODE                         
+     00000001  A_START_MSB                        nullsound
+     00000001  B_START_MSB                        nullsound
+     00000001  REG_ADPCM_A_MASTER_VOLUME          nullsound
+     00000001  REG_SSG_A_COARSE_TUNE              nullsound
+     00000001  TIMER_CONSUMER_VOLUME_BIT          nullsound
+     00000001  YM2610_FM1                         nullsound
+     00000001  l_START0                        
+     00000001  l_START1                        
+     00000001  l_START2                        
+     00000001  l_START3                        
+     00000001  l_START4                        
+     00000001  l_START5                        
+     00000001  op_id_write_port_b                 nullsound
+     00000002  A_STOP_LSB                         nullsound
+     00000002  B_STOP_LSB                         nullsound
+     00000002  CH_STREAM_START                    nullsound
+     00000002  REG_ADPCM_A_RESERVED               nullsound
+     00000002  REG_SSG_B_FINE_TUNE                nullsound
+     00000002  YM2610_FM2                         nullsound
+     00000002  op_id_nss_jmp                      nullsound
+     00000003  A_STOP_MSB                         nullsound
+     00000003  B_STOP_MSB                         nullsound
+     00000003  REG_SSG_B_COARSE_TUNE              nullsound
+     00000003  op_id_nss_end                      nullsound
+     00000004  A_CHANNEL                          nullsound
+     00000004  B_DELTA_N_LSB                      nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 2.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+.  .ABS.                            00000000    00000000 =           0. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     00000004  CH_STREAM_POS                      nullsound
+     00000004  NSS_ADPCM_A_INSTRUMENT_PROPS       nullsound
+     00000004  NSS_ADPCM_B_INSTRUMENT_PROPS       nullsound
+     00000004  PORT_YM2610_A_ADDR                 nullsound
+     00000004  PORT_YM2610_STATUS                 nullsound
+     00000004  REG_SSG_C_FINE_TUNE                nullsound
+     00000004  l_START                         
+     00000004  op_id_timer_tempo                  nullsound
+     00000005  A_PAN_VOLUME                       nullsound
+     00000005  B_DELTA_N_MSB                      nullsound
+     00000005  PORT_YM2610_A_VALUE                nullsound
+     00000005  REG_SSG_C_COARSE_TUNE              nullsound
+     00000005  YM2610_FM3                         nullsound
+     00000005  op_id_wait_n_rows                  nullsound
+     00000006  A_CHANNEL_BIT                      nullsound
+     00000006  B_PAN                              nullsound
+     00000006  CH_STREAM_ENTRIES                  nullsound
+     00000006  PORT_PLAYBACK_FINISHED             nullsound
+     00000006  PORT_YM2610_B_ADDR                 nullsound
+     00000006  REG_SSG_NOISE_TONE                 nullsound
+     00000006  REG_TIMER_FLAGS_2CH_BIT            nullsound
+     00000006  YM2610_FM4                         nullsound
+     00000006  op_id_nss_call                     nullsound
+     00000007  B_VOLUME                           nullsound
+     00000007  CH_STREAM_SIZE                     nullsound
+     00000007  PORT_YM2610_B_VALUE                nullsound
+     00000007  REG_SSG_ENABLE                     nullsound
+     00000007  REG_TIMER_FLAGS_CSM_BIT            nullsound
+     00000007  l_START6                        
+     00000007  op_id_nss_ret                      nullsound
+     00000008  NSS_ADPCM_A_NEXT_REGISTER          nullsound
+     00000008  NSS_ADPCM_B_NEXT_REGISTER          nullsound
+     00000008  PORT_BANK_WINDOW_0                 nullsound
+     00000008  PORT_ENABLE_NMI                    nullsound
+     00000008  REG_ADPCM_A1_PAN_VOLUME            nullsound
+     00000008  REG_SSG_A_VOLUME                   nullsound
+     00000008  op_id_nss_nop                      nullsound
+     00000009  PORT_BANK_WINDOW_1                 nullsound
+     00000009  REG_ADPCM_A2_PAN_VOLUME            nullsound
+     00000009  REG_SSG_B_VOLUME                   nullsound
+     00000009  op_id_row_speed                    nullsound
+     0000000A  PORT_BANK_WINDOW_2                 nullsound
+     0000000A  REG_ADPCM_A3_PAN_VOLUME            nullsound
+     0000000A  REG_SSG_C_VOLUME                   nullsound
+     0000000A  op_id_row_groove                   nullsound
+     0000000B  PORT_BANK_WINDOW_3                 nullsound
+     0000000B  REG_ADPCM_A4_PAN_VOLUME            nullsound
+     0000000B  REG_SSG_ENV_FINE_TUNE              nullsound
+     0000000B  op_id_wait_last_rows               nullsound
+     0000000C  PORT_TO_68K                        nullsound
+     0000000C  REG_ADPCM_A5_PAN_VOLUME            nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 3.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+.  .ABS.                            00000000    00000000 =           0. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     0000000C  REG_SSG_ENV_COARSE_TUNE            nullsound
+     0000000C  op_id_adpcm_b_instrument           nullsound
+     0000000D  REG_ADPCM_A6_PAN_VOLUME            nullsound
+     0000000D  REG_SSG_ENV_SHAPE                  nullsound
+     0000000D  op_id_adpcm_b_note_on              nullsound
+     0000000E  NB_YM2610_CHANNELS                 nullsound
+     0000000E  op_id_adpcm_b_note_off             nullsound
+     0000000F  op_id_fm_ctx_1                     nullsound
+     00000010  REG_ADPCM_A1_ADDR_START_LSB        nullsound
+     00000010  REG_ADPCM_B_START_STOP             nullsound
+     00000010  op_id_fm_ctx_2                     nullsound
+     00000011  REG_ADPCM_A2_ADDR_START_LSB        nullsound
+     00000011  REG_ADPCM_B_PAN                    nullsound
+     00000011  op_id_fm_ctx_3                     nullsound
+     00000012  REG_ADPCM_A3_ADDR_START_LSB        nullsound
+     00000012  REG_ADPCM_B_ADDR_START_LSB         nullsound
+     00000012  op_id_fm_ctx_4                     nullsound
+     00000013  REG_ADPCM_A4_ADDR_START_LSB        nullsound
+     00000013  REG_ADPCM_B_ADDR_START_MSB         nullsound
+     00000013  op_id_fm_instrument                nullsound
+     00000014  REG_ADPCM_A5_ADDR_START_LSB        nullsound
+     00000014  REG_ADPCM_B_ADDR_STOP_LSB          nullsound
+     00000014  op_id_fm_note_on                   nullsound
+     00000015  REG_ADPCM_A6_ADDR_START_LSB        nullsound
+     00000015  REG_ADPCM_B_ADDR_STOP_MSB          nullsound
+     00000015  op_id_fm_note_off                  nullsound
+     00000016  op_id_adpcm_a_ctx_1                nullsound
+     00000017  l_START7                        
+     00000017  op_id_adpcm_a_ctx_2                nullsound
+     00000018  PORT_DISABLE_NMI                   nullsound
+     00000018  REG_ADPCM_A1_ADDR_START_MSB        nullsound
+     00000018  op_id_adpcm_a_ctx_3                nullsound
+     00000019  REG_ADPCM_A2_ADDR_START_MSB        nullsound
+     00000019  REG_ADPCM_B_DELTA_N_LSB            nullsound
+     00000019  op_id_adpcm_a_ctx_4                nullsound
+     0000001A  REG_ADPCM_A3_ADDR_START_MSB        nullsound
+     0000001A  REG_ADPCM_B_DELTA_N_MSB            nullsound
+     0000001A  op_id_adpcm_a_ctx_5                nullsound
+     0000001B  REG_ADPCM_A4_ADDR_START_MSB        nullsound
+     0000001B  REG_ADPCM_B_VOLUME                 nullsound
+     0000001B  op_id_adpcm_a_ctx_6                nullsound
+     0000001C  REG_ADPCM_A5_ADDR_START_MSB        nullsound
+     0000001C  REG_ADPCM_PLAYBACK_MASK            nullsound
+     0000001C  op_id_adpcm_a_instrument           nullsound
+     0000001D  REG_ADPCM_A6_ADDR_START_MSB        nullsound
+     0000001D  op_id_adpcm_a_on                   nullsound
+     0000001E  op_id_adpcm_a_off                  nullsound
+     0000001F  op_id_op1_lvl                      nullsound
+     00000020  REG_ADPCM_A1_ADDR_STOP_LSB         nullsound
+     00000020  op_id_op2_lvl                      nullsound
+     00000021  REG_ADPCM_A2_ADDR_STOP_LSB         nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 4.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+.  .ABS.                            00000000    00000000 =           0. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     00000021  op_id_op3_lvl                      nullsound
+     00000022  REG_ADPCM_A3_ADDR_STOP_LSB         nullsound
+     00000022  REG_FM_LFO_CONTROL                 nullsound
+     00000022  op_id_op4_lvl                      nullsound
+     00000023  REG_ADPCM_A4_ADDR_STOP_LSB         nullsound
+     00000023  op_id_fm_pitch                     nullsound
+     00000024  REG_ADPCM_A5_ADDR_STOP_LSB         nullsound
+     00000024  REG_TIMER_A_COUNTER_MSB            nullsound
+     00000024  op_id_ssg_ctx_1                    nullsound
+     00000025  REG_ADPCM_A6_ADDR_STOP_LSB         nullsound
+     00000025  REG_TIMER_A_COUNTER_LSB            nullsound
+     00000025  op_id_ssg_ctx_2                    nullsound
+     00000026  REG_TIMER_B_COUNTER                nullsound
+     00000026  op_id_ssg_ctx_3                    nullsound
+     00000027  REG_TIMER_FLAGS                    nullsound
+     00000027  op_id_ssg_macro                    nullsound
+     00000028  REG_ADPCM_A1_ADDR_STOP_MSB         nullsound
+     00000028  REG_FM_KEY_ON_OFF_OPS              nullsound
+     00000028  op_id_ssg_note_on                  nullsound
+     00000029  REG_ADPCM_A2_ADDR_STOP_MSB         nullsound
+     00000029  op_id_ssg_note_off                 nullsound
+     0000002A  REG_ADPCM_A3_ADDR_STOP_MSB         nullsound
+     0000002A  op_id_ssg_vol                      nullsound
+     0000002B  REG_ADPCM_A4_ADDR_STOP_MSB         nullsound
+     0000002B  op_id_fm_vol                       nullsound
+     0000002C  REG_ADPCM_A5_ADDR_STOP_MSB         nullsound
+     0000002C  op_id_ssg_env_period               nullsound
+     0000002D  REG_ADPCM_A6_ADDR_STOP_MSB         nullsound
+     0000002D  op_id_fm2_ops_off                  nullsound
+     0000002E  op_id_fm2_op1_vol                  nullsound
+     0000002F  op_id_fm2_op2_vol                  nullsound
+     00000030  op_id_fm2_op3_vol                  nullsound
+     00000031  REG_FM1_OP1_DETUNE_MULTIPLY        nullsound
+     00000031  REG_FM3_OP1_DETUNE_MULTIPLY        nullsound
+     00000031  op_id_fm2_op4_vol                  nullsound
+     00000032  REG_FM2_OP1_DETUNE_MULTIPLY        nullsound
+     00000032  REG_FM4_OP1_DETUNE_MULTIPLY        nullsound
+     00000033  op_id_adpcm_b_vol                  nullsound
+     00000034  op_id_adpcm_a_vol                  nullsound
+     00000035  REG_FM1_OP3_DETUNE_MULTIPLY        nullsound
+     00000035  REG_FM3_OP3_DETUNE_MULTIPLY        nullsound
+     00000035  op_id_fm_pan                       nullsound
+     00000036  REG_FM2_OP3_DETUNE_MULTIPLY        nullsound
+     00000036  REG_FM4_OP3_DETUNE_MULTIPLY        nullsound
+     00000036  op_id_fm2_op1_instr                nullsound
+     00000037  l_START8                        
+     00000037  op_id_fm2_op2_instr                nullsound
+     00000038  op_id_fm2_delay                    nullsound
+     00000039  REG_FM1_OP2_DETUNE_MULTIPLY        nullsound
+     00000039  REG_FM3_OP2_DETUNE_MULTIPLY        nullsound
+     00000039  op_id_ssg_delay                    nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 5.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+.  .ABS.                            00000000    00000000 =           0. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     0000003A  REG_FM2_OP2_DETUNE_MULTIPLY        nullsound
+     0000003A  REG_FM4_OP2_DETUNE_MULTIPLY        nullsound
+     0000003A  op_id_fm_delay                     nullsound
+     0000003B  op_id_adpcm_a_delay                nullsound
+     0000003C  op_id_adpcm_b_ctx                  nullsound
+     0000003D  REG_FM1_OP4_DETUNE_MULTIPLY        nullsound
+     0000003D  REG_FM3_OP4_DETUNE_MULTIPLY        nullsound
+     0000003D  op_id_fm2_op3_instr                nullsound
+     0000003E  REG_FM2_OP4_DETUNE_MULTIPLY        nullsound
+     0000003E  REG_FM4_OP4_DETUNE_MULTIPLY        nullsound
+     0000003E  op_id_fm2_op4_instr                nullsound
+     0000003F  op_id_ssg_pitch                    nullsound
+     00000040  MAX_PENDING_COMMANDS               nullsound
+     00000040  VIBRATO_PRECALC_SIZE               nullsound
+     00000040  op_id_fm2_op1_note_on              nullsound
+     00000041  REG_FM1_OP1_TOTAL_LEVEL            nullsound
+     00000041  REG_FM3_OP1_TOTAL_LEVEL            nullsound
+     00000041  op_id_fm2_op2_note_on              nullsound
+     00000042  REG_FM2_OP1_TOTAL_LEVEL            nullsound
+     00000042  REG_FM4_OP1_TOTAL_LEVEL            nullsound
+     00000042  op_id_fm2_op3_note_on              nullsound
+     00000043  op_id_fm2_op4_note_on              nullsound
+     00000044  op_id_set_2ch                      nullsound
+     00000045  REG_FM1_OP3_TOTAL_LEVEL            nullsound
+     00000045  REG_FM3_OP3_TOTAL_LEVEL            nullsound
+     00000045  op_id_fm_cut                       nullsound
+     00000046  REG_FM2_OP3_TOTAL_LEVEL            nullsound
+     00000046  REG_FM4_OP3_TOTAL_LEVEL            nullsound
+     00000046  op_id_ssg_cut                      nullsound
+     00000047  op_id_adpcm_a_cut                  nullsound
+     00000048  op_id_adpcm_b_cut                  nullsound
+     00000049  REG_FM1_OP2_TOTAL_LEVEL            nullsound
+     00000049  REG_FM3_OP2_TOTAL_LEVEL            nullsound
+     00000049  op_id_adpcm_b_delay                nullsound
+     0000004A  REG_FM2_OP2_TOTAL_LEVEL            nullsound
+     0000004A  REG_FM4_OP2_TOTAL_LEVEL            nullsound
+     0000004A  op_id_adpcm_a_retrigger            nullsound
+     0000004B  op_id_adpcm_a_pan                  nullsound
+     0000004C  op_id_adpcm_b_pan                  nullsound
+     0000004D  REG_FM1_OP4_TOTAL_LEVEL            nullsound
+     0000004D  REG_FM3_OP4_TOTAL_LEVEL            nullsound
+     0000004E  REG_FM2_OP4_TOTAL_LEVEL            nullsound
+     0000004E  REG_FM4_OP4_TOTAL_LEVEL            nullsound
+     0000004E  op_id_nss_call_table               nullsound
+     0000004F  op_id_fm_note_on_and_wait          nullsound
+     00000050  op_id_ssg_note_on_and_wait         nullsound
+     00000051  REG_FM1_OP1_KEY_SCALE_ATTACK_RAT   nullsound
+     00000051  REG_FM3_OP1_KEY_SCALE_ATTACK_RAT   nullsound
+     00000051  op_id_adpcm_a_on_and_wait          nullsound
+     00000052  REG_FM2_OP1_KEY_SCALE_ATTACK_RAT   nullsound
+     00000052  REG_FM4_OP1_KEY_SCALE_ATTACK_RAT   nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 6.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+.  .ABS.                            00000000    00000000 =           0. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     00000053  op_id_arpeggio                     nullsound
+     00000054  op_id_arpeggio_speed               nullsound
+     00000055  REG_FM1_OP3_KEY_SCALE_ATTACK_RAT   nullsound
+     00000055  REG_FM3_OP3_KEY_SCALE_ATTACK_RAT   nullsound
+     00000055  op_id_arpeggio_off                 nullsound
+     00000056  REG_FM2_OP3_KEY_SCALE_ATTACK_RAT   nullsound
+     00000056  REG_FM4_OP3_KEY_SCALE_ATTACK_RAT   nullsound
+     00000056  op_id_quick_legato_up              nullsound
+     00000057  op_id_quick_legato_down            nullsound
+     00000058  op_id_vol_slide_off                nullsound
+     00000059  REG_FM1_OP2_KEY_SCALE_ATTACK_RAT   nullsound
+     00000059  REG_FM3_OP2_KEY_SCALE_ATTACK_RAT   nullsound
+     00000059  op_id_vol_slide_up                 nullsound
+     0000005A  REG_FM2_OP2_KEY_SCALE_ATTACK_RAT   nullsound
+     0000005A  REG_FM4_OP2_KEY_SCALE_ATTACK_RAT   nullsound
+     0000005A  op_id_vol_slide_down               nullsound
+     0000005B  op_id_note_slide_off               nullsound
+     0000005C  op_id_note_slide_up                nullsound
+     0000005D  REG_FM1_OP4_KEY_SCALE_ATTACK_RAT   nullsound
+     0000005D  REG_FM3_OP4_KEY_SCALE_ATTACK_RAT   nullsound
+     0000005D  op_id_note_slide_down              nullsound
+     0000005E  REG_FM2_OP4_KEY_SCALE_ATTACK_RAT   nullsound
+     0000005E  REG_FM4_OP4_KEY_SCALE_ATTACK_RAT   nullsound
+     0000005E  op_id_note_pitch_slide_up          nullsound
+     0000005F  op_id_note_pitch_slide_down        nullsound
+     00000060  op_id_note_portamento              nullsound
+     00000061  REG_FM1_OP1_AM_ON_DECAY_RATE       nullsound
+     00000061  REG_FM3_OP1_AM_ON_DECAY_RATE       nullsound
+     00000061  op_id_vibrato                      nullsound
+     00000062  REG_FM2_OP1_AM_ON_DECAY_RATE       nullsound
+     00000062  REG_FM4_OP1_AM_ON_DECAY_RATE       nullsound
+     00000062  op_id_vibrato_off                  nullsound
+     00000063  op_id_legato                       nullsound
+     00000064  op_id_legato_off                   nullsound
+     00000065  REG_FM1_OP3_AM_ON_DECAY_RATE       nullsound
+     00000065  REG_FM3_OP3_AM_ON_DECAY_RATE       nullsound
+     00000065  op_id_fm2_vibrato                  nullsound
+     00000066  REG_FM2_OP3_AM_ON_DECAY_RATE       nullsound
+     00000066  REG_FM4_OP3_AM_ON_DECAY_RATE       nullsound
+     00000066  op_id_fm2_vibrato_off              nullsound
+     00000067  op_id_fm2_note_portamento          nullsound
+     00000068  op_id_fm2_legato                   nullsound
+     00000069  REG_FM1_OP2_AM_ON_DECAY_RATE       nullsound
+     00000069  REG_FM3_OP2_AM_ON_DECAY_RATE       nullsound
+     00000069  op_id_fm2_legato_off               nullsound
+     0000006A  REG_FM2_OP2_AM_ON_DECAY_RATE       nullsound
+     0000006A  REG_FM4_OP2_AM_ON_DECAY_RATE       nullsound
+     0000006A  op_id_fm2_vol_slide_off            nullsound
+     0000006B  op_id_fm2_vol_slide_up             nullsound
+     0000006C  op_id_fm2_vol_slide_down           nullsound
+     0000006D  REG_FM1_OP4_AM_ON_DECAY_RATE       nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 7.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+.  .ABS.                            00000000    00000000 =           0. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     0000006D  REG_FM3_OP4_AM_ON_DECAY_RATE       nullsound
+     0000006E  REG_FM2_OP4_AM_ON_DECAY_RATE       nullsound
+     0000006E  REG_FM4_OP4_AM_ON_DECAY_RATE       nullsound
+     00000071  REG_FM1_OP1_SUSTAIN_RATE           nullsound
+     00000071  REG_FM3_OP1_SUSTAIN_RATE           nullsound
+     00000072  REG_FM2_OP1_SUSTAIN_RATE           nullsound
+     00000072  REG_FM4_OP1_SUSTAIN_RATE           nullsound
+     00000075  REG_FM1_OP3_SUSTAIN_RATE           nullsound
+     00000075  REG_FM3_OP3_SUSTAIN_RATE           nullsound
+     00000076  REG_FM2_OP3_SUSTAIN_RATE           nullsound
+     00000076  REG_FM4_OP3_SUSTAIN_RATE           nullsound
+     00000079  REG_FM1_OP2_SUSTAIN_RATE           nullsound
+     00000079  REG_FM3_OP2_SUSTAIN_RATE           nullsound
+     0000007A  REG_FM2_OP2_SUSTAIN_RATE           nullsound
+     0000007A  REG_FM4_OP2_SUSTAIN_RATE           nullsound
+     0000007D  REG_FM1_OP4_SUSTAIN_RATE           nullsound
+     0000007D  REG_FM3_OP4_SUSTAIN_RATE           nullsound
+     0000007E  REG_FM2_OP4_SUSTAIN_RATE           nullsound
+     0000007E  REG_FM4_OP4_SUSTAIN_RATE           nullsound
+     00000081  REG_FM1_OP1_SUSTAIN_LEVEL_RELEAS   nullsound
+     00000081  REG_FM3_OP1_SUSTAIN_LEVEL_RELEAS   nullsound
+     00000082  REG_FM2_OP1_SUSTAIN_LEVEL_RELEAS   nullsound
+     00000082  REG_FM4_OP1_SUSTAIN_LEVEL_RELEAS   nullsound
+     00000085  REG_FM1_OP3_SUSTAIN_LEVEL_RELEAS   nullsound
+     00000085  REG_FM3_OP3_SUSTAIN_LEVEL_RELEAS   nullsound
+     00000086  REG_FM2_OP3_SUSTAIN_LEVEL_RELEAS   nullsound
+     00000086  REG_FM4_OP3_SUSTAIN_LEVEL_RELEAS   nullsound
+     00000089  REG_FM1_OP2_SUSTAIN_LEVEL_RELEAS   nullsound
+     00000089  REG_FM3_OP2_SUSTAIN_LEVEL_RELEAS   nullsound
+     0000008A  REG_FM2_OP2_SUSTAIN_LEVEL_RELEAS   nullsound
+     0000008A  REG_FM4_OP2_SUSTAIN_LEVEL_RELEAS   nullsound
+     0000008D  REG_FM1_OP4_SUSTAIN_LEVEL_RELEAS   nullsound
+     0000008D  REG_FM3_OP4_SUSTAIN_LEVEL_RELEAS   nullsound
+     0000008E  REG_FM2_OP4_SUSTAIN_LEVEL_RELEAS   nullsound
+     0000008E  REG_FM4_OP4_SUSTAIN_LEVEL_RELEAS   nullsound
+     00000091  REG_FM1_OP1_SSG_EG                 nullsound
+     00000091  REG_FM3_OP1_SSG_EG                 nullsound
+     00000092  REG_FM2_OP1_SSG_EG                 nullsound
+     00000092  REG_FM4_OP1_SSG_EG                 nullsound
+     00000095  REG_FM1_OP3_SSG_EG                 nullsound
+     00000095  REG_FM3_OP3_SSG_EG                 nullsound
+     00000096  REG_FM2_OP3_SSG_EG                 nullsound
+     00000096  REG_FM4_OP3_SSG_EG                 nullsound
+     00000099  REG_FM1_OP2_SSG_EG                 nullsound
+     00000099  REG_FM3_OP2_SSG_EG                 nullsound
+     0000009A  REG_FM2_OP2_SSG_EG                 nullsound
+     0000009A  REG_FM4_OP2_SSG_EG                 nullsound
+     0000009D  REG_FM1_OP4_SSG_EG                 nullsound
+     0000009D  REG_FM3_OP4_SSG_EG                 nullsound
+     0000009E  REG_FM2_OP4_SSG_EG                 nullsound
+     0000009E  REG_FM4_OP4_SSG_EG                 nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 8.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+.  .ABS.                            00000000    00000000 =           0. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     000000A1  REG_FM1_FNUM_1                     nullsound
+     000000A1  REG_FM3_FNUM_1                     nullsound
+     000000A2  REG_FM2_FNUM_1                     nullsound
+     000000A2  REG_FM2_OP4_FNUM_1                 nullsound
+     000000A2  REG_FM4_FNUM_1                     nullsound
+     000000A5  REG_FM1_BLOCK_FNUM_2               nullsound
+     000000A5  REG_FM3_BLOCK_FNUM_2               nullsound
+     000000A6  REG_FM2_BLOCK_FNUM_2               nullsound
+     000000A6  REG_FM2_OP4_BLOCK_FNUM_2           nullsound
+     000000A6  REG_FM4_BLOCK_FNUM_2               nullsound
+     000000A8  REG_FM2_OP3_FNUM_1                 nullsound
+     000000A9  REG_FM2_OP1_FNUM_1                 nullsound
+     000000AA  REG_FM2_OP2_FNUM_1                 nullsound
+     000000AC  REG_FM2_OP3_BLOCK_FNUM_2           nullsound
+     000000AD  REG_FM2_OP1_BLOCK_FNUM_2           nullsound
+     000000AE  REG_FM2_OP2_BLOCK_FNUM_2           nullsound
+     000000B1  REG_FM1_FEEDBACK_ALGORITHM         nullsound
+     000000B1  REG_FM3_FEEDBACK_ALGORITHM         nullsound
+     000000B2  REG_FM2_FEEDBACK_ALGORITHM         nullsound
+     000000B2  REG_FM4_FEEDBACK_ALGORITHM         nullsound
+     000000B5  REG_FM1_L_R_AMSENSE_PMSENSE        nullsound
+     000000B5  REG_FM3_L_R_AMSENSE_PMSENSE        nullsound
+     000000B6  REG_FM2_L_R_AMSENSE_PMSENSE        nullsound
+     000000B6  REG_FM4_L_R_AMSENSE_PMSENSE        nullsound
+     000000FF  TIMER_CONSUMER_ALL                 nullsound
+     000002F7  l_struct                        
+     00000796  l_DATA                          
+     00002710  .__.$$$.                           nullsound
+     000029F8  l_CODE                          
+     0000F800  s_DATA                          
+     0000FF96  s_struct                        
+     0000FFFD  START_OF_STACK                     nullsound
+
+ASxxxx Linker V05.50.4-SDLD,  page 9.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+START                               00000000    00000004 =           4. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+ASxxxx Linker V05.50.4-SDLD,  page 10.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+START0                              00000000    00000001 =           1. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+ASxxxx Linker V05.50.4-SDLD,  page 11.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+START1                              00000000    00000001 =           1. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+ASxxxx Linker V05.50.4-SDLD,  page 12.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+START2                              00000000    00000001 =           1. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+ASxxxx Linker V05.50.4-SDLD,  page 13.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+START3                              00000000    00000001 =           1. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+ASxxxx Linker V05.50.4-SDLD,  page 14.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+START4                              00000000    00000001 =           1. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+ASxxxx Linker V05.50.4-SDLD,  page 15.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+START5                              00000000    00000001 =           1. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+ASxxxx Linker V05.50.4-SDLD,  page 16.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+START6                              00000000    00000007 =           7. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+ASxxxx Linker V05.50.4-SDLD,  page 17.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+START7                              00000000    00000017 =          23. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+ASxxxx Linker V05.50.4-SDLD,  page 18.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+START8                              00000000    00000037 =          55. bytes (ABS,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+ASxxxx Linker V05.50.4-SDLD,  page 19.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CODE                                00000000    000029F8 =       10744. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     00000100  init_z80_and_wait                  nullsound
+     00000112  snd_init_driver_from_nmi           nullsound
+     00000120  snd_start_driver                   nullsound
+     0000014A  snd_mainloop                       nullsound
+     00000159  snd_push_pending_command           nullsound
+     00000173  snd_process_pending_commands       nullsound
+     0000017E  _loop_commands                     nullsound
+     0000019B  _ret_from_cmd                      nullsound
+     000001A6  _no_pending_commands               nullsound
+     00000200  note_to_octave_semitone            nullsound
+     00000280  sine                               nullsound
+     00000300  ssg_tune_deltas                    nullsound
+     00000400  fm_fnum_deltas                     nullsound
+     00000500  ssg_dists_lsb                      nullsound
+     00000600  ssg_tunes_msb                      nullsound
+     00000700  ssg_tunes_lsb                      nullsound
+     00000780  ssg_dists_msb                      nullsound
+     00000800  fm_fnums                           nullsound
+     00000824  fm_dists                           nullsound
+     00000848  bank_64k_linear                    nullsound
+     0000084C  bank_switch                        nullsound
+     0000085C  snd_command_unused                 nullsound
+     0000085E  snd_command_01_prepare_for_rom_s   nullsound
+     00000879  snd_command_02_eye_catcher_music   nullsound
+     0000087F  snd_command_03_reset_driver        nullsound
+     00000885  init_adpcm_state_tracker           nullsound
+     0000088E  update_adpcm_state_tracker         nullsound
+     000008B1  _adpcm_no_state_update             nullsound
+     000008B2  snd_adpcm_a_play_common            nullsound
+     0000090E  _snd_adpcm_a_end                   nullsound
+     00000910  snd_adpcm_a_play                   nullsound
+     0000091E  _snd_adpcm_a_busy                  nullsound
+     00000920  snd_adpcm_a_play_exclusive         nullsound
+     00000930  snd_adpcm_b_play_common            nullsound
+     0000098D  snd_adpcm_b_play_exclusive         nullsound
+     000009A3  snd_adpcm_b_play_loop_exclusive    nullsound
+     000009B9  snd_adpcm_b_play                   nullsound
+     000009CD  _snd_adpcm_b_busy                  nullsound
+     000009CF  snd_adpcm_b_play_loop              nullsound
+     000009E3  _snd_adpcm_b_loop_busy             nullsound
+     000009E5  snd_adpcm_b_stop                   nullsound
+     000009FF  ym2610_write_port_a                nullsound
+     00000A1B  ym2610_write_port_a_no_ctx         nullsound
+     00000A2A  ym2610_write_port_b                nullsound
+     00000A46  _ym2610_wait_address_write         nullsound
+     00000A48  _ym2610_wait_data_write            nullsound
+     00000A4F  ym2610_wait_available              nullsound
+     00000A56  ym2610_restore_port_context        nullsound
+     00000A68  _restore_context_port_a            nullsound
+     00000A6A  _restore_wait_write                nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 20.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CODE                                00000000    000029F8 =       10744. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     00000A6D  _end_restore_context               nullsound
+     00000A6E  ym2610_reset                       nullsound
+     00000A80  _release_ops                       nullsound
+     00000AE0  _post_ym2610_reset_a               nullsound
+     00000AFF  init_stream_state_tracker          nullsound
+     00000B14  update_streams_wait_rows           nullsound
+     00000B1E  _tick_sub_loop                     nullsound
+     00000B27  process_streams_opcodes            nullsound
+     00000B48  _loop_chs                          nullsound
+     00000B62  _loop_opcode                       nullsound
+     00000B73  _post_ch_process                   nullsound
+     00000BA2  _end_process                       nullsound
+     00000BA3  update_stream_state_tracker        nullsound
+     00000BCD  _post_process_nss_opcodes          nullsound
+     00000BE1  _end_update_stream                 nullsound
+     00000BE4  snd_stream_reset_state             nullsound
+     00000BE4  stream_reset_state                 nullsound
+     00000C0B  _post_memset_wait_rows             nullsound
+     00000C0C  snd_stream_play                    nullsound
+     00000C0C  stream_play                        nullsound
+     00000C3E  snd_configure_stream_ctx_switche   nullsound
+     00000C46  _stream_ctx_set                    nullsound
+     00000C4D  _stream_ctx_cfg_next               nullsound
+     00000C56  stream_all_ctx_switch              nullsound
+     00000C65  stream_play_multi                  nullsound
+     00000CA3  _stream_play_init_loop             nullsound
+     00000CC2  snd_stream_stop                    nullsound
+     00000CC2  stream_stop                        nullsound
+     00000CD7  _op_offset_write_port_a            nullsound
+     00000CD7  nss_opcodes                        nullsound
+     00000CD9  _op_offset_write_port_b            nullsound
+     00000CDB  _op_offset_nss_jmp                 nullsound
+     00000CDD  _op_offset_nss_end                 nullsound
+     00000CDF  _op_offset_timer_tempo             nullsound
+     00000CE1  _op_offset_wait_n_rows             nullsound
+     00000CE3  _op_offset_nss_call                nullsound
+     00000CE5  _op_offset_nss_ret                 nullsound
+     00000CE7  _op_offset_nss_nop                 nullsound
+     00000CE9  _op_offset_row_speed               nullsound
+     00000CEB  _op_offset_row_groove              nullsound
+     00000CED  _op_offset_wait_last_rows          nullsound
+     00000CEF  _op_offset_adpcm_b_instrument      nullsound
+     00000CF1  _op_offset_adpcm_b_note_on         nullsound
+     00000CF3  _op_offset_adpcm_b_note_off        nullsound
+     00000CF5  _op_offset_fm_ctx_1                nullsound
+     00000CF7  _op_offset_fm_ctx_2                nullsound
+     00000CF9  _op_offset_fm_ctx_3                nullsound
+     00000CFB  _op_offset_fm_ctx_4                nullsound
+     00000CFD  _op_offset_fm_instrument           nullsound
+     00000CFF  _op_offset_fm_note_on              nullsound
+     00000D01  _op_offset_fm_note_off             nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 21.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CODE                                00000000    000029F8 =       10744. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     00000D03  _op_offset_adpcm_a_ctx_1           nullsound
+     00000D05  _op_offset_adpcm_a_ctx_2           nullsound
+     00000D07  _op_offset_adpcm_a_ctx_3           nullsound
+     00000D09  _op_offset_adpcm_a_ctx_4           nullsound
+     00000D0B  _op_offset_adpcm_a_ctx_5           nullsound
+     00000D0D  _op_offset_adpcm_a_ctx_6           nullsound
+     00000D0F  _op_offset_adpcm_a_instrument      nullsound
+     00000D11  _op_offset_adpcm_a_on              nullsound
+     00000D13  _op_offset_adpcm_a_off             nullsound
+     00000D15  _op_offset_op1_lvl                 nullsound
+     00000D17  _op_offset_op2_lvl                 nullsound
+     00000D19  _op_offset_op3_lvl                 nullsound
+     00000D1B  _op_offset_op4_lvl                 nullsound
+     00000D1D  _op_offset_fm_pitch                nullsound
+     00000D1F  _op_offset_ssg_ctx_1               nullsound
+     00000D21  _op_offset_ssg_ctx_2               nullsound
+     00000D23  _op_offset_ssg_ctx_3               nullsound
+     00000D25  _op_offset_ssg_macro               nullsound
+     00000D27  _op_offset_ssg_note_on             nullsound
+     00000D29  _op_offset_ssg_note_off            nullsound
+     00000D2B  _op_offset_ssg_vol                 nullsound
+     00000D2D  _op_offset_fm_vol                  nullsound
+     00000D2F  _op_offset_ssg_env_period          nullsound
+     00000D31  _op_offset_fm2_ops_off             nullsound
+     00000D33  _op_offset_fm2_op1_vol             nullsound
+     00000D35  _op_offset_fm2_op2_vol             nullsound
+     00000D37  _op_offset_fm2_op3_vol             nullsound
+     00000D39  _op_offset_fm2_op4_vol             nullsound
+     00000D3D  _op_offset_adpcm_b_vol             nullsound
+     00000D3F  _op_offset_adpcm_a_vol             nullsound
+     00000D41  _op_offset_fm_pan                  nullsound
+     00000D43  _op_offset_fm2_op1_instr           nullsound
+     00000D45  _op_offset_fm2_op2_instr           nullsound
+     00000D47  _op_offset_fm2_delay               nullsound
+     00000D49  _op_offset_ssg_delay               nullsound
+     00000D4B  _op_offset_fm_delay                nullsound
+     00000D4D  _op_offset_adpcm_a_delay           nullsound
+     00000D4F  _op_offset_adpcm_b_ctx             nullsound
+     00000D51  _op_offset_fm2_op3_instr           nullsound
+     00000D53  _op_offset_fm2_op4_instr           nullsound
+     00000D55  _op_offset_ssg_pitch               nullsound
+     00000D57  _op_offset_fm2_op1_note_on         nullsound
+     00000D59  _op_offset_fm2_op2_note_on         nullsound
+     00000D5B  _op_offset_fm2_op3_note_on         nullsound
+     00000D5D  _op_offset_fm2_op4_note_on         nullsound
+     00000D5F  _op_offset_set_2ch                 nullsound
+     00000D61  _op_offset_fm_cut                  nullsound
+     00000D63  _op_offset_ssg_cut                 nullsound
+     00000D65  _op_offset_adpcm_a_cut             nullsound
+     00000D67  _op_offset_adpcm_b_cut             nullsound
+     00000D69  _op_offset_adpcm_b_delay           nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 22.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CODE                                00000000    000029F8 =       10744. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     00000D6B  _op_offset_adpcm_a_retrigger       nullsound
+     00000D6D  _op_offset_adpcm_a_pan             nullsound
+     00000D6F  _op_offset_adpcm_b_pan             nullsound
+     00000D73  _op_offset_nss_call_table          nullsound
+     00000D75  _op_offset_fm_note_on_and_wait     nullsound
+     00000D77  _op_offset_ssg_note_on_and_wait    nullsound
+     00000D79  _op_offset_adpcm_a_on_and_wait     nullsound
+     00000D7D  _op_offset_arpeggio                nullsound
+     00000D7F  _op_offset_arpeggio_speed          nullsound
+     00000D81  _op_offset_arpeggio_off            nullsound
+     00000D83  _op_offset_quick_legato_up         nullsound
+     00000D85  _op_offset_quick_legato_down       nullsound
+     00000D87  _op_offset_vol_slide_off           nullsound
+     00000D89  _op_offset_vol_slide_up            nullsound
+     00000D8B  _op_offset_vol_slide_down          nullsound
+     00000D8D  _op_offset_note_slide_off          nullsound
+     00000D8F  _op_offset_note_slide_up           nullsound
+     00000D91  _op_offset_note_slide_down         nullsound
+     00000D93  _op_offset_note_pitch_slide_up     nullsound
+     00000D95  _op_offset_note_pitch_slide_down   nullsound
+     00000D97  _op_offset_note_portamento         nullsound
+     00000D99  _op_offset_vibrato                 nullsound
+     00000D9B  _op_offset_vibrato_off             nullsound
+     00000D9D  _op_offset_legato                  nullsound
+     00000D9F  _op_offset_legato_off              nullsound
+     00000DA1  _op_offset_fm2_vibrato             nullsound
+     00000DA3  _op_offset_fm2_vibrato_off         nullsound
+     00000DA5  _op_offset_fm2_note_portamento     nullsound
+     00000DA7  _op_offset_fm2_legato              nullsound
+     00000DA9  _op_offset_fm2_legato_off          nullsound
+     00000DAB  _op_offset_fm2_vol_slide_off       nullsound
+     00000DAD  _op_offset_fm2_vol_slide_up        nullsound
+     00000DAF  _op_offset_fm2_vol_slide_down      nullsound
+     00000DB1  process_nss_opcode                 nullsound
+     00000DC6  write_port_a                       nullsound
+     00000DD0  write_port_b                       nullsound
+     00000DDA  nss_jmp                            nullsound
+     00000DF3  nss_end                            nullsound
+     00000E00  wait_n_rows                        nullsound
+     00000E0D  _post_wait_rows                    nullsound
+     00000E1A  wait_last_rows                     nullsound
+     00000E28  nss_call                           nullsound
+     00000E48  nss_call_table                     nullsound
+     00000E5D  process_table_entry                nullsound
+     00000E93  nss_ret                            nullsound
+     00000EB0  _ret_set_process                   nullsound
+     00000EB8  nss_nop                            nullsound
+     00000EBB  init_timer_state_tracker           nullsound
+     00000ECA  update_timer_state_tracker         nullsound
+     00000EEC  timer_init_ticks                   nullsound
+     00000F1B  timer_set_ticks_per_row            nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 23.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CODE                                00000000    000029F8 =       10744. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     00000F28  timer_update_ticks_for_next_row    nullsound
+     00000F36  _timer_set_pos                     nullsound
+     00000F3E  set_2ch                            nullsound
+     00000F47  timer_tempo                        nullsound
+     00000F7B  row_speed                          nullsound
+     00000F91  row_groove                         nullsound
+     00000FA1  mul_int24_by_int8                  nullsound
+     00001019  scale_int24_by_factor16            nullsound
+     0000103C  state_fm_action_funcs              nullsound
+     00001042  init_nss_fm_state_tracker          nullsound
+     0000108D  _fm_zero_channel_state             nullsound
+     000010AC  fm_ctx_reset                       nullsound
+     000010B2  fm_ctx_set_current                 nullsound
+     000010F1  _fm_ctx_12                         nullsound
+     000010FC  _fm_ctx_data                       nullsound
+     0000110C  fm_ctx_op_set_current              nullsound
+     00001134  _fm_ctx_op_data                    nullsound
+     0000113C  _fm_ctx_op_mask_data               nullsound
+     00001140  _fm_ctx_op_pipeline_data           nullsound
+     00001148  fm_set_fnum_registers              nullsound
+     0000115B  fm_ctx_1                           nullsound
+     00001163  fm_ctx_2                           nullsound
+     0000116B  fm_ctx_3                           nullsound
+     00001173  fm_ctx_4                           nullsound
+     0000117B  fm_out_ops_table                   nullsound
+     00001183  fm_set_out_ops_bitfield            nullsound
+     0000119B  fm_set_ops_level                   nullsound
+     000011C7  fm_stop_op_from_mask               nullsound
+     000011EA  compute_fm_fixed_point_note        nullsound
+     0000120A  _fm_post_add_vibrato               nullsound
+     0000120B  compute_ym2610_fm_vol              nullsound
+     0000122B  _c_ops_loop                        nullsound
+     00001238  _c_ops_post_clamp                  nullsound
+     00001243  _c_ops_post_global_clamp           nullsound
+     00001243  _c_ops_result                      nullsound
+     00001248  _c_ops_next                        nullsound
+     00001251  compute_ym2610_fm_note             nullsound
+     000012A6  run_fm_channel_pipeline            nullsound
+     000012C0  _fm_channel_post_fx_trigger        nullsound
+     000012D6  _fm_channel_post_fx_vol_slide      nullsound
+     000012EC  _fm_channel_post_fx_slide          nullsound
+     000012F9  _fm_channel_post_fx_vibrato        nullsound
+     00001306  _fm_channel_post_fx_arpeggio       nullsound
+     00001313  _fm_channel_post_fx_legato         nullsound
+     0000131D  _fm_channel_post_check_playing     nullsound
+     0000133B  _fm_vol_load_loop                  nullsound
+     00001349  _post_load_fm_vol                  nullsound
+     00001380  _end_fm_channel_pipeline           nullsound
+     00001380  _post_load_fm_note                 nullsound
+     00001381  run_fm_pipeline                    nullsound
+     000013A3  _fm2_2ch_pipeline                  nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 24.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CODE                                00000000    000029F8 =       10744. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     000013CA  _post_fm2_pipeline                 nullsound
+     000013E4  fm_vol                             nullsound
+     000013F5  _fm_vol_immediate                  nullsound
+     000013F8  _fm_vol_end                        nullsound
+     000013FB  fm_instrument                      nullsound
+     0000145E  _fm_instr_end                      nullsound
+     00001464  _fm_port_loop                      nullsound
+     00001471  fm_set_pan_ams_pms                 nullsound
+     00001489  common_pitch                       nullsound
+     0000149D  fm_pitch                           nullsound
+     000014AB  fm_configure_note_on               nullsound
+     000014C0  _fm_cfg_note_update                nullsound
+     000014DC  _fm_post_cfg_note_update           nullsound
+     000014E0  _fm_cfg_note_prepare_ym2610        nullsound
+     000014E3  _fm_cfg_start_new_note             nullsound
+     000014EB  _fm_cfg_note_end                   nullsound
+     000014ED  fm_configure_vol                   nullsound
+     000014FD  _fm_cfg_vol_update                 nullsound
+     0000150B  _fm_cfg_vol_end                    nullsound
+     0000150C  fm_note_on                         nullsound
+     0000151D  _fm_note_on_immediate              nullsound
+     00001520  _fm_note_on_end                    nullsound
+     00001523  fm_note_on_and_next_ctx            nullsound
+     00001530  fm_note_on_and_wait                nullsound
+     00001537  fm_stop_playback                   nullsound
+     00001555  fm_note_off                        nullsound
+     0000155D  fm_note_off_and_next_ctx           nullsound
+     0000156A  op1_lvl                            nullsound
+     00001576  op2_lvl                            nullsound
+     00001582  op3_lvl                            nullsound
+     0000158E  op4_lvl                            nullsound
+     0000159A  fm2_op1_vol                        nullsound
+     000015A6  fm2_op2_vol                        nullsound
+     000015B2  fm2_op3_vol                        nullsound
+     000015BE  fm2_op4_vol                        nullsound
+     000015CA  fm_pan                             nullsound
+     000015EB  fm_delay                           nullsound
+     000015F1  fm_cut                             nullsound
+     000015F7  fm2_instrument                     nullsound
+     0000165F  _fm2_port_loop                     nullsound
+     00001689  _fm2_instr_end                     nullsound
+     0000168F  compute_ym2610_op_vol              nullsound
+     000016AB  _c_op_post_clamp                   nullsound
+     000016B6  _c_op_post_global_clamp            nullsound
+     000016BC  fm2_op_ctx_and_action              nullsound
+     000016D8  _post_op_handler                   nullsound
+     000016DC  run_op_pipeline                    nullsound
+     000016F8  _op_post_op_trigger                nullsound
+     0000170E  _op_post_op_vol_slide              nullsound
+     00001724  _op_post_op_slide                  nullsound
+     00001731  _op_post_op_vibrato                nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 25.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CODE                                00000000    000029F8 =       10744. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     0000173E  _op_post_op_arpeggio               nullsound
+     0000174B  _op_post_op_legato                 nullsound
+     00001755  _op_post_check_playing             nullsound
+     0000177A  _post_load_op_vol                  nullsound
+     00001784  _load_op_note                      nullsound
+     000017B4  _end_op_pipeline                   nullsound
+     000017B4  _post_load_op_note                 nullsound
+     000017B5  run_fm2_pipeline                   nullsound
+     000017CA  _post_load_fm2_note                nullsound
+     000017CB  fm2_op1_instr                      nullsound
+     000017DB  fm2_op2_instr                      nullsound
+     000017EB  fm2_op3_instr                      nullsound
+     000017FB  fm2_op4_instr                      nullsound
+     0000180B  fm2_op1_note_on                    nullsound
+     0000181C  fm2_op2_note_on                    nullsound
+     0000182D  fm2_op3_note_on                    nullsound
+     0000183E  fm2_op4_note_on                    nullsound
+     0000184F  fm2_ops_off                        nullsound
+     0000187A  _ops_check_off                     nullsound
+     00001882  _ops_check_off_ret                 nullsound
+     00001883  fm2_delay                          nullsound
+     0000188C  fm2_vibrato                        nullsound
+     00001895  fm2_vibrato_off                    nullsound
+     0000189E  fm2_note_portamento                nullsound
+     000018A7  fm2_legato                         nullsound
+     000018B0  fm2_legato_off                     nullsound
+     000018B9  fm2_vol_slide_off                  nullsound
+     000018C2  fm2_vol_slide_up                   nullsound
+     000018CB  fm2_vol_slide_down                 nullsound
+     000018D4  state_ssg_action_funcs             nullsound
+     000018DA  init_nss_ssg_state_tracker         nullsound
+     000018F0  _ssg_init                          nullsound
+     00001907  eval_macro_step                    nullsound
+     00001916  _upd_macro                         nullsound
+     00001924  _end_upd_macro                     nullsound
+     0000193D  _finish_macro_step                 nullsound
+     00001944  ssg_ctx_set_current                nullsound
+     00001955  _ssg_ctx_post_bit0                 nullsound
+     0000195E  _ssg_ctx_post_bit1                 nullsound
+     00001960  run_ssg_pipeline                   nullsound
+     0000196A  _update_loop                       nullsound
+     00001988  _ssg_pipeline_post_macro           nullsound
+     00001994  _ssg_post_fx_trigger               nullsound
+     000019AA  _ssg_post_fx_vol_slide             nullsound
+     000019C0  _ssg_post_fx_slide                 nullsound
+     000019CD  _ssg_post_fx_vibrato               nullsound
+     000019DA  _ssg_post_fx_arpeggio              nullsound
+     000019E7  _ssg_post_fx_legato                nullsound
+     000019F1  _ssg_post_check_playing            nullsound
+     00001A16  _post_load_ssg_note                nullsound
+     00001A20  _prepare_ld_call                   nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 26.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CODE                                00000000    000029F8 =       10744. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     00001A33  _post_ssg_macro_load               nullsound
+     00001A4C  _post_load_ssg_vol                 nullsound
+     00001A7A  _end_ssg_channel_pipeline          nullsound
+     00001A7A  _post_load_waveform                nullsound
+     00001A88  _ssg_end_macro                     nullsound
+     00001A92  compute_ssg_fixed_point_note       nullsound
+     00001AB7  _ssg_post_add_vibrato              nullsound
+     00001ABE  compute_ym2610_ssg_note            nullsound
+     00001B0A  compute_ym2610_ssg_vol             nullsound
+     00001B1E  _post_ssg_vol_clamp                nullsound
+     00001B22  waveform_for_channel               nullsound
+     00001B38  _post_waveform_shift               nullsound
+     00001B39  ssg_ctx_reset                      nullsound
+     00001B3F  ssg_ctx_1                          nullsound
+     00001B47  ssg_ctx_2                          nullsound
+     00001B4F  ssg_ctx_3                          nullsound
+     00001B57  ssg_macro                          nullsound
+     00001B9A  ssg_stop_playback                  nullsound
+     00001BC7  ssg_note_off                       nullsound
+     00001BCD  ssg_note_off_and_next_ctx          nullsound
+     00001BDA  ssg_vol                            nullsound
+     00001BEB  _ssg_vol_immediate                 nullsound
+     00001BEE  _ssg_vol_end                       nullsound
+     00001BF1  ssg_configure_note_on              nullsound
+     00001C06  _ssg_cfg_note_update               nullsound
+     00001C22  _ssg_post_cfg_note_update          nullsound
+     00001C26  _ssg_cfg_note_prepare_ym2610       nullsound
+     00001C32  _ssg_cfg_start_new_note            nullsound
+     00001C3A  _ssg_cfg_note_end                  nullsound
+     00001C3C  ssg_configure_vol                  nullsound
+     00001C4C  _ssg_cfg_vol_update                nullsound
+     00001C5A  _ssg_cfg_vol_end                   nullsound
+     00001C5B  ssg_note_on                        nullsound
+     00001C6C  _ssg_note_on_immediate             nullsound
+     00001C6F  _ssg_note_on_end                   nullsound
+     00001C72  ssg_note_on_and_next_ctx           nullsound
+     00001C7F  ssg_note_on_and_wait               nullsound
+     00001C86  ssg_env_period                     nullsound
+     00001C9A  ssg_delay                          nullsound
+     00001CA0  ssg_pitch                          nullsound
+     00001CAE  ssg_cut                            nullsound
+     00001CB4  state_a_action_funcs               nullsound
+     00001CBA  init_nss_adpcm_state_tracker       nullsound
+     00001CD0  _a_init                            nullsound
+     00001CE2  adpcm_a_ctx_reset                  nullsound
+     00001CE8  adpcm_a_ctx_set_current            nullsound
+     00001CF9  _adpcm_a_ctx_post_bit0             nullsound
+     00001D02  _adpcm_a_ctx_post_bit1             nullsound
+     00001D0B  _adpcm_a_ctx_post_bit2             nullsound
+     00001D0F  run_adpcm_a_pipeline               nullsound
+     00001D19  _a_update_loop                     nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 27.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CODE                                00000000    000029F8 =       10744. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     00001D33  _a_post_fx_trigger                 nullsound
+     00001D49  _a_post_fx_vol_slide               nullsound
+     00001D53  _a_post_check_playing              nullsound
+     00001D5C  _post_load_a_vol                   nullsound
+     00001D7B  _post_load_a_pan_vol               nullsound
+     00001D8D  _a_on_bit                          nullsound
+     00001D98  _end_a_channel_pipeline            nullsound
+     00001D98  _post_load_a_note                  nullsound
+     00001DA3  _a_end_pipeline                    nullsound
+     00001DAD  adpcm_a_ctx_1                      nullsound
+     00001DB2  adpcm_a_ctx_2                      nullsound
+     00001DB7  adpcm_a_ctx_3                      nullsound
+     00001DBC  adpcm_a_ctx_4                      nullsound
+     00001DC1  adpcm_a_ctx_5                      nullsound
+     00001DC6  adpcm_a_ctx_6                      nullsound
+     00001DCB  adpcm_a_instrument                 nullsound
+     00001DEE  _adpcm_a_loop                      nullsound
+     00001E08  _adpcm_a_instr_post_vol            nullsound
+     00001E0E  adpcm_a_configure_on               nullsound
+     00001E17  adpcm_a_configure_vol              nullsound
+     00001E27  _a_cfg_vol_update                  nullsound
+     00001E35  _a_cfg_vol_end                     nullsound
+     00001E36  adpcm_a_on                         nullsound
+     00001E42  _a_on_immediate                    nullsound
+     00001E45  _a_on_end                          nullsound
+     00001E4F  adpcm_a_on_and_wait                nullsound
+     00001E56  adpcm_a_stop_playback              nullsound
+     00001E60  _off_bit                           nullsound
+     00001E70  adpcm_a_off                        nullsound
+     00001E7D  adpcm_a_scale_output               nullsound
+     00001E91  _adpcm_a_clamp_level               nullsound
+     00001E94  compute_ym2610_a_vol               nullsound
+     00001EAA  _a_post_global_vol                 nullsound
+     00001EAE  adpcm_a_vol                        nullsound
+     00001EBF  _a_vol_immediate                   nullsound
+     00001EC2  _a_vol_end                         nullsound
+     00001EC5  adpcm_a_delay                      nullsound
+     00001ECB  adpcm_a_cut                        nullsound
+     00001ED1  adpcm_a_retrigger                  nullsound
+     00001ED7  adpcm_a_pan                        nullsound
+     00001EE3  state_b_action_funcs               nullsound
+     00001EE9  init_nss_adpcm_b_state_tracker     nullsound
+     00001F13  run_adpcm_b_pipeline               nullsound
+     00001F35  _b_post_fx_trigger                 nullsound
+     00001F4B  _b_post_fx_vol_slide               nullsound
+     00001F61  _b_post_fx_slide                   nullsound
+     00001F6E  _b_post_fx_vibrato                 nullsound
+     00001F7B  _b_post_fx_arpeggio                nullsound
+     00001F88  _b_post_fx_legato                  nullsound
+     00001F92  _b_post_check_playing              nullsound
+     00001FA7  _post_load_b_vol                   nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 28.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CODE                                00000000    000029F8 =       10744. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     00001FB9  _post_load_b_pan                   nullsound
+     00001FEC  _end_b_channel_pipeline            nullsound
+     00001FEC  _post_load_b_note                  nullsound
+     00001FEC  _post_start_b                      nullsound
+     00001FF2  adpcm_b_scale_output               nullsound
+     00002005  _b_level_bit0                      nullsound
+     0000200A  _b_level_bit1                      nullsound
+     00002013  _b_level_bit2                      nullsound
+     0000201C  _b_level_bit3                      nullsound
+     00002025  _b_level_bit4                      nullsound
+     0000202E  _b_level_bit5                      nullsound
+     00002037  _b_level_bit6                      nullsound
+     00002040  _b_level_post                      nullsound
+     00002043  adpcm_b_instrument                 nullsound
+     00002064  _adpcm_b_loop                      nullsound
+     00002078  _adpcm_b_post_loop_chk             nullsound
+     00002096  _adpcm_b_instr_end                 nullsound
+     00002099  adpcm_b_configure_note_on          nullsound
+     000020AE  _b_cfg_note_update                 nullsound
+     000020CA  _b_post_cfg_note_update            nullsound
+     000020CE  _b_cfg_note_prepare_ym2610         nullsound
+     000020D5  _b_cfg_start_new_note              nullsound
+     000020DD  _b_cfg_note_end                    nullsound
+     000020DF  adpcm_b_configure_vol              nullsound
+     000020EF  _b_cfg_vol_update                  nullsound
+     000020FD  _b_cfg_vol_end                     nullsound
+     000020FE  adpcm_b_note_on                    nullsound
+     00002110  _b_note_on_immediate               nullsound
+     00002113  _b_note_on_end                     nullsound
+     00002117  compute_ym2610_adpcm_b_vol         nullsound
+     00002121  compute_adpcm_b_fixed_point_note   nullsound
+     0000213A  _b_post_add_vibrato                nullsound
+     00002141  compute_ym2610_adpcm_b_note        nullsound
+     0000218E  _b_lower                           nullsound
+     00002197  _b_raise                           nullsound
+     0000219B  _post_delta_shift                  nullsound
+     000021A2  adpcm_b_note_off                   nullsound
+     000021B3  adpcm_b_vol                        nullsound
+     000021C4  _b_vol_immediate                   nullsound
+     000021C7  _b_vol_end                         nullsound
+     000021CA  adpcm_b_ctx                        nullsound
+     000021D1  adpcm_b_delay                      nullsound
+     000021D7  adpcm_b_cut                        nullsound
+     000021DD  adpcm_b_pan                        nullsound
+     000021E9  vibrato_init                       nullsound
+     000021FA  _post_vibrato_pos                  nullsound
+     00002214  vibrato_scale_increment            nullsound
+     0000222A  _post_bit4                         nullsound
+     00002233  _post_bit3                         nullsound
+     0000223C  _post_bit2                         nullsound
+     00002245  _post_bit1                         nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 29.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CODE                                00000000    000029F8 =       10744. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     00002246  eval_vibrato_step                  nullsound
+     0000225D  _v_mul                             nullsound
+     00002277  _v_post_bit4                       nullsound
+     0000227C  _v_post_bit3                       nullsound
+     00002281  _v_post_bit2                       nullsound
+     00002286  _v_post_bit1                       nullsound
+     0000228D  _v_post_bit0                       nullsound
+     00002299  _v_post_sign                       nullsound
+     000022A0  vibrato                            nullsound
+     000022A7  vibrato_off                        nullsound
+     000022B2  slide_init_increment               nullsound
+     000022B5  __slide_divide                     nullsound
+     000022C3  slide_init_source                  nullsound
+     000022D0  _post_init_slide                   nullsound
+     000022D1  slide_init_target                  nullsound
+     000022E0  _post_neg_slide                    nullsound
+     000022E9  eval_slide_step                    nullsound
+     000022FB  _slide_add_inc                     nullsound
+     00002308  _slide_sub_inc                     nullsound
+     00002317  _slide_cp                          nullsound
+     00002329  _slide_post_sub_clamp              nullsound
+     00002336  _slide_intermediate                nullsound
+     0000233D  slide_init                         nullsound
+     00002360  _slide_init_direction              nullsound
+     00002370  slide_init_with_target             nullsound
+     00002386  _targey_post_depth                 nullsound
+     000023A7  slide_portamento_init              nullsound
+     000023C9  slide_update                       nullsound
+     000023D5  _slide_update_src                  nullsound
+     000023E4  _slide_update_target               nullsound
+     000023EF  slide_off                          nullsound
+     000023FD  vol_slide_off                      nullsound
+     00002408  __vol_slide                        nullsound
+     00002414  vol_slide_up                       nullsound
+     00002419  vol_slide_down                     nullsound
+     0000241E  __note_pitch_slide                 nullsound
+     00002428  note_pitch_slide_up                nullsound
+     0000242D  note_pitch_slide_down              nullsound
+     00002432  note_portamento                    nullsound
+     0000243D  __note_slide                       nullsound
+     00002447  note_slide_up                      nullsound
+     0000244C  note_slide_down                    nullsound
+     00002451  note_slide_off                     nullsound
+     0000245C  trigger_delay_init                 nullsound
+     0000246D  trigger_cut_init                   nullsound
+     0000247E  trigger_retrigger_init             nullsound
+     00002491  trigger_action_function            nullsound
+     0000249C  _trigger_post_action               nullsound
+     0000249E  eval_trigger_step                  nullsound
+     000024B3  _trigger_post_retrigger_check      nullsound
+     000024C0  _trigger_not_a_delay               nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 30.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CODE                                00000000    000029F8 =       10744. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     000024C8  _trigger_not_a_cut                 nullsound
+     000024D0  _trigger_end                       nullsound
+     000024D0  _trigger_not_a_retrigger           nullsound
+     000024D1  _trigger_load_and_clear            nullsound
+     000024E0  _trigger_post_load_note            nullsound
+     000024EF  _trigger_post_load_vol             nullsound
+     000024F8  _trigger_cut_note                  nullsound
+     00002507  _trigger_retrigger_note            nullsound
+     00002514  eval_arpeggio_step                 nullsound
+     0000251F  _arpeggio_update_pos               nullsound
+     0000252E  _arpeggio_post_pos                 nullsound
+     0000253D  _arpeggio_not2                     nullsound
+     00002549  _arpeggio_not1                     nullsound
+     0000254D  _arpeggio_eval_end                 nullsound
+     0000254E  arpeggio                           nullsound
+     00002576  _arpeggio_end                      nullsound
+     00002579  arpeggio_speed                     nullsound
+     00002581  arpeggio_off                       nullsound
+     00002590  legato_init                        nullsound
+     0000259B  _legato_post_sign                  nullsound
+     000025B5  eval_legato_step                   nullsound
+     000025C0  _legato_update_pos                 nullsound
+     000025DF  _legato_update_end                 nullsound
+     000025E0  quick_legato_up                    nullsound
+     000025E4  quick_legato_down                  nullsound
+     000025E8  legato                             nullsound
+     000025EF  legato_off                         nullsound
+     000025F6  state_volume_ssg_ramp              nullsound
+     00002607  state_volume_fm_ramp               nullsound
+     00002618  state_volume_adpcm_a_ramp          nullsound
+     00002629  state_volume_adpcm_b_ramp          nullsound
+     0000263A  state_volume_adpcm_a_master_ramp   nullsound
+     0000264B  init_volume_state_tracker          nullsound
+     00002675  volume_reset_music_levels          nullsound
+     00002691  _post_reset_master_a               nullsound
+     0000269B  volume_update_channels_levels      nullsound
+     000026C6  volume_level_from_ramp             nullsound
+     000026E4  _fade_post_bit0                    nullsound
+     000026EB  _fade_post_bit1                    nullsound
+     000026F3  volume_update_stream_state         nullsound
+     00002705  _vol_upd_post_fm1                  nullsound
+     00002711  _vol_upd_post_fm2                  nullsound
+     0000271D  _vol_upd_post_fm3                  nullsound
+     00002729  _vol_upd_post_fm4                  nullsound
+     00002735  _vol_upd_post_ssg_a                nullsound
+     00002741  _vol_upd_post_ssg_b                nullsound
+     0000274D  _vol_upd_post_ssg_c                nullsound
+     0000275E  _vol_adpcm_a_loop                  nullsound
+     00002766  _vol_adpcm_a_next                  nullsound
+     00002786  _vol_post_adpcm_b                  nullsound
+     00002789  update_volume_state_tracker        nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 31.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CODE                                00000000    000029F8 =       10744. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     000027C6  _u_vol_a_master                    nullsound
+     000027CF  _u_vol_post_a                      nullsound
+     000027DB  fade                               nullsound
+     000027EB  next_fade                          nullsound
+     000027FF  _fade_end                          nullsound
+     00002802  _post_volume_fade_out              nullsound
+     00002803  stream_volume_down                 nullsound
+     00002816  _post_vol_down                     nullsound
+     0000281D  _end_vol_down                      nullsound
+     0000281E  stream_volume_up                   nullsound
+     00002831  _post_vol_up                       nullsound
+     00002838  _end_vol_up                        nullsound
+     00002839  volume_fade_out                    nullsound
+     00002849  volume_mute                        nullsound
+     00002864  volume_unmute                      nullsound
+     00002878  cmd_jmptable                       nullsound
+     00002884  cmd_jmptable_padding               nullsound
+
+ASxxxx Linker V05.50.4-SDLD,  page 32.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+DATA                                0000F800    00000796 =        1942. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     0000F800  command_fifo                       nullsound
+     0000F840  command_fifo_current               nullsound
+     0000F841  command_fifo_pending               nullsound
+     0000F842  state_adpcm_busy                   nullsound
+     0000F843  state_adpcm_exclusive              nullsound
+     0000F844  state_ym2610_context_write         nullsound
+     0000F845  state_ym2610_context_address       nullsound
+     0000F846  state_stream_in_use                nullsound
+     0000F847  state_stream_instruments           nullsound
+     0000F849  state_streams                      nullsound
+     0000F84A  state_ch_bits                      nullsound
+     0000F84C  state_ch_ctx_switch                nullsound
+     0000F85A  state_ch_wait_rows                 nullsound
+     0000F868  state_ch_wait_op_val               nullsound
+     0000F876  state_ch_stream                    nullsound
+     0000F876  state_ch_stream_saved_pos          nullsound
+     0000F878  state_ch_stream_start              nullsound
+     0000F87A  state_ch_stream_pos                nullsound
+     0000F87C  state_ch_stream_entries            nullsound
+     0000F87D  state_ch_stream_end                nullsound
+     0000F8D8  state_current_ch_ctx               nullsound
+     0000F8DA  state_current_ch_wait_rows         nullsound
+     0000F8DC  state_current_ch_wait_op_val       nullsound
+     0000F8DE  state_current_ch_stream            nullsound
+     0000F8E0  state_stream_idx                   nullsound
+     0000F8E1  state_nss_process                  nullsound
+     0000F8E2  state_nss_process_func             nullsound
+     0000F92A  _state_timer_align                 nullsound
+     0000F92A  _state_timer_begin                 nullsound
+     0000F92A  state_timer_base_flags             nullsound
+     0000F92B  state_timer_ticks_per_row          nullsound
+     0000F92C  state_timer_ticks_count            nullsound
+     0000F92D  state_timer_tick_reached           nullsound
+     0000F92E  state_timer_tick_pos               nullsound
+     0000F92F  state_timer_nb_ticks               nullsound
+     0000F930  state_timer_ticks                  nullsound
+     0000F940  _state_timer_end                   nullsound
+     0000F940  ym2610_write_func                  nullsound
+     0000F943  state_fm_note_f_num                nullsound
+     0000F945  state_fm_f_num_half_distance       nullsound
+     0000F947  state_fm_channel                   nullsound
+     0000F948  state_fm_ym2610_channel            nullsound
+     0000F949  state_fm_channel_pipeline          nullsound
+     0000F94B  state_fm_fm2_fb                    nullsound
+     0000F94C  state_fm_ym2610_op                 nullsound
+     0000F94D  state_fm_ym2610_op_mask            nullsound
+     0000F94E  state_fm_fnum2_reg                 nullsound
+     0000F94F  state_fm_op_tl_reg                 nullsound
+     0000F950  _state_fm1_align                   nullsound
+     0000FA05  _state_fm1_begin                   nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 33.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+DATA                                0000F800    00000796 =        1942. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     0000FA05  state_fm1                          nullsound
+     0000FA05  state_fm_channel_state_start       nullsound
+     0000FA05  state_fm_note_cfg                  nullsound
+     0000FA06  state_fm_note16                    nullsound
+     0000FA08  state_fm_note_fx                   nullsound
+     0000FA09  state_fm_fx_note_slide             nullsound
+     0000FA0F  state_fm_fx_vibrato                nullsound
+     0000FA14  state_fm_fx_arpeggio               nullsound
+     0000FA1A  state_fm_fx_legato                 nullsound
+     0000FA1D  state_fm_vol_cfg                   nullsound
+     0000FA1E  state_fm_vol16                     nullsound
+     0000FA20  state_fm_fx                        nullsound
+     0000FA21  state_fm_fx_vol_slide              nullsound
+     0000FA27  state_fm_fx_trigger                nullsound
+     0000FA2C  state_fm                           nullsound
+     0000FA2C  state_fm1_pipeline                 nullsound
+     0000FA2C  state_fm_channel_state_end         nullsound
+     0000FA2C  state_fm_pipeline                  nullsound
+     0000FA2D  state_fm_instrument                nullsound
+     0000FA2D  state_fm_ym2610_op_state_start     nullsound
+     0000FA2D  state_fm_ym2610_state_start        nullsound
+     0000FA2E  state_fm_detune                    nullsound
+     0000FA30  state_fm_note_pos16                nullsound
+     0000FA32  state_fm_note_fnum                 nullsound
+     0000FA34  state_fm_note_block                nullsound
+     0000FA35  state_fm_op1_vol                   nullsound
+     0000FA35  state_fm_ym2610_op_state_end       nullsound
+     0000FA36  state_fm_op3_vol                   nullsound
+     0000FA37  state_fm_op2_vol                   nullsound
+     0000FA38  state_fm_op4_vol                   nullsound
+     0000FA39  state_fm_out_ops                   nullsound
+     0000FA3A  state_fm_out_op1                   nullsound
+     0000FA3B  state_fm_out_op3                   nullsound
+     0000FA3C  state_fm_out_op2                   nullsound
+     0000FA3D  state_fm_out_op4                   nullsound
+     0000FA3E  state_fm_ops_enabled               nullsound
+     0000FA3F  _state_fm1_end                     nullsound
+     0000FA3F  _state_fm2_align                   nullsound
+     0000FA3F  state_fm_ym2610_state_end          nullsound
+     0000FB05  _state_fm2_begin                   nullsound
+     0000FB05  state_fm2                          nullsound
+     0000FB2C  state_op1_pipeline                 nullsound
+     0000FB5C  state_op2_pipeline                 nullsound
+     0000FB8C  state_op3_pipeline                 nullsound
+     0000FBBC  state_op4_pipeline                 nullsound
+     0000FBEC  state_fm2_pipeline                 nullsound
+     0000FBFF  _state_fm2_end                     nullsound
+     0000FBFF  _state_fm3_align                   nullsound
+     0000FC25  _state_fm3_begin                   nullsound
+     0000FC25  state_fm3                          nullsound
+     0000FC4C  state_fm3_pipeline                 nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 34.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+DATA                                0000F800    00000796 =        1942. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     0000FC5F  _state_fm3_end                     nullsound
+     0000FC5F  _state_fm4_align                   nullsound
+     0000FC5F  _state_fm4_begin                   nullsound
+     0000FC5F  state_fm4                          nullsound
+     0000FC86  state_fm4_pipeline                 nullsound
+     0000FC99  _state_fm4_end                     nullsound
+     0000FC99  state_pan_ams_pms                  nullsound
+     0000FC9D  state_fm_volume_attenuation        nullsound
+     0000FC9E  _state_ssg_align                   nullsound
+     0000FD2A  _state_ssg_begin                   nullsound
+     0000FD2A  state_ssg_channel                  nullsound
+     0000FD2B  state_mirrored_enabled             nullsound
+     0000FD2C  state_mirrored_ssg_a               nullsound
+     0000FD2C  state_mirrored_ssg_start           nullsound
+     0000FD2C  state_ssg_note_cfg                 nullsound
+     0000FD2D  state_ssg_note16                   nullsound
+     0000FD2F  state_ssg_note_fx                  nullsound
+     0000FD30  state_ssg_fx_note_slide            nullsound
+     0000FD36  state_ssg_fx_vibrato               nullsound
+     0000FD3B  state_ssg_fx_arpeggio              nullsound
+     0000FD41  state_ssg_fx_legato                nullsound
+     0000FD44  state_ssg_vol_cfg                  nullsound
+     0000FD45  state_ssg_vol16                    nullsound
+     0000FD47  state_ssg_fx                       nullsound
+     0000FD48  state_ssg_fx_vol_slide             nullsound
+     0000FD4E  state_ssg_trigger                  nullsound
+     0000FD53  state_mirrored_ssg                 nullsound
+     0000FD53  state_ssg_pipeline                 nullsound
+     0000FD54  state_ssg_note_pos16               nullsound
+     0000FD56  state_ssg_detune                   nullsound
+     0000FD58  state_ssg_note_fine_coarse         nullsound
+     0000FD5A  state_mirrored_ssg_envelope        nullsound
+     0000FD5A  state_mirrored_ssg_props           nullsound
+     0000FD5D  state_ssg_reg_vol                  nullsound
+     0000FD5E  state_mirrored_ssg_waveform        nullsound
+     0000FD5F  state_ssg_arpeggio                 nullsound
+     0000FD60  state_ssg_macro_data               nullsound
+     0000FD62  state_ssg_macro_pos                nullsound
+     0000FD64  state_ssg_macro_load               nullsound
+     0000FD66  state_ssg_out_vol                  nullsound
+     0000FD67  state_mirrored_ssg_b               nullsound
+     0000FD67  state_mirrored_ssg_end             nullsound
+     0000FDA2  state_mirrored_ssg_c               nullsound
+     0000FDDD  _state_ssg_end                     nullsound
+     0000FDDD  state_ssg_volume_attenuation       nullsound
+     0000FDDE  _state_adpcm_align                 nullsound
+     0000FE26  _state_adpcm_begin                 nullsound
+     0000FE26  state_a1                           nullsound
+     0000FE26  state_a_start                      nullsound
+     0000FE26  state_a_vol_cfg                    nullsound
+     0000FE27  state_a_vol16                      nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 35.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+DATA                                0000F800    00000796 =        1942. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     0000FE29  state_a_fx                         nullsound
+     0000FE2A  state_a_fx_vol_slide               nullsound
+     0000FE30  state_a_fx_trigger                 nullsound
+     0000FE35  state_a                            nullsound
+     0000FE35  state_a_pipeline                   nullsound
+     0000FE36  state_a_instr_vol                  nullsound
+     0000FE37  state_a_out_vol                    nullsound
+     0000FE38  state_a_pan                        nullsound
+     0000FE39  state_a2                           nullsound
+     0000FE39  state_a_end                        nullsound
+     0000FE4C  state_a3                           nullsound
+     0000FE5F  state_a4                           nullsound
+     0000FE72  state_a5                           nullsound
+     0000FE85  state_a6                           nullsound
+     0000FE98  _state_adpcm_end                   nullsound
+     0000FE98  state_a6_end                       nullsound
+     0000FE98  state_adpcm_a_channel              nullsound
+     0000FE99  state_adpcm_a_volume_attenuation   nullsound
+     0000FE9A  _state_adpcm_b_align               nullsound
+     0000FF5A  _state_adpcm_b_begin               nullsound
+     0000FF5A  state_b_note_cfg                   nullsound
+     0000FF5A  state_b_start                      nullsound
+     0000FF5B  state_b_note16                     nullsound
+     0000FF5D  state_b_note_fx                    nullsound
+     0000FF5E  state_b_fx_note_slide              nullsound
+     0000FF64  state_b_fx_vibrato                 nullsound
+     0000FF69  state_b_fx_arpeggio                nullsound
+     0000FF6F  state_b_fx_legato                  nullsound
+     0000FF72  state_b_vol_cfg                    nullsound
+     0000FF73  state_b_vol16                      nullsound
+     0000FF75  state_b_fx                         nullsound
+     0000FF76  state_b_fx_vol_slide               nullsound
+     0000FF7C  state_b_trigger                    nullsound
+     0000FF81  state_b                            nullsound
+     0000FF81  state_b_pipeline                   nullsound
+     0000FF82  state_b_note                       nullsound
+     0000FF82  state_b_note_pos16                 nullsound
+     0000FF84  state_b_note_delta_n               nullsound
+     0000FF86  state_b_instr                      nullsound
+     0000FF87  state_b_instr_start_cmd            nullsound
+     0000FF88  state_b_instr_base_octave          nullsound
+     0000FF8A  state_b_instr_base_delta_n         nullsound
+     0000FF8C  state_b_out_vol                    nullsound
+     0000FF8D  state_b_pan                        nullsound
+     0000FF8E  _state_adpcm_b_end                 nullsound
+     0000FF8E  state_adpcm_b_volume_attenuation   nullsound
+     0000FF8E  state_b_end                        nullsound
+     0000FF8F  state_volume_music_level           nullsound
+     0000FF90  state_volume_muted                 nullsound
+     0000FF91  state_volume_mute_level            nullsound
+     0000FF92  state_volume_adpcm_a_master        nullsound
+ASxxxx Linker V05.50.4-SDLD,  page 36.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+DATA                                0000F800    00000796 =        1942. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+     0000FF93  state_volume_fade_out              nullsound
+     0000FF94  state_volume_fade_progress         nullsound
+     0000FF95  state_volume_fade_speed            nullsound
+
+ASxxxx Linker V05.50.4-SDLD,  page 37.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+struct                              0000FF96    000002F7 =         759. bytes (REL,CON)
+
+         Value  Global                             Global Defined In Module
+         -----  --------------------------------   ------------------------
+ASxxxx Linker V05.50.4-SDLD,  page 38.
+
+Files Linked                              [ module(s) ]
+
+nullsound.lib                             [ nullsound,
+                                            nullsound,
+                                            nullsound,
+                                            nullsound,
+                                            nullsound,
+                                            nullsound,
+                                            nullsound,
+                                            nullsound,
+                                            nullsound,
+                                            nullsound,
+                                            nullsound,
+                                            nullsound,
+                                            nullsound,
+                                            nullsound,
+                                            nullsound,
+                                            nullsound,
+                                            nullsound,
+                                            nullsound ]
+user_commands.rel                         [ nullsound ]
+
+ASxxxx Linker V05.50.4-SDLD,  page 39.
+
+User Base Address Definitions
+
+DATA=0xf800
+
+

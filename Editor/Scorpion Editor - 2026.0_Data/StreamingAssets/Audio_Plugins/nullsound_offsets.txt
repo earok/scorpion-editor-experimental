@@ -1,0 +1,12 @@
+# NullSound Z80 driver symbol offsets
+# These are byte offsets into nullsound_driver.bin
+# (Z80 address == binary offset because code loads at 0x0000)
+# cmd_jmptable is always at (fileLength - 384) and needs no entry here
+
+snd_adpcm_a_play               0x0910
+snd_adpcm_a_play_exclusive     0x0920
+snd_adpcm_b_play               0x09B9
+snd_adpcm_b_play_loop          0x09CF
+snd_adpcm_b_stop               0x09E5
+snd_stream_play                0x0C0C
+snd_stream_stop                0x0CC2
