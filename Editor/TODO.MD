@@ -1,4 +1,28 @@
-# TODO
+# 2026.0
+
+## Features
+
+### Mega Drive
+- Finish development of Window panels
+
+### NeoGeo
+- Implement Road
+- Finish development of Window panels
+- Retire RAINE, switch to MAME for NeoGeo CD development
+- Implement Furnace tracker support
+
+## Bugs
+
+### Amiga
+- Panel elements need to be optimised
+
+### NeoGeo
+
+### Editor
+- Review bugs with sound in animation tab
+- MusicVolume commands should be blocked on platforms that do not support them 
+
+# 2026.1 and future
 
 ## Features
 
@@ -12,17 +36,14 @@
 
 ### Mega Drive
 - Ongoing development of sprite UI elements
-- Finish development of Window panels
 - Bars should have an option for pixel perfect
 
 ### NeoGeo
-- MezzEstate needs to be replaced with NullSound driver
 - AutoAnim should be available for animations, not just tiles
 - Support additional MVS functionality such as coin drops
 - Implementation of all Road/Floor functions
 - Bars should have an option for pixel perfect
 - ShrinkX/Y should be relative to actor 0 position
-- Retire RAINE, switch to MAME for NeoGeo CD development
 - Music looping should be supported equally in CD and ADPCMB
 
 ### Scorpion Box
@@ -51,14 +72,5 @@
 ## Bugs
 
 ### Amiga
+
 - ~~Audio issue (glitch with sounds repeated ~12 seconds)~~ — technically not solved, but improved and on hold for now
-- Panel elements need to be optimised
-
-### MegaDrive
-- RetroAnimator not separately buffering parts
-
-### NeoGeo
-
-### Editor
-- Review bugs with sound in animation tab
-- MusicVolume commands should be blocked on platforms that do not support them 
