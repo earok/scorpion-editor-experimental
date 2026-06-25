@@ -16,8 +16,6 @@
 ### Amiga
 - Panel elements need to be optimised
 
-### NeoGeo
-
 ### Editor
 - Review bugs with sound in animation tab
 - MusicVolume commands should be blocked on platforms that do not support them 
