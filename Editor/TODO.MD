@@ -11,6 +11,7 @@
 - Finish development of Window panels
 - Implement Furnace tracker support
 - Bars should be pixel perfect
+- Water alignment bug?
 
 ## Bugs
 
