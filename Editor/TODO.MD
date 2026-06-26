@@ -3,21 +3,19 @@
 ## Features
 
 ### Mega Drive
+- Bars should be pixel perfect
 - Finish development of Window panels
 
 ### NeoGeo
 - Implement Road
 - Finish development of Window panels
-- Retire RAINE, switch to MAME for NeoGeo CD development
 - Implement Furnace tracker support
+- Bars should be pixel perfect
 
 ## Bugs
 
-### Amiga
-- Panel elements need to be optimised
-
-### Editor
-- MusicVolume commands should be blocked on platforms that do not support them 
+### NeoGeo
+- Fix CRAM snow during fades
 
 # 2026.1 and future
 
@@ -33,14 +31,11 @@
 
 ### Mega Drive
 - Ongoing development of sprite UI elements
-- Bars should have an option for pixel perfect
 
 ### NeoGeo
 - AutoAnim should be available for animations, not just tiles
 - Support additional MVS functionality such as coin drops
 - Implementation of all Road/Floor functions
-- Bars should have an option for pixel perfect
-- ShrinkX/Y should be relative to actor 0 position
 - Music looping should be supported equally in CD and ADPCMB
 
 ### Scorpion Box
@@ -52,6 +47,7 @@
 - Fork emulator.js in order to create a version of Scorpion Box that is compatible (so far as possible) with Scorpion Box configuration files, as well as NeoGeo and Amiga support
 
 ### Universal
+- ShrinkX/Y should be relative to actor 0 position
 - Window Panels should support Talkpads
 - Lookup tables should also work for strings
 - Lookup tables should support negative keys
@@ -71,3 +67,7 @@
 ### Amiga
 
 - ~~Audio issue (glitch with sounds repeated ~12 seconds)~~ — technically not solved, but improved and on hold for now
+- Panel elements need to be optimised
+
+### Editor
+- MusicVolume commands should be blocked on platforms that do not support them 
