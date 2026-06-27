@@ -5,6 +5,7 @@
 ### Mega Drive
 - Bars should be pixel perfect
 - Finish development of Window panels
+- Water alignment bug?
 
 ### NeoGeo
 - Implement Road
@@ -16,7 +17,7 @@
 ## Bugs
 
 ### NeoGeo
-- Fix CRAM snow during fades
+- Fix CRAM snow during fades (almost complete but some minor fixes needed)
 
 # 2026.1 and future
 
