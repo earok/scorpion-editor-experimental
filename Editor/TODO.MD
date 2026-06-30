@@ -3,7 +3,6 @@
 ## Features
 
 ### Mega Drive
-- Bars should be pixel perfect
 - Finish development of Window panels
 - Water alignment bug?
 
@@ -11,7 +10,6 @@
 - Implement Road
 - Finish development of Window panels
 - Implement Furnace tracker support
-- Bars should be pixel perfect
 - Water alignment bug?
 
 ## Bugs
