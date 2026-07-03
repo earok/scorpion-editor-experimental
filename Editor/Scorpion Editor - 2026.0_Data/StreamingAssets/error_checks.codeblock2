@@ -1,0 +1,15 @@
+[neogeo] If yres & 0xf
+    [neogeo] Quit="Y resolution must be multiples of 16 on Neo Geo"
+[neogeo] End
+[megadrive] If yres == 240
+    [megadrive] If IsNTSC
+        [megadrive] Quit="Y Resolution of 240 is not supported on NTSC Mega Drive"
+    [megadrive] End
+[megadrive] Else
+    [megadrive] If yres != 224
+        [megadrive] Quit="Y Resolution of {yres} is not supported on Mega Drive, only 224 (any) and 240 (pal)"
+    [megadrive] End
+[megadrive] End
+If recycledistance < 1
+    Quit="RecycleDistance must be at least 1"
+End
