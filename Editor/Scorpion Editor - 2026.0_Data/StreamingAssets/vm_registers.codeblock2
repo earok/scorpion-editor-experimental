@@ -118,6 +118,7 @@ Variable byte CacheEnabled=true //Disable this to prevent storing assets in cach
 Variable word All_Buttons=0 //Every controller's currently pressed buttons
 Array byte Port[2] //Device ports
 Variable fraction IsometricScale=0 //For racing car controllers, isometric scale determines how much of an effect Y has
+Variable long PredrawHandler=0 //Set this to a codeblock you want to run after logic but before rendering
 Variable word StringLength=0 //Reserved for memory talkpad strings
 Array byte CharBuffer[512] //Reserved memory for talkpad strings
 Array byte NumBuffer[10] //Reserved memory for number strings
@@ -130,3 +131,4 @@ Array byte NumBuffer[10] //Reserved memory for number strings
 [neogeo] Variable word Neo_BG_SpriteBudget=64 //Budget for background sprites (behind the tileset)
 [neogeo] Variable word Neo_FG_SpriteBudget=32 //Budget for foreground sprites (in front of the foreground tileset)
 [neogeo] Array byte NeoGeoMiscData[384]
+
