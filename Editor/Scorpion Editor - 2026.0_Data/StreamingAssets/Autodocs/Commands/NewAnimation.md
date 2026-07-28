@@ -6,7 +6,7 @@ New
 **Syntax:**
 
 ```scorpionengine
-NewAnimation Animation Frame=Expression Loop AutoFlip
+NewAnimation Animation Frame=Expression Loop AutoFlip NoRestart
 ```
 
 **Description:**
@@ -17,9 +17,10 @@ Animation: The animation to play
 Frame: The first frame
 Loop: Loop until cancelled
 AutoFlip: Try to flip the animation left/right automatically if needed
+NoRestart: Don't restart if the animation is already playing
 
 ```scorpionengine
 
-NewAnimation MyAnimation Frame=1 Loop AutoFlip
+NewAnimation MyAnimation Frame=1 Loop AutoFlip NoRestart
 
 ```
