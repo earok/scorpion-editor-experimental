@@ -1,3 +1,7 @@
+<!-- hy-mt2-i18n:start -->
+**English** · [中文](./README_zh-CN.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+<!-- hy-mt2-i18n:end -->
+
 Scorpion Engine is designed to be a fast, friendly and flexible game creation kit for the Commodore Amiga, Sega Mega Drive/Genesis, and SNK NeoGeo.
 
 This is the experimental version of the Scorpion Engine 2024.1, which includes the latest-and-greatest features, but also is not well tested. 
