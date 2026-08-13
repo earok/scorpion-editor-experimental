@@ -4,5 +4,8 @@
 	"Features":["neogeo","cd_music"],
 	"Description":"Neo Geo CD [Beta]",
 	"EmulatorJS":"",
-	"Properties":["pregap=2","loopbuffer=10"]
+	"Properties":[
+		"pregap=2//Seconds of pregap written before the first audio track in the cue sheet.",
+		"loopbuffer=10//Seconds of silence added to the end of each CD music track so the loop is not cut short."
+	]
 }

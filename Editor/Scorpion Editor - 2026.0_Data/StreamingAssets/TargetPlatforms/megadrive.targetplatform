@@ -4,6 +4,15 @@
 	"Features":["MegaDrive"],
 	"Description":"MegaDrive (Genesis)",
 	"EmulatorJS":"genesis_plus_gx",
-	"Properties":["sega_system=SEGA MEGA DRIVE","sega_software_type=GM","sega_serial_number","sega_revision=00","experiment_allow_no_audio_driver=false","experiment_allow_any_size_panel=false","retro_animator_single_dma_transfer=false","normal_sprite_single_dma_transfer=true"],	
+	"Properties":[
+		"sega_system=SEGA MEGA DRIVE//Console name written to the start of the ROM header.//Change it only for hardware that expects something else, such as SEGA 32X or SEGA PICO.",
+		"sega_software_type=GM//Two letter software type from the Sega spec, GM being a game.//Written to the front of the serial number in the ROM header.",
+		"sega_serial_number//Eight digit serial for the ROM header.//A hash of the project name is used when this is blank.",
+		"sega_revision=00//Two digit revision that follows the serial number in the ROM header.",
+		"experiment_allow_no_audio_driver=false//Set true to allow compiling with the sound driver set to None, which can result in instability.",
+		"experiment_allow_any_size_panel=false//Set true to skip the panel height checks that normally cap panels at 224 lines on NTSC and 240 on PAL.",
+		"retro_animator_single_dma_transfer=false//Highly recommended to be left off in order to allow RetroAnimator patterns to be shared between animations.",
+		"normal_sprite_single_dma_transfer=true//Turn on for better performance. Turn off for smaller ROM size."
+	],
 	"MaxCartridgeSize":4096,
 }

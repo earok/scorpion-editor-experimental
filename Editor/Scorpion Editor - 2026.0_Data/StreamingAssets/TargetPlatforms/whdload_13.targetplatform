@@ -4,5 +4,8 @@
 	"Features":["Amiga_OCS"],
 	"WHDload":"GenericKick13HD.asm",
 	"Description":"WHDLoad for Kickstart 1.3",
-	"Properties":["chip_mem_size=$100000","fast_mem_size=$0"]
+	"Properties":[
+		"chip_mem_size=$100000//Chip memory the WHDLoad slave asks for, in hex. $100000 is one megabyte.//WHDLoad will never request more ChipRAM than this so even if a user has a lot of ChipRAM, it may crash with out of memory if you don't request enough.",
+		"fast_mem_size=$0//Fast memory the WHDLoad slave asks for, in hex. $0 asks for none.//WHDLoad will never request more FastRAM than this so even if a user has a lot of FastRAM, it may crash with out of memory if you don't request enough."
+	]
 }

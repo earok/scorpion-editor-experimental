@@ -2,7 +2,14 @@
 	"Compiler":"none",
 	"ParentPlatform":"all",
 	"Features":["CD_Music"],
-	"Properties":["tightly_pack_graphics=true","atlas_compression=0","experiment_buffer_count=2","experiment_disable_double_copperlist=false","experiment_allow_any_size_panel_gap=false","experiment_exceed_max_map_size=false"],
+	"Properties":[
+		"tightly_pack_graphics=true//Lets exported graphics overlap bytes that already exist in the bundle, which saves chip memory but makes compiling slower and introduces a slight risk of graphical glitches.",
+		"atlas_compression=0//Atlas packing setting, it's difficult to quantify the amount of saving but feel free to experiment with this value to see if memory usage goes up or down.//Zero turns atlas packing off.",
+		"experiment_buffer_count=2//Number of screen buffers the engine allocates, where two means double buffering.//Only 1 or 2 buffers currently supported",
+		"experiment_disable_double_copperlist=false//Set true to build without a double buffered copper list.//Saves memory at a high risk of graphical corruption when loading or unloading panels.",
+		"experiment_allow_any_size_panel_gap=false//Set true to use a custom panel gap size, overriding Scorpion's bare minimum.//If the gap is too low, graphical corruption will result.",
+		"experiment_exceed_max_map_size=false//Set true to skip the check on level width and height.//Levels past the limit may not display properly."
+	],
 	"Description":"Amiga - Any Amiga",	
 	"EmulatorJS":"puae"	
 }

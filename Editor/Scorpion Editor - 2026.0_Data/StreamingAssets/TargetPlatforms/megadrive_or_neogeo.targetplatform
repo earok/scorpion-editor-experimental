@@ -2,5 +2,7 @@
 	"Description":"MegaDrive or NeoGeo - For either platform",
 	"Compiler":"none",
 	"ParentPlatform":"all",
-	"Properties":["experiment_ignore_memory_usage_error=false"],
+	"Properties":[
+		"experiment_ignore_memory_usage_error=false//Set true to carry on building when accounted RAM goes over 44KB.//The game may run out of memory."
+	],
 }

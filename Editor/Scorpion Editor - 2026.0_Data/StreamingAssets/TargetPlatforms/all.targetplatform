@@ -3,5 +3,16 @@
 	"ParentPlatform":null,
 	"Features":[],
 	"Description":"All - Any supported platform",
-	"Properties":["project_name","copyright_year","copyright_month","publisher","description","project_name_international","author","version","experiment_show_internal_codeblocks=false","experiment_ignore_actor_configuration_errors=false"],
+	"Properties":[
+		"project_name//The name of the game.//Written into the Mega Drive ROM header and used as the name of the save file.",
+		"copyright_year//Four digit year of release.//Used in the Mega Drive copyright string, the NeoSD header and the Neo Geo MAME entry.",
+		"copyright_month//Three letter month such as JAN or SEP, used in the Mega Drive copyright string.",
+		"publisher//Who published the game.//The Mega Drive copyright string only keeps the first four characters.",
+		"description//A longer description of the game.//At present only the Neo Geo MAME entry uses it.",
+		"project_name_international//Overseas title for the Mega Drive ROM header.//Leave blank to reuse project_name.",
+		"author//The author of this game//Currently only for WHDLoad",
+		"version//Version number reported by the WHDLoad slave. Amiga only.",
+		"experiment_show_internal_codeblocks=false//Set true to list Scorpion's own standard library codeblocks in the code editor.//They are hidden normally because changing them can break the engine.",
+		"experiment_ignore_actor_configuration_errors=false//Set true to skip the sanity checks on actors, such as a platformer actor whose collision box starts below the ground line."
+	],
 }

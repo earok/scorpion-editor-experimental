@@ -4,5 +4,9 @@
 	"Features":["neogeo"],
 	"Description":"Neo Geo [Beta]",
 	"EmulatorJS":"",
-	"Properties":["neogeo_ngh_hex","neogeo_genre=Other","neogeo_single_voice_rom=true"],
+	"Properties":[
+		"neogeo_ngh_hex//NGH number in hex, which is how the BIOS tells one cart from another.//Falls back to 5345 when blank, so pick something unused for a hardware release.",
+		"neogeo_genre=Other//Genre shown in the NeoSD menu.//One of Other, Action, BeatEmUp, Sports, Driving, Platformer, Mahjong, Shooter, Quiz, Fighting or Puzzle.",
+		"neogeo_single_voice_rom=true//Use a single VROM for both ADPCM-A samples and ADPCM-B music.//Turning this off allows for more samples to be stored at the cost of additional publishing complexity and manufacture cost."
+	],
 }
