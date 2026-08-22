@@ -14,6 +14,6 @@
 		"version//Version number reported by the WHDLoad slave. Amiga only.",
 		"experiment_show_internal_codeblocks=false//Set true to list Scorpion's own standard library codeblocks in the code editor.//They are hidden normally because changing them can break the engine.",
 		"experiment_ignore_actor_configuration_errors=false//Set true to skip the sanity checks on actors, such as a platformer actor whose collision box starts below the ground line.",
-		"decals=16//How many decals the Level->Decal command may paint into the level in a single frame, up to 254.//Zero disables decals entirely and costs no memory. Going over the limit is a kill screen.//Only Amiga paints decals at present."
+		"decals=16//How many decals the Level->Decal command may paint into the level in a single frame, up to 254.//Zero disables decals entirely and costs no memory. Going over the limit is a kill screen.//Amiga and Mega Drive paint decals, NeoGeo does not yet."
 	],
 }
