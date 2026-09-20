@@ -14,10 +14,10 @@ Background Background Cache
 Replace the current background with another one
 
 Background: The background to load
-Cache: Preload from cache
+Cache: Optional cache type cache/cachelock/cacheunlock/cacheunload
 
 ```scorpionengine
 
-Background MyBackground Cache
+Background MyBackground cache
 
 ```

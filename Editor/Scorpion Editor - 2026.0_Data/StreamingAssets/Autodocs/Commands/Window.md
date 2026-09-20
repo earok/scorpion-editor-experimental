@@ -16,10 +16,10 @@ Open a window panel
 Window: The window panel
 X: The X coordinate
 Y: The Y coordinate
-Cache: Preload from cache
+Cache: Optional cache type cache/cachelock/cacheunlock/cacheunload
 
 ```scorpionengine
 
-Window MyPanel X=1 Y=1 Cache
+Window MyPanel X=1 Y=1 cache
 
 ```

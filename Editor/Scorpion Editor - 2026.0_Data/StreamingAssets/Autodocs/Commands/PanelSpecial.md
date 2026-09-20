@@ -14,10 +14,10 @@ PanelSpecial PanelSpecial Cache
 Change the 32X panel OR Amiga Sprite Panel
 
 Panel: The special panel
-Cache: Preload from cache
+Cache: Optional cache type cache/cachelock/cacheunlock/cacheunload
 
 ```scorpionengine
 
-PanelSpecial MyPanel Cache
+PanelSpecial MyPanel cache
 
 ```

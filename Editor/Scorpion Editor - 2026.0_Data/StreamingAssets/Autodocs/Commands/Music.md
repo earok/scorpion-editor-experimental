@@ -15,10 +15,10 @@ Load and play a song
 
 Music: The song
 MusicPos: The position to start the music from (Protracker)
-Cache: Preload from cache
+Cache: Optional cache type cache/cachelock/cacheunlock/cacheunload
 
 ```scorpionengine
 
-Music MySong MusicPos=1 Cache
+Music MySong MusicPos=1 cache
 
 ```

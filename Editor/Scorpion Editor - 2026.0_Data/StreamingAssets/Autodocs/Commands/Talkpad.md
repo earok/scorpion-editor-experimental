@@ -14,10 +14,10 @@ Talkpad Panel Cache
 Set the talkpad, needed for Say command
 
 Panel: The main full-screen panel
-Cache: Preload from cache
+Cache: Optional cache type cache/cachelock/cacheunlock/cacheunload
 
 ```scorpionengine
 
-Talkpad MyPanel Cache
+Talkpad MyPanel cache
 
 ```

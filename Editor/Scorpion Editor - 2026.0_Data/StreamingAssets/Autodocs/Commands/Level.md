@@ -20,10 +20,10 @@ PanelTop: The top panel to load
 PanelBottom: The bottom panel to load
 Background: The background to load
 NoFadeIn: Prevent automatic fade in
-Cache: Preload from cache
+Cache: Optional cache type cache/cachelock/cacheunlock/cacheunload
 
 ```scorpionengine
 
-Level MyLevel Music=MyMusic MusicPos=1 PanelTop=MyTopPanel PanelBottom=MyBottomPanel PanelBackground=MyBottomPanel NoFadeIn Cache
+Level MyLevel Music=MyMusic MusicPos=1 PanelTop=MyTopPanel PanelBottom=MyBottomPanel PanelBackground=MyBottomPanel NoFadeIn cache
 
 ```

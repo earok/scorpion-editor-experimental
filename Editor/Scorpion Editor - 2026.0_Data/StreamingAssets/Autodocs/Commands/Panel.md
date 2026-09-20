@@ -21,10 +21,10 @@ PanelBottom: The bottom panel to load
 Frames: The number of frames
 ForFire: If this command waits for the user to press fire
 NoLevelUnload: Keep level loaded in the background
-Cache: Preload from cache
+Cache: Optional cache type cache/cachelock/cacheunlock/cacheunload
 
 ```scorpionengine
 
-Panel MyPanel Music=MyMusic MusicPos=1 PanelTop=MyTopPanel PanelBottom=MyBottomPanel Frames=1 ForFire NoLevelUnload Cache
+Panel MyPanel Music=MyMusic MusicPos=1 PanelTop=MyTopPanel PanelBottom=MyBottomPanel Frames=1 ForFire NoLevelUnload cache
 
 ```

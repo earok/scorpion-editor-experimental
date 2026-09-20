@@ -14,10 +14,10 @@ PanelTop PanelTop Cache
 Change the panel on top
 
 PanelTop: The main full-screen panel
-Cache: Preload from cache
+Cache: Optional cache type cache/cachelock/cacheunlock/cacheunload
 
 ```scorpionengine
 
-PanelTop MyPanel Cache
+PanelTop MyPanel cache
 
 ```

@@ -15,10 +15,10 @@ Load or unload an asset bundle (ADVANCED)
 
 True/False: Only True or False accepted (defaults to True)
 Expression: The expression such as X+5
-Cache: Preload from cache
+Cache: Optional cache type cache/cachelock/cacheunlock/cacheunload
 
 ```scorpionengine
 
-Bundle False 5*5 Cache
+Bundle False 5*5 cache
 
 ```
