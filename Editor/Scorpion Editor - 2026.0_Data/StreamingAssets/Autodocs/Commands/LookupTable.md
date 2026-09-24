@@ -11,7 +11,7 @@ LookupTable Size VarName "FileName"
 
 **Description:**
 
-Array that reads from a text file with one constant per line. Read only.
+Array that reads from a text file with one constant per line, or Key=Value to set a specific key. Keys may be negative. Read only.
 
 Size: The variable size in Byte/Word/Long/Fraction
 VarName: The variable name
