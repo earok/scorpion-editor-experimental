@@ -1,9 +1,11 @@
 //Waits for a number of frames
 If wait == 0 //Wait for fire hit instead
-    Goto waitforfirehit
-End
-//Wait for fire to be hit OR timer to expire if frames less than 0
-If wait < 0
+    Set showfireindicator=showfireindicator + 1
+    GoSub waitforfirehit
+    Set showfireindicator=showfireindicator - 1
+ElseIf wait < 0
+    //Wait for fire to be hit OR timer to expire if frames less than 0
+    Set showfireindicator=showfireindicator + 1
     GoSub waitforfireup
     While wait < 0
         Advanced RefreshFrame
@@ -14,10 +16,12 @@ If wait < 0
             Set wait=0
         End
     End
-    Goto waitforfireup
-End
-//Just wait for timer to expire if frames greater than 0
-While wait > 0
-    Advanced RefreshFrame
-    Set wait=wait - 1
+    GoSub waitforfireup
+    Set showfireindicator=showfireindicator - 1
+Else
+    //Just wait for timer to expire if frames greater than 0
+    While wait > 0
+        Advanced RefreshFrame
+        Set wait=wait - 1
+    End
 End
