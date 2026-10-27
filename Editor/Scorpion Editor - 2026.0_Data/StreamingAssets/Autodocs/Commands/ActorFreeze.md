@@ -6,17 +6,17 @@ Actor
 **Syntax:**
 
 ```scorpionengine
-ActorFreeze True/False
+ActorFreeze FreezeMode
 ```
 
 **Description:**
 
 Freeze or Unfreeze the actor, preventing movement, collision and animations
 
-True/False: Only True or False accepted (defaults to True)
+FreezeMode: eg FreezeMode_Off, FreezeMode_NoMovement, FreezeMode_OnlyTimer, FreezeMode_Total, FreezeMode_Recycle
 
 ```scorpionengine
 
-ActorFreeze False
+ActorFreeze FreezeMode_Off
 
 ```

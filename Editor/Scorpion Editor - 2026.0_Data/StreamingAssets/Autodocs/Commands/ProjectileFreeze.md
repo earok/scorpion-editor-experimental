@@ -6,17 +6,17 @@ Projectile
 **Syntax:**
 
 ```scorpionengine
-ProjectileFreeze True/False
+ProjectileFreeze FreezeMode
 ```
 
 **Description:**
 
 Freeze or Unfreeze the actor, preventing movement, collision and animations
 
-True/False: Only True or False accepted (defaults to True)
+FreezeMode: eg FreezeMode_Off, FreezeMode_NoMovement, FreezeMode_OnlyTimer, FreezeMode_Total, FreezeMode_Recycle
 
 ```scorpionengine
 
-ProjectileFreeze False
+ProjectileFreeze FreezeMode_Off
 
 ```
